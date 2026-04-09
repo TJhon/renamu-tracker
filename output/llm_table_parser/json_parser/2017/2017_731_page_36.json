@@ -1,0 +1,167 @@
+[
+  {
+    "cuadro": "CUADRO_C87",
+    "n_q": "91",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2017",
+    "col": "P91_2",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Computadora?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C87",
+    "n_q": "91",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2017",
+    "col": "P91_3",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Radio comunicador?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C87",
+    "n_q": "91",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2017",
+    "col": "P91_4",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Línea de telefonía fija?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C87",
+    "n_q": "91",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2017",
+    "col": "P91_5",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Línea de telefonía móvil?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C87",
+    "n_q": "91",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2017",
+    "col": "P91_6",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Otro?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C87",
+    "n_q": "91",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2017",
+    "col": "P91_6_O",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "VFI_P92",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92",
+    "desc_col": "¿La Municipalidad tiene almacén local de bienes de ayuda humanitaria?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_1",
+    "desc_col": "Bienes de ayuda humanitaria / Carpas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_2",
+    "desc_col": "Bienes de ayuda humanitaria / Alimentos no perecibles",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_3",
+    "desc_col": "Bienes de ayuda humanitaria / Bidones de agua",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_4",
+    "desc_col": "Bienes de ayuda humanitaria / Botiquines de emergencia",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_5",
+    "desc_col": "Bienes de ayuda humanitaria / Ropa y abrigo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_6",
+    "desc_col": "Bienes de ayuda humanitaria / Camas plegables",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_7",
+    "desc_col": "Bienes de ayuda humanitaria / Enseres (utensilios de cocina, productos de higiene y otros)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_8",
+    "desc_col": "Bienes de ayuda humanitaria / Herramientas (lampas, carretillas, picos y otros)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_9",
+    "desc_col": "Bienes de ayuda humanitaria / Otro tipo de bien",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2017",
+    "col": "P92_9_O",
+    "desc_col": "Bienes de ayuda humanitaria / Otro tipo de bien / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "col": "CCDD",
+    "desc_col": "Código de Departamento",
+    "values": ""
+  },
+  {
+    "col": "NOM_DPTO",
+    "desc_col": "Nombre del Código de departamento",
+    "values": ""
+  },
+  {
+    "col": "CCPP",
+    "desc_col": "Código de Provincia",
+    "values": ""
+  },
+  {
+    "col": "NOM_PROV",
+    "desc_col": "Nombre del Código de provincia",
+    "values": ""
+  },
+  {
+    "col": "CCDI",
+    "desc_col": "Código de Distrito",
+    "values": ""
+  },
+  {
+    "col": "NOM_DIST",
+    "desc_col": "Nombre del Código de Distrito",
+    "values": ""
+  },
+  {
+    "col": "ID_MUNICI",
+    "desc_col": "Código único de Municipalidad",
+    "values": ""
+  },
+  {
+    "col": "CATMUNI",
+    "desc_col": "Categoría de la Municipalidad",
+    "values": "1: Provincial, 2: Distrital, 3: Centro Poblado"
+  },
+  {
+    "col": "VFI",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa, 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "h2": "ANEXO 1"
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V1",
+    "desc_col": "Nombres y apellidos del Alcalde",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V2",
+    "desc_col": "Nombres y apellidos del Teniente Alcalde",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V3",
+    "desc_col": "Dirección de la Municipalidad / Vía",
+    "values": "1=Av., 2=Calle, 3=Jirón, 4=Pasaje, 5=Carretera, 6=Otros"
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V4",
+    "desc_col": "Dirección de la Municipalidad / Nombre de la calle",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V5",
+    "desc_col": "Dirección de la Municipalidad / Numero",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V6",
+    "desc_col": "Dirección de la Municipalidad / Mz",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V7",
+    "desc_col": "Dirección de la Municipalidad / Lote",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V8",
+    "desc_col": "Dirección de la Municipalidad / Km",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V9",
+    "desc_col": "Teléfono de la Municipalidad Nº 1",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V10",
+    "desc_col": "Teléfono de la municipalidad Nº 2",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V11",
+    "desc_col": "Nº de Fax",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V12",
+    "desc_col": "Frecuencia de radio",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V13",
+    "desc_col": "Correo electrónico",
+    "values": ""
+  },
+  {
+    "n_q": "1,2,4,5,6,7,8,9,10",
+    "cuadro": "CUADRO_C0001",
+    "desc_q": "Directorio de Municipalidades",
+    "col": "V14",
+    "desc_col": "Pagina Web",
+    "values": ""
+  },
+  {
+    "n_q": "3",
+    "cuadro": "CUADRO_C0002",
+    "desc_q": "Nº de RUC de la Municipalidad",
+    "col": "V1",
+    "desc_col": "Numero de RUC",
+    "values": ""
+  }
+]

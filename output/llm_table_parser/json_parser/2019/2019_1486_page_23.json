@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "VFI_P94",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_1",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_2",
+    "desc_col": "Fenómenos naturales registrados / Aluviones",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_3",
+    "desc_col": "Fenómenos naturales registrados / Deslizamientos de tierra",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_4",
+    "desc_col": "Fenómenos naturales registrados / Derrumbes de cerros",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_5",
+    "desc_col": "Fenómenos naturales registrados / Huaicos",
+    "values": "5: Sí\n0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_6",
+    "desc_col": "Fenómenos naturales registrados / Granizadas",
+    "values": "6: Sí\n0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_7",
+    "desc_col": "Fenómenos naturales registrados / Friajes",
+    "values": "7: Sí\n0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_8",
+    "desc_col": "Fenómenos naturales registrados / Heladas",
+    "values": "8: Sí\n0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_9",
+    "desc_col": "Fenómenos naturales registrados / Nevadas",
+    "values": "9: Sí\n0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_10",
+    "desc_col": "Fenómenos naturales registrados / Lluvias intensas",
+    "values": "10: Sí\n0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_11",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "11: Sí\n0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_12",
+    "desc_col": "Fenómenos naturales registrados / Inundaciones",
+    "values": "12: Sí\n0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_13",
+    "desc_col": "Fenómenos naturales registrados / Sequías",
+    "values": "13: Sí\n0: No",
+    "value_pos": 13
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_14",
+    "desc_col": "Fenómenos naturales registrados / Vientos fuertes",
+    "values": "14: Sí\n0: No",
+    "value_pos": 14
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_15",
+    "desc_col": "Fenómenos naturales registrados / Incendios forestales",
+    "values": "15: Sí\n0: No",
+    "value_pos": 15
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_16",
+    "desc_col": "Fenómenos naturales registrados / Incendios urbanos",
+    "values": "16: Sí\n0: No",
+    "value_pos": 16
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2018",
+    "col": "P94_17",
+    "desc_col": "Fenómenos naturales registrados / No se registraron",
+    "values": "17: Sí\n0: No",
+    "value_pos": 17
+  },
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "n_q": "P21_09",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de nivel provincial/ Motivo por el que no tiene",
+    "col": "p21_09_1",
+    "desc_col": "En elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_09",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de nivel provincial/ Motivo por el que no tiene",
+    "col": "p21_09_2",
+    "desc_col": "Falta de aprobación por el Concejo Municipal",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_09",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de nivel provincial/ Motivo por el que no tiene",
+    "col": "p21_09_3",
+    "desc_col": "Falta de recursos para su elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_09",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de nivel provincial/ Motivo por el que no tiene",
+    "col": "p21_09_4",
+    "desc_col": "Otro",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_10",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano",
+    "col": "p21_10",
+    "desc_col": "Tiene",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_11",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano/ Año de publicación",
+    "col": "p21_11",
+    "desc_col": "Año de publicación",
+    "values": ""
+  },
+  {
+    "n_q": "P21_12",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano/ Motivo por el que no tiene",
+    "col": "p21_12_1",
+    "desc_col": "En elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_12",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano/ Motivo por el que no tiene",
+    "col": "p21_12_2",
+    "desc_col": "Falta de aprobación por el Concejo Municipal",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_12",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano/ Motivo por el que no tiene",
+    "col": "p21_12_3",
+    "desc_col": "Falta de recursos para su elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_12",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano/ Motivo por el que no tiene",
+    "col": "p21_12_4",
+    "desc_col": "Otro",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_13",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural",
+    "col": "p21_13",
+    "desc_col": "Tiene",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_14",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural/ Año de publicación",
+    "col": "p21_14",
+    "desc_col": "Año de publicación",
+    "values": ""
+  },
+  {
+    "n_q": "P21_15",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural/ Motivo por el que no tiene",
+    "col": "p21_15_1",
+    "desc_col": "En elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_15",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural/ Motivo por el que no tiene",
+    "col": "p21_15_2",
+    "desc_col": "Falta de aprobación por el Concejo Municipal",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_15",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural/ Motivo por el que no tiene",
+    "col": "p21_15_3",
+    "desc_col": "Falta de recursos para su elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_15",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural/ Motivo por el que no tiene",
+    "col": "p21_15_4",
+    "desc_col": "Otro",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_16",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones",
+    "col": "p21_16",
+    "desc_col": "Tiene",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_17",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones/ Año de publicación",
+    "col": "p21_17",
+    "desc_col": "Año de publicación",
+    "values": ""
+  },
+  {
+    "n_q": "P21_18",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones/ Motivo por el que no tiene",
+    "col": "p21_18_1",
+    "desc_col": "En elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_18",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones/ Motivo por el que no tiene",
+    "col": "p21_18_2",
+    "desc_col": "Falta de aprobación por el Concejo Municipal",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_18",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones/ Motivo por el que no tiene",
+    "col": "p21_18_3",
+    "desc_col": "Falta de recursos para su elaboración",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_18",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones/ Motivo por el que no tiene",
+    "col": "p21_18_4",
+    "desc_col": "Otro",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "111",
+    "desc_q": "Espacio donde funciona la ULE",
+    "col": "VFI_P111",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "111",
+    "desc_q": "Espacio donde funciona la ULE",
+    "col": "P111_1",
+    "desc_col": "El espacio donde funciona la ULE es de uso / ¿Exclusivo?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "111",
+    "desc_q": "Espacio donde funciona la ULE",
+    "col": "P111_2",
+    "desc_col": "El espacio donde funciona la ULE es de uso / ¿Compartido?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "VFI_P112",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_1",
+    "desc_col": "¿Tiene equipos de oficina operativos a disposición de la ULE / Fotocopiadora?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_1_1",
+    "desc_col": "Total de equipos a disposición / Fotocopiadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_2",
+    "desc_col": "¿Tiene equipos de oficina operativos a disposición de la ULE / Escáner?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_2_1",
+    "desc_col": "Total de equipos a disposición / Escáner",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_3",
+    "desc_col": "¿Tiene equipos de oficina operativos a disposición de la ULE / Impresora básica?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_3_1",
+    "desc_col": "Total de equipos a disposición / Impresora básica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_4",
+    "desc_col": "¿Tiene equipos de oficina operativos a disposición de la ULE / Impresora multifuncional?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_4_1",
+    "desc_col": "Total de equipos a disposición / Impresora multifuncional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_5",
+    "desc_col": "¿Tiene equipos de oficina operativos a disposición de la ULE / Computadoras?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_5_1",
+    "desc_col": "Total de equipos a disposición / Computadoras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "112",
+    "desc_q": "Equipos de oficina operativos a disposición de la ULE",
+    "col": "P112_6",
+    "desc_col": "Total de computadoras a disposición con acceso a internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "VFI_P113",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_1",
+    "desc_col": "¿Tiene vehículos operativos a disposición de la ULE / Auto?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_1_1",
+    "desc_col": "Total de equipos a disposición / Auto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_2",
+    "desc_col": "¿Tiene vehículos operativos a disposición de la ULE / Camioneta?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_2_1",
+    "desc_col": "Total de equipos a disposición / Camioneta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_3",
+    "desc_col": "¿Tiene vehículos operativos a disposición de la ULE / Motocicleta?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_3_1",
+    "desc_col": "Total de equipos a disposición / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_4",
+    "desc_col": "¿Tiene vehículos operativos a disposición de la ULE / Otros?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_4_1",
+    "desc_col": "Total de equipos a disposición / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "113",
+    "desc_q": "Vehículos operativos a disposición de la ULE",
+    "col": "P113_4_O",
+    "desc_col": "¿Tiene vehículos operativos a disposición de la ULE / Otros? Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "114",
+    "desc_q": "Comunicación con el coordinador territorial",
+    "col": "VFI_P114",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "114",
+    "desc_q": "Comunicación con el coordinador territorial",
+    "col": "P114_1",
+    "desc_col": "Durante el último mes ¿Se comunicó con su coordinador territorial?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "114",
+    "desc_q": "Comunicación con el coordinador territorial",
+    "col": "P114_1_1",
+    "desc_col": "Número de veces que se comunicó con su coordinador territorial",
+    "values": "",
+    "value_pos": null
+  }
+]

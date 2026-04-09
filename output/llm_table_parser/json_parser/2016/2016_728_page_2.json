@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12_15",
+    "desc_col": "¿La municipalidad cuenta con tractor agrícola?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_15_1",
+    "desc_col": "Número de bienes / Tractor agrícola / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_15_2",
+    "desc_col": "Número de bienes / Tractor agrícola / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12_16",
+    "desc_col": "¿La municipalidad cuenta con compactadora de suelo?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_16_1",
+    "desc_col": "Número de bienes / Compactadora de suelo / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_16_2",
+    "desc_col": "Número de bienes / Compactadora de suelo / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12_20",
+    "desc_col": "¿La municipalidad cuenta con otra maquinaria pesada?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_20_1",
+    "desc_col": "Número de bienes / Otra maquinaria pesada / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_20_2",
+    "desc_col": "Número de bienes / Otra maquinaria pesada / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12_20_O",
+    "desc_col": "¿La municipalidad cuenta con otra maquinaria pesada? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P12",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12_1",
+    "desc_col": "¿La municipalidad cuenta con camioneta y/o auto?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_1_1",
+    "desc_col": "Número de bienes / Camioneta y/o auto / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_1_2",
+    "desc_col": "Número de bienes / Camioneta y/o auto / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12_2",
+    "desc_col": "¿La municipalidad cuenta con volquete?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_2_1",
+    "desc_col": "Número de bienes / Volquete / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_2_2",
+    "desc_col": "Número de bienes / Volquete / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12_3",
+    "desc_col": "¿La municipalidad cuenta con camión recolector de basura (camion compactador y otros)?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P12A_3_1",
+    "desc_col": "Número de bienes / Camión recolector de basura / Operativos",
+    "values": "",
+    "value_pos": null
+  }
+]

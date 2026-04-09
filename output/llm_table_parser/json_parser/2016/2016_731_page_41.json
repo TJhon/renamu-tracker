@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "incentivar a las micro y pequeñas empresas, 2015",
+    "col": "P97_4",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "incentivar a las micro y pequeñas empresas, 2015",
+    "col": "P97_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "incentivar a las micro y pequeñas empresas, 2015",
+    "col": "P97_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "incentivar a las micro y pequeñas empresas, 2015",
+    "col": "P97_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "incentivar a las micro y pequeñas empresas, 2015",
+    "col": "P97_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "98"
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98",
+    "desc_col": "¿Se realiza producción artesanal en el distrito?",
+    "values": "1: Si se realiza; 0: No se realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_1",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_1",
+    "desc_col": "Tipo de producción artesanal / Lácteos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_2",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_2",
+    "desc_col": "Tipo de producción artesanal / Miel de abeja",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_3",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_3",
+    "desc_col": "Tipo de producción artesanal / Textiles (tejidos de punto, tapiz y plano )",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_4",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_4",
+    "desc_col": "Tipo de producción artesanal / Fibras vegetales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_5",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_5",
+    "desc_col": "Tipo de producción artesanal / Alfarería - cerámica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_6",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_6",
+    "desc_col": "Tipo de producción artesanal / Mates burilados (repujados )",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_7",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_7",
+    "desc_col": "Tipo de producción artesanal / Imaginería (yeso, pasta de arroz )",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_8",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_8",
+    "desc_col": "Tipo de producción artesanal / Joyería - orfebrería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_9",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_9",
+    "desc_col": "Tipo de producción artesanal / Bisutería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_10",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_10",
+    "desc_col": "Tipo de producción artesanal / Madera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_11",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_11",
+    "desc_col": "Tipo de producción artesanal / Cueros, pieles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_12",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_12",
+    "desc_col": "Tipo de producción artesanal / Instrumentos musicales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_13",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_13",
+    "desc_col": "Tipo de producción artesanal / Medicina tradicional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_14",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_14",
+    "desc_col": "Tipo de producción artesanal / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "P98_14_O",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "P98_14_O",
+    "desc_col": "Tipo de producción artesanal / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2016",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  }
+]

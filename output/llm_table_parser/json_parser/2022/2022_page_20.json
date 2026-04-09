@@ -1,0 +1,299 @@
+[
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_6",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de nacimiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_6_1",
+    "desc_col": "Copia certificada de partida de nacimiento / Recepcionadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_6_2",
+    "desc_col": "Copia certificada de partida de nacimiento / Aprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_6_3",
+    "desc_col": "Copia certificada de partida de nacimiento / Desaprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_6_4",
+    "desc_col": "Copia certificada de partida de nacimiento / Costo unitario del procedimiento (Soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_6_5",
+    "desc_col": "Copia certificada de partida de nacimiento / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_6_6",
+    "desc_col": "Copia certificada de partida de nacimiento / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_7",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de defunción?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_7_1",
+    "desc_col": "Copia certificada de partida de defunción / Recepcionadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_7_2",
+    "desc_col": "Copia certificada de partida de defunción / Aprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_7_3",
+    "desc_col": "Copia certificada de partida de defunción / Desaprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_7_4",
+    "desc_col": "Copia certificada de partida de defunción / Costo unitario del procedimiento (Soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_7_5",
+    "desc_col": "Copia certificada de partida de defunción / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_7_6",
+    "desc_col": "Copia certificada de partida de defunción / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_8",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de matrimonio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_8_1",
+    "desc_col": "Copia certificada de partida de matrimonio / Recepcionadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_8_2",
+    "desc_col": "Copia certificada de partida de matrimonio / Aprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_8_3",
+    "desc_col": "Copia certificada de partida de matrimonio / Desaprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_8_4",
+    "desc_col": "Copia certificada de partida de matrimonio / Costo unitario del procedimiento (Soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_8_5",
+    "desc_col": "Copia certificada de partida de matrimonio / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_8_6",
+    "desc_col": "Copia certificada de partida de matrimonio / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_9",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Acceso a la información pública (Copia fotostática simple)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_9_1",
+    "desc_col": "Acceso a la información pública (Copia fotostática simple) / Recepcionadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_9_4",
+    "desc_col": "Acceso a la información pública (Copia fotostática simple) / Costo unitario del procedimiento (Soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_9_5",
+    "desc_col": "Acceso a la información pública (Copia fotostática simple) / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "29",
+    "n_q": null,
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2021",
+    "col": "P29_9_6",
+    "desc_col": "Acceso a la información pública (Copia fotostática simple) / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "30",
+    "n_q": null,
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2022",
+    "col": "VFI_P30",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "30",
+    "n_q": null,
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2022",
+    "col": "P30_1",
+    "desc_col": "Canales de atención al ciudadano / Atención en ventanilla y/o mesa de partes",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "30",
+    "n_q": null,
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2022",
+    "col": "P30_2",
+    "desc_col": "Canales de atención al ciudadano / Línea de telefonía fija y/o móvil",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "30",
+    "n_q": null,
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2022",
+    "col": "P30_3",
+    "desc_col": "Canales de atención al ciudadano / Correo electrónico",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "30",
+    "n_q": null,
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2022",
+    "col": "P30_4",
+    "desc_col": "Canales de atención al ciudadano / Buzón de Sugerencias",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "30",
+    "n_q": null,
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2022",
+    "col": "P30_5",
+    "desc_col": "Canales de atención al ciudadano / Libro de Reclamaciones",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "30",
+    "n_q": null,
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2022",
+    "col": "P30_7",
+    "desc_col": "Canales de atención al ciudadano / Atención por mesa de partes virtual",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  }
+]

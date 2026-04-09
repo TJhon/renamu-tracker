@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "106",
+    "n_q": "VFI_106",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "VFI_106",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "106",
+    "n_q": "P106",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P106",
+    "desc_col": "Municipalidades que informaron que tienen cobertura de la red de agua potable en el distrito",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "106",
+    "n_q": "P106_01",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P106_01",
+    "desc_col": "Cobertura de Red de agua potable en el distrito / Capital del distrito",
+    "values": "1:Menos del 25%;2:De 25% a 49%;3:De 50% a 74%;4:De 75% a 100%;5:No tiene",
+    "value_pos": null
+  },
+  {
+    "cuadro": "106",
+    "n_q": "P106_02",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P106_02",
+    "desc_col": "Cobertura de Red de agua potable en el distrito / Resto del distrito",
+    "values": "1:Menos del 25%;2:De 25% a 49%;3:De 50% a 74%;4:De 75% a 100%;5:No tiene",
+    "value_pos": null
+  },
+  {
+    "h2": "107"
+  },
+  {
+    "cuadro": "107",
+    "n_q": "P106",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P106",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "107",
+    "n_q": "VFI_P107",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "VFI_P107",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "107",
+    "n_q": "P107",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P107",
+    "desc_col": "En el distrito la autoridad de salud realiza frecuencia de vigilancia y control de agua potable",
+    "values": "1:Realiza;0:No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "107",
+    "n_q": "P107_01",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P107_01",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable / Semanal.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "107",
+    "n_q": "P107_02",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P107_02",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable / Mensual.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "107",
+    "n_q": "P107_03",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2012",
+    "col": "P107_03",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable / trimestral.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "108"
+  },
+  {
+    "cuadro": "108",
+    "n_q": "P106",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2012",
+    "col": "P106",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "108",
+    "n_q": "VFI_108",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2012",
+    "col": "VFI_108",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "108",
+    "n_q": "P108_01",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2012",
+    "col": "P108_01",
+    "desc_col": "Los resultados del análisis de agua potable son / Informados a la autoridad municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "108",
+    "n_q": "P108_02",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2012",
+    "col": "P108_02",
+    "desc_col": "Los resultados del análisis de agua potable son / Publicados en el diario local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "108",
+    "n_q": "P108_03",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2012",
+    "col": "P108_03",
+    "desc_col": "Los resultados del análisis de agua potable son / No se difunden",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "109"
+  },
+  {
+    "cuadro": "109",
+    "n_q": "P106",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2012",
+    "col": "P106",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "109",
+    "n_q": "VFI_P109",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2012",
+    "col": "VFI_P109",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "109",
+    "n_q": "P109",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2012",
+    "col": "P109",
+    "desc_col": "El agua potable en el distrito recibe tratamiento",
+    "values": "1:Recibe;0:No recibe",
+    "value_pos": 1
+  }
+]

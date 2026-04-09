@@ -1,0 +1,149 @@
+[
+  {
+    "h2": "MÓDULO V: SERVICIOS PÚBLICOS LOCALES SANEAMIENTO AMBIENTAL Y SALUBRIDAD"
+  },
+  {
+    "cuadro": "CUADRO_C37",
+    "n_q": "45",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2016",
+    "col": "VF1_P45",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C37",
+    "n_q": "45",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2016",
+    "col": "P45",
+    "desc_col": "¿La municipalidad realizó el recojo de residuos sólidos (basura)?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C37",
+    "n_q": "45",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2016",
+    "col": "P45_1",
+    "desc_col": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad",
+    "values": "1: Diaria; 2: Interdiaria; 3: Dos veces por semana; 4: Una vez por semana",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C38",
+    "n_q": "46",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2016",
+    "col": "P45",
+    "desc_col": "¿La municipalidad realizó el recojo de residuos sólidos (basura)?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C38",
+    "n_q": "46",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2016",
+    "col": "P46_1",
+    "desc_col": "Cantidad promedio diaria de residuos sólidos (basura) en kilogramos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C39",
+    "n_q": "47",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) de la municipalidad, 2016",
+    "col": "P45",
+    "desc_col": "¿La municipalidad realizó el recojo de residuos sólidos (basura)?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C39",
+    "n_q": "47",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) de la municipalidad, 2016",
+    "col": "P47_1",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Capital del distrito",
+    "values": "1: Menos de 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C39",
+    "n_q": "47",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) de la municipalidad, 2016",
+    "col": "P47_2",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Fuera de la capital distrital",
+    "values": "1: Menos de 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%; 5: No realizó recojo",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P45",
+    "desc_col": "¿La municipalidad realizó el recojo de residuos sólidos (basura)?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P48",
+    "desc_col": "¿La municipalidad tiene instrumentos de gestión para el recojo de residuos sólidos (basura)?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P48_1",
+    "desc_col": "Instrumento de gestión / Plan Integral de Gestión Ambiental de Residuos Sólidos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P48_2",
+    "desc_col": "Instrumento de gestión / Plan de Manejo de Residuos Sólidos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P48_3",
+    "desc_col": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P48_4",
+    "desc_col": "Instrumento de gestión/ Programa de Transformación de Residuos Sólidos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P48_5",
+    "desc_col": "Instrumento de gestión / Programa de Segregación en la Fuente y Recolección Selectiva de Residuos Sólidos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C40",
+    "n_q": "48",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2016",
+    "col": "P48_6",
+    "desc_col": "Instrumento de gestión / Otro",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

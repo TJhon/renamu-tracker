@@ -1,0 +1,299 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V25",
+    "desc_q": "2005 / Empleados / Técnicos / Contratado por service / Mujer",
+    "col": "v25",
+    "desc_col": "2005 / Empleados / Técnicos / Contratado por service / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V26",
+    "desc_q": "2005 / Empleados / Auxiliares / Nombrado / Hombre",
+    "col": "v26",
+    "desc_col": "2005 / Empleados / Auxiliares / Nombrado / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V27",
+    "desc_q": "2005 / Empleados / Auxiliares / Nombrado / Mujer",
+    "col": "v27",
+    "desc_col": "2005 / Empleados / Auxiliares / Nombrado / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V28",
+    "desc_q": "2005 / Empleados / Auxiliares / Contratado permanente / Hombre",
+    "col": "v28",
+    "desc_col": "2005 / Empleados / Auxiliares / Contratado permanente / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V29",
+    "desc_q": "2005 / Empleados / Auxiliares / Contratado permanente / Mujer",
+    "col": "v29",
+    "desc_col": "2005 / Empleados / Auxiliares / Contratado permanente / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V30",
+    "desc_q": "2005 / Empleados / Auxiliares / Contratado por servicios no personales / Hombre",
+    "col": "v30",
+    "desc_col": "2005 / Empleados / Auxiliares / Contratado por servicios no personales / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V31",
+    "desc_q": "2005 / Empleados / Auxiliares / Contratado por servicios no personales / Mujer",
+    "col": "v31",
+    "desc_col": "2005 / Empleados / Auxiliares / Contratado por servicios no personales / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V32",
+    "desc_q": "2005 / Empleados / Auxiliares / Contratado por service / Hombre",
+    "col": "v32",
+    "desc_col": "2005 / Empleados / Auxiliares / Contratado por service / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V33",
+    "desc_q": "2005 / Empleados / Auxiliares / Contratado por service / Mujer",
+    "col": "v33",
+    "desc_col": "2005 / Empleados / Auxiliares / Contratado por service / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V34",
+    "desc_q": "2005 / Obreros / Limpieza / Nombrado / Hombre",
+    "col": "v34",
+    "desc_col": "2005 / Obreros / Limpieza / Nombrado / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V35",
+    "desc_q": "2005 / Obreros / Limpieza / Nombrado / Mujer",
+    "col": "v35",
+    "desc_col": "2005 / Obreros / Limpieza / Nombrado / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V36",
+    "desc_q": "2005 / Obreros / Limpieza / Contratado permanente / Hombre",
+    "col": "v36",
+    "desc_col": "2005 / Obreros / Limpieza / Contratado permanente / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V37",
+    "desc_q": "2005 / Obreros / Limpieza / Contratado permanente / Mujer",
+    "col": "v37",
+    "desc_col": "2005 / Obreros / Limpieza / Contratado permanente / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V38",
+    "desc_q": "2005 / Obreros / Limpieza / Contratado por servicios no personales / Hombre",
+    "col": "v38",
+    "desc_col": "2005 / Obreros / Limpieza / Contratado por servicios no personales / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V39",
+    "desc_q": "2005 / Obreros / Limpieza / Contratado por servicios no personales / Mujer",
+    "col": "v39",
+    "desc_col": "2005 / Obreros / Limpieza / Contratado por servicios no personales / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V40",
+    "desc_q": "2005 / Obreros / Limpieza / Contratado por service / Hombre",
+    "col": "v40",
+    "desc_col": "2005 / Obreros / Limpieza / Contratado por service / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V41",
+    "desc_q": "2005 / Obreros / Limpieza / Contratado por service / Mujer",
+    "col": "v41",
+    "desc_col": "2005 / Obreros / Limpieza / Contratado por service / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V42",
+    "desc_q": "2005 / Obreros / Otros / Nombrado / Hombre",
+    "col": "v42",
+    "desc_col": "2005 / Obreros / Otros / Nombrado / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V43",
+    "desc_q": "2005 / Obreros / Otros / Nombrado / Mujer",
+    "col": "v43",
+    "desc_col": "2005 / Obreros / Otros / Nombrado / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V44",
+    "desc_q": "2005 / Obreros / Otros / Contratado permanente / Hombre",
+    "col": "v44",
+    "desc_col": "2005 / Obreros / Otros / Contratado permanente / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V45",
+    "desc_q": "2005 / Obreros / Otros / Contratado permanente / Mujer",
+    "col": "v45",
+    "desc_col": "2005 / Obreros / Otros / Contratado permanente / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V46",
+    "desc_q": "2005 / Obreros / Otros / Contratado por servicios no personales / Hombre",
+    "col": "v46",
+    "desc_col": "2005 / Obreros / Otros / Contratado por servicios no personales / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V47",
+    "desc_q": "2005 / Obreros / Otros / Contratado por servicios no personales / Mujer",
+    "col": "v47",
+    "desc_col": "2005 / Obreros / Otros / Contratado por servicios no personales / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V48",
+    "desc_q": "2005 / Obreros / Otros / Contratado por service / Hombre",
+    "col": "v48",
+    "desc_col": "2005 / Obreros / Otros / Contratado por service / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V49",
+    "desc_q": "2005 / Obreros / Otros / Contratado por service / Mujer",
+    "col": "v49",
+    "desc_col": "2005 / Obreros / Otros / Contratado por service / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V50",
+    "desc_q": "2005 / Personal de Vigilancia / Nombrado / Hombre",
+    "col": "v50",
+    "desc_col": "2005 / Personal de Vigilancia / Nombrado / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V51",
+    "desc_q": "2005 / Personal de Vigilancia / Nombrado / Mujer",
+    "col": "v51",
+    "desc_col": "2005 / Personal de Vigilancia / Nombrado / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V52",
+    "desc_q": "2005 / Personal de Vigilancia / Contratado permanente / Hombre",
+    "col": "v52",
+    "desc_col": "2005 / Personal de Vigilancia / Contratado permanente / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V53",
+    "desc_q": "2005 / Personal de Vigilancia / Contratado permanente / Mujer",
+    "col": "v53",
+    "desc_col": "2005 / Personal de Vigilancia / Contratado permanente / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V54",
+    "desc_q": "2005 / Personal de Vigilancia / Contratado por servicios no personales / Hombre",
+    "col": "v54",
+    "desc_col": "2005 / Personal de Vigilancia / Contratado por servicios no personales / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V55",
+    "desc_q": "2005 / Personal de Vigilancia / Contratado por servicios no personales / Mujer",
+    "col": "v55",
+    "desc_col": "2005 / Personal de Vigilancia / Contratado por servicios no personales / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V56",
+    "desc_q": "2005 / Personal de Vigilancia / Contratado por service / Hombre",
+    "col": "v56",
+    "desc_col": "2005 / Personal de Vigilancia / Contratado por service / Hombre",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "V57",
+    "desc_q": "2005 / Personal de Vigilancia / Contratado por service / Mujer",
+    "col": "v57",
+    "desc_col": "2005 / Personal de Vigilancia / Contratado por service / Mujer",
+    "values": "1:No;2:Si",
+    "value_pos": 2
+  }
+]

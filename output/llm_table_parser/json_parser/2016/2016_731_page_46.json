@@ -1,0 +1,158 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_26",
+    "desc_col": "Número de establecimientos / Centros comerciales o galerías comerciales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_27",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de campos feriales?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_27",
+    "desc_col": "Número de establecimientos / Campos feriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_28",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Venta de artesanías?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_28",
+    "desc_col": "Número de establecimientos de comercio / Venta de artesanías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_29",
+    "desc_col": "¿La municipalidad tiene otros establecimientos de comercio?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_29",
+    "desc_col": "Número de establecimientos de comercio / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_29_O",
+    "desc_col": "La municipalidad tiene otros establecimientos de comercio / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015"
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "VFI_P102",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102_1",
+    "desc_col": "¿La municipalidad provincial otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano a personas naturales?",
+    "values": "1: Otorgó; 2: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102A_1_1",
+    "desc_col": "Número de concesiones / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102A_1_2",
+    "desc_col": "Número de empresas registradas / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102A_1_3",
+    "desc_col": "Número de vehículos autorizados / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102_2",
+    "desc_col": "¿La municipalidad provincial otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano a personas jurídicas?",
+    "values": "1: Otorgó; 2: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102A_2_1",
+    "desc_col": "Número de concesiones / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102A_2_2",
+    "desc_col": "Número de empresas registradas / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "102",
+    "desc_q": "Concesiones y autorizaciones para prestar servicio de transporte público urbano otorgados por la municipalidad provincial, 2015",
+    "col": "P102A_2_3",
+    "desc_col": "Número de vehículos autorizados / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  }
+]

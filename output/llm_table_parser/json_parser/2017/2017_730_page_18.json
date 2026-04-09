@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2017",
+    "col": "P35_2",
+    "desc_col": "Modalidades de pago / En ventanilla de la municipalidad con tarjeta de crédito o débito",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2017",
+    "col": "P35_3",
+    "desc_col": "Modalidades de pago / Página Web de la municipalidad (Pago en línea)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2017",
+    "col": "P35_4",
+    "desc_col": "Modalidades de pago / Agencia bancaria / Agente bancario",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2017",
+    "col": "P35_5",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2017",
+    "col": "P35_5_O",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DE ADMINISTRACIÓN TRIBUTARIA"
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "VFI_P36",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "P36",
+    "desc_col": "La Municipalidad tiene personal exclusivo del área de administracion tributaria",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "P36_1_T",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2016 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "P36_1_M",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2016 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "P36_1_H",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2016 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "P36_2_T",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2017 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "P36_2_M",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2017 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2016 y 31 de marzo 2017",
+    "col": "P36_2_H",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2017 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "37",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva , 2017",
+    "col": "VFI_P37",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "37",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva , 2017",
+    "col": "P37",
+    "desc_col": "¿La municipalidad tiene un área de ejecución coactiva?",
+    "values": "1: Tiene y depende del Área de Administración Tributaria; 2: Tiene y no depende del Área de Administración Tributaria; 3: No tiene",
+    "value_pos": 1
+  }
+]

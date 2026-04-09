@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2023",
+    "col": "P80_8",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por Organización No Gubernamental",
+    "values": "Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": null,
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2023",
+    "col": "P80_9",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción",
+    "values": "Sí",
+    "value_pos": 9
+  },
+  {
+    "cuadro": null,
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2023",
+    "col": "P80_9_O",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2023",
+    "col": "P80_10",
+    "desc_col": "La municipalidad no realizó acciones para prevenir el consumo de drogas y alcohol",
+    "values": "Sí",
+    "value_pos": 10
+  },
+  {
+    "h2": "GESTIÓN DEL RIESGO DE DESASTRES"
+  },
+  {
+    "cuadro": null,
+    "n_q": "81",
+    "desc_q": "La Municipalidad tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2024",
+    "col": "VFI_P84A",
+    "desc_col": "Municipalidad informante",
+    "values": "Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "81",
+    "desc_q": "La Municipalidad tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2024",
+    "col": "P84A",
+    "desc_col": "¿La municipalidad tiene implementado Brigadas para la Atencion Frente a Emergencias y a Desastres vinculadas al Programa Presupuestal N° 068: \"Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres\"?",
+    "values": "Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "81",
+    "desc_q": "La Municipalidad tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2024",
+    "col": "P84A_1A",
+    "desc_col": "Número de Brigadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "82",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2024",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "82",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2024",
+    "col": "P85_1",
+    "desc_col": "¿La municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL)?",
+    "values": "Sí y el COEL se encuentra contemplado dentro de la estructura orgánica de la municipalidad",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "83",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2024",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad informante",
+    "values": "Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "83",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2024",
+    "col": "P86_1",
+    "desc_col": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL)",
+    "values": "Funciona las 24 horas",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "84",
+    "desc_q": "Personal exclusivo y Equipos del Centro de Operaciones de Emergencia Local, 2024",
+    "col": "VFI_P87",
+    "desc_col": "Municipalidad informante",
+    "values": "Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "84",
+    "desc_q": "Personal exclusivo y Equipos del Centro de Operaciones de Emergencia Local, 2024",
+    "col": "P87_1",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Personal con dedicación exclusiva?",
+    "values": "Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "84",
+    "desc_q": "Personal exclusivo y Equipos del Centro de Operaciones de Emergencia Local, 2024",
+    "col": "P87_2",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Computadora?",
+    "values": "Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "84",
+    "desc_q": "Personal exclusivo y Equipos del Centro de Operaciones de Emergencia Local, 2024",
+    "col": "P87_3",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Radio comunicador?",
+    "values": "Sí",
+    "value_pos": 1
+  }
+]

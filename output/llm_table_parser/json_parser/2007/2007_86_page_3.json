@@ -1,0 +1,407 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P12_07",
+    "desc_q": "Número de equipos de computo y de oficina / Impresoras",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_08",
+    "desc_q": "Número de equipos de computo y de oficina / Modems",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_09",
+    "desc_q": "Número de equipos de computo y de oficina / Scanner",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_10",
+    "desc_q": "Número de equipos de computo y de oficina / Fotocopiadora",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_11",
+    "desc_q": "Número de equipos de computo y de oficina / Líneas de telefonía fija",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_12",
+    "desc_q": "Número de equipos de computo y de oficina / Líneas destinadas a Fax",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_13",
+    "desc_q": "Número de equipos de computo y de oficina / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_O",
+    "desc_q": "Número de equipos de computo y de oficina / Otros/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "VFI_P13",
+    "desc_q": "Red Informática local en la Municipalidad, 2007",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P13",
+    "desc_q": "La municipalidad tiene red informática local",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P13_01",
+    "desc_q": "Número de PC interconectadas a la red informática local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "VFI_P14",
+    "desc_q": "Acceso a Internet en la Municipalidad, 2007",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P14",
+    "desc_q": "La municipalidad tiene acceso a Internet",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P14_01",
+    "desc_q": "Número de PC que tienen acceso a Internet",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "VFI_P15",
+    "desc_q": "Servicios administrativos computarizados en la Municipalidad, 2007",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15",
+    "desc_q": "La municipalidad tiene servicio administrativo computarizado",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_01",
+    "desc_q": "Servicios administrativos computarizados/ Abastecimiento",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_02",
+    "desc_q": "Servicios administrativos computarizados/ Contabilidad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_03",
+    "desc_q": "Servicios administrativos computarizados/ Tesorería",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_04",
+    "desc_q": "Servicios administrativos computarizados/ Presupuesto",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_05",
+    "desc_q": "Servicios administrativos computarizados/ Arbitrios municipales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_06",
+    "desc_q": "Servicios administrativos computarizados/ Licencias de funcionamiento",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_07",
+    "desc_q": "Servicios administrativos computarizados/ Renta y administración tributaria",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_08",
+    "desc_q": "Servicios administrativos computarizados/ Autovalúo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_09",
+    "desc_q": "Servicios administrativos computarizados/ Trámite documentario",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_10",
+    "desc_q": "Servicios administrativos computarizados/ Biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_11",
+    "desc_q": "Servicios administrativos computarizados/ Registro civil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_12",
+    "desc_q": "Servicios administrativos computarizados/ Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P15_O",
+    "desc_q": "Servicios administrativos computarizados/ Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "VFI_P16",
+    "desc_q": "Personal de la Municipalidad al 30 de junio del 2007",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16",
+    "desc_q": "La Municipalidad tiene Personal",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NH_1",
+    "desc_q": "Nombrado / Funcionarios y/o Directivos / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NH_2",
+    "desc_q": "Nombrado / Empleados / Profesionales / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NH_3",
+    "desc_q": "Nombrado / Empleados / Técnicos / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NH_4",
+    "desc_q": "Nombrado / Empleados / Auxiliares / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NH_5",
+    "desc_q": "Nombrado / Obreros / Limpieza / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NH_6",
+    "desc_q": "Nombrado / Obreros / Otros / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NH_7",
+    "desc_q": "Nombrado / Personal de Vigilancia / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NM_1",
+    "desc_q": "Nombrado / Funcionarios y/o Directivos / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NM_2",
+    "desc_q": "Nombrado / Empleados / Profesionales / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NM_3",
+    "desc_q": "Nombrado / Empleados / Técnicos / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NM_4",
+    "desc_q": "Nombrado / Empleados / Auxiliares / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NM_5",
+    "desc_q": "Nombrado / Obreros / Limpieza / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NM_6",
+    "desc_q": "Nombrado / Obreros / Otros / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P16_NM_7",
+    "desc_q": "Nombrado / Personal de Vigilancia / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

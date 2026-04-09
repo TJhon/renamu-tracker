@@ -1,0 +1,371 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P59",
+    "desc_q": "Se implementaron Programas de Control y Prevención de la Salud en el distrito",
+    "col": "P59",
+    "desc_col": "Se implementaron Programas de Control y Prevención de la Salud en el distrito",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_01",
+    "desc_q": "Programa implementado / Control del crecimiento y desarrollo del niño",
+    "col": "P59_01",
+    "desc_col": "Programa implementado / Control del crecimiento y desarrollo del niño",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_02",
+    "desc_q": "Programa implementado / Control de infecciones respiratorias agudas",
+    "col": "P59_02",
+    "desc_col": "Programa implementado / Control de infecciones respiratorias agudas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_03",
+    "desc_q": "Programa implementado / Control de enfermedades diarreicas agudas",
+    "col": "P59_03",
+    "desc_col": "Programa implementado / Control de enfermedades diarreicas agudas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_04",
+    "desc_q": "Programa implementado / Vacunas (Inmunización)",
+    "col": "P59_04",
+    "desc_col": "Programa implementado / Vacunas (Inmunización)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_05",
+    "desc_q": "Programa implementado / Planificación familiar",
+    "col": "P59_05",
+    "desc_col": "Programa implementado / Planificación familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_06",
+    "desc_q": "Programa implementado / Control de tuberculosis",
+    "col": "P59_06",
+    "desc_col": "Programa implementado / Control de tuberculosis",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_07",
+    "desc_q": "Programa implementado / Control de enfermedades de transmisión sexual y SIDA",
+    "col": "P59_07",
+    "desc_col": "Programa implementado / Control de enfermedades de transmisión sexual y SIDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_08",
+    "desc_q": "Programa implementado / Otro",
+    "col": "P59_08",
+    "desc_col": "Programa implementado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P59_O",
+    "desc_q": "Programa implementado / Otro/ Descripción",
+    "col": "P59_O",
+    "desc_col": "Programa implementado / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Organizaciones sociales que existen en el distrito, en el 2007"
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "VFI_P60",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P60",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_01",
+    "desc_q": "Número de organizaciones / Club de Madres",
+    "col": "P60_O_01",
+    "desc_col": "Número de organizaciones / Club de Madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_02",
+    "desc_q": "Número de organizaciones / Comité Programa de Vaso de Leche",
+    "col": "P60_O_02",
+    "desc_col": "Número de organizaciones / Comité Programa de Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_03",
+    "desc_q": "Número de organizaciones / Comedores Populares",
+    "col": "P60_O_03",
+    "desc_col": "Número de organizaciones / Comedores Populares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_04",
+    "desc_q": "Número de organizaciones / Wawa Wasi",
+    "col": "P60_O_04",
+    "desc_col": "Número de organizaciones / Wawa Wasi",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_05",
+    "desc_q": "Número de organizaciones / Club del Adulto Mayor",
+    "col": "P60_O_05",
+    "desc_col": "Número de organizaciones / Club del Adulto Mayor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_06",
+    "desc_q": "Número de organizaciones / Organizaciones Juveniles",
+    "col": "P60_O_06",
+    "desc_col": "Número de organizaciones / Organizaciones Juveniles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_07",
+    "desc_q": "Número de organizaciones / Otros",
+    "col": "P60_O_07",
+    "desc_col": "Número de organizaciones / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_01",
+    "desc_q": "Número de beneficiarios / Club de Madres",
+    "col": "P60_B_01",
+    "desc_col": "Número de beneficiarios / Club de Madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_02",
+    "desc_q": "Número de beneficiarios / Comité del Programa de Vaso de Leche",
+    "col": "P60_B_02",
+    "desc_col": "Número de beneficiarios / Comité del Programa de Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_03",
+    "desc_q": "Número de beneficiarios / Comedor Popular",
+    "col": "P60_B_03",
+    "desc_col": "Número de beneficiarios / Comedor Popular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_04",
+    "desc_q": "Número de beneficiarios / Wawa Wasi",
+    "col": "P60_B_04",
+    "desc_col": "Número de beneficiarios / Wawa Wasi",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_05",
+    "desc_q": "Número de beneficiarios / Club de Adulto Mayor",
+    "col": "P60_B_05",
+    "desc_col": "Número de beneficiarios / Club de Adulto Mayor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_06",
+    "desc_q": "Número de beneficiarios / Organizaciones Juveniles",
+    "col": "P60_B_06",
+    "desc_col": "Número de beneficiarios / Organizaciones Juveniles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_07",
+    "desc_q": "Número de beneficiarios / Otro",
+    "col": "P60_B_07",
+    "desc_col": "Número de beneficiarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O",
+    "desc_q": "Organizaciones sociales / Otro / Descripción",
+    "col": "P60_O",
+    "desc_col": "Organizaciones sociales / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Beneficiarios del Programa del Vaso de Leche, en el 2007"
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "VFI_P61",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P61",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_01",
+    "desc_q": "Número de beneficiarios / Niños de 0 a 6 años",
+    "col": "P61_01",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 6 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_02",
+    "desc_q": "Número de beneficiarios / Niños de 0 a 3 años",
+    "col": "P61_02",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 3 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_03",
+    "desc_q": "Número de beneficiarios / Niños de 4 a 5 años",
+    "col": "P61_03",
+    "desc_col": "Número de beneficiarios / Niños de 4 a 5 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_04",
+    "desc_q": "Número de beneficiarios / Niños de 6 años",
+    "col": "P61_04",
+    "desc_col": "Número de beneficiarios / Niños de 6 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_05",
+    "desc_q": "Número de beneficiarios / Niños de 7 a 13 años",
+    "col": "P61_05",
+    "desc_col": "Número de beneficiarios / Niños de 7 a 13 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_06",
+    "desc_q": "Número de beneficiarios / Madres gestantes",
+    "col": "P61_06",
+    "desc_col": "Número de beneficiarios / Madres gestantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_07",
+    "desc_q": "Número de beneficiarios / Madres lactantes",
+    "col": "P61_07",
+    "desc_col": "Número de beneficiarios / Madres lactantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_08",
+    "desc_q": "Número de beneficiarios / Personas con TBC",
+    "col": "P61_08",
+    "desc_col": "Número de beneficiarios / Personas con TBC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_09",
+    "desc_q": "Número de beneficiarios / Adulto mayor",
+    "col": "P61_09",
+    "desc_col": "Número de beneficiarios / Adulto mayor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_10",
+    "desc_q": "Número de beneficiarios / Otros (Discapacitados y otros casos sociales)",
+    "col": "P61_10",
+    "desc_col": "Número de beneficiarios / Otros (Discapacitados y otros casos sociales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Organismos o instituciones que financiaron Programas Sociales y obras de infraestructura en el distrito, en el 2007"
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "VFI_P62",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P62",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S",
+    "desc_q": "La municipalidad recibe apoyo de instituciones en Programas Sociales",
+    "col": "P62_S",
+    "desc_col": "La municipalidad recibe apoyo de instituciones en Programas Sociales",
+    "values": "1: Si recibe;0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_01",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Público / PRONAA",
+    "col": "P62_S_01",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / PRONAA",
+    "values": "",
+    "value_pos": null
+  }
+]

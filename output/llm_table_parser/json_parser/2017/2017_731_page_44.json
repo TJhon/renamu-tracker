@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "P101_4",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte urbano?",
+    "col": "P101_4",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte urbano",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_4",
+    "desc_q": "",
+    "col": "P101A_4",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_5",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte turístico?",
+    "col": "P101_5",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte turístico",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_5",
+    "desc_q": "",
+    "col": "P101A_5",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_6",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte interprovincial?",
+    "col": "P101_6",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte interprovincial",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_6",
+    "desc_q": "",
+    "col": "P101A_6",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte interprovincial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_7",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte aéreo?",
+    "col": "P101_7",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte aéreo",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_7",
+    "desc_q": "",
+    "col": "P101A_7",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte aéreo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_8",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte acuático?",
+    "col": "P101_8",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte acuático",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_8",
+    "desc_q": "",
+    "col": "P101A_8",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte acuático",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_9",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Empresas de alquiler de autos?",
+    "col": "P101_9",
+    "desc_col": "Número de establecimientos de servicios / Empresas de alquiler de autos",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_9",
+    "desc_q": "",
+    "col": "P101A_9",
+    "desc_col": "Número de establecimientos de servicios / Empresas de alquiler de autos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_10",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Empresas de seguridad privada?",
+    "col": "P101_10",
+    "desc_col": "Número de establecimientos de servicios / Empresas de seguridad privada",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_10",
+    "desc_q": "",
+    "col": "P101A_10",
+    "desc_col": "Número de establecimientos de servicios / Empresas de seguridad privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_11",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Entidades financieras y de seguros?",
+    "col": "P101_11",
+    "desc_col": "Número de establecimientos de servicios / Entidades financieras y de seguros",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_11",
+    "desc_q": "",
+    "col": "P101A_11",
+    "desc_col": "Número de establecimientos de servicios / Entidades financieras y de seguros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101_12",
+    "desc_q": "¿La municipalidad tiene establecimientos de servicios de Discotecas?",
+    "col": "P101_12",
+    "desc_col": "Número de establecimientos de servicios / Discotecas",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P101A_12",
+    "desc_q": "",
+    "col": "P101A_12",
+    "desc_col": "Número de establecimientos de servicios / Discotecas",
+    "values": "",
+    "value_pos": null
+  }
+]

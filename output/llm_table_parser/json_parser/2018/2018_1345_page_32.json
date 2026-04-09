@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "VFI_P103",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_1",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_2",
+    "desc_col": "Elemento contaminante / Emisión de gases de vehículos motorizados",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_3",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_4",
+    "desc_col": "Elemento contaminante / Ruidos con alta intensidad que dañan la salud",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_5",
+    "desc_col": "Elemento contaminante / Aguas residuales",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_6",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_7",
+    "desc_col": "Elemento contaminante / Deforestación y quema de bosques",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_8",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_9",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_9_O",
+    "desc_col": "Elemento contaminante / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "103",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2018",
+    "col": "P103_10",
+    "desc_col": "Elemento contaminante / No existen",
+    "values": "10: Sí; 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "VFI_P104",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_1",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local (PAL)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_2",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental Local (DAL)",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_3",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local (PAAL)",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_4",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local (AAL)",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_5",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Anual de Evaluación y Fiscalización Ambiental (PLANEFA)",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_6",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Nacional de Educación Ambiental (PLANEA)",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_7",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción en Género y Cambio Climatológico (PAGCC)",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_8",
+    "desc_col": "Instrumentos de gestión ambiental / Estrategia Nacional de Bosques y Cambio Climático",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_9",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Director de Áreas Naturales Protegidas",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_10",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "10: Sí; 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_10_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "104",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2018",
+    "col": "P104_11",
+    "desc_col": "Instrumentos de gestión ambiental / No tiene",
+    "values": "11: Sí; 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "VFI_P105",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_1",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

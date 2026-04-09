@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_2",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Botadero",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_2_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Botadero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_3",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Reciclados",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_3_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Reciclados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_4",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Quemados / Incinerados",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_4_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Quemados / Incinerados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_5",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Otro",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_5_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2020",
+    "col": "P44_5_O",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "45",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2020",
+    "col": "VFI_P46",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "45",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2020",
+    "col": "P46_1",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para manipulación de alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "45",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2020",
+    "col": "P46A_1",
+    "desc_col": "Carnés de sanidad para manipulación de alimentos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "45",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2020",
+    "col": "P46_2",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para no manipulación de alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "45",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2020",
+    "col": "P46A_2",
+    "desc_col": "Carnés de sanidad para no manipulación de alimentos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "46",
+    "desc_q": "Municipalidad que tiene comerciantes ambulantes registrados, al 31 de diciembre 2020",
+    "col": "VFI_P47",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "46",
+    "desc_q": "Municipalidad que tiene comerciantes ambulantes registrados, al 31 de diciembre 2020",
+    "col": "P47",
+    "desc_col": "¿La municipalidad tiene comerciantes ambulantes registrados?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "46",
+    "desc_q": "Municipalidad que tiene comerciantes ambulantes registrados, al 31 de diciembre 2020",
+    "col": "P47_T",
+    "desc_col": "Número de vendedores comerciantes registrados en la Municipalidad / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "46",
+    "desc_q": "Municipalidad que tiene comerciantes ambulantes registrados, al 31 de diciembre 2020",
+    "col": "P47_M",
+    "desc_col": "Número de vendedores comerciantes registrados en la Municipalidad / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "46",
+    "desc_q": "Municipalidad que tiene comerciantes ambulantes registrados, al 31 de diciembre 2020",
+    "col": "P47_H",
+    "desc_col": "Número de vendedores comerciantes registrados en la Municipalidad / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "VFI_P48",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48_1",
+    "desc_col": "¿La municipalidad realizó operativos de control de aseo, higiene y salubridad de establecimientos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48A_1",
+    "desc_col": "Operativos de control de aseo, higiene y salubridad de establecimientos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48_2",
+    "desc_col": "¿La municipalidad realizó operativos de control de verificación de pesas y medidas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48A_2",
+    "desc_col": "Operativos de control de verificación de pesas y medidas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48_3",
+    "desc_col": "¿La municipalidad realizó operativos de control de comercio ambulatorio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48A_3",
+    "desc_col": "Operativos de control de comercio ambulatorio / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48_4",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de funcionamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48A_4",
+    "desc_col": "Operativos de control de vigencia de licencia de funcionamiento / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48_5",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de edificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48A_5",
+    "desc_col": "Operativos de control de vigencia de licencia de edificación / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48_6",
+    "desc_col": "¿La municipalidad realizó operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "47",
+    "desc_q": "Municipalidad que realizó operativos de control, 2020",
+    "col": "P48A_6",
+    "desc_col": "Operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones / Número",
+    "values": null,
+    "value_pos": null
+  }
+]

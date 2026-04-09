@@ -1,0 +1,191 @@
+[
+  {
+    "h2": "Nº PREGUNTA"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75_7",
+    "desc_col": "¿El serenazgo registró intervenciones por / Consumo de drogas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75A_7",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Consumo de drogas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75_8",
+    "desc_col": "¿El serenazgo registró intervenciones por / Accidentes de tránsito?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75A_8",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Accidentes de tránsito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75_9",
+    "desc_col": "¿El serenazgo registró intervenciones por / Comercio Informal?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75A_9",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Comercio Informal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75_10",
+    "desc_col": "¿El serenazgo registró intervenciones por / Violencia familiar?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75A_10",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Violencia familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75_11",
+    "desc_col": "¿El serenazgo registró intervenciones por / Pandillaje?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75A_11",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Pandillaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75_12",
+    "desc_col": "¿El serenazgo registró intervenciones por / Otro?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75A_12",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P75_12_O",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "TABLA"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P74_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2017?",
+    "values": "1: Brindó; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "h2": "DESCRIPCIÓN"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76",
+    "desc_col": "¿La municipalidad dispone de equipamiento e infraestructura para actividades de serenazgo?",
+    "values": "1: Dispone; 0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76_1",
+    "desc_col": "¿El serenazgo dispone de unidades móviles / Auto y/o camioneta?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_1_1",
+    "desc_col": "Serenazgo dispone de unidades móviles / Auto y/o camioneta / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_1_2",
+    "desc_col": "Serenazgo dispone de unidades móviles / Auto y/o camioneta / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_1_3",
+    "desc_col": "Serenazgo dispone de unidades móviles / Auto y/o camioneta / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76_2",
+    "desc_col": "¿El serenazgo dispone de unidades móviles / Motocicleta?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

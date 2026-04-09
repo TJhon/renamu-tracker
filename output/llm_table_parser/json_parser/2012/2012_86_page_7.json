@@ -1,0 +1,106 @@
+[
+  {
+    "col": "P18_CM_2",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Profesionales / Mujer"
+  },
+  {
+    "col": "P18_CM_3",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Técnicos / Mujer"
+  },
+  {
+    "col": "P18_CM_4",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Auxiliares / Mujer"
+  },
+  {
+    "col": "P18_CM_5",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Obreros / De limpieza / Mujer"
+  },
+  {
+    "col": "P18_CM_6",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Obreros / Otros / Mujer"
+  },
+  {
+    "col": "P18_CM_7",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Personal de Vigilancia / Mujer",
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "col": "P18_LH_1",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_LH_2",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Hombre"
+  },
+  {
+    "col": "P18_LH_3",
+    "desc_col": "Decreto Legislativo N° 728/ Empleados / Técnicos / Hombre"
+  },
+  {
+    "col": "P18_LH_4",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Hombre"
+  },
+  {
+    "col": "P18_LH_5",
+    "desc_col": "Decreto Legislativo N° 728/ Obreros / De limpieza / Hombre"
+  },
+  {
+    "col": "P18_LH_6",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / Otros / Hombre"
+  },
+  {
+    "col": "P18_LH_7",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Hombre",
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "col": "P18_LM_1",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/ o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_LM_2",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Mujer"
+  },
+  {
+    "col": "P18_LM_3",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Técnicos / Mujer"
+  },
+  {
+    "col": "P18_LM_4",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Mujer"
+  },
+  {
+    "col": "P18_LM_5",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / De limpieza / Mujer"
+  },
+  {
+    "col": "P18_LM_6",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / Otros / Mujer"
+  },
+  {
+    "col": "P18_LM_7",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Mujer",
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "col": "P18_VH_1",
+    "desc_col": "Contrato administrativo de servicios (CAS)/ Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_VH_2",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Empleados / Profesionales / Hombre"
+  },
+  {
+    "col": "P18_VH_3",
+    "desc_col": "Contrato administrativo de servicios (CAS)/ Empleados / Técnicos / Hombre"
+  }
+]

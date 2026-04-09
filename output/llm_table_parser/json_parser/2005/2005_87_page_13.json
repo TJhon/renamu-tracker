@@ -1,0 +1,470 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Tipo de peligros naturales/ Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "Descr_V8",
+    "desc_col": "Descripción de otro Tipo de peligros naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V101",
+    "desc_col": "Número maquinaria disponible / Público / Volquete",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V102",
+    "desc_col": "Número maquinaria disponible / Público / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V103",
+    "desc_col": "Número maquinaria disponible / Público / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V104",
+    "desc_col": "Número maquinaria disponible / Público / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V105",
+    "desc_col": "Número maquinaria disponible / Público / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V106",
+    "desc_col": "Número maquinaria disponible / Público / Tractor de oruga",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V107",
+    "desc_col": "Número maquinaria disponible / Público / Rodillo liso compactado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V108",
+    "desc_col": "Número maquinaria disponible / Público / Compactador vibrador tipo plancha",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V109",
+    "desc_col": "Número maquinaria disponible / Público / Vibrador de concreto 4HP",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V110",
+    "desc_col": "Número maquinaria disponible / Público / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V201",
+    "desc_col": "Número maquinaria disponible / Privado / Volquete",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V202",
+    "desc_col": "Número maquinaria disponible / Privado / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V203",
+    "desc_col": "Número maquinaria disponible / Privado / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V204",
+    "desc_col": "Número maquinaria disponible / Privado / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V205",
+    "desc_col": "Número maquinaria disponible / Privado / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V206",
+    "desc_col": "Número maquinaria disponible / Privado / Tractor de oruga",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V207",
+    "desc_col": "Número maquinaria disponible / Privado / Rodillo liso compactado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V208",
+    "desc_col": "Número maquinaria disponible / Privado / Compactador vibrador tipo plancha",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V209",
+    "desc_col": "Número maquinaria disponible / Privado / Vibrador de concreto 4HP",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": "68",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, al 2004",
+    "col": "V210",
+    "desc_col": "Número maquinaria disponible / Privado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V1",
+    "desc_col": "Número de inscritos/Nacimientos/ 2003/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V2",
+    "desc_col": "Número de inscritos/Nacimientos/ 2003/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V3",
+    "desc_col": "Número de inscritos/Nacimientos/ 2003/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V4",
+    "desc_col": "Número de inscritos/Nacimientos/ 2004/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V5",
+    "desc_col": "Número de inscritos/Nacimientos/ 2004/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V6",
+    "desc_col": "Número de inscritos/Nacimientos/ 2004/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V7",
+    "desc_col": "Número de inscritos/Defunciones/ 2003/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V8",
+    "desc_col": "Número de inscritos/Defunciones / 2003/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V9",
+    "desc_col": "Número de inscritos/Defunciones/ 2003/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V10",
+    "desc_col": "Número de inscritos/Defunciones/ 2004/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V11",
+    "desc_col": "Número de inscritos/Defunciones/ 2004/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (nacimientos y defunciones)",
+    "col": "V12",
+    "desc_col": "Número de inscritos/Defunciones/ 2004/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (matrimonios y divorcios)",
+    "col": "V1",
+    "desc_col": "Número de inscritos/Matrimonios/ 2003",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (matrimonios y divorcios)",
+    "col": "V2",
+    "desc_col": "Número de inscritos/Matrimonios/ 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (matrimonios y divorcios)",
+    "col": "V3",
+    "desc_col": "Número de inscritos /Divorcios/2003",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": "69",
+    "desc_q": "Inscripción en el registro civil de la municipalidad, en el 2003 y el 2004 (matrimonios y divorcios)",
+    "col": "V4",
+    "desc_col": "Número de inscritos/Divorcios/2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "70",
+    "desc_q": "Empresas municipales y personal ocupado, al 2004",
+    "col": "V1",
+    "desc_col": "Nombre de la empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "70",
+    "desc_q": "Empresas municipales y personal ocupado, al 2004",
+    "col": "V2",
+    "desc_col": "Principal actividad económica que desarrolla",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "70",
+    "desc_q": "Empresas municipales y personal ocupado, al 2004",
+    "col": "V3",
+    "desc_col": "Personal ocupado de la empresa municipal/ Nombrado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "70",
+    "desc_q": "Empresas municipales y personal ocupado, al 2004",
+    "col": "V4",
+    "desc_col": "Personal ocupado de la empresa municipal/ Contratado/ Eventual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "70",
+    "desc_q": "Empresas municipales y personal ocupado, al 2004",
+    "col": "V5",
+    "desc_col": "Personal ocupado de la empresa municipal/ Contratado/ Permanente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, a diciembre del 2004",
+    "col": "V1",
+    "desc_col": "Nombre del organismo publico descentralizado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, a diciembre del 2004",
+    "col": "V2",
+    "desc_col": "Principal actividad económica que desarrolla",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, a diciembre del 2004",
+    "col": "V3",
+    "desc_col": "Personal ocupado de los organismos públicos descentralizados/ Nombrado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, a diciembre del 2004",
+    "col": "V4",
+    "desc_col": "Personal ocupado de los organismos públicos descentralizados/ Contratado/ Eventual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, a diciembre del 2004",
+    "col": "V5",
+    "desc_col": "Personal ocupado de los organismos públicos descentralizados/ Contratado/ Permanente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "72",
+    "desc_q": "Actividades que ejecuta la municipalidad a través de empresas de servicios de terceros , (SERVICE) 2004",
+    "col": "V1",
+    "desc_col": "Nombre de la empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "72",
+    "desc_q": "Actividades que ejecuta la municipalidad a través de empresas de servicios de terceros , (SERVICE) 2004",
+    "col": "V2",
+    "desc_col": "Actividad de la empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "72",
+    "desc_q": "Actividades que ejecuta la municipalidad a través de empresas de servicios de terceros , (SERVICE) 2004",
+    "col": "V3",
+    "desc_col": "Periodo de contrato (En meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "73",
+    "desc_q": "Programas y",
+    "col": "V1",
+    "desc_col": "Nombre del Programa / Proyecto",
+    "values": "",
+    "value_pos": null
+  }
+]

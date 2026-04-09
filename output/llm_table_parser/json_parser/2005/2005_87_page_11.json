@@ -1,0 +1,491 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Vacunas (Inmunización)",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Planificación familiar",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Control de Tuberculosis",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Control de enfermedades de transmisión sexual y SIDA",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V12",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Campañas de fumigación",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V13",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Otro",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "Descr_V13",
+    "desc_col": "Nombre de Programas de asistencia alimentaria, control y prevención de la salud / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "58 CUADRO_C0054 Organizaciones sociales que existe en el distrito, en el 2003 y 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V11",
+    "desc_col": "2003 / Numero de organizaciones / Club de madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V12",
+    "desc_col": "2003 /Numero de beneficiarios / Club de madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V13",
+    "desc_col": "2004 / Numero de organizaciones / Club de madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V14",
+    "desc_col": "2004 / Numero de beneficiarios / Club de madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V21",
+    "desc_col": "2003 / Numero de organizaciones / Comité del Programa de Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V22",
+    "desc_col": "2003 /Numero de beneficiarios / Comité del Programa de Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V23",
+    "desc_col": "2004 / Numero de organizaciones / Comité del Programa de Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V24",
+    "desc_col": "2004 / Numero de beneficiarios / Comité del Programa de Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V31",
+    "desc_col": "2003 / Numero de organizaciones / Comedor popular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V32",
+    "desc_col": "2003 /Numero de beneficiarios / Comedor popular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V33",
+    "desc_col": "2004 / Numero de organizaciones / Comedor popular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V34",
+    "desc_col": "2004 / Numero de beneficiarios / Comedor popular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V41",
+    "desc_col": "2003 / Numero de organizaciones / Wawa wasi",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V42",
+    "desc_col": "2003 /Numero de beneficiarios / Wawa wasi",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V43",
+    "desc_col": "2004 / Numero de organizaciones / Wawa wasi",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V44",
+    "desc_col": "2004 / Numero de beneficiarios / Wawa wasi",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V51",
+    "desc_col": "2003 / Numero de organizaciones / Club de tercera edad (Adulto mayor)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V52",
+    "desc_col": "2003 /Numero de beneficiarios / Club de tercera edad (Adulto mayor)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V53",
+    "desc_col": "2004 / Numero de organizaciones / Club de tercera edad (Adulto mayor)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V54",
+    "desc_col": "2004 / Numero de beneficiarios / Club de tercera edad (Adulto mayor)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V61",
+    "desc_col": "2003 / Numero de organizaciones / Comité o juntas vecinales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V62",
+    "desc_col": "2003 /Numero de beneficiarios / Comité o juntas vecinales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V63",
+    "desc_col": "2004 / Numero de organizaciones / Comité o juntas vecinales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V64",
+    "desc_col": "2004 / Numero de beneficiarios / Comité o juntas vecinales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V71",
+    "desc_col": "2003 / Numero de organizaciones / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V72",
+    "desc_col": "2003 /Numero de beneficiarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V73",
+    "desc_col": "2004 / Numero de organizaciones / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "58",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2003 y 2004",
+    "col": "V74",
+    "desc_col": "2004 / Numero de beneficiarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "59 CUADRO_C0055 Beneficiarios del programa vaso de leche, en el 2003 y 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V11",
+    "desc_col": "Beneficiarios / 2003 / Niños de 0 a 6 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V12",
+    "desc_col": "Beneficiarios / 2003 / Niños de 7 a 13 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V13",
+    "desc_col": "Beneficiarios / 2003 / Madres gestantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V14",
+    "desc_col": "Beneficiarios / 2003 / Madres lactantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V15",
+    "desc_col": "Beneficiarios / 2003 / Personas TBC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V16",
+    "desc_col": "Beneficiarios / 2003 / Adulto mayor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V21",
+    "desc_col": "Beneficiarios / 2004 / Niños de 0 a 6 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V22",
+    "desc_col": "Beneficiarios / 2004 / Niños de 7 a 13 años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V23",
+    "desc_col": "Beneficiarios / 2004 / Madres gestantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V24",
+    "desc_col": "Beneficiarios / 2004 / Madres lactantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V25",
+    "desc_col": "Beneficiarios / 2004 / Personas TBC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "59",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2003 y 2004",
+    "col": "V26",
+    "desc_col": "Beneficiarios / 2004 / Adulto mayor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "60 CUADRO_C0056 Raciones distribuidas en el programa vaso de leche, en el 2003 y 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "60",
+    "desc_q": "Raciones distribuidas en el programa vaso de leche, en el 2003 y 2004",
+    "col": "V1",
+    "desc_col": "2003 / Raciones Distribuidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "60",
+    "desc_q": "Raciones distribuidas en el programa vaso de leche, en el 2003 y 2004",
+    "col": "V2",
+    "desc_col": "2004 / Raciones Distribuidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "61 CUADRO_C0057 Programas de complementación alimentaria y proyectos de infraestructura"
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "61",
+    "desc_q": "Programas de complementación alimentaria y proyectos de infraestructura",
+    "col": "V1",
+    "desc_col": "Numero de beneficiarios en comedores populares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "61",
+    "desc_q": "Programas de complementación alimentaria y proyectos de infraestructura",
+    "col": "V2",
+    "desc_col": "Numero de beneficiarios en alimentos por trabajo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "61",
+    "desc_q": "Programas de complementación alimentaria y proyectos de infraestructura",
+    "col": "V3",
+    "desc_col": "Numero de beneficiarios en hogares y albergues",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "61",
+    "desc_q": "Programas de complementación alimentaria y proyectos de infraestructura",
+    "col": "V4",
+    "desc_col": "Numero de beneficiarios en proyectos de infraestructura social y productiva",
+    "values": "",
+    "value_pos": null
+  }
+]

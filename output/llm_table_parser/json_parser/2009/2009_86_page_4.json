@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P14_06",
+    "desc_q": "Número de equipos de cómputo y de oficina / Core 2 Duo",
+    "col": "P14_06",
+    "desc_col": "Número de equipos de cómputo y de oficina / Core 2 Duo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P14_07",
+    "desc_q": "Número de equipos de cómputo y de oficina / Scanner",
+    "col": "P14_07",
+    "desc_col": "Número de equipos de cómputo y de oficina / Scanner",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P14_08",
+    "desc_q": "Número de equipos de cómputo y de oficina / Fotocopiadora",
+    "col": "P14_08",
+    "desc_col": "Número de equipos de cómputo y de oficina / Fotocopiadora",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P14_09",
+    "desc_q": "Número de equipos de cómputo y de oficina / Impresora",
+    "col": "P14_09",
+    "desc_col": "Número de equipos de cómputo y de oficina / Impresora",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P14_10",
+    "desc_q": "Número de equipos de cómputo y de oficina / Otro",
+    "col": "P14_10",
+    "desc_col": "Número de equipos de cómputo y de oficina / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P14_O",
+    "desc_q": "Número de equipos de cómputo y de oficina / Otro/ Descripción",
+    "col": "P14_O",
+    "desc_col": "Número de equipos de cómputo y de oficina / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "VFI_P15",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P15",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P15",
+    "desc_q": "La municipalidad tiene equipos de comunicación",
+    "col": "P15",
+    "desc_col": "La municipalidad tiene equipos de comunicación",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P15_01",
+    "desc_q": "Número de equipos de comunicación / Líneas de telefonía Fija",
+    "col": "P15_01",
+    "desc_col": "Número de equipos de comunicación / Líneas de telefonía Fija",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P15_02",
+    "desc_q": "Número de equipos de comunicación / Líneas de telefonía Móvil",
+    "col": "P15_02",
+    "desc_col": "Número de equipos de comunicación / Líneas de telefonía Móvil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P15_03",
+    "desc_q": "Número de equipos de comunicación / Líneas destinadas a Fax",
+    "col": "P15_03",
+    "desc_col": "Número de equipos de comunicación / Líneas destinadas a Fax",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P15_04",
+    "desc_q": "Número de equipos de comunicación / Otro",
+    "col": "P15_04",
+    "desc_col": "Número de equipos de comunicación / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "P15_O",
+    "desc_q": "Número de equipos de comunicación / Otro / Descripción",
+    "col": "P15_O",
+    "desc_col": "Número de equipos de comunicación / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "VFI_P16",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P16",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P16",
+    "desc_q": "La municipalidad tiene red informática local",
+    "col": "P16",
+    "desc_col": "La municipalidad tiene red informática local",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "P16_01",
+    "desc_q": "Número de PC interconectadas a red informática local",
+    "col": "P16_01",
+    "desc_col": "Número de PC interconectadas a red informática local",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "VFI_P17",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P17",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P17",
+    "desc_q": "La municipalidad tiene acceso a Internet",
+    "col": "P17",
+    "desc_col": "La municipalidad tiene acceso a Internet",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P17_01",
+    "desc_q": "Número de PC que tienen acceso a Internet",
+    "col": "P17_01",
+    "desc_col": "Número de PC que tienen acceso a Internet",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "P17_02",
+    "desc_q": "Tipo de conexión a Internet",
+    "col": "P17_02",
+    "desc_col": "Tipo de conexión a Internet",
+    "values": "1: Módem analógico (Línea telefónica); 2: ADSL (Speedy, Terra, Telmex, etc.); 3: Fibra Óptica (Línea dedicada); 4: Satelital; 5: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "VFI_P18",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P18",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "P18",
+    "desc_q": "La Municipalidad tiene Personal",
+    "col": "P18",
+    "desc_col": "La Municipalidad tiene Personal",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "P18_NH_1",
+    "desc_q": "Nombrado / Funcionarios y/o Directivos / Hombre",
+    "col": "P18_NH_1",
+    "desc_col": "Nombrado / Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": null
+  }
+]

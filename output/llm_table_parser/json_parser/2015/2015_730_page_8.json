@@ -1,0 +1,113 @@
+[
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_7",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Genera información de reducción de brechas de género en la municipalidad y en la sociedad civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_8",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los indicadores de resultado concretos sobre el ciudadano para medir los resultados del gasto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_9",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que la información del presupuesto esté a disposición de la ciudadanía en la página Web",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_10",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los informes financieros presupuestales incluyan información completa sobre ingresos y gastos de proyectos financiados por donantes, a través de Cooperación Técnica Nacional e Internacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_11",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los sistemas de remuneración y de evaluación del personal incentiven la obtención de resultados organizacionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_12",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que las estrategias permitan mejorar la calidad de los servicios públicos que brinda a la ciudadanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_13",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Utiliza mecanismos de consulta periódica a la ciudadanía para introducir mejoras en los servicios públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Municipalidad en la Gestión del presupuesto por resultados, 2015",
+    "col": "P29_14",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Tiene indicadores de eficiencia y eficacia sobre la cobertura de los servicios públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Texto único de procedimientos administrativo, 2015"
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "30",
+    "desc_q": "Texto único de procedimientos administrativo, 2015",
+    "col": "VFI_P30",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "30",
+    "desc_q": "Texto único de procedimientos administrativo, 2015",
+    "col": "P30",
+    "desc_col": "¿La municipalidad tiene Texto Único de Procedimientos Administrativos (TUPA) según metodología de determinación de costos?",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "30",
+    "desc_q": "Texto único de procedimientos administrativo, 2015",
+    "col": "P30_1_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos/ Fecha de última actualización",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "30",
+    "desc_q": "Texto único de procedimientos administrativo, 2015",
+    "col": "P30_1_2",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos/ Número de Procedimientos Administrativos que contiene el TUPA",
+    "values": "",
+    "value_pos": null
+  }
+]

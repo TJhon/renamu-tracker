@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_3_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de artesanía / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96_4",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de textiles?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_4_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de textiles / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_4_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de textiles / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_4_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de textiles / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96_5",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de muebles y accesorios?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_5_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de muebles y accesorios / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_5_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de muebles y accesorios / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_5_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de metalurgia / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96_6",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de metalurgia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_6_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de metalurgia / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_6_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de metalurgia / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_6_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de metalurgia / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96_7",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de maquinaria y equipo?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_7_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de maquinaria y equipo / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_7_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de maquinaria y equipo / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_7_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de maquinaria y equipo / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96_8",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de agropecuario?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_8_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de agropecuario / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_8_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de agropecuario / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "96",
+    "desc_q": "Micro y Pequeñas Empresas registradas en la municipalidad, 2014",
+    "col": "P96A_8_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de agropecuario / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2024",
+    "col": "P60B_6A_1",
+    "desc_col": "¿Tiene beneficiarios del Programa del Vaso de Leche para el adulto mayor?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2024",
+    "col": "P60B_6_1",
+    "desc_col": "Beneficiarios del Programa de Vaso de Leche / Adulto Mayor / Número de beneficiarios y/o afiliados al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2024",
+    "col": "P60B_7A_1",
+    "desc_col": "¿Tiene beneficiarios del Programa del Vaso de Leche a personas con alguna discapacidad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2024",
+    "col": "P60B_7_1",
+    "desc_col": "Beneficiarios del Programa de Vaso de Leche / Personas con alguna discapacidad / Número de beneficiarios y/o afiliados al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2024",
+    "col": "P60B_T_1",
+    "desc_col": "Beneficiarios del Programa de Vaso de Leche / Total de beneficiarios / Número de beneficiarios y/o afiliados al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2024",
+    "col": "VFL_P61",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2024",
+    "col": "P61",
+    "desc_col": "¿La Municipalidad ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la Ley N° 30490?",
+    "values": "1: Sí; 2: No implementó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2024",
+    "col": "P61_1",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Número de locales en funcionamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2024",
+    "col": "P61_2",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Total de beneficiarios registrados en todos los locales al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "62",
+    "desc_q": "Municipalidad que ha implementado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de diciembre 2024",
+    "col": "VFL_P62",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "62",
+    "desc_q": "Municipalidad que ha implementado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de diciembre 2024",
+    "col": "P62",
+    "desc_col": "¿La Municipalidad ha implementado la Oficina Municipal de Atención a las Personas con Discapacidad (OMAPED)?",
+    "values": "1: Sí; 2: No implementó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "62",
+    "desc_q": "Municipalidad que ha implementado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de diciembre 2024",
+    "col": "P62_1",
+    "desc_col": "Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED) / Total de beneficiarios al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "63",
+    "desc_q": "Municipalidad que cuenta con voluntarios para el desarrollo de servicios sociales, 2025",
+    "col": "VFL_P63",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "63",
+    "desc_q": "Municipalidad que cuenta con voluntarios para el desarrollo de servicios sociales, 2025",
+    "col": "P63",
+    "desc_col": "¿La Municipalidad cuenta con Voluntarios para el desarrollo de Servicios Sociales?",
+    "values": "1: Sí; 2: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "h2": "DEFENSORÍA MUNICIPAL DEL NIÑO Y EL ADOLESCENTE (DEMUNA)"
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "VFL_P64",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64",
+    "desc_col": "¿La municipalidad brindó el servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA)?",
+    "values": "1: Sí; 2: No brindó el servicio",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_1",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_1_1",
+    "desc_col": "Número de casos atendidos / Alimentos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_2",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Tenencia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_2_1",
+    "desc_col": "Número de casos atendidos / Tenencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_3",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Régimen de visitas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_3_1",
+    "desc_col": "Número de casos atendidos / Régimen de visitas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_4",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Normas de comportamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2024",
+    "col": "P64_4_1",
+    "desc_col": "Número de casos atendidos / Normas de comportamiento",
+    "values": null,
+    "value_pos": null
+  }
+]

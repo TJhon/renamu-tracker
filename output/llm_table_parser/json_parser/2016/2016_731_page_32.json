@@ -1,0 +1,122 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P85_9",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P85_9_O",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DEL RIESGO DE DESASTRES"
+  },
+  {
+    "cuadro": "CUADRO_C80",
+    "n_q": "86",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2016",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C80",
+    "n_q": "86",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2016",
+    "col": "P86",
+    "desc_col": "¿La municipalidad tiene constituido el grupo de trabajo de la Gestión del Riesgo de Desastres?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C80",
+    "n_q": "86",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2016",
+    "col": "P86_1",
+    "desc_col": "El Grupo de Trabajo de la Gestión del Riesgo de Desastres / Constituido con Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C80",
+    "n_q": "86",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2016",
+    "col": "P86A_1",
+    "desc_col": "Numero de Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C80",
+    "n_q": "86",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2016",
+    "col": "P86_2",
+    "desc_col": "El Grupo de Trabajo de la Gestión del Riesgo de Desastres / Constituido sin Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C80",
+    "n_q": "86",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2016",
+    "col": "P86_3",
+    "desc_col": "El Grupo de Trabajo de la Gestión del Riesgo de Desastres / Tiene Reglamento Interno de Funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C80",
+    "n_q": "86",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2016",
+    "col": "P86_4",
+    "desc_col": "El Grupo de Trabajo de la Gestión del Riesgo de Desastres / Tiene Plan de Trabajo Anual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P87",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P87",
+    "desc_col": "¿La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P87_1",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Prevención y Reducción del Riesgo de Desastres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P87_2",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Preparación",
+    "values": "",
+    "value_pos": null
+  }
+]

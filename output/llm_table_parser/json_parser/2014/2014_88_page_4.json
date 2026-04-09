@@ -1,0 +1,101 @@
+[
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "VFI_93",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93",
+    "desc_col": "El distrito tiene sistema de alcantarillado",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_01",
+    "desc_col": "El sistema de alcantarillado desemboca / Río",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_02",
+    "desc_col": "El sistema de alcantarillado desemboca / Quebrada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_03",
+    "desc_col": "El sistema de alcantarillado desemboca / Mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_04",
+    "desc_col": "El sistema de alcantarillado desemboca / Playa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_05",
+    "desc_col": "El sistema de alcantarillado desemboca / Lago",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_06",
+    "desc_col": "El sistema de alcantarillado desemboca / Laguna de Oxidación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_07",
+    "desc_col": "El sistema de alcantarillado desemboca / Pozo Séptico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_08",
+    "desc_col": "El sistema de alcantarillado desemboca / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "93",
+    "desc_q": "El sistema de alcantarillado del distrito desemboca en, 2014",
+    "col": "P93_O",
+    "desc_col": "El sistema de alcantarillado desemboca / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

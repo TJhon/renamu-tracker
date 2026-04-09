@@ -1,0 +1,253 @@
+[
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2023",
+    "col": "P58_4",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2023",
+    "col": "P58_4_1",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2023",
+    "col": "P58_4_2",
+    "desc_col": "Número de visitantes / usuarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2023",
+    "col": "P58_4_O",
+    "desc_col": "La municipalidad administró locales para uso recreacional y cultural / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "VFI_P59",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_1",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Estadios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_1_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Estadios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_2",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Complejos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_2_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Complejos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_3",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Coliseos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_3_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Coliseos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_4",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas multideportivas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_4_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas multideportivas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_5",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para fulbito (Considera grass sintético)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_5_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para fulbito (Considera grass sintético)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_6",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para vóley?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_6_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para vóley",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_7",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para básquet?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_7_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para básquet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_8",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Parques zonales?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_8_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Parques zonales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_9",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Piscinas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_9_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Piscinas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_10",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Gimnasios?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_10_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Gimnasios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_11",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Otro?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_11_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2024",
+    "col": "P59_11_O",
+    "desc_col": "La municipalidad administra infraestructura deportiva y/o recreativa / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SERVICIOS SOCIALES"
+  },
+  {
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2023",
+    "col": "VFI_P60A",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2023",
+    "col": "P60A_1",
+    "desc_col": "¿La municipalidad informó que tiene Comité del Programa del Vaso de Leche?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2023",
+    "col": "P60A_1_1",
+    "desc_col": "Comité del Programa del Vaso de Leche / Número de organizaciones al 31 de diciembre de 2023",
+    "values": "",
+    "value_pos": null
+  }
+]

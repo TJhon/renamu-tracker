@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_3_2",
+    "desc_col": "Número de bienes / Camión recolector de basura / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_4",
+    "desc_col": "¿La municipalidad cuenta con Camión cisterna?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_4_1",
+    "desc_col": "Número de bienes / Camión cisterna / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_4_2",
+    "desc_col": "Número de bienes / Camión cisterna / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_5",
+    "desc_col": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura ni camiones cisterna)?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_5_1",
+    "desc_col": "Número de bienes / Camión / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_5_2",
+    "desc_col": "Número de bienes / Camión / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_6",
+    "desc_col": "¿La municipalidad cuenta con ambulancia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_6_1",
+    "desc_col": "Número de bienes / Ambulancia / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_6_2",
+    "desc_col": "Número de bienes / Ambulancia / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_7",
+    "desc_col": "¿La municipalidad cuenta con motocicleta?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_7_1",
+    "desc_col": "Número de bienes / Motocicleta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_7_2",
+    "desc_col": "Número de bienes / Motocicleta / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_8",
+    "desc_col": "¿La municipalidad cuenta con bote y/o lancha?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_8_1",
+    "desc_col": "Número de bienes / Bote y/o lancha / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_8_2",
+    "desc_col": "Número de bienes / Bote y/o lancha / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_11",
+    "desc_col": "¿La municipalidad cuenta con rodillo liso vibratorio y/o neumático?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_11_1",
+    "desc_col": "Número de bienes / Rodillo lisos vibratorios y/o neumático / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_11_2",
+    "desc_col": "Número de bienes / Rodillo liso vibratorio y/o neumático / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_17",
+    "desc_col": "¿La municipalidad cuenta con grupo electrógeno?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_17_1",
+    "desc_col": "Número de bienes / Grupo electrógeno / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12A_17_2",
+    "desc_col": "Número de bienes / Grupo electrógeno / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (vehículos y equipo)",
+    "col": "P12_18",
+    "desc_col": "¿La municipalidad cuenta con panel solar?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

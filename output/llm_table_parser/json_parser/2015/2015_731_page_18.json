@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_5_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de vivienda, construcción y saneamiento (Programa Nacional de Saneamiento Rural)",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_6_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Transportes y Comunicaciones (Provías Nacional)",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_7_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Gobierno Regional",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_8_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Gobierno Local",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_10_1",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_10_1_O",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_11_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Empresa privada",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_12_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organización No Gubernamental",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_13_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La comunidad",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_14_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La iglesia",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_15_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_17_1",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P69_17_1_O",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P70_1",
+    "desc_q": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en agua y saneamiento?",
+    "col": "P70_1",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en agua y saneamiento?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P70A_1",
+    "desc_q": "Número de proyectos / Agua y saneamiento",
+    "col": "P70A_1",
+    "desc_col": "Número de proyectos / Agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P70_2",
+    "desc_q": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en electrificación?",
+    "col": "P70_2",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en electrificación?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P70A_2",
+    "desc_q": "Número de proyectos / Electrificación",
+    "col": "P70A_2",
+    "desc_col": "Número de proyectos / Electrificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P70_3",
+    "desc_q": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en hospital?",
+    "col": "P70_3",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en hospital?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P70A_3",
+    "desc_q": "Número de proyectos / Hospital",
+    "col": "P70A_3",
+    "desc_col": "Número de proyectos / Hospital",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "46",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2018",
+    "col": "VFI_P46",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "46",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2018",
+    "col": "P46_T",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Gasto Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "46",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2018",
+    "col": "P46_1",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Recojo domiciliario, transporte y destino final de los residuos sólidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "46",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2018",
+    "col": "P46_2",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Mantenimiento y limpieza de espacios públicos (comprende barrido de calles, limpieza de parques, plazas, entre otros)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "46",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2018",
+    "col": "P46_3",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "46",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2018",
+    "col": "P46_3_O",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "47",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2018",
+    "col": "VFI_P47",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "47",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2018",
+    "col": "P47_1",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para anipulación de alimentos ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "47",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2018",
+    "col": "P47A_1",
+    "desc_col": "Carnés de sanidad para manipulación de alimentos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "47",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2018",
+    "col": "P47_2",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para no manipulación de alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "47",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2018",
+    "col": "P47A_2",
+    "desc_col": "Carnés de sanidad para no manipulación de alimentos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "48",
+    "desc_q": "Municipalidad que tiene vendedores ambulantes registrados y activos ,al 31 de diciembre 2018",
+    "col": "VFI_P48",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "48",
+    "desc_q": "Municipalidad que tiene vendedores ambulantes registrados y activos ,al 31 de diciembre 2018",
+    "col": "P48",
+    "desc_col": "¿La municipalidad tiene vendedores ambulantes registrados y activos?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "48",
+    "desc_q": "Municipalidad que tiene vendedores ambulantes registrados y activos ,al 31 de diciembre 2018",
+    "col": "P48_T",
+    "desc_col": "Número de vendedores ambulantes registrados y activos en la Municipalidad / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "48",
+    "desc_q": "Municipalidad que tiene vendedores ambulantes registrados y activos ,al 31 de diciembre 2018",
+    "col": "P48_M",
+    "desc_col": "Número de vendedores ambulantes registrados y activos en la Municipalidad / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "48",
+    "desc_q": "Municipalidad que tiene vendedores ambulantes registrados y activos ,al 31 de diciembre 2018",
+    "col": "P48_H",
+    "desc_col": "Número de vendedores ambulantes registrados y activos en la Municipalidad / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "VFI_P49",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_1",
+    "desc_col": "¿La municipalidad realizó operativos de control de aseo, higiene y salubridad de establecimientos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_1",
+    "desc_col": "Operativos de control de aseo, higiene y salubridad de establecimientos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_2",
+    "desc_col": "¿La municipalidad realizó operativos de control de verificación de pesas y medidas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_2",
+    "desc_col": "Operativos de control de verificación de pesas y medidas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_3",
+    "desc_col": "¿La municipalidad realizó operativos de control de comercio ambulatorio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_3",
+    "desc_col": "Operativos de control de comercio ambulatorio / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_4",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de funcionamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_4",
+    "desc_col": "Operativos de control de vigencia de licencia de funcionamiento / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_5",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de edificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_5",
+    "desc_col": "Operativos de control de vigencia de licencia de edificación / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_6",
+    "desc_col": "¿La municipalidad realizó operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_6",
+    "desc_col": "Operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_7",
+    "desc_col": "¿La municipalidad realizó operativos de control de anuncios publicitarios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_2",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Complejos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_2_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Complejos deportivos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_3",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Coliseos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_3_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Coliseos deportivos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_4",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas multideportivas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_4_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas multideportivas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_5",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para fulbito?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_5_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para fulbito",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_6",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para vóley?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_6_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para vóley",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_7",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para básquet?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_7_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para básquet",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_8",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Parques zonales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_8_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Parques zonales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_9",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Piscinas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_9_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Piscinas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_10",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Gimnasios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_10_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Gimnasios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_11",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_11_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2023",
+    "col": "P59_11_O",
+    "desc_col": "La municipalidad administra infraestructura deportiva y/o recreativa / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "SERVICIOS SOCIALES"
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "VFI_P60A",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_1",
+    "desc_col": "¿La municipalidad informó que tiene Comité del Programa del Vaso de Leche?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_1_1",
+    "desc_col": "Comité del Programa del Vaso de Leche / Número de organizaciones al 31 de diciembre de 2022",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_1_2",
+    "desc_col": "Comité del Programa del Vaso de Leche / Total de beneficiarios y/o afiliados al 31 de diciembre de 2022",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_2",
+    "desc_col": "¿La municipalidad informó que tiene Comedor Popular?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_2_1",
+    "desc_col": "Comedor Popular / Número de organizaciones al 31 de diciembre de 2022",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_2_2",
+    "desc_col": "Comedor Popular / Total de beneficiarios y/o afiliados al 31 de diciembre de 2022",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_3",
+    "desc_col": "¿La municipalidad informó que tiene Club de Madres?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_3_1",
+    "desc_col": "Club de Madres / Número de organizaciones al 31 de diciembre de 2022",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "60A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2022",
+    "col": "P60A_3_2",
+    "desc_col": "Club de Madres / Total de beneficiarios y/o afiliados al 31 de diciembre de 2022",
+    "values": null,
+    "value_pos": null
+  }
+]

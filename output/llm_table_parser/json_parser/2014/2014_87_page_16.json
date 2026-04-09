@@ -1,0 +1,248 @@
+[
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_07",
+    "desc_col": "Número de licencias para la construcción / Locales de instituciones del Estado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_08",
+    "desc_col": "Número de licencias para la construcción / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "28",
+    "desc_q": "Verificaciones técnicas que realizo la municipalidad a las Obras con Licencia de edificación (Construcción)",
+    "col": "VFI_P28",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "28",
+    "desc_q": "Verificaciones técnicas que realizo la municipalidad a las Obras con Licencia de edificación (Construcción)",
+    "col": "P28",
+    "desc_col": "La municipalidad que realizó verificaciones técnicas",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "28",
+    "desc_q": "Verificaciones técnicas que realizo la municipalidad a las Obras con Licencia de edificación (Construcción)",
+    "col": "P28_01",
+    "desc_col": "Número de obras verificadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "29",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2013",
+    "col": "VFI_P29",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "29",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2013",
+    "col": "P29",
+    "desc_col": "La municipalidad dispone de terrenos para fines de vivienda",
+    "values": "1: Dispone;0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "29",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2013",
+    "col": "P29_01",
+    "desc_col": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con saneamiento físico y legal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "29",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2013",
+    "col": "P29_02",
+    "desc_col": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con factibilidad de servicios de agua, desagüe y electricidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013"
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "VFI_P30",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30",
+    "desc_col": "Municipalidad realizo reparacion y construcción de pistas, veredas, caminos rurales y escalinatas",
+    "values": "1: Realizó.;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_01",
+    "desc_col": "Metros cuadrados / Pistas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_02",
+    "desc_col": "Metros cuadrados / Pistas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_03",
+    "desc_col": "Metros cuadrados / Veredas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_04",
+    "desc_col": "Metros cuadrados / Veredas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_05",
+    "desc_col": "Metros cuadrados / Escalinatas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_06",
+    "desc_col": "Metros cuadrados / Escalinatas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_07",
+    "desc_col": "Kilómetros / Caminos rurales afirmados reparados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_08",
+    "desc_col": "Kilómetros / Caminos rurales afirmados construidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_09",
+    "desc_col": "Kilómetros / Caminos rurales sin afirmar reparados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_M_10",
+    "desc_col": "Kilómetros / Caminos rurales sin afirmar construidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_C_01",
+    "desc_col": "Costo Nuevos Soles / Pistas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_C_02",
+    "desc_col": "Costo Nuevos Soles / Pistas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_C_03",
+    "desc_col": "Costo Nuevos Soles / Veredas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_C_04",
+    "desc_col": "Costo Nuevos Soles / Veredas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_C_05",
+    "desc_col": "Costo Nuevos Soles / Escalinatas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad en el 2013",
+    "col": "P30_C_06",
+    "desc_col": "Costo Nuevos Soles/ Escalinatas construidas",
+    "values": "",
+    "value_pos": null
+  }
+]

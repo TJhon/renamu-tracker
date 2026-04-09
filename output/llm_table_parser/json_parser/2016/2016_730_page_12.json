@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_4_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_4_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_5",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Carné de sanidad para venta de alimentos?",
+    "values": "1:Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_5_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_5_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_5_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_5_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_5_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_5_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_6",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica?",
+    "values": "1:Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_6_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2015",
+    "col": "P33A_6_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Aprobadas",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "VFI_P60",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_01",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O_01",
+    "desc_col": "Número de Organizaciones / Club de Madres",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_02",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O_02",
+    "desc_col": "Número de Organizaciones / Comité Programa de Vaso de Leche",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_03",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O_03",
+    "desc_col": "Número de Organizaciones / Comedores Populares",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_04",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O_04",
+    "desc_col": "Número de Organizaciones / Wawa Wasi",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_05",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O_05",
+    "desc_col": "Número de Organizaciones / Club y Centro del Adulto Mayor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_06",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O_06",
+    "desc_col": "Número de Organizaciones / Organizaciones Juveniles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O_07",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O_07",
+    "desc_col": "Número de Organizaciones / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_01",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_B_01",
+    "desc_col": "Número de beneficiarios / Club de Madres",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_02",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_B_02",
+    "desc_col": "Número de beneficiarios / Comité del Programa de Vaso de Leche",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_03",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_B_03",
+    "desc_col": "Número de beneficiarios / Comedor Popular",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_04",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_B_04",
+    "desc_col": "Número de beneficiarios / Wawa Wasi",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_05",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_B_05",
+    "desc_col": "Número de beneficiarios / Club y Centro del Adulto Mayor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_06",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_B_06",
+    "desc_col": "Número de beneficiarios / Organizaciones Juveniles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_B_07",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_B_07",
+    "desc_col": "Número de beneficiarios / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "P60_O",
+    "desc_q": "Organizaciones sociales y Beneficiarios que existen en el distrito, 2009",
+    "col": "P60_O",
+    "desc_col": "Organizaciones sociales / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": null,
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "VFI_P61",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_01",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "P61_01",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 6 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_05",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "P61_05",
+    "desc_col": "Número de beneficiarios / Niños de 7 a 13 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_06",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "P61_06",
+    "desc_col": "Número de beneficiarios / Madres gestantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_07",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "P61_07",
+    "desc_col": "Número de beneficiarios / Madres en periodo de lactancia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_08",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "P61_08",
+    "desc_col": "Número de beneficiarios / Personas afectadas con TBC",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_09",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "P61_09",
+    "desc_col": "Número de beneficiarios / Adulto mayor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "P61_10",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, 2009",
+    "col": "P61_10",
+    "desc_col": "Número de beneficiarios / Otros (Discapacitados y otros casos sociales)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": null,
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "VFI_P62",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S",
+    "desc_col": "Organismos o instituciones financiaron Programas Sociales en el distrito",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_01",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_01",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / PRONAA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_02",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_02",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / FONCODES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_03",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_03",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_04",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_04",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_05",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_05",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Vivienda (Agua para todos)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_06",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_06",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Transportes y Comunicaciones (Provias Nacional)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_07",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_07",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Gobierno Regional",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_S_08",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2009",
+    "col": "P62_S_08",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Municipio / Gobierno Local",
+    "values": null,
+    "value_pos": null
+  }
+]

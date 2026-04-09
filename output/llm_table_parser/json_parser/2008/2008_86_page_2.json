@@ -1,0 +1,311 @@
+[
+  {
+    "cuadro": "CUADRO_C002",
+    "n_q": "11",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2008",
+    "col": "VFI_P11",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C002",
+    "n_q": "11",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2008",
+    "col": "P11_01",
+    "desc_col": "Número de locales de la municipalidad por condición de propiedad / Propio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C002",
+    "n_q": "11",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2008",
+    "col": "P11_02",
+    "desc_col": "Número de locales de la municipalidad por condición de propiedad /Alquilado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C002",
+    "n_q": "11",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2008",
+    "col": "P11_03",
+    "desc_col": "Número de locales de la municipalidad por condición de propiedad / Cedido",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "12"
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "VFI_P12",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12",
+    "desc_col": "La municipalidad tiene vehículos, maquinarias y equipos",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_01",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camionetas y autos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_02",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Volquetes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_03",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camiones recolectores de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_04",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_05",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Excavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_06",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Retroexcavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_07",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_08",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_09",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Tractor oruga",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_10",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_11",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_12",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Grupo electrógeno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_13",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Bote a motor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_14",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camión cisterna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_O_15",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_01",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Camionetas y autos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_02",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Volquetes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_03",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Camiones recolectores de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_04",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_05",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Excavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_06",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Retroexcavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_07",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_08",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_09",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo /Tractor oruga",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_10",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_11",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_12",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Grupo electrógeno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "12",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2008",
+    "col": "P12_N_13",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Bote a motor",
+    "values": "",
+    "value_pos": null
+  }
+]

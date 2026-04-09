@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2018",
+    "col": "P90_5",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Señalización de zonas de seguridad en áreas de alto riesgo",
+    "values": "5: Si, 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2018",
+    "col": "P90_6",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción",
+    "values": "6: Si, 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2018",
+    "col": "P90_6_O",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2018",
+    "col": "P90_7",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / No realizó acciones",
+    "values": "7: Si, 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "91",
+    "desc_q": "Municipalidades que registraron contar con personal dedicado a la generación de información técnica y científica, sobre peligros, vulnerabilidades y riesgo de desastres, 2019",
+    "col": "VFI_P91",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "91",
+    "desc_q": "Municipalidades que registraron contar con personal dedicado a la generación de información técnica y científica, sobre peligros, vulnerabilidades y riesgo de desastres, 2019",
+    "col": "P91_1",
+    "desc_col": "¿La municipalidad cuenta con personal dedicado a la generación de información técnica y científica, sobre peligros, vulnerabilidades y riesgos de desastres?",
+    "values": "1: Si, y la información que se genera es ingresada al SIGRID; 2: Si, y la información que se genera no es ingresada al SIGRID; 3: No cuenta con personal",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2018",
+    "col": "VFI_P92",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2018",
+    "col": "P92",
+    "desc_col": "¿La Municipalidad ejecutó proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N° 068 \"Reducción de la vulnerabilidad y atención de emergencias por desastres\"?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2018",
+    "col": "P92_1",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Estimación del riesgo",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2018",
+    "col": "P92_2",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Prevención del riesgo",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2018",
+    "col": "P92_3",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Reducción del riesgo",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2018",
+    "col": "P92_4",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Preparación, respuesta y rehabilitación del riesgo",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2018",
+    "col": "P92_5",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Reconstrucción",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "93",
+    "desc_q": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo, 2018",
+    "col": "VFI_P93",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "93",
+    "desc_q": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo, 2018",
+    "col": "P93_1",
+    "desc_col": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo / ¿Se han identificado y caracterizado los peligros (Análisis de Peligrosidad)?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "93",
+    "desc_q": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo, 2018",
+    "col": "P93_2",
+    "desc_col": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo / ¿Se han elaborado Mapas de Peligrosidad?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "93",
+    "desc_q": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo, 2018",
+    "col": "P93_3",
+    "desc_col": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo / ¿Se han realizado Análisis de Vulnerabilidad?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "93",
+    "desc_q": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo, 2018",
+    "col": "P93_4",
+    "desc_col": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo / ¿Se ha determinado el nivel de riesgo (Cálculo del Riesgo)?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "93",
+    "desc_q": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo, 2018",
+    "col": "P93_5",
+    "desc_col": "Procesos para la elaboración de informes y/o estudios de evaluación del riesgo / ¿Se han planteado medidas de prevención y/o reducción del riesgo?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  }
+]

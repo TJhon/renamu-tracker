@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P18_12",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Registro Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P18_13",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P18_13_O",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016"
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "VFI_P19",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_1",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_2",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema Único de Trámites (SUT)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_3",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / MICosto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_4",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema Integrado de Gestión Administrativa (SIGA)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_5",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema Integrado de Administración Financiera (SIAF)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_6",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema de Recaudación Tributaria Municipal (SRTM)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_7",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Saldos de Fondos Públicos (SAFOP)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_8",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema de Saneamiento Contable (SISCO)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_9",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Aplicativo informático para el Registro Centralizado de Planillas y de Datos de los Recursos Humanos del Sector Público (AIRHSP)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_10",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Otro aplicativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2016",
+    "col": "P19_10_O",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Otro aplicativo / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

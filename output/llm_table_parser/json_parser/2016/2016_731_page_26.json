@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_2_3",
+    "desc_col": "Serenazgo dispone de equipamiento / Motocicleta / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Bicicleta?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_3_1",
+    "desc_col": "Serenazgo dispone de equipamiento / Bicicleta / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_3_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Bicicleta / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_3_3",
+    "desc_col": "Serenazgo dispone de equipamiento / Bicicleta / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76_4",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Radio comunicador?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_4_1",
+    "desc_col": "Serenazgo dispone de equipamiento / Radio comunicador / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_4_2",
+    "desc_col": "Serenazgo dispone de equipamiento / Radio comunicador / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_4_3",
+    "desc_col": "Serenazgo dispone de equipamiento / Radio comunicador / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76_5",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Cámara de video vigilancia?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_5_1",
+    "desc_col": "Serenazgo dispone de equipamiento / Cámara de video vigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_5_2",
+    "desc_col": "Serenazgo dispone de equipamiento / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_5_3",
+    "desc_col": "Serenazgo dispone de equipamiento / Cámara de video vigilancia / Número de No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76_6",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Central de control de video vigilancia?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_6_1",
+    "desc_col": "Serenazgo dispone de equipamiento / Central de control de video vigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_6_2",
+    "desc_col": "Serenazgo dispone de equipamiento / Central de control de video vigilancia / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_6_3",
+    "desc_col": "Serenazgo dispone de equipamiento / Central de control de video vigilancia / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C70",
+    "n_q": "76",
+    "desc_q": "El serenazgo dispone de equipamiento, 2016",
+    "col": "P76A_7",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Canes?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

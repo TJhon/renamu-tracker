@@ -1,0 +1,101 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_2_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 100 m² y hasta 500 m² con ITSE Básica Ex Ante / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_2_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 100 m² y hasta 500 m² con ITSE Básica Ex Ante / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_2_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 100 m2 y hasta 500 m2 con ITSE Básica Ex Ante / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_2_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 100 m² y hasta 500 m² con ITSE Básica Ex Ante / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_2_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 100 m² y hasta 500 m² con ITSE Básica Ex Ante / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_3",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para establecimientos con área mayor a 500 m² con ITSE de Detalle o Multidisciplinaria?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_3_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 500 m² con ITSE de Detalle o Multidisciplinaria / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_3_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 500 m² con ITSE de Detalle o Multidisciplinaria / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_3_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 500 m² con ITSE de Detalle o Multidisciplinaria / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_3_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 500 m2 con ITSE de Detalle o Multidisciplinaria / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_3_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 500 m² con ITSE de Detalle o Multidisciplinaria / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "VFI_P103",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "P103",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehiculos menores?",
+    "values": "1: Autorizó; 0: No autorizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "P103_1",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehículos motorizados?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "P103A_1_1",
+    "desc_col": "Número de empresas / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "P103A_1_2",
+    "desc_col": "Número de vehículos / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "P103_2",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehículos no motorizados?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "P103A_2_1",
+    "desc_col": "Número de empresas / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2015",
+    "col": "P103A_2_2",
+    "desc_col": "Número de vehículos / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "CUADRO_C98"
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2015, realizados por la municipalidad en convenios con otras entidades",
+    "col": "VFI_P104",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2015, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104",
+    "desc_col": "Municipalidad realizó programas y proyectos ejecutados y concluidos con otras entidades",
+    "values": "1: Realizó; 0: No Realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2015, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_01",
+    "desc_col": "Programas y proyectos ejecutados y concluidos con otras entidades que realizó la municipalidad / Nombre del programa/Proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2015, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_02",
+    "desc_col": "Programas y proyectos ejecutados y concluidos con otras entidades que realizó la municipalidad / Costo del programa / Proyecto (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2015, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_03",
+    "desc_col": "Programas y proyectos ejecutados y concluidos con otras entidades que realizó la municipalidad / Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2015, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_04",
+    "desc_col": "Programas y proyectos ejecutados y concluidos con otras entidades que realizó la municipalidad / Tiempo de ejecución (en meses)",
+    "values": "",
+    "value_pos": null
+  }
+]

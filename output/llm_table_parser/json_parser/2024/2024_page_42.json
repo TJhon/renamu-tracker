@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "76",
+    "n_q": null,
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2023",
+    "col": "P76_4",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "76",
+    "n_q": null,
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2023",
+    "col": "P76A_4",
+    "desc_col": "Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía) / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "76",
+    "n_q": null,
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2023",
+    "col": "P76_5_1",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó la elaboración del Mapa del Riesgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "76",
+    "n_q": null,
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2023",
+    "col": "P76_6",
+    "desc_col": "¿El Comité Provincial / Distrital de seguridad ciudadana realizó Difusión de anuncios de seguridad ciudadana en la página web y/o redes sociales de la municipalidad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "76",
+    "n_q": null,
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2023",
+    "col": "P76_8",
+    "desc_col": "¿El Comité Provincial / Distrital de seguridad ciudadana realizó la publicación de documentos en materia de seguridad ciudadana: Plan de Seguridad Ciudadana, Acuerdo de sesiones, Informe de evaluaciones, entre otros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "76",
+    "n_q": null,
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2023",
+    "col": "P76_7",
+    "desc_col": "¿El Comité Provincial / Distrital de seguridad ciudadana realizó Recuperación de espacios públicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "77",
+    "n_q": null,
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana, 2023",
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "77",
+    "n_q": null,
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana, 2023",
+    "col": "P77_1",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana ha sido / Ratificado mediante Ordenanza Municipal?",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "77",
+    "n_q": null,
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana, 2023",
+    "col": "P77_2",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana ha sido / Articulado al Plan Operativo Institucional?",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "77",
+    "n_q": null,
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana, 2023",
+    "col": "P77_3",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana ha sido / Derivado al Comité Regional / Provincial para su evaluación?",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "77",
+    "n_q": null,
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana, 2023",
+    "col": "P77_4",
+    "desc_col": "No tiene Plan de Seguridad Ciudadana",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "78",
+    "n_q": null,
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2023",
+    "col": "VFI_P78",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "78",
+    "n_q": null,
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2023",
+    "col": "P78_1",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa del Delito",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "78",
+    "n_q": null,
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2023",
+    "col": "P78_2",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa de Riesgo",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "78",
+    "n_q": null,
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2023",
+    "col": "P78_3",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Plan de Patrullaje Integrado del Serenazgo con la Policía Nacional del Perú",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "78",
+    "n_q": null,
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2023",
+    "col": "P78_4",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "78",
+    "n_q": null,
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2023",
+    "col": "P78_4_O",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "78",
+    "n_q": null,
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2023",
+    "col": "P78_5",
+    "desc_col": "El Plan de Seguridad Ciudadana no tiene instrumentos técnicos",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "79",
+    "n_q": null,
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2024",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "79",
+    "n_q": null,
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2024",
+    "col": "P79_1",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Ronda Urbana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "79",
+    "n_q": null,
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2024",
+    "col": "P79A_1_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana / Registradas en la municipalidad / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": null,
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2024",
+    "col": "P79A_1_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana / No registradas en la municipalidad / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": null,
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2024",
+    "col": "P79_2",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Ronda Campesina?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

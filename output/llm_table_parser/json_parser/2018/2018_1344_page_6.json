@@ -1,0 +1,149 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "P25_1_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo / Número de sesiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "P25_2",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en la elaboración del Plan de Desarrollo Municipal Concertado",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "P25_3",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en el Presupuesto Participativo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "P25_4",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "P25_4_O",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "P25_5",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / No ejecutó actividades",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "VFI_P26"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "VFI_P26",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_1",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los objetivos, indicadores y metas del PDMC concuerden con los objetivos, indicadores y metas del PDRC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_2",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los indicadores permitan verificar el cumplimiento de los objetivos y metas del PDMC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_3",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Tiene unidades responsables de la ejecución de cada meta del PDMC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_4",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que las metas del mediano plazo del PDMC se descompongan en metas anuales",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_5",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que exista correspondencia entre las partidas presupuestales y el PDMC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_6",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Genera información estadística social, económica y ambiental de su competencia",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_7",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Genera información de reducción de brechas de género en la municipalidad y en la sociedad civil",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_8",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los indicadores de resultado concretos sobre el ciudadano puedan medir los resultados del gasto",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_9",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que la información del presupuesto esté a disposición de la ciudadanía en la página Web",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

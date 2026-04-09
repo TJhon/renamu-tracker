@@ -1,0 +1,56 @@
+[
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2020?",
+    "col": "VFI_P39",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2020?",
+    "col": "P39_1",
+    "desc_col": "¿La municipalidad realizó Levantamiento catastral?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2020?",
+    "col": "P39A_1",
+    "desc_col": "Año del último Levantamiento catastral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2020?",
+    "col": "P39_2",
+    "desc_col": "¿La municipalidad realizó Actualización catastral?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2020?",
+    "col": "P39A_2",
+    "desc_col": "Año de la última Actualización catastral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2020?",
+    "col": "P39_3",
+    "desc_col": "¿La municipalidad realizó Mantenimiento catastral?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

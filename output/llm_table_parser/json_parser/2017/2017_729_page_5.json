@@ -1,0 +1,70 @@
+[
+  {
+    "col": "P21_7_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Personal de Vigilancia / Mujer"
+  },
+  {
+    "col": "P21_7_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Personal de Vigilancia / Hombre"
+  },
+  {
+    "col": "P21_7_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Personal de Vigilancia / Mujer"
+  },
+  {
+    "col": "P21_7_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Personal de Vigilancia / Hombre"
+  },
+  {
+    "col": "P21_7_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Mujer"
+  },
+  {
+    "col": "P21_7_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Hombre"
+  },
+  {
+    "col": "P21_7_VM",
+    "desc_col": "Contrato Administrativo de Servicios(CAS) / Personal de Vigilancia / Mujer"
+  },
+  {
+    "col": "P21_7_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Personal de Vigilancia / Hombre"
+  },
+  {
+    "col": "P21_7_SM",
+    "desc_col": "Locación de Servicios / Personal de Vigilancia / Mujer"
+  },
+  {
+    "col": "P21_7_SH",
+    "desc_col": "Locación de Servicios / Personal de Vigilancia / Hombre"
+  },
+  {
+    "col": "P21D_T",
+    "desc_col": "Total personal"
+  },
+  {
+    "col": "P21D_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Mujer"
+  },
+  {
+    "col": "P21D_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Hombre"
+  },
+  {
+    "col": "P21D_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Mujer"
+  },
+  {
+    "col": "P21D_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Hombre"
+  },
+  {
+    "col": "P21D_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Mujer"
+  },
+  {
+    "col": "P21D_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Hombre"
+  }
+]

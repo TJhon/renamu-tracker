@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2019",
+    "col": "P22_C24",
+    "desc_col": "Capacitación que requiere / Otro",
+    "values": "24: Si; 0: No",
+    "value_pos": 24
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2019",
+    "col": "P22_C24_O",
+    "desc_col": "Capacitación que requiere / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "FINANZAS MUNICIPALES"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "VFI_C100",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100",
+    "desc_col": "Total Ingresos (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1",
+    "desc_col": "I. Ingresos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1",
+    "desc_col": "Impuestos y contribuciones obligatorias / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_1",
+    "desc_col": "Impuestos y contribuciones obligatorias / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_2",
+    "desc_col": "Impuestos y contribuciones obligatorias / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_3",
+    "desc_col": "Impuestos y contribuciones obligatorias / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_4",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los casinos de juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_5",
+    "desc_col": "Impuestos y contribuciones obligatorias / A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_6",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_7",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_1_8",
+    "desc_col": "Impuestos y contribuciones obligatorias / Otros impuestos y contribuciones obligatorias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_2",
+    "desc_col": "Contribuciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_3",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_3_1",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos generales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_3_2",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_3_3",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_3_4",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria y comercio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_3_5",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_1_3_6",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones",
+    "values": "",
+    "value_pos": null
+  }
+]

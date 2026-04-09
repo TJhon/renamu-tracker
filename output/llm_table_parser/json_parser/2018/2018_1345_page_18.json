@@ -1,0 +1,275 @@
+[
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_11",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Radio comunicador para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_11_1",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Radio comunicador / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_11_2",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Radio comunicador / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_11_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Radio comunicador / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_12",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Cámara de videovigilancia para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_12_1",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_12_2",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_12_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_13",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Otro para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_13_1",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_13_2",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_13_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_13_O",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / Especifico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_14",
+    "desc_col": "¿El serenazgo dispone de infraestructura como Caseta, módulo o/y puesto de vigilancia para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_14_1",
+    "desc_col": "Infraestructura que dispone el serenazgo / Caseta, módulo y/o puesto de vigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_14_2",
+    "desc_col": "Infraestructura que dispone el serenazgo / Caseta, módulo y/o puesto de vigilancia / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_14_3",
+    "desc_col": "Infraestructura que dispone el serenazgo / Caseta, módulo y/o puesto de vigilancia / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_15",
+    "desc_col": "¿El serenazgo dispone de infraestructura como Central de control de videovigilancia para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_15_1",
+    "desc_col": "Infraestructura que dispone el serenazgo / Central de control de videovigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_15_2",
+    "desc_col": "Infraestructura que dispone el serenazgo / Central de control de videovigilancia / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_15_3",
+    "desc_col": "Infraestructura que dispone el serenazgo / Central de control de videovigilancia / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_16",
+    "desc_col": "¿El serenazgo dispone de infraestructura como Otro para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_16_1",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_16_2",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_16_3",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_16_O",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / Especifico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Distrito sectorizado para actividades de patrullaje, 2018"
+  },
+  {
+    "cuadro": "74A",
+    "n_q": "VFI_P74A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2018",
+    "col": "VFI_P74A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "74A",
+    "n_q": "P74A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2018",
+    "col": "P74A",
+    "desc_col": "¿El distrito está sectorizado para actividades de patrullaje?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "74A",
+    "n_q": "P74A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2018",
+    "col": "P74A_1",
+    "desc_col": "Sectores / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "74A",
+    "n_q": "P74A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2018",
+    "col": "P74A_2",
+    "desc_col": "Sectores patrullados / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

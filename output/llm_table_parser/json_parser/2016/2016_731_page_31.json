@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P84A_5",
+    "desc_col": "Número de organizaciones que registró la municipalidad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P84A_5_O",
+    "desc_col": "La municipalidad registró organizaciones de seguridad vecinal y comunal / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85",
+    "desc_col": "¿La Municipalidad realizó acciones para prevenir el consumo de drogas y alcohol?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_1",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Conformación de un Comité Multisectorial de prevención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_2",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Convenios de cooperación de prevención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_3",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención en instituciones educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_4",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención y fortalecimiento en familias (Comités vecinales, club de madres y comités del Programa de Vaso de Leche )",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_5",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Campañas de concientización en ferias, medios de comunicación y otros eventos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_6",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Actividades recreativas, deportivas, culturales y de formación de valores",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_7",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por la Comisión Nacional para el Desarrollo y Vida sin Drogas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C79",
+    "n_q": "85",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2015",
+    "col": "P85_8",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por Organización No Gubernamental",
+    "values": "",
+    "value_pos": null
+  }
+]

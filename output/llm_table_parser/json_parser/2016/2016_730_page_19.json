@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_14",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para gimnasios?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_14",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Gimnasios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_15",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_15",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_15_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_16",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_16",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_16_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_17",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_17",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_17_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_18",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de artesanías?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_18",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / ARTESANÍA Y MANUFACTURA / Establecimientos de artesanías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_19",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para fábricas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_19",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / ARTESANÍA Y MANUFACTURA / Fábricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_20",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para bodegas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_20",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Bodegas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_21",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para farmacias y boticas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39A_21",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Farmacias y boticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, 2015",
+    "col": "P39_22",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para panaderías?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

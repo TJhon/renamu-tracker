@@ -1,0 +1,190 @@
+[
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "85",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2018",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "85",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2018",
+    "col": "P85",
+    "desc_col": "¿se ha constituido la Plataforma de defensa civil en el municipio?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "85",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2018",
+    "col": "P85A",
+    "desc_col": "Número de Resolución de Alcaldía",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "85",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2018",
+    "col": "P85_1",
+    "desc_col": "La municipalidad tiene constituida la Plataforma de Defensa Civil / Tiene Reglamento Interno de Funcionamiento?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "85",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2018",
+    "col": "P85_2",
+    "desc_col": "La municipalidad tiene constituida la Plataforma de Defensa Civil / Tiene Plan de Trabajo Anual para el año 2018?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "86",
+    "desc_q": "Municipalidades que tienen brigadas de Defensa Civil Constituidas por el voluntariado en emergencias y rehabilitación, 2018",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "86",
+    "desc_q": "Municipalidades que tienen brigadas de Defensa Civil Constituidas por el voluntariado en emergencias y rehabilitación, 2018",
+    "col": "P86",
+    "desc_col": "¿ La municipicplaidad tiene brigadas de defensa civil consituidas por el voluntariado en emergencias y rehabilitación?",
+    "values": "1: Si;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "86",
+    "desc_q": "Municipalidades que tienen brigadas de Defensa Civil Constituidas por el voluntariado en emergencias y rehabilitación, 2018",
+    "col": "P86A_1",
+    "desc_col": "Numero de Resolución de Alcaldía u otra norma",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "86",
+    "desc_q": "Municipalidades que tienen brigadas de Defensa Civil Constituidas por el voluntariado en emergencias y rehabilitación, 2018",
+    "col": "P86A_2",
+    "desc_col": "N° de Brigadas",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "86",
+    "desc_q": "Municipalidades que tienen brigadas de Defensa Civil Constituidas por el voluntariado en emergencias y rehabilitación, 2018",
+    "col": "P86A_3",
+    "desc_col": "N° de Voluntarios que conforman el Total de brigadas",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "87",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2018",
+    "col": "VFI_P87",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "87",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2018",
+    "col": "P87_1",
+    "desc_col": "¿La municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL)?",
+    "values": "1: Sí y el COEL se encuentra contemplado dentro de la estructura orgánica de la municipalidad;2: Sí y el COEL no se encuentra contemplado dentro de la estructura orgánica de la municipalidad;3: No se ha conformado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "88",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2018",
+    "col": "VFI_P88",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "88",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2018",
+    "col": "P88_1",
+    "desc_col": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL)",
+    "values": "1: Funciona las 24 horas;2: Funciona solo en horario de oficina;3: Funciona solo cuando hay una emergencia",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "VFI_P89",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "P89_1",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Personal con dedicación exclusiva?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "P89_2",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Computadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "P89_3",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Radio comunicador?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "P89_4",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Línea de telefonía fija?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "P89_5",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Línea de telefonía móvil?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "P89_6",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Otro?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "89",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2018",
+    "col": "P89_6_O",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene / Otro / Especifique",
+    "values": ""
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60A_1",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Número de equipos operativos / Fotocopiadora",
+    "values": "1: Sí; 2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60A_2",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Número de equipos operativos / Escáner?",
+    "values": "1: Sí; 2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60A_3",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Impresora básica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60A_4",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Impresora multifuncional?",
+    "values": "1: Sí; 2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60A_5",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Proyector multimedia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60A_6",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60A_O",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018"
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "VFL_P61",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "P61A_1",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Estadios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "P61A_2",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Complejos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "P61A_3",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Coliseos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "P61A_4",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas multideportivas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "P61A_5",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para fútbol?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "P61A_6",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para vóley?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "61",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2018",
+    "col": "P61A_7",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para básquet?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

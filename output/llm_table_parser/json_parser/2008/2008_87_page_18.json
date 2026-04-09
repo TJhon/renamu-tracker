@@ -1,0 +1,248 @@
+[
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, en el 2007",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, en el 2007",
+    "col": "P75",
+    "desc_col": "La municipalidad registró vehículos menores",
+    "values": "1: Si registro; 0: No registro",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, en el 2007",
+    "col": "P75_E_01",
+    "desc_col": "Número de empresas / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, en el 2007",
+    "col": "P75_E_02",
+    "desc_col": "Número de empresas / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, en el 2007",
+    "col": "P75_V_01",
+    "desc_col": "Numero de vehículos / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, en el 2007",
+    "col": "P75_V_02",
+    "desc_col": "Número de vehículos / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "76",
+    "desc_q": "Programas y proyectos que ejecutados por la municipalidad a través de convenios con otras entidades que fueron concluidos, en el 2007.",
+    "col": "VFI_P76",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "76",
+    "desc_q": "Programas y proyectos que ejecutados por la municipalidad a través de convenios con otras entidades que fueron concluidos, en el 2007.",
+    "col": "P76_N",
+    "desc_col": "Número de Programas o Proyectos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "76",
+    "desc_q": "Programas y proyectos que ejecutados por la municipalidad a través de convenios con otras entidades que fueron concluidos, en el 2007.",
+    "col": "P76_01",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Nombre del programa / Proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "76",
+    "desc_q": "Programas y proyectos que ejecutados por la municipalidad a través de convenios con otras entidades que fueron concluidos, en el 2007.",
+    "col": "P76_02",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad/ Costo del programa / Proyecto (nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "76",
+    "desc_q": "Programas y proyectos que ejecutados por la municipalidad a través de convenios con otras entidades que fueron concluidos, en el 2007.",
+    "col": "P76_03",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad/ Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "76",
+    "desc_q": "Programas y proyectos que ejecutados por la municipalidad a través de convenios con otras entidades que fueron concluidos, en el 2007.",
+    "col": "P76_04",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad/ Tiempo de duración (en meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "77",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2008",
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "77",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2008",
+    "col": "P77_N",
+    "desc_col": "Número de obras de inversión aprobadas por el presupuesto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "77",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2008",
+    "col": "P77_01",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto/ Nombre de la obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "77",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2008",
+    "col": "P77_02",
+    "desc_col": "Sector Económico",
+    "values": "1: Educación; 2: Salud; 3: Turismo; 4: Transporte y comunicaciones; 5: Electricidad, agua y alcantarillado; 6: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "77",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2008",
+    "col": "P77_03",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto/ Sector Económico/ Monto de inversión previsto (nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "78",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2008",
+    "col": "VFI_P78",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "78",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2008",
+    "col": "P78",
+    "desc_col": "La municipalidad tiene Oficina de Programación de Inversiones (OPI)",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "78",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2008",
+    "col": "P78_01",
+    "desc_col": "Razón por la que no dispone de OPI la Municipalidad",
+    "values": "1: No tiene personal especializado; 2: Desconoce cómo integrarse al SNIP; 3: Desconoce la función del SNIP; 4: Falta de presupuesto para implementarla; 5: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "78",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2008",
+    "col": "P78_O",
+    "desc_col": "Razón por la que no dispone de OPI la Municipalidad/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SNIP : Sistema Nacional de Inversión Pública"
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "79",
+    "desc_q": "Producción artesanal en el distrito, 2008",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "79",
+    "desc_q": "Producción artesanal en el distrito, 2008",
+    "col": "P79",
+    "desc_col": "El distrito tiene producción artesanal",
+    "values": "1: Si tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "79",
+    "desc_q": "Producción artesanal en el distrito, 2008",
+    "col": "P79_01",
+    "desc_col": "Producción artesanal / Lácteos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "79",
+    "desc_q": "Producción artesanal en el distrito, 2008",
+    "col": "P79_02",
+    "desc_col": "Producción artesanal / Miel de abeja",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "79",
+    "desc_q": "Producción artesanal en el distrito, 2008",
+    "col": "P79_03",
+    "desc_col": "Producción artesanal / Textiles (tejidos de punto, tapiz)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "79",
+    "desc_q": "Producción artesanal en el distrito, 2008",
+    "col": "P79_04",
+    "desc_col": "Producción artesanal / Alfarería – cerámica",
+    "values": "",
+    "value_pos": null
+  }
+]

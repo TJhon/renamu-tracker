@@ -1,0 +1,197 @@
+[
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2015",
+    "col": "P78",
+    "desc_col": "Provincial/Distrital de Seguridad Ciudadana?",
+    "values": "0: No Conformó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2015",
+    "col": "P79",
+    "desc_col": "¿La Municipalidad tiene Plan de Seguridad Ciudadana?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2015",
+    "col": "P79_1",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital ha sido/ Ratificado mediante Ordenanza Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2015",
+    "col": "P79_2",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital ha sido/ Articulado al Plan Operativo Institucional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2015",
+    "col": "P79_3",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital ha sido/ Derivado al Comité Regional/Provincial para su",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015"
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "P79",
+    "desc_col": "¿La Municipalidad tiene Plan de Seguridad Ciudadana?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "P80",
+    "desc_col": "¿El Plan de Seguridad Ciudadana tiene instrumentos técnicos?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "P80_1",
+    "desc_col": "El Plan de Seguridad Ciudadana contiene / Mapa del Delito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "P80_2",
+    "desc_col": "El Plan de Seguridad Ciudadana contiene/ Mapa de Riesgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "P80_3",
+    "desc_col": "El Plan de Seguridad Ciudadana contiene / Plan de Patrullaje Integrado del Serenazgo con la Policía Nacional del Perú",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "P80_4",
+    "desc_col": "El Plan de Seguridad Ciudadana contiene / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2015",
+    "col": "P80_4_O",
+    "desc_col": "El Plan de Seguridad Ciudadana contiene / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015"
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "VFI_P81",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "P81",
+    "desc_col": "¿La Municipalidad tiene Serenazgo?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "P81_1_T",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre del 2014 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "P81_1_M",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre del 2014 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "P81_1_H",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre del 2014 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "P81A_1",
+    "desc_col": "Número de Puestos de vigilancia al 31 de diciembre del 2014",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "P81_2_T",
+    "desc_col": "Efectivos de serenazgo al 30 de junio 2015 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "81",
+    "desc_q": "Serenazgo de la municipalidad, al 31 de diciembre del 2014 y 30 de junio 2015",
+    "col": "P81_2_M",
+    "desc_col": "Efectivos de serenazgo al 30 de junio 2015 / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

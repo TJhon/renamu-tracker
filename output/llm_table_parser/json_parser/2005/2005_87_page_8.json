@@ -1,0 +1,389 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "por la municipalidad",
+    "col": "V2",
+    "desc_col": "Frecuencia de recojo de basura / Interdiaria",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "por la municipalidad",
+    "col": "V3",
+    "desc_col": "Frecuencia de recojo de basura / Semanal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V1",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Menos de 25%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V2",
+    "desc_col": "Cobertura del servicio de recojo de Basura / De 25% a 49%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V3",
+    "desc_col": "Cobertura del servicio de recojo de Basura / De 50% a 74%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V4",
+    "desc_col": "Cobertura del servicio de recojo de Basura / De 75% a 100%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0039",
+    "n_q": "43",
+    "desc_q": "Financiamiento para el recojo de basura en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "Financiamiento para el recojo de Basura /Autofinanciamiento",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0039",
+    "n_q": "43",
+    "desc_q": "Financiamiento para el recojo de basura en el distrito, en el 2004",
+    "col": "V2",
+    "desc_col": "Financiamiento para el recojo de Basura/ Apoyo de otras instituciones",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0039",
+    "n_q": "43",
+    "desc_q": "Financiamiento para el recojo de basura en el distrito, en el 2004",
+    "col": "V3",
+    "desc_col": "Financiamiento para el recojo de Basura/ Convenio con instituciones",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0039",
+    "n_q": "43",
+    "desc_q": "Financiamiento para el recojo de basura en el distrito, en el 2004",
+    "col": "V4",
+    "desc_col": "Financiamiento para el recojo de Basura/ Servicio tradicional y artesanal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0039",
+    "n_q": "43",
+    "desc_q": "Financiamiento para el recojo de basura en el distrito, en el 2004",
+    "col": "V5",
+    "desc_col": "Financiamiento para el recojo de Basura/ Otras formas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V1",
+    "desc_col": "Destino final de la basura recolectada / Total (100%)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V2",
+    "desc_col": "Destino final de la basura recolectada (%) / Relleno sanitario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V3",
+    "desc_col": "Destino final de la basura recolectada (%) / Botadero a cielo abierto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V4",
+    "desc_col": "Destino final de la basura recolectada (%) / Vertidos en el río",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V5",
+    "desc_col": "Destino final de la basura recolectada (%) / Vertidos en el mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V6",
+    "desc_col": "Destino final de la basura recolectada (%) / Reciclaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V7",
+    "desc_col": "Destino final de la basura recolectada (%) / Quemada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0040",
+    "n_q": "44",
+    "desc_q": "Destino final de la basura recolectada",
+    "col": "V8",
+    "desc_col": "Destino final de la basura recolectada (%) / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V1",
+    "desc_col": "Operativos de Control / Aseo, higiene y salubridad",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V2",
+    "desc_col": "Operativos de Control / Carnet de sanidad",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V3",
+    "desc_col": "Operativos de Control / Servicios higiénicos públicos",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V4",
+    "desc_col": "Operativos de Control / Fumigación",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V5",
+    "desc_col": "Operativos de Control / Anuncios",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V6",
+    "desc_col": "Operativos de Control / Pesas y medidas",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V7",
+    "desc_col": "Operativos de Control / Alimentos",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V8",
+    "desc_col": "Operativos de Control / Comercio ambulatorio",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V9",
+    "desc_col": "Operativos de Control / Transporte urbano",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V10",
+    "desc_col": "Operativos de Control / Vigencia de licencias de construcción",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V11",
+    "desc_col": "Operativos de Control / Vigencia de licencia de funcionamiento",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V12",
+    "desc_col": "Operativos de Control / Emisión de hornos, gases tóxicos y ruidos",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "45",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2004",
+    "col": "V13",
+    "desc_col": "Operativos de Control / Otro",
+    "values": "1: Si realizo;0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V1",
+    "desc_col": "La Municipalidad emitió carnet de sanidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V2",
+    "desc_col": "Número de carnet / 2003 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V3",
+    "desc_col": "Número de carnet / 2003 / Para venta de alimentos en restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V4",
+    "desc_col": "Número de carnet / 2003 / Para venta ambulatoria de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V5",
+    "desc_col": "Número de carnet / 2003 / Otros carnets",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V6",
+    "desc_col": "Número de carnet / 2004 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V7",
+    "desc_col": "Número de carnet / 2004 / Para venta de alimentos en restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V8",
+    "desc_col": "Número de carnet / 2004 / Para venta ambulatoria de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "46",
+    "desc_q": "Carnet de sanidad expedidos por la municipalidad en el 2003 y 2004",
+    "col": "V9",
+    "desc_col": "Número de carnet / 2004 / Otros carnets",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0043",
+    "n_q": "47",
+    "desc_q": "Número de ambulantes registrados en la",
+    "col": "V1",
+    "desc_col": "La Municipalidad tiene ambulantes registrados",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0043",
+    "n_q": "47",
+    "desc_q": "Número de ambulantes registrados en la",
+    "col": "V2",
+    "desc_col": "Número de ambulantes registrados en la Municipalidad / 2003",
+    "values": "",
+    "value_pos": null
+  }
+]

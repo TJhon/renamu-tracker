@@ -1,0 +1,254 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_14",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO: Granjas avícolas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_15",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos AGROPECUARIO: Establos lecheros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_15",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO / Establos lecheros / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_16",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos AGROPECUARIO: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_16",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_16_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO / Otro / Especifique la de la mayor frecuencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_17",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Artesanías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_17",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Artesanías / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_18",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Fábricas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_18",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Fábricas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_19",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Plantas agroindustriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_19",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Plantas agroindustriales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_20",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Cueros y pieles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_20",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Cueros y pieles / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_21",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Panaderías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_21",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Panaderías / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_22",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_22",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_22_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Otro / Especifique la de la mayor frecuencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_23",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Bodegas y otros establecimientos de expendio de abarrotes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_23",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Bodegas y otros establecimientos de expendio de abarrotes / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_24",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Farmacias y boticas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_24",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Farmacias y boticas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_25",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Ferreterías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_25",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Ferreterías / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_26",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Prendas de vestir?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_26",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Prendas de vestir / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_27",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Calzado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

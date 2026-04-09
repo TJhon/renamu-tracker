@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "de Coordinación Local, en el 2013",
+    "col": "P19_05",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Hace cumplir los acuerdos concertados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "H2"
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "20",
+    "desc_q": "Catastro Distrital, 2014",
+    "col": "VFI_P20",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "20",
+    "desc_q": "Catastro Distrital, 2014",
+    "col": "P20",
+    "desc_col": "Municipalidad que tiene catastro distrital",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "20",
+    "desc_q": "Catastro Distrital, 2014",
+    "col": "P20_01",
+    "desc_col": "Año del último catastro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "VFI_P21",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "P21",
+    "desc_col": "La municipalidad emitió normas",
+    "values": "1: Emitió;0: No emitió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "P21_01",
+    "desc_col": "Normas emitidas / Ordenanza Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "P21_02",
+    "desc_col": "Normas emitidas / Acuerdo de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "P21_03",
+    "desc_col": "Normas emitidas / Decreto de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "P21_04",
+    "desc_col": "Normas emitidas / Resolución de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "P21_05",
+    "desc_col": "Normas emitidas / Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "21",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2013",
+    "col": "P21_06",
+    "desc_col": "Normas emitidas / Otras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "VFI_P22",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22",
+    "desc_col": "La municipalidad implementó acciones",
+    "values": "1: Implementó;0: No implementó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_01",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Los objetivos y metas del PDRC concuerdan con los objetivos y metas del PDRC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_02",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Tiene indicadores para verificar el cumplimiento de los objetivos y metas del PDMC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_03",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Tiene unidades responsables de la ejecución de cada meta del PDMC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_04",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Las metas de mediano plazo del PDMC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_05",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Existe correspondencia entre las partidas presupuestadas y el PDMC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_06",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Genera información estadística social, económica y ambiental de su competencia",
+    "values": "",
+    "value_pos": null
+  }
+]

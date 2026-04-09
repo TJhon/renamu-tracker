@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2020",
+    "col": "P19M_VM",
+    "desc_col": "Total de personal / Contrato Administrativo de Servicios (CAS) / Mujer / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2020",
+    "col": "P19M_VH",
+    "desc_col": "Total de personal / Contrato Administrativo de Servicios (CAS) / Hombre / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "VFI_P19A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P19A",
+    "desc_col": "¿La Municipalidad tiene personal de Locación de Servicios?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P19A_1_T",
+    "desc_col": "Personal de Locación de Servicios / Total / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P19A_1_M",
+    "desc_col": "Personal de Locación de Servicios / Mujer / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P19A_1_H",
+    "desc_col": "Personal de Locación de Servicios / Hombre / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P19A_2_T",
+    "desc_col": "Personal de Locación de Servicios / Total / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P19A_2_M",
+    "desc_col": "Personal de Locación de Servicios / Mujer / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación de Servicios, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P19A_2_H",
+    "desc_col": "Personal de Locación de Servicios / Hombre / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "VFI_P20",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P20",
+    "desc_col": "¿La Municipalidad tiene personal con discapacidad?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P20_1_T",
+    "desc_col": "Personal con discapacidad / Total / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P20_1_M",
+    "desc_col": "Personal con discapacidad / Mujer / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P20_1_H",
+    "desc_col": "Personal con discapacidad / Hombre / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P20_2_T",
+    "desc_col": "Personal con discapacidad / Total / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P20_2_M",
+    "desc_col": "Personal con discapacidad / Mujer / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P20_2_H",
+    "desc_col": "Personal con discapacidad / Hombre / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "VFI_P21",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21",
+    "desc_col": "¿La Municipalidad tiene pensionistas?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_1_T",
+    "desc_col": "Decreto Ley N°19990 / Total / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_1_M",
+    "desc_col": "Decreto Ley N°19990 / Mujer / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_1_H",
+    "desc_col": "Decreto Ley N°19990 / Hombre / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_1_T_20",
+    "desc_col": "Decreto Ley N°19990 / Total / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_1_M_20",
+    "desc_col": "Decreto Ley N°19990 / Mujer / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_1_H_20",
+    "desc_col": "Decreto Ley N°19990 / Hombre / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_2_T",
+    "desc_col": "Decreto Ley N°20530 / Total / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_2_M",
+    "desc_col": "Decreto Ley N°20530 / Mujer / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_2_H",
+    "desc_col": "Decreto Ley N°20530 / Hombre / 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_2_T_20",
+    "desc_col": "Decreto Ley N°20530 / Total / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_2_M_20",
+    "desc_col": "Decreto Ley N°20530 / Mujer / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2019 y al 31 de marzo 2020",
+    "col": "P21_2_H_20",
+    "desc_col": "Decreto Ley N°20530 / Hombre / 31 de marzo 2020",
+    "values": null,
+    "value_pos": null
+  }
+]

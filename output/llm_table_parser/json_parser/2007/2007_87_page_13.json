@@ -1,0 +1,383 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P71_08",
+    "desc_q": "Número de establecimientos / Empresas de transporte acuático",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P71_09",
+    "desc_q": "Número de establecimientos / Empresas de alquiler de autos (Rent a Car)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P71_10",
+    "desc_q": "Número de establecimientos / Establecimientos de venta de artesanía",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P71_11",
+    "desc_q": "Número de establecimientos / Discotecas turísticas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P71_12",
+    "desc_q": "Número de establecimientos / Peñas turísticas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P71_13",
+    "desc_q": "Número de establecimientos / Juegos de casinos y máquinas tragamonedas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P71_14",
+    "desc_q": "Número de establecimientos / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P71_O",
+    "desc_q": "Número de establecimientos / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007"
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "VFI_P72",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72",
+    "desc_q": "La municipalidad realizó acciones para incentivar el turismo",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_01",
+    "desc_q": "Acciones para incentivar el turismo / Promoción y publicidad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_02",
+    "desc_q": "Acciones para incentivar el turismo / Implementación de una oficina de turismo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_03",
+    "desc_q": "Acciones para incentivar el turismo / Instalación de áreas de información turística",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_04",
+    "desc_q": "Acciones para incentivar el turismo / Mejoramiento de la infraestructura de acceso",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_05",
+    "desc_q": "Acciones para incentivar el turismo / Construcción de nuevos atractivos turísticos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_06",
+    "desc_q": "Acciones para incentivar el turismo / Coordinación con la entidad competente para el mantenimiento de los atractivos turísticos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_07",
+    "desc_q": "Acciones para incentivar el turismo / Ordenanzas a favor del desarrollo turístico",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_08",
+    "desc_q": "Acciones para incentivar el turismo / Realización de eventos y/o ferias turísticas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_09",
+    "desc_q": "Acciones para incentivar el turismo / Capacitación a promotores de turismo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_10",
+    "desc_q": "Acciones para incentivar el turismo / Programas de conciencia turística a la población",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_11",
+    "desc_q": "Acciones para incentivar el turismo / Convenios institucionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_12",
+    "desc_q": "Acciones para incentivar el turismo / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "P72_O",
+    "desc_q": "Acciones para incentivar el turismo / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Denuncias ambientales registradas en la municipalidad en el 2007"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "VFI_P72",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "P73",
+    "desc_q": "La municipalidad registró denuncias ambientales",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "P73_01",
+    "desc_q": "Número de denuncias recepcionadas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "P73_02",
+    "desc_q": "Número de Denuncias atendidas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Contaminantes en el aire de mayor incidencia que afectan al distrito, 2007"
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "VFI_P74",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74",
+    "desc_q": "En el distrito existe contaminantes en el aire",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74_01",
+    "desc_q": "Contaminantes en el aire / Material particularizado fino",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74_02",
+    "desc_q": "Contaminantes en el aire / Dióxido de azufre",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74_03",
+    "desc_q": "Contaminantes en el aire / Plomo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74_04",
+    "desc_q": "Contaminantes en el aire / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P72_O",
+    "desc_q": "Contaminantes en el aire/ Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Fuentes que originan la contaminación ambiental en el distrito, 2007"
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "VFI_P75",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75",
+    "desc_q": "En el distrito existen fuentes de contaminación",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_01",
+    "desc_q": "Fuente contaminante / Emanación de gases y partículas de fábrica o refinerías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_02",
+    "desc_q": "Fuente contaminante / Gases de vehículos motorizados",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_03",
+    "desc_q": "Fuente contaminante / Relaves mineros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_04",
+    "desc_q": "Fuente contaminante / Ruidos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_05",
+    "desc_q": "Fuente contaminante / Aguas servidas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

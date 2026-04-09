@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "61",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil, en la municipalidad, 2014",
+    "col": "VFI_P61",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "61",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil, en la municipalidad, 2014",
+    "col": "P61",
+    "desc_col": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil",
+    "values": "1: Constituido;0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "61",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil, en la municipalidad, 2014",
+    "col": "P61_01",
+    "desc_col": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil / Constituido y se reúne periódicamente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "61",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil, en la municipalidad, 2014",
+    "col": "P61_02",
+    "desc_col": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil / Funciona solo cuando hay una emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "61",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil, en la municipalidad, 2014",
+    "col": "P61_03",
+    "desc_col": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil /Cuenta con Secretario Técnico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "VFI_P62",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62",
+    "desc_col": "La municipalidad dispone instrumentos técnicos de Defensa Civil",
+    "values": "1: Dispone;0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_01",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Plan de Operaciones de Emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_02",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Sistema de Alerta Temprana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_03",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Programa de Recuperación y Limpieza de Cauce",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_04",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Áreas inundables identificadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_05",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Mapa de identificación de zonas de alto riesgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_06",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Estadísticas de desastres más frecuentes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_07",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Registro de inspectores técnicos en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_08",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Registro de Brigadistas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "62",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, 2014",
+    "col": "P62_09",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Directorio de Comité de Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "VFI_P63",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63",
+    "desc_col": "La municipalidad tiene Oficina de Defensa Civil",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_01",
+    "desc_col": "Medios de comunicación / Radiotransmisor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_02",
+    "desc_col": "Medios de comunicación / Línea de telefonía fija",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_03",
+    "desc_col": "Medios de comunicación / Línea destinada a fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_04",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "",
+    "value_pos": null
+  }
+]

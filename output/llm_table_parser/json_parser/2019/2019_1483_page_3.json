@@ -1,0 +1,233 @@
+[
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "15",
+    "desc_q": "Servicio de internet en la municipalidad, 2019",
+    "col": "VFI_P15",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "15",
+    "desc_q": "Servicio de internet en la municipalidad, 2019",
+    "col": "P15",
+    "desc_col": "¿La municipalidad cuenta con servicio de internet ?",
+    "values": "1: Cuenta; 2: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "15",
+    "desc_q": "Servicio de internet en la municipalidad, 2019",
+    "col": "P15A_1",
+    "desc_col": "Número de computadoras con acceso a internet",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "15",
+    "desc_q": "Servicio de internet en la municipalidad, 2019",
+    "col": "P15A_2",
+    "desc_col": "Tipo de conexión a internet",
+    "values": "1: Banda ancha inalámbrica (Wi-fi); 2: Banda ancha móvil (Modem, USB); 3: Línea digital (ADSL,DSL); 4: Satelital; 5: Cable de fibra óptica"
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "VFI_P16",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16_1",
+    "desc_col": "¿La municipalidad cuenta con fotocopiadora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16A_1",
+    "desc_col": "Fotocopiadoras / Número de equipos operativos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16_2",
+    "desc_col": "¿La municipalidad cuenta con escáner?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16A_2",
+    "desc_col": "Escáner / Número de equipos operativos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16_3",
+    "desc_col": "¿La municipalidad cuenta con impresora básica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16A_3",
+    "desc_col": "Impresora básica / Número de equipos operativos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16_4",
+    "desc_col": "¿La municipalidad cuenta con impresora multifuncional?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16A_4",
+    "desc_col": "Impresora multifuncional / Número de equipos operativos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16_5",
+    "desc_col": "¿La municipalidad cuenta con proyector multimedia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16A_5",
+    "desc_col": "Proyector multimedia / Número de equipos operativos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16_6",
+    "desc_col": "¿La municipalidad cuenta con otro equipo de oficina?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16A_6",
+    "desc_col": "Otro / Número de equipos operativos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "16",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2019",
+    "col": "P16A_6_O",
+    "desc_col": "Otro / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "VFI_P17",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_1",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_2",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema Único de Trámites (SUT)",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_3",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema Integrado de Gestión Administrativa (SIGA)",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_4",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema Integrado de Administración Financiera (SIAF)",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_5",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema de Recaudación Tributaria Municipal (SRTM)",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_6",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Saldos de Fondos Públicos (SAFOP)",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_7",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema de Saneamiento Contable (SISCO)",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_8",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Aplicativo informático para el Registro Centralizado de Planillas y de Datos de los Recursos Humanos del Sector Público (AIRHSP)",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  }
+]

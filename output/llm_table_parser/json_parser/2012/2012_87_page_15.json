@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Entidades Financieras y de Seguros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_08",
+    "desc_q": "Número de licencias de apertura de establecimientos SERVICIOS/ Artes, entretenimiento y recreación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_09",
+    "desc_q": "Número de licencias de apertura de establecimientos SERVICIOS/ Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_10",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Artesanías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_11",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Fábricas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_12",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_13",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Bodegas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_14",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Farmacias y boticas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_15",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Panaderías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_16",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Ferreterías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_17",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_18",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Empresas proveedoras de insumos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_19",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO / Plantas agroindustriales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_20",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO / Curtiembres",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_21",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Granjas avícolas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_22",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Establos lecheros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_23",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_24",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ACTIVIDADES PROFESIONALES",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_25",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Transporte",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_26",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Cabinas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

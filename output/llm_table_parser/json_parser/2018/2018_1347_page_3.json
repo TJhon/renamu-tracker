@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "VFI_P117",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "P117_1",
+    "desc_col": "¿Cuál es el medio de desplazamiento más utilizado para llegar a la localidad más alejada de su jurisdicción? / A pie",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "P117_2",
+    "desc_col": "¿Cuál es el medio de desplazamiento más utilizado para llegar a la localidad más alejada de su jurisdicción? / Auto y/o camioneta",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "P117_3",
+    "desc_col": "¿Cuál es el medio de desplazamiento más utilizado para llegar a la localidad más alejada de su jurisdicción? / Moto",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "P117_4",
+    "desc_col": "¿Cuál es el medio de desplazamiento más utilizado para llegar a la localidad más alejada de su jurisdicción? / Ómnibus y/o microbús",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "P117_5",
+    "desc_col": "¿Cuál es el medio de desplazamiento más utilizado para llegar a la localidad más alejada de su jurisdicción? / Bote y/o Lancha",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "P117_6",
+    "desc_col": "¿Cuál es el medio de desplazamiento más utilizado para llegar a la localidad más alejada de su jurisdicción? / Otro",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "117",
+    "desc_q": "Medio de desplazamiento para llegar a la localidad más alejada de su jurisdicción",
+    "col": "P117_O",
+    "desc_col": "¿Cuál es el medio de desplazamiento más utilizado para llegar a la localidad más alejada de su jurisdicción? / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "118",
+    "desc_q": "Empadronamiento (últimos 12 meses)",
+    "col": "VFI_P118",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "118",
+    "desc_q": "Empadronamiento (últimos 12 meses)",
+    "col": "P118_1",
+    "desc_col": "Solicitudes de clasificación socioeconómica recibidas por mes / Número promedio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "118",
+    "desc_q": "Empadronamiento (últimos 12 meses)",
+    "col": "P118_2",
+    "desc_col": "Fichas Socioeconómicas Únicas (FSU) aplicadas por mes / Número promedio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "118",
+    "desc_q": "Empadronamiento (últimos 12 meses)",
+    "col": "P118_3",
+    "desc_col": "Días entre la recepción de solicitud de clasificación socioeconómica y visita al hogar / Número promedio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "118",
+    "desc_q": "Empadronamiento (últimos 12 meses)",
+    "col": "P118_4",
+    "desc_col": "Días entre la visita al hogar y envío de la información a la Dirección de Operaciones de Focalización (DOF) / Número promedio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "119",
+    "desc_q": "Capacidades técnicas",
+    "col": "VFI_P118",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "119",
+    "desc_q": "Capacidades técnicas",
+    "col": "P119_1",
+    "desc_col": "El personal de la ULE ¿Usa mapas o planos para trazar su ruta de empadronamiento?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "119",
+    "desc_q": "Capacidades técnicas",
+    "col": "P119_2",
+    "desc_col": "El personal de la ULE ¿Coordina con el área de Catastro de la Municipalidad para ubicar direcciones domiciliarias de los solicitantes?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "119",
+    "desc_q": "Capacidades técnicas",
+    "col": "P119_3",
+    "desc_col": "El personal de la ULE ¿Utiliza el Sistema Integrado para la Gestión de Información Territorial (SIGIT) para el llenado de la FSU?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "119",
+    "desc_q": "Capacidades técnicas",
+    "col": "P119_4",
+    "desc_col": "El personal de la ULE ¿Puede identificar nuevas manzanas censales en la zona urbana y alertar al INEI su actualización en el SIGIT?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  }
+]

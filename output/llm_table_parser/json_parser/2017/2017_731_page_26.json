@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_2_1",
+    "desc_col": "Serenazgo dispone de unidades móviles / Motocicleta / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_2_2",
+    "desc_col": "Serenazgo dispone de unidades móviles / Motocicleta / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_2_3",
+    "desc_col": "Serenazgo dispone de unidades móviles / Motocicleta / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_3",
+    "desc_q": "¿El serenazgo dispone de unidades móviles / Bicicleta?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_3_1",
+    "desc_col": "Serenazgo dispone de unidades móviles / Bicicleta / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_3_2",
+    "desc_col": "¿El serenazgo dispone de unidades móviles / Bicicleta / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_3_3",
+    "desc_col": "Serenazgo dispone de unidades móviles / Bicicleta / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_4",
+    "desc_q": "¿El serenazgo dispone de unidades móviles / Cuatrimoto?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_4_1",
+    "desc_col": "Serenazgo dispone de unidades móviles / Cuatrimoto / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_4_2",
+    "desc_col": "¿El serenazgo dispone de unidades móviles / Cuatrimoto / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_4_3",
+    "desc_col": "Serenazgo dispone de unidades móviles / Cuatrimoto / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_5",
+    "desc_q": "¿El serenazgo dispone de unidades móviles / Bote y/o lancha?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_5_1",
+    "desc_col": "Serenazgo dispone de unidades móviles / Bote y/o lancha / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_5_2",
+    "desc_col": "¿El serenazgo dispone de unidades móviles / Bote y/o lancha / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_5_3",
+    "desc_col": "Serenazgo dispone de unidades móviles / Bote y/o lancha / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_6",
+    "desc_q": "¿El serenazgo dispone de unidades móviles / Otras unidades móviles?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76_6_1",
+    "desc_col": "Serenazgo dispone de unidades móviles / Otras unidades móviles / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76_6_2",
+    "desc_col": "Serenazgo dispone de unidades móviles / Otras unidades móviles / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76_6_3",
+    "desc_col": "Serenazgo dispone de unidades móviles / Otras unidades móviles / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76_6_O",
+    "desc_col": "Serenazgo dispone de unidades móviles / Otras unidades móviles / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

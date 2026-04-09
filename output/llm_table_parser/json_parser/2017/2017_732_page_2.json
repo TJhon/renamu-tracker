@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "P110_8",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En comités de gestión alimentaria",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110_9",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En comité de ejecución de obras",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110_10",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales (comités vecinales)",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110_11",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otra",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110_11_O",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otra / Especifique",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad que participa en espacios de concertación, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "VFI_P110A",
+    "desc_q": "Municipalidad",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "P110A",
+    "desc_q": "¿La municipalidad participa en espacíos de concertación?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Participa; 0: No participa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "P110A_1",
+    "desc_q": "Espacio de concertación en el que participa la municipalidad / Consejo Participativo Local de Educación",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "P110A_2",
+    "desc_q": "Espacio de concertación en el que participa la municipalidad / Consejo Local de Salud",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "P110A_3",
+    "desc_q": "Espacio de concertación en el que participa la municipalidad / Consejo Consultivo de Niñas, Niños y Adolescentes",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "P110A_4",
+    "desc_q": "Espacio de concertación en el que participa la municipalidad / Mesa de Concertación para la lucha contra la Pobreza",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "P110A_5",
+    "desc_q": "Espacio de concertación en el que participa la municipalidad / Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "P110A_5_O",
+    "desc_q": "Espacio de concertación en el que participa la municipalidad / Otro / Especifique",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "VFI_P111",
+    "desc_q": "Municipalidad",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P111",
+    "desc_q": "¿La municipalidad tiene constituida la Junta de Delegados Vecinales?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Tiene constituida; 2: No tiene constituida",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P22",
+    "desc_q": "En la municipalidad está constituido el Consejo de Coordinación Local",
+    "col": "P22",
+    "desc_col": "Consejo de Coordinación Local Constituido",
+    "values": "1: Constituido; 0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23",
+    "desc_q": "La municipalidad ejecutó actividades del Consejo de Coordinación Local",
+    "col": "P23",
+    "desc_col": "Ejecución de Actividades del Consejo de Coordinación Local",
+    "values": "1: Ejecutó; 0: No ejecutó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Realizó sesiones de consejo",
+    "col": "P23_01",
+    "desc_col": "Realización de Sesiones de Consejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_N_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Número de reuniones",
+    "col": "P23_N_01",
+    "desc_col": "Número de Reuniones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_02",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los planes de desarrollo municipal",
+    "col": "P23_02",
+    "desc_col": "Participación en Planes de Desarrollo Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_03",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los presupuestos participativos",
+    "col": "P23_03",
+    "desc_col": "Participación en Presupuestos Participativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_04",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Informa de su gestión a la sociedad civil",
+    "col": "P23_04",
+    "desc_col": "Información de Gestión a la Sociedad Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_05",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Hace cumplir los acuerdos concertados",
+    "col": "P23_05",
+    "desc_col": "Cumplimiento de Acuerdos Concertados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24",
+    "desc_q": "Municipalidad que tiene catastro distrital",
+    "col": "P24",
+    "desc_col": "Existencia de Catastro Distrital",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_01",
+    "desc_q": "Año del último catastro",
+    "col": "P24_01",
+    "desc_col": "Año del Último Catastro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_01",
+    "desc_q": "Normas emitidas/ Ordenanza Municipal",
+    "col": "P25_01",
+    "desc_col": "Ordenanza Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_02",
+    "desc_q": "Normas emitidas/ Acuerdo de Concejo",
+    "col": "P25_02",
+    "desc_col": "Acuerdo de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_03",
+    "desc_q": "Normas emitidas/ Decreto de Alcaldía",
+    "col": "P25_03",
+    "desc_col": "Decreto de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_04",
+    "desc_q": "Normas emitidas/ Resolución de Concejo",
+    "col": "P25_04",
+    "desc_col": "Resolución de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_05",
+    "desc_q": "Normas emitidas/ Resolución de Alcaldía",
+    "col": "P25_05",
+    "desc_col": "Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_06",
+    "desc_q": "Normas emitidas/ Otras",
+    "col": "P25_06",
+    "desc_col": "Otras Normas Emitidas",
+    "values": "",
+    "value_pos": null
+  }
+]

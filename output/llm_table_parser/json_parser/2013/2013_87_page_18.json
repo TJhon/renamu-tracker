@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P37_03",
+    "desc_q": null,
+    "col": "P37_03",
+    "desc_col": "Red Vial Vecinal/ Sin afirmar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P37_04",
+    "desc_q": null,
+    "col": "P37_04",
+    "desc_col": "Red Vial Vecinal/ Trocha",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "VFI_P38",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "P38_01",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "P38_01",
+    "desc_col": "Nombre de la Obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "P38_02",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "P38_02",
+    "desc_col": "Sector Económico",
+    "values": "1: Educación;2: Salud;3: Transportes y Comunicaciones;4: Electricidad, agua y alcantarillado;5: Turismo;6: Agricultura;7: Ambiente;8: Otras Obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "P38_03",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "P38_03",
+    "desc_col": "Costo total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "P38_04",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "P38_04",
+    "desc_col": "Ingresos propios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "P38_05",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "P38_05",
+    "desc_col": "Transferencia del sector público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "P38_06",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "P38_06",
+    "desc_col": "Transferencia del sector privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO29",
+    "n_q": "P38_07",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad y concluidas en el 2012",
+    "col": "P38_07",
+    "desc_col": "Tiempo de ejecución (En meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO30",
+    "n_q": "VFI_P39",
+    "desc_q": "Promedio diario de recojo de residuos sólidos (basura), 2013",
+    "col": "VFI_P39",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO30",
+    "n_q": "P39",
+    "desc_q": "Promedio diario de recojo de residuos sólidos (basura), 2013",
+    "col": "P39",
+    "desc_col": "Municipalidades que realizaron recojo de residuos sólidos (basura)",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO30",
+    "n_q": "P39_01",
+    "desc_q": "Promedio diario de recojo de residuos sólidos (basura), 2013",
+    "col": "P39_01",
+    "desc_col": "Promedio diario de residuos sólidos (basura) que recoge la municipalidad.",
+    "values": "1: Menos de 1 Tm;2: De 1 a menos de 3 Tm;3: De 3 a menos de 9 Tm;4: De 9 a menos de 50 Tm;5: De 50 a menos de 100 Tm;6: De 100 a más Tm",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "P39",
+    "desc_q": "Frecuencia del recojo de residuos sólidos(basura), 2013",
+    "col": "P39",
+    "desc_col": "Municipalidades que realizaron recojo de residuos sólidos (basura)",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "VFI_P40",
+    "desc_q": "Frecuencia del recojo de residuos sólidos(basura), 2013",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "P40_01",
+    "desc_q": "Frecuencia del recojo de residuos sólidos(basura), 2013",
+    "col": "P40_01",
+    "desc_col": "Frecuencia de tiempo en que la municipalidad realiza el recojo de residuos sólidos (basura)",
+    "values": "1: Diaria;2: Interdiaria;3: Dos veces por semana;4: Una vez por semana",
+    "value_pos": null
+  }
+]

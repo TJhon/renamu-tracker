@@ -1,0 +1,308 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "ambientales registradas en la municipalidad, 2010",
+    "col": "",
+    "desc_col": "",
+    "values": "0: No informó; 1: Si",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84",
+    "desc_q": "La municipalidad registró denuncias ambientales",
+    "col": "",
+    "desc_col": "",
+    "values": "0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_A_01",
+    "desc_q": "Número de denuncias atendidas / Contaminación del agua",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_A_02",
+    "desc_q": "Número de denuncias atendidas / Contaminación del suelo",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_A_03",
+    "desc_q": "Número de denuncias atendidas / Contaminación del aire",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_A_04",
+    "desc_q": "Número de denuncias atendidas / Otros",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_R_01",
+    "desc_q": "Número de denuncias recepcionadas / Contaminación del agua",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_R_02",
+    "desc_q": "Número de denuncias recepcionadas / Contaminación del suelo",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_R_03",
+    "desc_q": "Número de denuncias recepcionadas / Contaminación del aire",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P84_R_04",
+    "desc_q": "Número de denuncias recepcionadas / Otros",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "VFI_P85",
+    "desc_q": "Municipalidad informante",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85",
+    "desc_q": "En el distrito existen fuentes de contaminación",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_01",
+    "desc_q": "Fuente contaminante / Emanación de gases y partículas de fábrica o refinerías",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_02",
+    "desc_q": "Fuente contaminante / Gases de vehículos motorizados",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_03",
+    "desc_q": "Fuente contaminante / Relaves mineros",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_04",
+    "desc_q": "Fuente contaminante / Ruidos",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_05",
+    "desc_q": "Fuente contaminante / Aguas servidas",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_06",
+    "desc_q": "Fuente contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_07",
+    "desc_q": "Fuente contaminante / Deforestación",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_08",
+    "desc_q": "Fuente contaminante / Crianza de animales domésticos sin control",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_09",
+    "desc_q": "Fuente contaminante / Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_O",
+    "desc_q": "Fuente contaminante/ Otro / Descripción",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "VFI_P86",
+    "desc_q": "Municipalidad informante",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86",
+    "desc_q": "La municipalidad tiene instrumentos de gestión ambiental",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_01",
+    "desc_q": "Instrumentos de gestión ambiental / Diagnóstico Ambiental local",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_02",
+    "desc_q": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_03",
+    "desc_q": "Instrumentos de gestión ambiental / Agenda Ambiental Local",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_04",
+    "desc_q": "Instrumentos de gestión ambiental / Política Ambiental Local",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_05",
+    "desc_q": "Instrumentos de gestión ambiental / Sistema Local de Gestión Ambiental",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_06",
+    "desc_q": "Instrumentos de gestión ambiental / Evaluaciones ambientales",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_07",
+    "desc_q": "Instrumentos de gestión ambiental / Fiscalizaciones ambientales",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_08",
+    "desc_q": "Instrumentos de gestión ambiental / Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_O",
+    "desc_q": "Instrumentos de gestión ambiental / Otro / Descripción",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "VFI_P87",
+    "desc_q": "Municipalidad informante",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó",
+    "value_pos": 1
+  }
+]

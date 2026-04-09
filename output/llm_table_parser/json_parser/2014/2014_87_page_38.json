@@ -1,0 +1,56 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P68_04",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Tiempo de ejecución (en meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "69",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2014",
+    "col": "VFI_P69",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "69",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2014",
+    "col": "P69_N",
+    "desc_col": "Número de obras de inversión aprobadas por el presupuesto participativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "69",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2014",
+    "col": "P69_01",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto participativo / Nombre de la obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "69",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2014",
+    "col": "P69_02",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto participativo / Sector Económico",
+    "values": "1: Educación;2: Salud;3: Transportes y comunicaciones;4: Electricidad, agua y alcantarillado;5: Turismo;6: Agricultura;7: Ambiente;8: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "69",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2014",
+    "col": "P69_03",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto participativo / Sector Económico / Monto de inversión previsto (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  }
+]

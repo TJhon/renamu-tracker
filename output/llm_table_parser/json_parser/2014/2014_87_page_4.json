@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_30",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Económico Local/ Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_31",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_32",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_33",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Acción Ambiental / Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_34",
+    "desc_col": "Instrumento de gestion y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_35",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_36",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social/ Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_37",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Vial",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_38",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Vial/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

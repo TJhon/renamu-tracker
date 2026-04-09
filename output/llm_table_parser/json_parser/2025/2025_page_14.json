@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_7_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Rural / ¿Por qué no tiene? / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_8",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo de Capacidades / ¿Tiene?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_8_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo de Capacidades / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_8_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo de Capacidades / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_8_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo de Capacidades / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_8_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo de Capacidades / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_8_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo de Capacidades / ¿Por qué no tiene? / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_9",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / ¿Tiene?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_9_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_9_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_9_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_9_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_9_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / ¿Por qué no tiene? / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_10",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / Manual de Perfiles de Puestos / ¿Tiene?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_10_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / Manual de Perfiles de Puestos / Último año de",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_10_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / Manual de Perfiles de Puestos / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_10_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / Manual de Perfiles de Puestos / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

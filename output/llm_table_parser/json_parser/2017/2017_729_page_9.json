@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_12",
+    "desc_col": "Asistencia técnica que requiere / Gestión Descentralizada del Programa de Complementación Alimentaria",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_13",
+    "desc_col": "Asistencia técnica que requiere / Política de Desarrollo e Inclusión Social",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_14",
+    "desc_col": "Asistencia técnica que requiere / Políticas de Igualdad de Género",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_15",
+    "desc_col": "Asistencia técnica que requiere / Catastro Urbano y Rural",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_16",
+    "desc_col": "Asistencia técnica que requiere / Aplicativo MICosto",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_17",
+    "desc_col": "Asistencia técnica que requiere / Sistema Único de Trámites (SUT)",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_18",
+    "desc_col": "Asistencia técnica que requiere / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_19",
+    "desc_col": "Asistencia técnica que requiere / Indicadores de Gestión Municipal",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_20",
+    "desc_col": "Asistencia técnica que requiere / Sistema de Focalización de Hogares",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_21",
+    "desc_col": "Asistencia técnica que requiere / Población y Desarrollo",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_22",
+    "desc_col": "Asistencia técnica que requiere / Evaluación del Riesgo",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_23",
+    "desc_col": "Asistencia técnica que requiere / Estrategia de Gestión Financiera del Riesgo de Desastres",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_24",
+    "desc_col": "Asistencia técnica que requiere / Plan de Reasentamiento Poblacional",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_25",
+    "desc_col": "Asistencia técnica que requiere / Plan Integral de Reconstrucción",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_26",
+    "desc_col": "Asistencia técnica que requiere / Otro",
+    "values": "1:Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Municipalidad que requiere asistencia técnica, 2017",
+    "col": "P23_26_O",
+    "desc_col": "Asistencia técnica que requiere / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

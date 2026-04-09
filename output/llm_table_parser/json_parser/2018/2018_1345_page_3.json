@@ -1,0 +1,266 @@
+[
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_7",
+    "desc_col": "¿La municipalidad realizó operativos de control de salubridad de alimentos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_7",
+    "desc_col": "Operativos de control de salubridad de alimentos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_8",
+    "desc_col": "¿La municipalidad realizó operativos de control de comercio ambulatorio?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_8",
+    "desc_col": "Operativos de control de comercio ambulatorio / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_9",
+    "desc_col": "¿La municipalidad realizó operativos de control de transporte urbano?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_9",
+    "desc_col": "Operativos de control de transporte urbano / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_10",
+    "desc_col": "¿La municipalidad realizó operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_10",
+    "desc_col": "Operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_11",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de edificación?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_11",
+    "desc_col": "Operativos de control de vigencia de licencia de edificación / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_12",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de funcionamiento?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_12",
+    "desc_col": "Operativos de control de vigencia de licencia de funcionamiento / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_13",
+    "desc_col": "¿La municipalidad realizó operativos de control de emisión de humos y gases tóxicos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_13",
+    "desc_col": "Operativos de control de emisión de humos y gases tóxicos/ Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_14",
+    "desc_col": "¿La municipalidad realizó operativos de control de ruidos molestos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_14",
+    "desc_col": "Operativos de control de ruidos molestos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_15",
+    "desc_col": "¿La municipalidad realizó operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_15",
+    "desc_col": "Operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_16",
+    "desc_col": "¿La municipalidad realizó otro tipo de operativos de control?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_16",
+    "desc_col": "Operativos de control / Otros / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_16_O",
+    "desc_col": "Operativos de control / Otro / Específico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad que registró vendedores ambulantes, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "51",
+    "desc_q": "Municipalidad que registró vendedores ambulantes, 2017",
+    "col": "VFL_P51",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "51",
+    "desc_q": "Municipalidad que registró vendedores ambulantes, 2017",
+    "col": "P51",
+    "desc_col": "¿La municipalidad registró vendedores ambulantes?",
+    "values": "1: Sí;2: No registrado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "51",
+    "desc_q": "Municipalidad que registró vendedores ambulantes, 2017",
+    "col": "P51_T",
+    "desc_col": "Número de vendedores ambulantes registrados en la Municipalidad / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "51",
+    "desc_q": "Municipalidad que registró vendedores ambulantes, 2017",
+    "col": "P51_M",
+    "desc_col": "Número de vendedores ambulantes registrados en la Municipalidad / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "51",
+    "desc_q": "Municipalidad que registró vendedores ambulantes, 2017",
+    "col": "P51_H",
+    "desc_col": "Número de vendedores ambulantes registrados en la Municipalidad / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 14",
+    "n_q": "52",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2018",
+    "col": "VFL_P52",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 14",
+    "n_q": "52",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2018",
+    "col": "P52",
+    "desc_col": "¿La municipalidad tiene baños de uso público instalados en el distrito?",
+    "values": "1: Sí;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 14",
+    "n_q": "52",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2018",
+    "col": "P52_1",
+    "desc_col": "Número de baños de uso público en funcionamiento",
+    "values": "",
+    "value_pos": null
+  }
+]

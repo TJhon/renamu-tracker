@@ -1,0 +1,398 @@
+[
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "VFI_P102",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_01",
+    "desc_col": "INGRESO TOTAL (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_02",
+    "desc_col": "I. INGRESOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_03",
+    "desc_col": "Impuestos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_04",
+    "desc_col": "Impuestos / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_05",
+    "desc_col": "Impuestos / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_06",
+    "desc_col": "Impuestos / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_07",
+    "desc_col": "Impuestos / Casino de juego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_08",
+    "desc_col": "Impuestos / A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_09",
+    "desc_col": "Impuestos / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_10",
+    "desc_col": "Impuestos / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_11",
+    "desc_col": "Impuestos / Otros impuestos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_12",
+    "desc_col": "Tasas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_13",
+    "desc_col": "Tasas / De administración general",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_14",
+    "desc_col": "Tasas / De educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_15",
+    "desc_col": "Tasas / De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_16",
+    "desc_col": "Tasas / De vivienda y construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_17",
+    "desc_col": "Tasas / De agropecuarios y de recursos no minerales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_18",
+    "desc_col": "Tasas / De industria, minería y comercio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_19",
+    "desc_col": "Tasas / De transportes y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_20",
+    "desc_col": "Tasas / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_21",
+    "desc_col": "Contribuciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_22",
+    "desc_col": "Contribuciones / Para pensiones y obras públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_23",
+    "desc_col": "Ventas de bienes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_24",
+    "desc_col": "Ventas de bienes /Agropecuarios y minerales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_25",
+    "desc_col": "Ventas de bienes/ De educación, recreación y cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_26",
+    "desc_col": "Ventas de bienes / De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_27",
+    "desc_col": "Ventas de bienes / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_28",
+    "desc_col": "Prestación de servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_29",
+    "desc_col": "Prestación de servicios / De transportes, comunicaciones y almacenaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_30",
+    "desc_col": "Prestación de servicios / De educación, recreación y cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_31",
+    "desc_col": "Prestación de servicios / De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_32",
+    "desc_col": "Prestación de servicios / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_33",
+    "desc_col": "Renta de la propiedad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_34",
+    "desc_col": "Renta de la propiedad / Renta de la propiedad real",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_35",
+    "desc_col": "Renta de la propiedad / Renta de la propiedad real / Canon",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_36",
+    "desc_col": "Renta de la propiedad / Renta de la propiedad real / Sobre Canon",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_37",
+    "desc_col": "Renta de la propiedad / Renta de la propiedad real / Regalías Mineras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_38",
+    "desc_col": "Renta de la propiedad / Renta de la propiedad real / Regalías FOCAM",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_39",
+    "desc_col": "Renta de la propiedad / Renta de la propiedad real / Regalías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_40",
+    "desc_col": "Renta de la propiedad / Renta de la propiedad real / Otras rentas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_41",
+    "desc_col": "Renta de la propiedad /Renta de la propiedad financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_42",
+    "desc_col": "Renta de la propiedad /Otras Renta de la propiedad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C093",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2008",
+    "col": "P102_43",
+    "desc_col": "Multas, sanciones y otros",
+    "values": "",
+    "value_pos": null
+  }
+]

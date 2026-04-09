@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P92_09",
+    "desc_q": "Instrumentos de gestión ambiental / Fiscalizaciones ambientales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P92_10",
+    "desc_q": "Instrumentos de gestión ambiental / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "VFI_P93",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93",
+    "desc_q": "La municipalidad realizó acciones para incentivar la conservación del medio ambiente",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_01",
+    "desc_q": "Acciones realizadas / Campañas de concientización ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_02",
+    "desc_q": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_03",
+    "desc_q": "Acciones realizadas / Ejecutó proyectos referidos al tema ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_04",
+    "desc_q": "Acciones realizadas / Dispone de comisión Ambiental Municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_05",
+    "desc_q": "Acciones realizadas / Apoyo en la formulación de proyectos sobre problemática ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_06",
+    "desc_q": "Acciones realizadas / Convenios Interinstitucionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_07",
+    "desc_q": "Acciones realizadas / Charlas educativas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_08",
+    "desc_q": "Acciones realizadas / Atención a denuncias ambientales realizadas por la población",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_09",
+    "desc_q": "Acciones realizadas / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_O",
+    "desc_q": "Acciones realizadas / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "VFI_P94",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "P94",
+    "desc_q": "En la gestión administrativa de la municipalidad existe participación vecinal",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "P94_01",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación de los planes de desarrollo municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "P94_02",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación del presupuesto municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "P94_03",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Formulación y control de planes económicos locales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "P94_04",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "P94_05",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_3_1",
+    "desc_col": "Número de locales / Teatros y teatrinés",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_3_2",
+    "desc_col": "Número de visitantes y/o usuarios / Teatros y teatrinés",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "¿La municipalidad administró locales para uso recreacional y cultural / Museos?",
+    "col": "P65_4",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Museos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_4_1",
+    "desc_col": "Número de locales / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_4_2",
+    "desc_col": "Número de visitantes y/o usuarios / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "¿La municipalidad administró locales para uso recreacional y cultural / Cines?",
+    "col": "P65_5",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Cines?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_5_1",
+    "desc_col": "Número de locales / Cines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_5_2",
+    "desc_col": "Número de visitantes y/o usuarios / Cines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "¿La municipalidad administró locales para uso recreacional y cultural / Otro?",
+    "col": "P65_6",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Otro?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_6_1",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_6_2",
+    "desc_col": "Número de visitantes y/o usuarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2016",
+    "col": "P65A_6_O",
+    "desc_col": "La municipalidad administró locales para uso recreacional y cultural / Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SERVICIOS SOCIALES"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P66_1",
+    "desc_col": "¿Existen organizaciones sociales de Comité del Programa del Vaso de Leche en el distrito?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P66_1_1",
+    "desc_col": "Comité del Programa del Vaso de Leche / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P66_1_2",
+    "desc_col": "Comité del Programa del Vaso de Leche / Total de beneficiarios y/o afiliados al 31 de diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P66_1_3",
+    "desc_col": "Comité del Programa del Vaso de Leche / Total de beneficiarios y/o afiliados al 31 de marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P66_2",
+    "desc_col": "¿Existen organizaciones sociales de Comedor Popular en el distrito?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P66_2_1",
+    "desc_col": "Comedor Popular / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P66_2_2",
+    "desc_col": "Comedor Popular / Total de beneficiarios y/o afiliados al 31 de diciembre 2016",
+    "values": "",
+    "value_pos": null
+  }
+]

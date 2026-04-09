@@ -1,0 +1,143 @@
+[
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "87",
+    "desc_q": "Cobertura de la red de agua potable en el distrito, 2014",
+    "col": "VFI_87",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "87",
+    "desc_q": "Cobertura de la red de agua potable en el distrito, 2014",
+    "col": "P87",
+    "desc_col": "Municipalidades que informaron que tienen cobertura de la red de agua potable en el distrito",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "87",
+    "desc_q": "Cobertura de la red de agua potable en el distrito, 2014",
+    "col": "P87_01",
+    "desc_col": "Cobertura de Red de agua potable en el distrito / Capital del distrito",
+    "values": "1:Menos del 25%;2:De 25% a 49%;3:De 50% a 74%;4: De 75% a 100%;5: No tiene",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "87",
+    "desc_q": "Cobertura de la red de agua potable en el distrito, 2014",
+    "col": "P87_02",
+    "desc_col": "Cobertura de Red de agua potable en el distrito / Resto del distrito",
+    "values": "1:Menos del 25%;2:De 25% a 49%;3:De 50% a 74%;4: De 75% a 100%;5: No tiene",
+    "value_pos": null
+  },
+  {
+    "h2": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito. 2014"
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "88",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito. 2014",
+    "col": "P87",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "88",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito. 2014",
+    "col": "VFI_P88",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "88",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito. 2014",
+    "col": "P88",
+    "desc_col": "En el distrito la autoridad de salud realiza vigilancia y control de agua potable",
+    "values": "1:Realiza;0:No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "88",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito. 2014",
+    "col": "P88_01",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable / Semanal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "88",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito. 2014",
+    "col": "P88_02",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable / Mensual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "88",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito. 2014",
+    "col": "P88_03",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable / trimestral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "89",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2014",
+    "col": "P87",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "89",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2014",
+    "col": "VFI_89",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "89",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2014",
+    "col": "P89_01",
+    "desc_col": "Los resultados del análisis de agua potable son / Informados a la autoridad municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "89",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2014",
+    "col": "P89_02",
+    "desc_col": "Los resultados del análisis de agua potable son / Publicados en el diario local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "89",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2014",
+    "col": "P89_03",
+    "desc_col": "Los resultados del análisis de agua potable son / No se difunden",
+    "values": "",
+    "value_pos": null
+  }
+]

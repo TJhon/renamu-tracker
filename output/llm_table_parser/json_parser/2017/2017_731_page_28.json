@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "P76_14",
+    "desc_q": "¿El serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia?",
+    "col": "P76_14",
+    "desc_col": "¿El serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76A_14_1",
+    "desc_q": "Serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Total",
+    "col": "P76A_14_1",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76A_14_2",
+    "desc_q": "¿El serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Número Operativos",
+    "col": "P76A_14_2",
+    "desc_col": "¿El serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76A_14_3",
+    "desc_q": "Serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Número No Operativos",
+    "col": "P76A_14_3",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76A_14_O",
+    "desc_q": "Serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Especifique",
+    "col": "P76A_14_O",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Otros equipos de comunicación y videovigilancia / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_15",
+    "desc_q": "¿El serenazgo dispone de infraestructura / Caseta, módulo y/o puesto de vigilancia?",
+    "col": "P76_15",
+    "desc_col": "¿El serenazgo dispone de infraestructura / Caseta, módulo y/o puesto de vigilancia?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_15_1",
+    "desc_q": "Serenazgo dispone de infraestructura / Caseta, módulo y/o puesto de vigilancia / Total",
+    "col": "P76_15_1",
+    "desc_col": "Serenazgo dispone de infraestructura / Caseta, módulo y/o puesto de vigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_15_2",
+    "desc_q": "Serenazgo dispone de infraestructura / Caseta, módulo y/o puesto de vigilancia / Número Operativos",
+    "col": "P76_15_2",
+    "desc_col": "Serenazgo dispone de infraestructura / Caseta, módulo y/o puesto de vigilancia / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_15_3",
+    "desc_q": "Serenazgo dispone de infraestructura /Caseta, módulo y/o puesto de vigilancia / Número No Operativos",
+    "col": "P76_15_3",
+    "desc_col": "Serenazgo dispone de infraestructura /Caseta, módulo y/o puesto de vigilancia / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_16",
+    "desc_q": "¿El serenazgo dispone de infraestructura / Central de control de videovigilancia?",
+    "col": "P76_16",
+    "desc_col": "¿El serenazgo dispone de infraestructura / Central de control de videovigilancia?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_16_1",
+    "desc_q": "Serenazgo dispone de infraestructura / Central de control de videovigilancia / Total",
+    "col": "P76_16_1",
+    "desc_col": "Serenazgo dispone de infraestructura / Central de control de videovigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_16_2",
+    "desc_q": "Serenazgo dispone de infraestructura / Central de control de videovigilancia / Número Operativos",
+    "col": "P76_16_2",
+    "desc_col": "Serenazgo dispone de infraestructura / Central de control de videovigilancia / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_16_3",
+    "desc_q": "Serenazgo dispone de infraestructura / Central de control de videovigilancia / Número No Operativos",
+    "col": "P76_16_3",
+    "desc_col": "Serenazgo dispone de infraestructura / Central de control de videovigilancia / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76_17",
+    "desc_q": "¿El serenazgo dispone de infraestructura / Otra infraestructura?",
+    "col": "P76_17",
+    "desc_col": "¿El serenazgo dispone de infraestructura / Otra infraestructura?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76A_17_1",
+    "desc_q": "Serenazgo dispone de infraestructura / Otra infraestructura / Total",
+    "col": "P76A_17_1",
+    "desc_col": "Serenazgo dispone de infraestructura / Otra infraestructura / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76A_17_2",
+    "desc_q": "Serenazgo dispone de infraestructura / Otra infraestructura / Número Operativos",
+    "col": "P76A_17_2",
+    "desc_col": "Serenazgo dispone de infraestructura / Otra infraestructura / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P76A_17_3",
+    "desc_q": "Serenazgo dispone de infraestructura / Otra infraestructura / Número No Operativos",
+    "col": "P76A_17_3",
+    "desc_col": "Serenazgo dispone de infraestructura / Otra infraestructura / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  }
+]

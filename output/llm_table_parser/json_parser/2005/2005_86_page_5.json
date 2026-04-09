@@ -1,0 +1,290 @@
+[
+  {
+    "n_q": "V7",
+    "desc_q": "2004 / Funcionarios y/o Directivos / Contratado por service / Hombre",
+    "col": "v7",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Contratado por service / Hombre",
+    "values": "1/; 2/",
+    "value_pos": 1
+  },
+  {
+    "n_q": "V8",
+    "desc_q": "2004 / Funcionarios y/o Directivos / Contratado por service / Mujer",
+    "col": "v8",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Contratado por service / Mujer",
+    "values": "1/; 2/",
+    "value_pos": 1
+  },
+  {
+    "n_q": "V9",
+    "desc_q": "2004 / Empleados / Profesionales / Nombrado / Hombre",
+    "col": "v9",
+    "desc_col": "2004 / Empleados / Profesionales / Nombrado / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V10",
+    "desc_q": "2004 / Empleados / Profesionales / Nombrado / Mujer",
+    "col": "v10",
+    "desc_col": "2004 / Empleados / Profesionales / Nombrado / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V11",
+    "desc_q": "2004 / Empleados / Profesionales / Contratado",
+    "col": "v11",
+    "desc_col": "2004 / Empleados / Profesionales / Contratado",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V12",
+    "desc_q": "2004 / Empleados / Profesionales / Contratado",
+    "col": "v12",
+    "desc_col": "2004 / Empleados / Profesionales / Contratado",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V13",
+    "desc_q": "2004/ Empleados / Profesionales / Contratado por servicios no personales / Hombre",
+    "col": "v13",
+    "desc_col": "2004/ Empleados / Profesionales / Contratado por servicios no personales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V14",
+    "desc_q": "2004 / Empleados / Profesionales / Contratado por servicios no personales / Mujer",
+    "col": "v14",
+    "desc_col": "2004 / Empleados / Profesionales / Contratado por servicios no personales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V15",
+    "desc_q": "2004 / Empleados / Profesionales / Contratado por service / Hombre",
+    "col": "v15",
+    "desc_col": "2004 / Empleados / Profesionales / Contratado por service / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V16",
+    "desc_q": "2004 / Empleados / Profesionales / Contratado por service / Mujer",
+    "col": "v16",
+    "desc_col": "2004 / Empleados / Profesionales / Contratado por service / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V17",
+    "desc_q": "2004 / Empleados / Técnicos / Nombrado / Hombre",
+    "col": "v17",
+    "desc_col": "2004 / Empleados / Técnicos / Nombrado / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V18",
+    "desc_q": "2004 / Empleados / Técnicos / Nombrado / Mujer",
+    "col": "v18",
+    "desc_col": "2004 / Empleados / Técnicos / Nombrado / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V19",
+    "desc_q": "2004 / Empleados / Técnicos / Contratado permanente / Hombre",
+    "col": "v19",
+    "desc_col": "2004 / Empleados / Técnicos / Contratado permanente / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V20",
+    "desc_q": "2004 / Empleados / Técnicos / Contratado permanente / Mujer",
+    "col": "v20",
+    "desc_col": "2004 / Empleados / Técnicos / Contratado permanente / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V21",
+    "desc_q": "2004 / Empleados / Técnicos / Contratado por servicios no personales / Hombre",
+    "col": "v21",
+    "desc_col": "2004 / Empleados / Técnicos / Contratado por servicios no personales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V22",
+    "desc_q": "2004 / Empleados / Técnicos / Contratado por servicios no personales / Mujer",
+    "col": "v22",
+    "desc_col": "2004 / Empleados / Técnicos / Contratado por servicios no personales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V23",
+    "desc_q": "2004 / Empleados / Técnicos / Contratado por service / Hombre",
+    "col": "v23",
+    "desc_col": "2004 / Empleados / Técnicos / Contratado por service / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V24",
+    "desc_q": "2004 / Empleados / Técnicos / Contratado por service / Mujer",
+    "col": "v24",
+    "desc_col": "2004 / Empleados / Técnicos / Contratado por service / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V25",
+    "desc_q": "2004 / Empleados / Auxiliares / Nombrado / Hombre",
+    "col": "v25",
+    "desc_col": "2004 / Empleados / Auxiliares / Nombrado / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V26",
+    "desc_q": "2004 / Empleados / Auxiliares / Nombrado / Mujer",
+    "col": "v26",
+    "desc_col": "2004 / Empleados / Auxiliares / Nombrado / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V27",
+    "desc_q": "2004 / Empleados / Auxiliares / Contratado permanente / Hombre",
+    "col": "v27",
+    "desc_col": "2004 / Empleados / Auxiliares / Contratado permanente / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V28",
+    "desc_q": "2004 / Empleados / Auxiliares / Contratado permanente / Mujer",
+    "col": "v28",
+    "desc_col": "2004 / Empleados / Auxiliares / Contratado permanente / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V29",
+    "desc_q": "2004 / Empleados / Auxiliares / Contratado por servicios no personales / Hombre",
+    "col": "v29",
+    "desc_col": "2004 / Empleados / Auxiliares / Contratado por servicios no personales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V30",
+    "desc_q": "2004 / Empleados / Auxiliares / Contratado por servicios no personales / Mujer",
+    "col": "v30",
+    "desc_col": "2004 / Empleados / Auxiliares / Contratado por servicios no personales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V31",
+    "desc_q": "2004 / Empleados / Auxiliares / Contratado por service / Hombre",
+    "col": "v31",
+    "desc_col": "2004 / Empleados / Auxiliares / Contratado por service / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V32",
+    "desc_q": "2004 / Empleados / Auxiliares / Contratado por service / Mujer",
+    "col": "v32",
+    "desc_col": "2004 / Empleados / Auxiliares / Contratado por service / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V33",
+    "desc_q": "2004 / Obreros / Limpieza / Nombrado / Hombre",
+    "col": "v33",
+    "desc_col": "2004 / Obreros / Limpieza / Nombrado / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V34",
+    "desc_q": "2004 / Obreros / Limpieza / Nombrado / Mujer",
+    "col": "v34",
+    "desc_col": "2004 / Obreros / Limpieza / Nombrado / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V35",
+    "desc_q": "2004 / Obreros / Limpieza / Contratado permanente / Hombre",
+    "col": "v35",
+    "desc_col": "2004 / Obreros / Limpieza / Contratado permanente / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V36",
+    "desc_q": "2004 / Obreros / Limpieza / Contratado permanente / Mujer",
+    "col": "v36",
+    "desc_col": "2004 / Obreros / Limpieza / Contratado permanente / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V37",
+    "desc_q": "2004 / Obreros / Limpieza / Contratado por servicios no personales / Hombre",
+    "col": "v37",
+    "desc_col": "2004 / Obreros / Limpieza / Contratado por servicios no personales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V38",
+    "desc_q": "2004 / Obreros / Limpieza / Contratado por servicios no personales / Mujer",
+    "col": "v38",
+    "desc_col": "2004 / Obreros / Limpieza / Contratado por servicios no personales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V39",
+    "desc_q": "2004 / Obreros / Limpieza / Contratado por service / Hombre",
+    "col": "v39",
+    "desc_col": "2004 / Obreros / Limpieza / Contratado por service / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V40",
+    "desc_q": "2004 / Obreros / Limpieza / Contratado por service / Mujer",
+    "col": "v40",
+    "desc_col": "2004 / Obreros / Limpieza / Contratado por service / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V41",
+    "desc_q": "2003 / Obreros / Otros / Nombrado / Hombre",
+    "col": "v41",
+    "desc_col": "2003 / Obreros / Otros / Nombrado / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "n_q": "V42",
+    "desc_q": "2003 / Obreros / Otros / Nombrado / Mujer",
+    "col": "v42",
+    "desc_col": "2003 / Obreros / Otros / Nombrado / Mujer",
+    "values": "2/",
+    "value_pos": null
+  }
+]

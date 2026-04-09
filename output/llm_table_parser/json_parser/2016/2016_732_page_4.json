@@ -1,0 +1,56 @@
+[
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "118",
+    "desc_q": "Mercados de Abastos que funcionan en el distrito, 2016",
+    "col": "P118_3",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Nombre del administrador y/o responsable",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "118",
+    "desc_q": "Mercados de Abastos que funcionan en el distrito, 2016",
+    "col": "P118_4",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Teléfono",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "118",
+    "desc_q": "Mercados de Abastos que funcionan en el distrito, 2016",
+    "col": "P118_5",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Tipo de Mercado",
+    "values": "1: Mayorista; 2: Minorista",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "118",
+    "desc_q": "Mercados de Abastos que funcionan en el distrito, 2016",
+    "col": "P118_6_1",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Número de puestos fijos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "118",
+    "desc_q": "Mercados de Abastos que funcionan en el distrito, 2016",
+    "col": "P118_6_2",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Número de puestos operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "118",
+    "desc_q": "Mercados de Abastos que funcionan en el distrito, 2016",
+    "col": "P118_7",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Tipo de Local",
+    "values": "1: Público; 2: Particular",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": null,
+    "desc_col": null,
+    "values": "5: Turismo;6: Agricultura;7: Ambiente;8: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P83_03",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo / Sector Económico / Monto de inversión previsto (Nuevos soles)",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "84 CUADRO_C075 Oficina de Programación de Inversiones (OPI) en la municipalidad, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "VFI_P84",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "P84",
+    "desc_q": "La municipalidad tiene Oficina de Programación de Inversiones (OPI)",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "P84_01",
+    "desc_q": "Razón por la que no dispone de OPI la Municipalidad",
+    "col": null,
+    "desc_col": null,
+    "values": "1: No tiene personal especializado;2: Desconoce cómo integrarse al SNIP;3: Desconoce la función del SNIP;4: Falta de presupuesto para implementarla;5: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "P84_O",
+    "desc_q": "Razón por la que no dispone de OPI la Municipalidad / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "85 CUADRO_C076 Producción artesanal en el distrito, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "VFI_P85",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85",
+    "desc_q": "El distrito tiene producción artesanal",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_01",
+    "desc_q": "Producción artesanal / Lácteos",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_02",
+    "desc_q": "Producción artesanal / Miel de abeja",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_03",
+    "desc_q": "Producción artesanal / Textiles (tejidos de punto, tapiz)",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_04",
+    "desc_q": "Producción artesanal / Alfarería – cerámica",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_05",
+    "desc_q": "Producción artesanal / Joyería – orfebrería",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_06",
+    "desc_q": "Producción artesanal / Fibras vegetales",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  }
+]

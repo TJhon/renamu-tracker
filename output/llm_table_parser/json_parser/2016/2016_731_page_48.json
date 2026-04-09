@@ -1,0 +1,203 @@
+[
+  {
+    "h2": "PROTECCIÓN Y CONSERVACIÓN DEL AMBIENTE"
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "105",
+    "desc_q": "Oficina o unidad ambiental en la municipalidad, 2016",
+    "col": "VFI_P105",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "105",
+    "desc_q": "Oficina o unidad ambiental en la municipalidad, 2016",
+    "col": "P105",
+    "desc_col": "¿La municipalidad tiene Oficina o Unidad Ambiental?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "VFI_P106",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106_1",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación del agua?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_1_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_1_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación del agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106_2",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación del suelo?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_2_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del suelo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_2_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación del suelo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106_3",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación del aire?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_3_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_3_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación del aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106_4",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por deforestación y quema de bosques?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_4_1",
+    "desc_col": "Número de denuncias recepcionadas / Deforestación y quema de bosques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_4_2",
+    "desc_col": "Número de denuncias atendidas / Deforestación y quema de bosques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106_5",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación sonora?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_5_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación sonora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_5_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación sonora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106_6",
+    "desc_col": "¿La municipalidad registró otro tipo de denuncias ambientales?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_6_1",
+    "desc_col": "Número de denuncias recepcionadas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_6_2",
+    "desc_col": "Número de denuncias atendidas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "106",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2015",
+    "col": "P106A_6_O",
+    "desc_col": "Número de denuncias / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P49_01",
+    "desc_q": "Áreas verdes (m2) / Plazas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_02",
+    "desc_q": "Áreas verdes (m2) / Parques",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_03",
+    "desc_q": "Áreas verdes (m2) / Jardines y óvalos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_04",
+    "desc_q": "Áreas verdes (m2) / Bermas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_05",
+    "desc_q": "Áreas verdes (m2) / Alamedas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "VFI_P50",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50",
+    "desc_q": "La municipalidad brinda servicios de cabinas públicas de Internet",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Brinda;0: No brinda",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50_01",
+    "desc_q": "Cabina pública de Internet/ Número de locales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50_02",
+    "desc_q": "Cabina pública de Internet / Número de PC",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50_03",
+    "desc_q": "Cabina pública de Internet / Tipo de conexión a Internet",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Módem analógico;2: ADSL;3: Fibra óptica;4: Satelital;5: Otros",
+    "value_pos": null
+  },
+  {
+    "h2": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la biblioteca municipal) , 2012"
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "VFI_P51",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_01",
+    "desc_q": "Biblioteca Municipal / Área (m²)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_02",
+    "desc_q": "Biblioteca Municipal / Número de usuarios atendidos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_03",
+    "desc_q": "Biblioteca municipal / Número de asientos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Biblioteca municipal en el distrito, en el 2012"
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P51",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "VFI_P52",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_01",
+    "desc_q": "Número de volúmenes / Folletos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_02",
+    "desc_q": "Número de volúmenes / Libros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_03",
+    "desc_q": "Número de volúmenes / Libros electrónicos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_04",
+    "desc_q": "Número de volúmenes / Publicaciones periódicas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_05",
+    "desc_q": "Número de volúmenes / Material audiovisual",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_06",
+    "desc_q": "Número de volúmenes / Material en braille",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_07",
+    "desc_q": "Numero de volúmenes / Afiches y otros similares",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Colecciones que dispone la biblioteca municipal, en el 2012"
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "P51",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "h2": "Servicios que brinda la biblioteca municipal, 2013"
+  }
+]

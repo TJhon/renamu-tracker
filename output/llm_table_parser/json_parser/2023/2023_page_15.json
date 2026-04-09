@@ -1,0 +1,137 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_10_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_10_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_11",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_11_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_11_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_11_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_11_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_12",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_12_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_12_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_12_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_12_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_13",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_13_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2023",
+    "col": "P23_13_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  }
+]

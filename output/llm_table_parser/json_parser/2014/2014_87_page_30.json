@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "infraestructura en el distrito, 2013",
+    "col": "P53_08_I",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Otro Público / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "infraestructura en el distrito, 2013",
+    "col": "P53_14_S",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "infraestructura en el distrito, 2013",
+    "col": "P53_15_I",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Otro Privado / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "54"
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "VFI_P54",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54",
+    "desc_col": "La municipalidad recibió transferencia de proyectos",
+    "values": "1: Recibió;0: No recibió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_01",
+    "desc_col": "Proyectos de infraestructura social y productiva / Agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_02",
+    "desc_col": "Proyectos de infraestructura social y productiva / Electrificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_03",
+    "desc_col": "Proyectos de infraestructura social y productiva / Hospital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_04",
+    "desc_col": "Proyectos de infraestructura social y productiva / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_05",
+    "desc_col": "Proyectos de infraestructura social y productiva / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_06",
+    "desc_col": "Proyectos de infraestructura social y productiva / Aulas escolares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P67_07",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Infraestructura vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_08",
+    "desc_col": "Proyectos de infraestructura social y productiva / Pequeños sistemas de riego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_09",
+    "desc_col": "Proyectos de infraestructura social y productiva / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "54",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, 2013",
+    "col": "P54_O",
+    "desc_col": "Proyectos de infraestructura social y productiva / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

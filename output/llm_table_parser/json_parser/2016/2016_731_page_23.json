@@ -1,0 +1,131 @@
+[
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73",
+    "desc_col": "¿La Municipalidad implementó Programas de Control y Prevención de la Salud?",
+    "values": "1: Implementó;0: No implementó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_1",
+    "desc_col": "Programa de Control y Prevención de la Salud / Vacunación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_2",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control del crecimiento y desarrollo del niño",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_3",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de infecciones respiratorias agudas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_4",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de enfermedades diarreicas agudas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_5",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de tuberculosis",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_6",
+    "desc_col": "Programa de Control y Prevención de la Salud / Planificación familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_7",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de infecciones de transmisión sexual y VIH/SIDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_8",
+    "desc_col": "Programa de Control y Prevención de la Salud / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "73",
+    "desc_q": "Programas de control y Prevención de la Salud implementados por la Municipalidad, en el 2015",
+    "col": "P73_8_O",
+    "desc_col": "Programa de Control y Prevención de la Salud / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SEGURIDAD CIUDADANA"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Efectivos de serenazgo y puestos de",
+    "col": "VFI_P74",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Efectivos de serenazgo y puestos de",
+    "col": "P74",
+    "desc_col": "¿La Municipalidad brinda el servicio de Serenazgo?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Efectivos de serenazgo y puestos de",
+    "col": "P74_1_T",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2015 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Efectivos de serenazgo y puestos de",
+    "col": "P74_1_M",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2015 / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

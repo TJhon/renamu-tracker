@@ -1,0 +1,227 @@
+[
+  {
+    "n_q": "P105_31",
+    "desc_q": "Venta de servicios / De transporte y comunicación",
+    "col": "p105_31",
+    "desc_col": "Venta de servicios / De transporte y comunicación"
+  },
+  {
+    "n_q": "P105_32",
+    "desc_q": "Venta de servicios / De educación, recreación y cultura",
+    "col": "p105_32",
+    "desc_col": "Venta de servicios / De educación, recreación y cultura"
+  },
+  {
+    "n_q": "P105_33",
+    "desc_q": "Venta de servicios / De salud",
+    "col": "p105_33",
+    "desc_col": "Venta de servicios / De salud"
+  },
+  {
+    "n_q": "P105_34",
+    "desc_q": "Venta de servicios / Otros",
+    "col": "p105_34",
+    "desc_col": "Venta de servicios / Otros"
+  },
+  {
+    "n_q": "P105_35",
+    "desc_q": "Donaciones y transferencias corrientes",
+    "col": "p105_35",
+    "desc_col": "Donaciones y transferencias corrientes"
+  },
+  {
+    "n_q": "P105_36",
+    "desc_q": "Donaciones y transferencias corrientes / De Gobiernos Extranjeros",
+    "col": "p105_36",
+    "desc_col": "Donaciones y transferencias corrientes / De Gobiernos Extranjeros"
+  },
+  {
+    "n_q": "P105_37",
+    "desc_q": "Donaciones y transferencias corrientes / De Organismos Internacionales",
+    "col": "p105_37",
+    "desc_col": "Donaciones y transferencias corrientes / De Organismos Internacionales"
+  },
+  {
+    "n_q": "P105_38",
+    "desc_q": "Donaciones y transferencias corrientes / De otras Unidades de Gobierno",
+    "col": "p105_38",
+    "desc_col": "Donaciones y transferencias corrientes / De otras Unidades de Gobierno"
+  },
+  {
+    "n_q": "P105_39",
+    "desc_q": "Donaciones y transferencias corrientes / Canon",
+    "col": "p105_39",
+    "desc_col": "Donaciones y transferencias corrientes / Canon"
+  },
+  {
+    "n_q": "P105_40",
+    "desc_q": "Donaciones y transferencias corrientes / Sobrecanon",
+    "col": "p105_40",
+    "desc_col": "Donaciones y transferencias corrientes / Sobrecanon"
+  },
+  {
+    "n_q": "P105_41",
+    "desc_q": "Donaciones y transferencias corrientes / Regalías mineras",
+    "col": "p105_41",
+    "desc_col": "Donaciones y transferencias corrientes / Regalías mineras"
+  },
+  {
+    "n_q": "P105_42",
+    "desc_q": "Donaciones y transferencias corrientes / Regalías FOCAM",
+    "col": "p105_42",
+    "desc_col": "Donaciones y transferencias corrientes / Regalías FOCAM"
+  },
+  {
+    "n_q": "P105_43",
+    "desc_q": "Donaciones y transferencias corrientes / Participación renta de aduanas",
+    "col": "p105_43",
+    "desc_col": "Donaciones y transferencias corrientes / Participación renta de aduanas"
+  },
+  {
+    "n_q": "P105_44",
+    "desc_q": "Donaciones y transferencias corrientes / Participación por eliminación de exoneraciones",
+    "col": "p105_44",
+    "desc_col": "Donaciones y transferencias corrientes / Participación por eliminación de exoneraciones"
+  },
+  {
+    "n_q": "P105_45",
+    "desc_q": "Donaciones y transferencias corrientes / FONCOMUN",
+    "col": "p105_45",
+    "desc_col": "Donaciones y transferencias corrientes / FONCOMUN"
+  },
+  {
+    "n_q": "P105_46",
+    "desc_q": "Rentas de la propiedad",
+    "col": "p105_46",
+    "desc_col": "Rentas de la propiedad"
+  },
+  {
+    "n_q": "P105_47",
+    "desc_q": "Rentas de la propiedad / Rentas de la propiedad real",
+    "col": "p105_47",
+    "desc_col": "Rentas de la propiedad / Rentas de la propiedad real"
+  },
+  {
+    "n_q": "P105_48",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad real / Derechos e ingreso por concesiones",
+    "col": "p105_48",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad real / Derechos e ingreso por concesiones"
+  },
+  {
+    "n_q": "P105_49",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad real / Dividendos",
+    "col": "p105_49",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad real / Dividendos"
+  },
+  {
+    "n_q": "P105_50",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera",
+    "col": "p105_50",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera"
+  },
+  {
+    "n_q": "P105_51",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera / Intereses",
+    "col": "p105_51",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera / Intereses"
+  },
+  {
+    "n_q": "P105_52",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera / Diferencial cambiario",
+    "col": "p105_52",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera / Diferencial cambiario"
+  },
+  {
+    "n_q": "P105_53",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera / Otros intereses",
+    "col": "p105_53",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera / Otros intereses"
+  },
+  {
+    "n_q": "P105_54",
+    "desc_q": "Multas y sanciones no tributarias",
+    "col": "p105_54",
+    "desc_col": "Multas y sanciones no tributarias"
+  },
+  {
+    "n_q": "P105_55",
+    "desc_q": "Multas y sanciones no tributarias / Multas y sanciones no tributarias",
+    "col": "p105_55",
+    "desc_col": "Multas y sanciones no tributarias / Multas y sanciones no tributarias"
+  },
+  {
+    "n_q": "P105_56",
+    "desc_q": "Multas y sanciones no tributarias / Sanciones",
+    "col": "p105_56",
+    "desc_col": "Multas y sanciones no tributarias / Sanciones"
+  },
+  {
+    "n_q": "P105_57",
+    "desc_q": "Otros ingresos corrientes",
+    "col": "p105_57",
+    "desc_col": "Otros ingresos corrientes"
+  },
+  {
+    "n_q": "P105_58",
+    "desc_q": "Otros ingresos corrientes / Transferencias voluntarias corrientes distintas de donaciones",
+    "col": "p105_58",
+    "desc_col": "Otros ingresos corrientes / Transferencias voluntarias corrientes distintas de donaciones"
+  },
+  {
+    "n_q": "P105_59",
+    "desc_q": "Otros ingresos corrientes / Ingresos diversos",
+    "col": "p105_59",
+    "desc_col": "Otros ingresos corrientes / Ingresos diversos"
+  },
+  {
+    "h2": "II. INGRESOS DE CAPITAL"
+  },
+  {
+    "n_q": "P105_61",
+    "desc_q": "Donaciones de capital",
+    "col": "p105_61",
+    "desc_col": "Donaciones de capital"
+  },
+  {
+    "n_q": "P105_62",
+    "desc_q": "Donaciones de capital / De Gobiernos Extranjeros",
+    "col": "p105_62",
+    "desc_col": "Donaciones de capital / De Gobiernos Extranjeros"
+  },
+  {
+    "n_q": "P105_63",
+    "desc_q": "Donaciones de capital / Organismos Internacionales",
+    "col": "p105_63",
+    "desc_col": "Donaciones de capital / Organismos Internacionales"
+  },
+  {
+    "n_q": "P105_64",
+    "desc_q": "Donaciones de capital / De otras unidades de Gobierno",
+    "col": "p105_64",
+    "desc_col": "Donaciones de capital / De otras unidades de Gobierno"
+  },
+  {
+    "n_q": "P105_65",
+    "desc_q": "Venta de activos no financieros",
+    "col": "p105_65",
+    "desc_col": "Venta de activos no financieros"
+  },
+  {
+    "n_q": "P105_66",
+    "desc_q": "Venta de activos no financieros / Venta de edificios y estructuras",
+    "col": "p105_66",
+    "desc_col": "Venta de activos no financieros / Venta de edificios y estructuras"
+  },
+  {
+    "n_q": "P105_67",
+    "desc_q": "Venta de activos no financieros / Venta de activos no producidos",
+    "col": "p105_67",
+    "desc_col": "Venta de activos no financieros / Venta de activos no producidos"
+  },
+  {
+    "n_q": "P105_68",
+    "desc_q": "Venta de activos no financieros / Venta de vehículos, maquinarias y otros",
+    "col": "p105_68",
+    "desc_col": "Venta de activos no financieros / Venta de vehículos, maquinarias y otros"
+  }
+]

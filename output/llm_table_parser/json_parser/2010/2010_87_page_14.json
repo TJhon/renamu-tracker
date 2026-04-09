@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_S_09",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_S_10",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / ONG",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_S_11",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Empresa privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_S_12",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La comunidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_S_13",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La iglesia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_S_14",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_S_15",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I",
+    "desc_col": "Organismos o instituciones financiaron obras de infraestructura en el distrito",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_01",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / PRONAA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_02",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / FONCODES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_03",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_04",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_05",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Vivienda (Agua para todos)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_06",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Transportes y Comunicaciones (Provias Nacional)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_07",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Gobierno Regional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_08",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Municipio / Gobierno Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_09",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Otro Público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_10",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / ONG",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_11",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Empresa privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_12",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / La comunidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_13",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / La iglesia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_14",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Organismo internacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_I_15",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Otro Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_09_O",
+    "desc_col": "Organismos o instituciones / Programas Sociales u Obras de infraestructura / Público / Otro Público / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P62_15_O",
+    "desc_col": "Organismos o instituciones / Programas Sociales u Obras de infraestructura / Privado / Otro Privado / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "VFI_P63",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "63",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la",
+    "col": "P63",
+    "desc_col": "La municipalidad recibió transferencia de proyectos",
+    "values": "1: Recibió; 0: No recibió",
+    "value_pos": 1
+  }
+]

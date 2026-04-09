@@ -1,0 +1,149 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P41A_6",
+    "desc_col": "Número de licencias de edificación / Campos feriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41_7",
+    "desc_q": "¿La municipalidad otorgó licencias de edificación para hoteles, hostales y otros establecimientos de hospedaje?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41A_7",
+    "desc_q": "Número de licencias de edificación / Hoteles, hostales y otros establecimientos de hospedaje",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41_8",
+    "desc_q": "¿La municipalidad otorgó licencias de edificación para fábricas industriales",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41A_8",
+    "desc_q": "Número de licencias de edificación / Fábricas industriales",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41_9",
+    "desc_q": "¿La municipalidad otorgó licencias de edificación para locales de instituciones del Estado?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41A_9",
+    "desc_q": "Número de licencias de edificación / Locales de instituciones del Estado",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41_10",
+    "desc_q": "¿La municipalidad otorgó licencias de edificación para terminales de transporte terrestre?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41A_10",
+    "desc_q": "Número de licencias de edificación / Terminales de transporte terrestre",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41_11",
+    "desc_q": "¿La municipalidad otorgó otras licencias de edificación?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41A_11",
+    "desc_q": "Número de licencias de edificación / Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P41A_11_O",
+    "desc_q": "Número de licencias de edificación / Otro / Especifique",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad que realizó Verificaciones técnicas a las obras con licencia de edificación, 2016"
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Municipalidad que realizó Verificaciones técnicas a las obras con licencia de edificación, 2016",
+    "col": "VF1_P42",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Municipalidad que realizó Verificaciones técnicas a las obras con licencia de edificación, 2016",
+    "col": "P42",
+    "desc_col": "¿La municipalidad realizó verificaciones técnicas a las obras con licencia de edificación?",
+    "values": "1: Realizó; 2: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Municipalidad que realizó Verificaciones técnicas a las obras con licencia de edificación, 2016",
+    "col": "P42_1",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Total de obras con licencias de edificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Municipalidad que realizó Verificaciones técnicas a las obras con licencia de edificación, 2016",
+    "col": "P42_2",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Obras con verificación técnica",
+    "values": "",
+    "value_pos": null
+  }
+]

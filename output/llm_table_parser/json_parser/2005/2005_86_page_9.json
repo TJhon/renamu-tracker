@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V133",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad real",
+    "col": "v133",
+    "desc_col": "Renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V134",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad real /Canon",
+    "col": "v134",
+    "desc_col": "Canon",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V135",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad real /Otras rentas",
+    "col": "v135",
+    "desc_col": "Otras rentas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V136",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad financiera",
+    "col": "v136",
+    "desc_col": "Renta de la propiedad financiera",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V137",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Multas, sanciones y otros",
+    "col": "v137",
+    "desc_col": "Multas, sanciones y otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V138",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Multas, sanciones y otros/ Multas y análogas",
+    "col": "v138",
+    "desc_col": "Multas y análogas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V139",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Multas, sanciones y otros /Sanciones",
+    "col": "v139",
+    "desc_col": "Sanciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V140",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Multas, sanciones y otros /Otros",
+    "col": "v140",
+    "desc_col": "Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V141",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Otros ingresos corrientes",
+    "col": "v141",
+    "desc_col": "Otros ingresos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V142",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Otros ingresos corrientes /Ingresos diversos",
+    "col": "v142",
+    "desc_col": "Ingresos diversos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V143",
+    "desc_q": "2003 (Nuevos Soles) / PIA / II. INGRESO DE CAPITAL",
+    "col": "v143",
+    "desc_col": "II. INGRESO DE CAPITAL",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V144",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Venta de activos",
+    "col": "v144",
+    "desc_col": "Venta de activos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V145",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Venta de activos/ Inmuebles (excepto terrenos)",
+    "col": "v145",
+    "desc_col": "Inmuebles (excepto terrenos)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V146",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Venta de activos/ Terrenos urbanos y rurales",
+    "col": "v146",
+    "desc_col": "Terrenos urbanos y rurales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V147",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Venta de activos /Vehículos, equipos y maquinarias (usados)",
+    "col": "v147",
+    "desc_col": "Vehículos, equipos y maquinarias (usados)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V148",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Venta de activos /Otros",
+    "col": "v148",
+    "desc_col": "Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V149",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Amortización por préstamos concedidos (Reembolso)",
+    "col": "v149",
+    "desc_col": "Amortización por préstamos concedidos (Reembolso)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V150",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Otros ingresos de capital",
+    "col": "v150",
+    "desc_col": "Otros ingresos de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V151",
+    "desc_q": "2003 (Nuevos Soles) / PIA / III. TRANSFERENCIAS",
+    "col": "v151",
+    "desc_col": "III. TRANSFERENCIAS",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V152",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector No Público",
+    "col": "v152",
+    "desc_col": "Internas del Sector No Público",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V153",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector Público",
+    "col": "v153",
+    "desc_col": "Internas del Sector Público",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V154",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector Público/ Programa del Vaso de Leche",
+    "col": "v154",
+    "desc_col": "Programa del Vaso de Leche",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V155",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector Público/ De instancias descentralizadas",
+    "col": "v155",
+    "desc_col": "De instancias descentralizadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V156",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector Público /Del gobierno nacional",
+    "col": "v156",
+    "desc_col": "Del gobierno nacional",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V157",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector Público /Para proyectos de infraestructura social y productiva",
+    "col": "v157",
+    "desc_col": "Para proyectos de infraestructura social y productiva",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V158",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector Público /Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "col": "v158",
+    "desc_col": "Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V159",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Internas del Sector Público /Para otras acciones nutricionales y de asistencia solidaria",
+    "col": "v159",
+    "desc_col": "Para otras acciones nutricionales y de asistencia solidaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V160",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Externas",
+    "col": "v160",
+    "desc_col": "Externas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V161",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Fondo de Compensación Municipal",
+    "col": "v161",
+    "desc_col": "Fondo de Compensación Municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V162",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Otras transferencias",
+    "col": "v162",
+    "desc_col": "Otras transferencias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V163",
+    "desc_q": "2003 (Nuevos Soles) / PIA / IV. FINANCIAMIENTO",
+    "col": "v163",
+    "desc_col": "IV. FINANCIAMIENTO",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V164",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Operaciones oficiales de crédito externo",
+    "col": "v164",
+    "desc_col": "Operaciones oficiales de crédito externo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V165",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Operaciones oficiales de crédito interno",
+    "col": "v165",
+    "desc_col": "Operaciones oficiales de crédito interno",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V166",
+    "desc_q": "2003 (Nuevos Soles) / PIA / Saldo del balance",
+    "col": "v166",
+    "desc_col": "Saldo del balance",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V201",
+    "desc_q": "2003 (Nuevos Soles) / Ejecución / INGRESO TOTAL (I+II+III+IV)",
+    "col": "v201",
+    "desc_col": "INGRESO TOTAL (I+II+III+IV)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V202",
+    "desc_q": "2003 (Nuevos Soles) / Ejecución / I. INGRESOS CORRIENTES",
+    "col": "v202",
+    "desc_col": "I. INGRESOS CORRIENTES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V203",
+    "desc_q": "2003 (Nuevos Soles) / Ejecución / Impuestos",
+    "col": "v203",
+    "desc_col": "Impuestos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V204",
+    "desc_q": "2003 (Nuevos Soles) / Ejecución / Predial",
+    "col": "v204",
+    "desc_col": "Predial",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V205",
+    "desc_q": "2003 (Nuevos Soles) / Ejecución / Impuestos/ De alcabala",
+    "col": "v205",
+    "desc_col": "De alcabala",
+    "values": null,
+    "value_pos": null
+  }
+]

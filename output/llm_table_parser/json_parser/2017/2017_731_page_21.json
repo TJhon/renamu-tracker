@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70A_4",
+    "desc_col": "Número de proyectos / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70_5",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Puesto de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70A_5",
+    "desc_col": "Número de proyectos / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70_6",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Aulas escolares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70A_6",
+    "desc_col": "Número de proyectos / Aulas escolares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70_7",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Infraestructura vial?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70A_7",
+    "desc_col": "Número de proyectos / Infraestructura vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70_8",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Sistemas de riego?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70A_8",
+    "desc_col": "Número de proyectos / Sistemas de riego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70_9",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Otro?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70A_9",
+    "desc_col": "Número de proyectos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2016",
+    "col": "P70_9_O",
+    "desc_col": "La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SALUD"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P71",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P71",
+    "desc_col": "¿La municipalidad administra establecimientos de salud que funciona en el distrito?",
+    "values": "1: Administra; 0: No administra",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P71_1",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Hospital / Clínica?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P71A_1",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P71_2",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de Salud?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P71A_2",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Centro de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P71_3",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Puesto de salud?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

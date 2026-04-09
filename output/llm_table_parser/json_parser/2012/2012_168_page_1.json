@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "VFI_P101",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_D_01",
+    "desc_col": "Departamental / Distancia (Km.)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_D_02",
+    "desc_col": "Departamental / Tiempo / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_D_03",
+    "desc_col": "Departamental / Tiempo / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_D_04",
+    "desc_col": "Departamental / Medio de transporte más frecuente",
+    "values": "1:Ómnibus;2:Microbús;3:Camioneta;4:Camión;5:Auto;6:Mototaxi;7:Ferrocarril;8:Bote/Lancha;9:Motocicleta;10:Bicicleta;11:Acémila;12:A pie;13:Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_D_05",
+    "desc_col": "Departamental / Medio de transporte más frecuente / Otros / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_D_06",
+    "desc_col": "Departamental / Precio aproximado del pasaje (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_DI_01",
+    "desc_col": "Distrital / Distancia (Km.)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_DI_02",
+    "desc_col": "Distrital / Tiempo / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_DI_03",
+    "desc_col": "Distrital / Tiempo / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_DI_04",
+    "desc_col": "Distrital / Medio de transporte más frecuente",
+    "values": "1:Ómnibus;2:Microbús;3:Camioneta;4:Camión;5:Auto;6:Mototaxi;7:Ferrocarril;8:Bote/Lancha;9:Motocicleta;10:Bicicleta;11:Acémila;12:A pie;13:Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "101",
+    "desc_q": "Distancia y tiempo para trasladarse de la capital, Departamental y provincial utilizando el medio de transporte más frecuente, 2012",
+    "col": "P101_DI_05",
+    "desc_col": "Distrital / Medio de transporte más frecuente / Otros / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

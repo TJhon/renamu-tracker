@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44_5",
+    "desc_col": "¿La municipalidad realizó reparación de escalinatas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_5_1",
+    "desc_col": "Realizó reparación de escalinatas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_5_2",
+    "desc_col": "Realizó reparación de escalinatas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44_6",
+    "desc_col": "¿La municipalidad realizó construcción de escalinatas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_6_1",
+    "desc_col": "Realizó construcción de escalinatas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_6_2",
+    "desc_col": "Realizó construcción de escalinatas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44_7",
+    "desc_col": "¿La municipalidad realizó reparación de caminos rurales afirmados?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_7_1",
+    "desc_col": "Realizó reparación de caminos rurales afirmados / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_7_2",
+    "desc_col": "Realizó reparación de caminos rurales afirmados / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44_8",
+    "desc_col": "¿La municipalidad realizó construcción de caminos rurales afirmados?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_8_1",
+    "desc_col": "Realizó construcción de caminos rurales afirmados / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_8_2",
+    "desc_col": "Realizó construcción de caminos rurales afirmados / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44_9",
+    "desc_col": "¿La municipalidad realizó reparación de caminos rurales sin afirmar?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_9_1",
+    "desc_col": "Realizó reparación de caminos rurales sin afirmar / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_9_2",
+    "desc_col": "Realizó reparación de caminos rurales sin afirmar / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44_10",
+    "desc_col": "¿La municipalidad realizó construcción de caminos rurales sin afirmar?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_10_1",
+    "desc_col": "Realizó construcción de caminos rurales sin afirmar / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2015",
+    "col": "P44A_10_2",
+    "desc_col": "Realizó construcción de caminos rurales sin afirmar / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  }
+]

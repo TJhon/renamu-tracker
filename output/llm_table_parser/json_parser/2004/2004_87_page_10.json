@@ -1,0 +1,326 @@
+[
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio publico de transporte de pasajeros",
+    "col": "V1",
+    "desc_col": "Numero de concesiones/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio publico de transporte de pasajeros",
+    "col": "V2",
+    "desc_col": "Numero de concesiones/ Personas Naturales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio publico de transporte de pasajeros",
+    "col": "V3",
+    "desc_col": "Numero de concesiones/ Personas Juridicas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio publico de transporte de pasajeros",
+    "col": "V4",
+    "desc_col": "Numero de Autorizaciones/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio publico de transporte de pasajeros",
+    "col": "V5",
+    "desc_col": "Numero de Autorizaciones / Personas Naturales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio publico de transporte de pasajeros",
+    "col": "V6",
+    "desc_col": "Numero de Autorizaciones / Personas Juridicas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "79",
+    "desc_q": "Obras de inversión que proyecta realizar la municipalidad, en e l 2004",
+    "col": "V1",
+    "desc_col": "Total Obras",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "79",
+    "desc_q": "Obras de inversión que proyecta realizar la municipalidad, en e l 2004",
+    "col": "V2",
+    "desc_col": "Nombre de la Obra",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "79",
+    "desc_q": "Obras de inversión que proyecta realizar la municipalidad, en e l 2004",
+    "col": "V3",
+    "desc_col": "Monto de Inversión ( Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "79",
+    "desc_q": "Obras de inversión que proyecta realizar la municipalidad, en e l 2004",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Obra",
+    "values": "1 al 5 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V1",
+    "desc_col": "Total obras y proyectos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V2",
+    "desc_col": "Nombre d e la Obra",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V3",
+    "desc_col": "Cuesta con estudio de factibilidad/ Si",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V4",
+    "desc_col": "Cuesta con estudio de factibilidad/ No",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V5",
+    "desc_col": "Monto de inversión estimado (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Obra/ proyecto",
+    "values": "1 al 17 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron tener producción artesanal",
+    "values": "1: Si tienen 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V2",
+    "desc_col": "Tipo de producción/ Lácteos",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V3",
+    "desc_col": "Tipo de producción/ Miel de abeja",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V4",
+    "desc_col": "Tipo de producción/ Textiles",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V5",
+    "desc_col": "Tipo de producción/ Alfarería y cerámica",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V6",
+    "desc_col": "Tipo de producción/ Joyería y Orfebrería",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V7",
+    "desc_col": "Tipo de producción/ Fibras vegetales",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V8",
+    "desc_col": "Tipo de producción/ Madera",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V9",
+    "desc_col": "Tipo de producción/ Cuero y pieles",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V10",
+    "desc_col": "Tipo de producción/ Bisutería",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V11",
+    "desc_col": "Tipo de producción/ Mates Burilados",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V12",
+    "desc_col": "Tipo de producción/ Manualidades",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V13",
+    "desc_col": "Tipo de producción/ Instrumentos musicales",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V14",
+    "desc_col": "Tipo de producción/ Imaginería",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V15",
+    "desc_col": "Tipo de producción/ Otro",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0079",
+    "n_q": "82",
+    "desc_q": "Acciones que realizo la municipalidad de fomento a la artesanía",
+    "col": "V1",
+    "desc_col": "Municipalidades que realizaron acciones de fomento a la artesanía",
+    "values": "1: Si realizo 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0079",
+    "n_q": "82",
+    "desc_q": "Acciones que realizo la municipalidad de fomento a la artesanía",
+    "col": "V2",
+    "desc_col": "Acciones de fomento a la artesanía/ Promoción y publicidad",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0079",
+    "n_q": "82",
+    "desc_q": "Acciones que realizo la municipalidad de fomento a la artesanía",
+    "col": "V3",
+    "desc_col": "Acciones de fomento a la artesanía/ Realización de ferias",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0079",
+    "n_q": "82",
+    "desc_q": "Acciones que realizo la municipalidad de fomento a la artesanía",
+    "col": "V4",
+    "desc_col": "Acciones de fomento a la artesanía/ Apoyo a la comercialización de productos",
+    "values": "1: Si 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0079",
+    "n_q": "82",
+    "desc_q": "Acciones que realizo la municipalidad de fomento a la artesanía",
+    "col": "V5",
+    "desc_col": "Acciones de fomento a la artesanía/ Promover el consumo de",
+    "values": "1: Si",
+    "value_pos": null
+  }
+]

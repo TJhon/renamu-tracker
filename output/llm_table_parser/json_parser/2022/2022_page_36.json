@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_3_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Puesto / Posta de salud / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P66_4",
+    "desc_q": "¿La Municipalidad administra establecimientos de salud: Consultorio médico?",
+    "col": "P66_4",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Consultorio médico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_4_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Consultorio médico / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P66_5",
+    "desc_q": "¿La Municipalidad administra establecimientos de salud: Consultorio odontológico?",
+    "col": "P66_5",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Consultorio odontológico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_5_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Consultorio odontológico / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P66_6",
+    "desc_q": "¿La Municipalidad administra establecimientos de salud: Casa de reposo / Asilo?",
+    "col": "P66_6",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Casa de reposo / Asilo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_6_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Casa de reposo / Asilo / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P66_7",
+    "desc_q": "¿La Municipalidad administra establecimientos de salud: Centro de rehabilitación?",
+    "col": "P66_7",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Centro de rehabilitación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_7_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Centro de rehabilitación / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P66_8",
+    "desc_q": "¿La Municipalidad administra establecimientos de salud: Farmacia?",
+    "col": "P66_8",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Farmacia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_8_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Farmacia / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P66_9",
+    "desc_q": "¿La Municipalidad administra establecimientos de salud: Botica?",
+    "col": "P66_9",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Botica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_9_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botica / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P66_10",
+    "desc_q": "¿La Municipalidad administra establecimientos de salud: Botiquín comunal (Local)?",
+    "col": "P66_10",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Botiquín comunal (Local)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_10_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botiquín comunal (Local) / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "66",
+    "n_q": null,
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "VFI_P67",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_1",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud preventiva",
+    "col": "P67_1",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud preventiva",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_2",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de vacunación",
+    "col": "P67_2",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de vacunación",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_3",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de educación sanitaria",
+    "col": "P67_3",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de educación sanitaria",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_4",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de primeros auxilios",
+    "col": "P67_4",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de primeros auxilios",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_5",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de control de epidemias",
+    "col": "P67_5",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de control de epidemias",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_6",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de profilaxis local",
+    "col": "P67_6",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de profilaxis local",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_7",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de fumigación",
+    "col": "P67_7",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de fumigación",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_8",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud mental",
+    "col": "P67_8",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud mental",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_9",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de registro y certificación de canes",
+    "col": "P67_9",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de registro y certificación de canes",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P67_10",
+    "desc_q": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de esterilización de perros y gatos",
+    "col": "P67_10",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de esterilización de perros y gatos",
+    "values": "0: No; 10: Sí",
+    "value_pos": 10
+  }
+]

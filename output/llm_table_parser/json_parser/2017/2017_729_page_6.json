@@ -1,0 +1,170 @@
+[
+  {
+    "h2": "Personal de la municipalidad, al 31 de marzo 2017"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21D_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21D_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21D_SM",
+    "desc_col": "Locación de Servicios / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21D_SH",
+    "desc_col": "Locación de Servicios / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_T",
+    "desc_col": "Total personal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_SM",
+    "desc_col": "Locación de Servicios / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21M_SH",
+    "desc_col": "Locación de Servicios / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Personal con discapacidad"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P21A",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P21A",
+    "desc_q": "¿La Municipalidad tiene personal con discapacidad?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21A_1_T",
+    "desc_col": "Personal con discapacidad / Total / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  }
+]

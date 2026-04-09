@@ -1,0 +1,494 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V220",
+    "desc_col": "Licencias / Construcción / Otros / 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V221",
+    "desc_col": "Licencias / Actividades profesionales / 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V222",
+    "desc_col": "Licencias / Otros / Transporte / 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V223",
+    "desc_col": "Licencias / Otros / Cabinas públicas / 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V224",
+    "desc_col": "Licencias / Otros / Colegios profesionales / 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V225",
+    "desc_col": "Licencias / Otros / Otros / 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "36 CUADRO_C0031 Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V11",
+    "desc_col": "2003/ Municipalidad/Pistas reparadas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V12",
+    "desc_col": "2003/ Municipalidad/Pistas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V13",
+    "desc_col": "2003/Otras instituciones/Pistas reparadas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V14",
+    "desc_col": "2003/Otras instituciones/Pistas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V15",
+    "desc_col": "2004/ Municipalidad/Pistas reparadas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V16",
+    "desc_col": "2004/ Municipalidad/Pistas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V17",
+    "desc_col": "2004/Otras instituciones/Pistas reparadas// m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V18",
+    "desc_col": "2004/ Otras instituciones/Pistas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V21",
+    "desc_col": "2003/ Municipalidad/Pistas construidas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V22",
+    "desc_col": "2003/ Municipalidad/Pistas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V23",
+    "desc_col": "2003/Otras instituciones/Pistas construidas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V24",
+    "desc_col": "2003/Otras instituciones/Pistas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V25",
+    "desc_col": "2004/ Municipalidad/Pistas construidas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V26",
+    "desc_col": "2004/ Municipalidad/Pistas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V27",
+    "desc_col": "2004/Otras instituciones/Pistas construidas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V28",
+    "desc_col": "2004/Otras instituciones/Pistas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V31",
+    "desc_col": "2003/ Municipalidad/Veredas reparadas/m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V32",
+    "desc_col": "2003/ Municipalidad/Veredas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V33",
+    "desc_col": "2003/Otras instituciones/Veredas reparadas/m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V34",
+    "desc_col": "2003/Otras instituciones/Veredas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V35",
+    "desc_col": "2004/ Municipalidad/Veredas reparadas/m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V36",
+    "desc_col": "2004/ Municipalidad/Veredas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V37",
+    "desc_col": "2004/ Otras instituciones/Veredas reparadas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V38",
+    "desc_col": "2004/ Otras instituciones/Veredas reparadas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V41",
+    "desc_col": "2003/ Municipalidad/Veredas construidas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V42",
+    "desc_col": "2003/ Municipalidad/Veredas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V43",
+    "desc_col": "2003/Otras instituciones/Veredas construidas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V44",
+    "desc_col": "2003/Otras instituciones/Veredas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V45",
+    "desc_col": "2004/ Municipalidad/Veredas construidas/ m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V46",
+    "desc_col": "2004/ Municipalidad/Veredas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V47",
+    "desc_col": "2004/ Otras instituciones/Veredas construidas/m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas y veredas en el distrito, en el 2003 y 2004",
+    "col": "V48",
+    "desc_col": "2004/Otras instituciones/Veredas construidas/Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "36 CUADRO_C0032 Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V11",
+    "desc_col": "2003 / Municipalidad / Caminos rurales reparados / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V12",
+    "desc_col": "2003 / Municipalidad / Caminos rurales reparados / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V13",
+    "desc_col": "2003 / Otras instituciones / Caminos rurales reparados / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V14",
+    "desc_col": "2003 / Otras instituciones / Caminos rurales reparados / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V15",
+    "desc_col": "2004 / Municipalidad / Caminos rurales reparados / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V16",
+    "desc_col": "2004 / Municipalidad / Caminos rurales reparados / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V17",
+    "desc_col": "2004 / Otras instituciones / Caminos rurales reparados / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V18",
+    "desc_col": "2004 / Otras instituciones / Caminos rurales reparados / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V21",
+    "desc_col": "2003 / Municipalidad / Caminos rurales construidos / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V22",
+    "desc_col": "2003 / Municipalidad / Caminos rurales construidos / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V23",
+    "desc_col": "2003 / Otras instituciones / Caminos rurales construidos / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V24",
+    "desc_col": "2003 / Otras instituciones / Caminos rurales construidos / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V25",
+    "desc_col": "2004 / Municipalidad / Caminos rurales construidos / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V26",
+    "desc_col": "2004 / Municipalidad / Caminos rurales construidos / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V27",
+    "desc_col": "2004 / Otras instituciones / Caminos rurales construidos / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de caminos rurales realizadas en distrito, en el 2 003 y 2004",
+    "col": "V28",
+    "desc_col": "2004 / Otras instituciones / Caminos rurales construidos / Costo (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  }
+]

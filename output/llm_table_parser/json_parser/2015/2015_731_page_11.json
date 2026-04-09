@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P64A_8",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Parques zonales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P64_9",
+    "desc_q": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Piscinas?",
+    "col": "P64_9",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Piscinas",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P64_10",
+    "desc_q": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Gimnasios?",
+    "col": "P64_10",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Gimnasios",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P64_11",
+    "desc_q": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Otro?",
+    "col": "P64_11",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Otro",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P64_11_O",
+    "desc_q": "La municipalidad administra infraestructura deportiva y/o recreativa / Otro / Especifique",
+    "col": "P64_11_O",
+    "desc_col": "La municipalidad administra infraestructura deportiva y/o recreativa / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014"
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "VFI_P65",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65_1",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Bibliotecas Municipales?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_1_1",
+    "desc_col": "Número de locales / Bibliotecas Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_1_2",
+    "desc_col": "Número de visitantes y/o usuarios / Bibliotecas Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65_2",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Casas de la cultura?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_2_1",
+    "desc_col": "Número de locales / Casas de la cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_2_2",
+    "desc_col": "Número de visitantes y/o usuarios / Casas de la cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65_3",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Teatros y teatrines?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_3_1",
+    "desc_col": "Número de locales / Teatros y teatrines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_3_2",
+    "desc_col": "Número de visitantes y/o usuarios / Teatros y teatrines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65_4",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Museos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_4_1",
+    "desc_col": "Número de locales / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_4_2",
+    "desc_col": "Número de visitantes y/o usuarios / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65_5",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Cines?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_5_1",
+    "desc_col": "Número de locales / Cines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65A_5_2",
+    "desc_col": "Número de visitantes y/o usuarios / Cines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C57",
+    "n_q": "65",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2014",
+    "col": "P65_6",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Otro?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  }
+]

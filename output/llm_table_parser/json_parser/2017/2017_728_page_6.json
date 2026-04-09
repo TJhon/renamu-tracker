@@ -1,0 +1,152 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P15A_5",
+    "desc_col": "Número de equipos operativos / Proyector multimedia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P15_6",
+    "desc_col": "¿La municipalidad cuenta con otro equipo de oficina?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P15A_6",
+    "desc_col": "Número de equipos operativos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P15A_6_O",
+    "desc_col": "Número de equipos operativos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "16"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2017",
+    "col": "VFI_P16",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2017",
+    "col": "P16",
+    "desc_col": "¿La municipalidad tiene red informática local?",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2017",
+    "col": "P16A_1",
+    "desc_col": "Número de computadoras interconectadas a red informática local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "17"
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "17",
+    "desc_q": "Servicio de internet en la municipalidad, 2017",
+    "col": "VFI_P17",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "17",
+    "desc_q": "Servicio de internet en la municipalidad, 2017",
+    "col": "P17",
+    "desc_col": "¿La municipalidad cuenta con servicio de internet ?",
+    "values": "1: Cuenta;2: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "17",
+    "desc_q": "Servicio de internet en la municipalidad, 2017",
+    "col": "P17A_1",
+    "desc_col": "Número de computadoras con acceso a internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "17",
+    "desc_q": "Servicio de internet en la municipalidad, 2017",
+    "col": "P17A_2",
+    "desc_col": "Tipo de conexión a internet",
+    "values": "1: Banda ancha inalámbrica (Wi-fi);2: Banda ancha móvil (Modem, USB);3: Línea digital (ADSL,DSL);4: Satelital;5: Cable de fibra óptica",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P18",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P18_1",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P18_2",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Sistema Único deTrámites (SUT)",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P18_3",
+    "desc_col": "Sistema informático que utiliza la municipalidad / MICosto",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P18_4",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Sistema Integrado de Gestión Administrativa (SIGA)",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  }
+]

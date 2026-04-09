@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_8_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_9",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de matrimonio?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_9_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_9_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_9_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_9_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_9_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_9_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_10",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Acceso a la información pública (Copia fotostática simple)",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_10_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_10_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_10_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  }
+]

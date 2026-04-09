@@ -1,0 +1,101 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P21_19",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional",
+    "col": "P21_19",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_20",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional/ Año de publicación",
+    "col": "P21_20",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_21",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional/ Motivo por el que no tiene",
+    "col": "P21_21",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional/ Motivo por el que no tiene",
+    "values": "1. En elaboración;2. Falta de aprobación por el Concejo Municipal;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_22",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Operativo Institucional",
+    "col": "P21_22",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Operativo Institucional",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_23",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Operativo Institucional/ Año de publicación",
+    "col": "P21_23",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Operativo Institucional/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_24",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Operativo Institucional/ Motivo por el que no tiene",
+    "col": "P21_24",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Operativo Institucional/ Motivo por el que no tiene",
+    "values": "1. En elaboración;2. Falta de aprobación por el Concejo Municipal;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_25",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades",
+    "col": "P21_25",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_26",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades/ Año de publicación",
+    "col": "P21_26",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_27",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades/ Motivo por el que no tiene",
+    "col": "P21_27",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades/ Motivo por el que no tiene",
+    "values": "1. En elaboración;2. Falta de aprobación por el Concejo Municipal;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_28",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local",
+    "col": "P21_28",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_29",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local/ Año de publicación",
+    "col": "P21_29",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

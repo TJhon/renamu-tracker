@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_5",
+    "desc_col": "Bienes de Ayuda Humanitaria / Abrigo (ropas, camas plegables, colchas, colchones, frazadas y otros)",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_6",
+    "desc_col": "Bienes de Ayuda Humanitaria / Enseres (utensilios de cocina, productos de higiene y otros)",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_7",
+    "desc_col": "Bienes de Ayuda Humanitaria / Herramientas (lampas, carretillas, picos y otros)",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_8",
+    "desc_col": "Bienes de Ayuda Humanitaria / Otro tipo de bien",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_8_O",
+    "desc_col": "Bienes de Ayuda Humanitaria / Otro tipo de bien / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "VFI_P89",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89",
+    "desc_col": "¿La Municipalidad contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?",
+    "values": "1: Sí; 2: No contó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89_1",
+    "desc_col": "Medios de comunicación / Radiotransmisor",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89_2",
+    "desc_col": "Medios de comunicación / Línea de telefonía fija",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89_3",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89_4",
+    "desc_col": "Medios de comunicación / Acceso a internet",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89_5",
+    "desc_col": "Medios de comunicación / Otro",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89_5_O",
+    "desc_col": "Medios de comunicación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "89",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2019",
+    "col": "P89_6",
+    "desc_col": "Medios de comunicación / No tiene medios de comunicación",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "VFI_P90",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_1",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Cursos de capacitación en Gestión Reactiva del Riesgo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_2",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Simulacros para evaluar el Plan de Operaciones de Emergencia Local",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90A_2",
+    "desc_col": "Número de Simulacros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_3",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Identificación del nivel de riesgo existente en áreas de distrito",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_4",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Supervisión del cumplimiento de las normas de seguridad en recintos con acceso al público",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_5",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Señalización de zonas de seguridad en áreas de alto riesgo",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_6",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_6_O",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "90",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?, 2019",
+    "col": "P90_7",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / No realizó acciones",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "91",
+    "desc_q": "Municipalidades que incorporaron Proyectos de Gestión del Riesgo de Desastres en el Presupuesto Participativo para el año Fiscal 2020",
+    "col": "VFI_P91",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "91",
+    "desc_q": "Municipalidades que incorporaron Proyectos de Gestión del Riesgo de Desastres en el Presupuesto Participativo para el año Fiscal 2020",
+    "col": "P91",
+    "desc_col": "¿La Municipalidad incorporó Proyectos de Gestión del Riesgo de Desastres en el Presupuesto Participativo 2020?",
+    "values": "1: Sí; 2: No incorporó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "91",
+    "desc_q": "Municipalidades que incorporaron Proyectos de Gestión del Riesgo de Desastres en el Presupuesto Participativo para el año Fiscal 2020",
+    "col": "P91_1",
+    "desc_col": "Tipo de proyectos/ Defensa ribereña",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

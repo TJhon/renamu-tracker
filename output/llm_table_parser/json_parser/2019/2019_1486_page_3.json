@@ -1,0 +1,281 @@
+[
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_7",
+    "desc_col": "Operativos de control de anuncios publicitarios / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_8",
+    "desc_col": "¿La municipalidad realizó operativos de control de transporte urbano?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_8",
+    "desc_col": "Operativos de control de transporte urbano / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_9",
+    "desc_col": "¿La municipalidad realizó operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_9",
+    "desc_col": "Operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_10",
+    "desc_col": "¿La municipalidad realizó operativos de control de emisión de humos y gases tóxicos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_10",
+    "desc_col": "Operativos de control de emisión de humos y gases tóxicos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_11",
+    "desc_col": "¿La municipalidad realizó operativos de control de ruidos molestos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_11",
+    "desc_col": "Operativos de control de ruidos molestos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_12",
+    "desc_col": "¿La municipalidad realizó otro tipo de operativos de control?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49A_12",
+    "desc_col": "Operativos de control / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "49",
+    "desc_q": "Municipalidad que realizó operativos de control, 2018",
+    "col": "P49_12_O",
+    "desc_col": "Operativos de control / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "50",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2019",
+    "col": "VFI_P50",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "50",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2019",
+    "col": "P50",
+    "desc_col": "¿La municipalidad tiene baños de uso público instalados en el distrito?",
+    "values": "1: Si; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "50",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2019",
+    "col": "P50_1",
+    "desc_col": "Número de baños de uso público en funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "VFI_P51",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51A",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en Plazas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51A_T",
+    "desc_col": "Total áreas verdes en espacios públicos del distrito (m²) / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51A_C",
+    "desc_col": "Áreas verdes conservadas en espacios públicos del distrito (m²) / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51B",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en Parques?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51B_T",
+    "desc_col": "Total áreas verdes en espacios públicos del distrito (m²) / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51B_C",
+    "desc_col": "Áreas verdes conservadas en espacios públicos del distrito (m²) / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en Parques zonales y zoológicos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51C_T",
+    "desc_col": "Total áreas verdes en espacios públicos del distrito (m²) / Parques zonales y zoológicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51C_C",
+    "desc_col": "Áreas verdes conservadas en espacios públicos del distrito (m²) / Parques zonales y zoológicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51D",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en Jardines y óvalos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51D_T",
+    "desc_col": "Total áreas verdes en espacios públicos del distrito (m²) / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51D_C",
+    "desc_col": "Áreas verdes conservadas en espacios públicos del distrito (m²) / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51E",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en Bermas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51E_T",
+    "desc_col": "Total áreas verdes en espacios públicos del distrito (m²) / Bermas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consevación de areas verdes en espacios públicos, 2019",
+    "col": "P51E_C",
+    "desc_col": "Áreas verdes conservadas en espacios públicos del distrito (m²) / Bermas",
+    "values": "",
+    "value_pos": null
+  }
+]

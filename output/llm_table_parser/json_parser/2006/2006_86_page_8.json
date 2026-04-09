@@ -1,0 +1,326 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V91",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / De industria, minería y comercio",
+    "col": "v91",
+    "desc_col": "Tasas de industria, minería y comercio",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V92",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / De transportes y comunicaciones",
+    "col": "v92",
+    "desc_col": "Tasas de transportes y comunicaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V93",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / Otros",
+    "col": "v93",
+    "desc_col": "Otros tasas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V94",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Contribuciones",
+    "col": "v94",
+    "desc_col": "Contribuciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V95",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Contribuciones / Para pensiones y obras públicas",
+    "col": "v95",
+    "desc_col": "Contribuciones para pensiones y obras públicas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V96",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Ventas de bienes",
+    "col": "v96",
+    "desc_col": "Ventas de bienes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V97",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Ventas de bienes / Agropecuarios y minerales",
+    "col": "v97",
+    "desc_col": "Ventas de bienes agropecuarios y minerales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V98",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Ventas de bienes/ De educación, recreación y cultura",
+    "col": "v98",
+    "desc_col": "Ventas de bienes de educación, recreación y cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V99",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Ventas de bienes / De salud",
+    "col": "v99",
+    "desc_col": "Ventas de bienes de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V100",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Ventas de bienes / Otros",
+    "col": "v100",
+    "desc_col": "Otras ventas de bienes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V101",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Prestación de servicios",
+    "col": "v101",
+    "desc_col": "Prestación de servicios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V102",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Prestación de servicios / De transportes, comunicaciones y almacenaje",
+    "col": "v102",
+    "desc_col": "Prestación de servicios de transportes, comunicaciones y almacenaje",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V103",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Prestación de servicios / De educación, recreación y cultura",
+    "col": "v103",
+    "desc_col": "Prestación de servicios de educación, recreación y cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V104",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Prestación de servicios / De salud",
+    "col": "v104",
+    "desc_col": "Prestación de servicios de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V105",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Prestación de servicios / Otros",
+    "col": "v105",
+    "desc_col": "Otra prestación de servicios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V106",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad",
+    "col": "v106",
+    "desc_col": "Renta de la propiedad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V107",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad real",
+    "col": "v107",
+    "desc_col": "Renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V108",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad real / Canon",
+    "col": "v108",
+    "desc_col": "Canon de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V109",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad real / Sobre Canon",
+    "col": "v109",
+    "desc_col": "Sobre canon de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V110",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad real / Regalías Mineras",
+    "col": "v110",
+    "desc_col": "Regalías mineras de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V111",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad real / Regalías FOCAM",
+    "col": "v111",
+    "desc_col": "Regalías FOCAM de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V112",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad real / Regalías",
+    "col": "v112",
+    "desc_col": "Regalías de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V113",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad real / Otras rentas",
+    "col": "v113",
+    "desc_col": "Otras rentas de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V114",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Renta de la propiedad financiera",
+    "col": "v114",
+    "desc_col": "Renta de la propiedad financiera",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V115",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Renta de la propiedad / Otras Renta de la propiedad",
+    "col": "v115",
+    "desc_col": "Otras rentas de la propiedad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V116",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Multas, sanciones y otros",
+    "col": "v116",
+    "desc_col": "Multas, sanciones y otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V117",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Multas, sanciones y otros / Multas y análogas",
+    "col": "v117",
+    "desc_col": "Multas y análogas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V118",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Multas, sanciones y otros / Sanciones",
+    "col": "v118",
+    "desc_col": "Sanciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V119",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Multas, sanciones y otros / Otros",
+    "col": "v119",
+    "desc_col": "Otros multas, sanciones y otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V120",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Otros ingresos corrientes",
+    "col": "v120",
+    "desc_col": "Otros ingresos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V121",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Otros ingresos corrientes / Ingresos diversos",
+    "col": "v121",
+    "desc_col": "Ingresos diversos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V122",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / II. INGRESO DE CAPITAL",
+    "col": "v122",
+    "desc_col": "Ingreso de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V123",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Venta de activos",
+    "col": "v123",
+    "desc_col": "Venta de activos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V124",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Venta de activos / Inmuebles (excepto terrenos)",
+    "col": "v124",
+    "desc_col": "Venta de inmuebles (excepto terrenos)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V125",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Venta de activos/ Terrenos urbanos y rurales",
+    "col": "v125",
+    "desc_col": "Venta de terrenos urbanos y rurales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V126",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Venta de activos / Vehículos, equipos y maquinarias (usados)",
+    "col": "v126",
+    "desc_col": "Venta de vehículos, equipos y maquinarias usados",
+    "values": null,
+    "value_pos": null
+  }
+]

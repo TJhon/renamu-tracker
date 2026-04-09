@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P26_13",
+    "desc_q": "Acciones implementadas / Tiene indicadores de eficiencia sobre la cobertura de los servicios públicos",
+    "col": "P26_13",
+    "desc_col": "Acciones implementadas / Tiene indicadores de eficiencia sobre la cobertura de los servicios públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P26_14",
+    "desc_q": "Municipalidades que no implementaron acciones en la gestión para resultados",
+    "col": "P26_14",
+    "desc_col": "Municipalidades que no implementaron acciones en la gestión para resultados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "VFI_P27",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "VFI_P27",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "P27",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos.",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_01",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "P27_01",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos actualizado",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_02",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "P27_02",
+    "desc_col": "Fecha de última publicación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_03",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "P27_03",
+    "desc_col": "Municipalidades que tienen TUPA desactualizado / incompleto",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_04",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "P27_04",
+    "desc_col": "Municipalidades que tienen TUPA desactualizado / incompleto / Fecha de última publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_05",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "P27_05",
+    "desc_col": "Municipalidades que no tienen TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_06",
+    "desc_q": "Texto único de procedimientos administrativo, 2011",
+    "col": "P27_06",
+    "desc_col": "Razón por la que no tiene TUPA",
+    "values": "1: Está incompleto; 2: está desactualizado; 3: En elaboración",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P27",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales,2011",
+    "col": "P27",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "VFI_P28",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales,2011",
+    "col": "VFI_P28",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales,2011",
+    "col": "P28",
+    "desc_col": "Municipalidades que tiene ratificado el TUPA",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_01",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales,2011",
+    "col": "P28_01",
+    "desc_col": "Fecha de ratificación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "P27",
+    "desc_q": "Institución o Medios a través de los cuales se publica El Texto Único De Procedimientos Administrativos , 2011",
+    "col": "P27",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "VFI_P29",
+    "desc_q": "Institución o Medios a través de los cuales se publica El Texto Único De Procedimientos Administrativos , 2011",
+    "col": "VFI_P29",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "P29_01",
+    "desc_q": "Institución o Medios a través de los cuales se publica El Texto Único De Procedimientos Administrativos , 2011",
+    "col": "P29_01",
+    "desc_col": "Lugar de publicación/ INDECOPI",
+    "values": "",
+    "value_pos": null
+  }
+]

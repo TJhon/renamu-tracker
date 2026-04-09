@@ -1,0 +1,207 @@
+[
+  {
+    "n_q": "P32_07",
+    "desc_q": "Número de licencias de apertura de establecimientos / SERVICIOS / Otros",
+    "col": "P32_07",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Otros"
+  },
+  {
+    "n_q": "P32_08",
+    "desc_q": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Artesanías",
+    "col": "P32_08",
+    "desc_col": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Artesanías"
+  },
+  {
+    "n_q": "P32_09",
+    "desc_q": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Fábricas",
+    "col": "P32_09",
+    "desc_col": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Fábricas"
+  },
+  {
+    "n_q": "P32_10",
+    "desc_q": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Otros",
+    "col": "P32_10",
+    "desc_col": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Otros"
+  },
+  {
+    "n_q": "P32_11",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Bodegas",
+    "col": "P32_11",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Bodegas"
+  },
+  {
+    "n_q": "P32_12",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Farmacias y boticas",
+    "col": "P32_12",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Farmacias y boticas"
+  },
+  {
+    "n_q": "P32_13",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Panaderías",
+    "col": "P32_13",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Panaderías"
+  },
+  {
+    "n_q": "P32_14",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Ferreterías",
+    "col": "P32_14",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Ferreterías"
+  },
+  {
+    "n_q": "P32_15",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Otros",
+    "col": "P32_15",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Otros"
+  },
+  {
+    "n_q": "P32_16",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Empresas proveedoras de insumos",
+    "col": "P32_16",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Empresas proveedoras de insumos"
+  },
+  {
+    "n_q": "P32_17",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Plantas agroindustriales",
+    "col": "P32_17",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Plantas agroindustriales"
+  },
+  {
+    "n_q": "P32_18",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Curtiembres",
+    "col": "P32_18",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Curtiembres"
+  },
+  {
+    "n_q": "P32_19",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Granjas avícolas",
+    "col": "P32_19",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Granjas avícolas"
+  },
+  {
+    "n_q": "P32_20",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Establos lecheros",
+    "col": "P32_20",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Establos lecheros"
+  },
+  {
+    "n_q": "P32_21",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Otros",
+    "col": "P32_21",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Otros"
+  },
+  {
+    "n_q": "P32_22",
+    "desc_q": "Número de licencias de apertura de establecimientos / ACTIVIDADES PROFESIONALES",
+    "col": "P32_22",
+    "desc_col": "Número de licencias de apertura de establecimientos / ACTIVIDADES PROFESIONALES"
+  },
+  {
+    "n_q": "P32_23",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Transporte",
+    "col": "P32_23",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Transporte"
+  },
+  {
+    "n_q": "P32_24",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Cabinas públicas de Internet",
+    "col": "P32_24",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Cabinas públicas de Internet"
+  },
+  {
+    "n_q": "P32_25",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Colegios profesionales",
+    "col": "P32_25",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Colegios profesionales"
+  },
+  {
+    "n_q": "P32_26",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Otros",
+    "col": "P32_26",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Otros"
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "VFI_P33",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33",
+    "desc_q": "La municipalidad otorgó licencias para la construcción",
+    "col": "P33",
+    "desc_col": "La municipalidad otorgó licencias para la construcción",
+    "values": "1: Si otorgó licencias; 0: No otorgó licencias",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_01",
+    "desc_q": "Número de licencias para la construcción / Terminal terrestre",
+    "col": "P33_01",
+    "desc_col": "Número de licencias para la construcción / Terminal terrestre"
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_02",
+    "desc_q": "Número de licencias para la construcción / Construcción de viviendas unifamiliares",
+    "col": "P33_02",
+    "desc_col": "Número de licencias para la construcción / Construcción de viviendas unifamiliares"
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_03",
+    "desc_q": "Número de licencias para la construcción / Construcción de viviendas multifamiliares",
+    "col": "P33_03",
+    "desc_col": "Número de licencias para la construcción / Construcción de viviendas multifamiliares"
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_04",
+    "desc_q": "Número de licencias para la construcción / Hoteles",
+    "col": "P33_04",
+    "desc_col": "Número de licencias para la construcción / Hoteles"
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_05",
+    "desc_q": "Número de licencias para la construcción / Restaurantes",
+    "col": "P33_05",
+    "desc_col": "Número de licencias para la construcción / Restaurantes"
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_06",
+    "desc_q": "Número de licencias para la construcción / Otros",
+    "col": "P33_06",
+    "desc_col": "Número de licencias para la construcción / Otros"
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "VFI_P34",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34",
+    "desc_q": "La municipalidad dispone de terrenos para vivienda",
+    "col": "P34",
+    "desc_col": "La municipalidad dispone de terrenos para vivienda",
+    "values": "1: Si dispone de terrenos; 0: No dispone de terrenos",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34_01",
+    "desc_q": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con saneamiento físico y legal",
+    "col": "P34_01",
+    "desc_col": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con saneamiento físico y legal"
+  }
+]

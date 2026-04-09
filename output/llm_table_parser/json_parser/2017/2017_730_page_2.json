@@ -1,0 +1,119 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial (PAT)",
+    "values": "1: Sí;3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_4_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_4_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / Motivo por el que no tiene",
+    "values": "0: No informó;1: Falta aprobar por el Concejo Municipal;2: En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_4_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_4_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "0: No informó;1: No incluye;2: Incluye",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_5",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Urbano (PDU)",
+    "values": "1: Sí;3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_5_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Urbano / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_5_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Urbano / Motivo por el que no tiene",
+    "values": "0: No informó;1: Falta aprobar por el Concejo Municipal;2: En elaboración;3. Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_5_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Urbano / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_5_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Urbano / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "0: No informó;1: No incluye;2: Incluye",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_6",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Esquema de Ordenamiento Urbano (EOU)",
+    "values": "1: Sí;3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_6_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Esquema de Ordenamiento Urbano / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_6_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Esquema de Ordenamiento Urbano / Motivo por el que no tiene",
+    "values": "0: No informó;1: Falta aprobar por el Concejo Municipal;2: En elaboración;3. Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  }
+]

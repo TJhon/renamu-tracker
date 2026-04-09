@@ -1,0 +1,263 @@
+[
+  {
+    "cuadro": "CUADRO_C0090",
+    "n_q": "93",
+    "desc_q": "Principal actividad económica que se desarrollan en el distrito",
+    "col": "V1",
+    "desc_col": "Actividad económica que desarrollan",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron sobre distritos que tienen instalaciones",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V2",
+    "desc_col": "Tipo de Instalaciones/ Aeropuerto",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V3",
+    "desc_col": "Tipo de Instalaciones/ Aeródromo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V4",
+    "desc_col": "Tipo de Instalaciones/ Puerto",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V5",
+    "desc_col": "Tipo de Instalaciones/ Caleta",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V6",
+    "desc_col": "Tipo de Instalaciones/ Embarcadero",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V7",
+    "desc_col": "Tipo de Instalaciones/ Agencia de aduana",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V8",
+    "desc_col": "Tipo de Instalaciones/ CETICO",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V9",
+    "desc_col": "Tipo de Instalaciones/ Terminal terrestre",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0091",
+    "n_q": "94",
+    "desc_q": "Principales Instalaciones que existe en el distrito",
+    "col": "V10",
+    "desc_col": "Tipo de Instalaciones/ Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0092",
+    "n_q": "95",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron sobre distritos que cuentan con instalaciones de servicios de comunicación",
+    "values": "1: Si cuentan; 0: No cuentan",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0092",
+    "n_q": "95",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2003",
+    "col": "V2",
+    "desc_col": "Instalaciones de Servicios de comunicación/ Centros comunitarios telefónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0092",
+    "n_q": "95",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2003",
+    "col": "V3",
+    "desc_col": "Instalaciones de Servicios de comunicación/ Centrales telefónicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0092",
+    "n_q": "95",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2003",
+    "col": "V4",
+    "desc_col": "Instalaciones de Servicios de comunicación/ Oficina de correo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0092",
+    "n_q": "95",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2003",
+    "col": "V5",
+    "desc_col": "Instalaciones de Servicios de comunicación/ Antena parabólica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0092",
+    "n_q": "95",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2003",
+    "col": "V6",
+    "desc_col": "Instalaciones de Servicios de comunicación/ Cabinas publicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0092",
+    "n_q": "95",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2003",
+    "col": "V7",
+    "desc_col": "Instalaciones de Servicios de comunicación/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0093",
+    "n_q": "96",
+    "desc_q": "Emisoras o estaciones locales de radio inscritas en la municipalidad, al 2003",
+    "col": "V1",
+    "desc_col": "Nombre de la Emisora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0093",
+    "n_q": "96",
+    "desc_q": "Emisoras o estaciones locales de radio inscritas en la municipalidad, al 2003",
+    "col": "V2",
+    "desc_col": "Régimen de Propiedad/ Publico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0093",
+    "n_q": "96",
+    "desc_q": "Emisoras o estaciones locales de radio inscritas en la municipalidad, al 2003",
+    "col": "V3",
+    "desc_col": "Régimen de Propiedad/ Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades informantes sobre distritos que tienen instituciones financieras",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V2",
+    "desc_col": "Tipo de instituciones financieras/ Banca privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V3",
+    "desc_col": "Tipo de instituciones financieras/ Banco d e la nación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V4",
+    "desc_col": "Tipo de instituciones financieras/ Caja municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V5",
+    "desc_col": "Tipo de instituciones financieras/ Caja rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V6",
+    "desc_col": "Tipo de instituciones financieras/ Empresa Financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V7",
+    "desc_col": "Tipo de instituciones financieras/ Cooperativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2003",
+    "col": "V8",
+    "desc_col": "Tipo de instituciones financieras/ Otro",
+    "values": "",
+    "value_pos": null
+  }
+]

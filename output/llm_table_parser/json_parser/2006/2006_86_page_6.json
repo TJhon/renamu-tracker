@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V13",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / De administración general",
+    "col": "v13",
+    "desc_col": "Tasas de administración general",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V14",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / De educación",
+    "col": "v14",
+    "desc_col": "Tasas de educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V15",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / De salud",
+    "col": "v15",
+    "desc_col": "Tasas de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V16",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / De vivienda y construcción",
+    "col": "v16",
+    "desc_col": "Tasas de vivienda y construcción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V17",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / De agropecuarios y de recursos no minerales",
+    "col": "v17",
+    "desc_col": "Tasas de agropecuarios y de recursos no minerales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V18",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / De industria, minería y comercio",
+    "col": "v18",
+    "desc_col": "Tasas de industria, minería y comercio",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V19",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / De transportes y comunicaciones",
+    "col": "v19",
+    "desc_col": "Tasas de transportes y comunicaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V20",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Tasas / Otros",
+    "col": "v20",
+    "desc_col": "Otras tasas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V21",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Contribuciones",
+    "col": "v21",
+    "desc_col": "Contribuciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V22",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Contribuciones / Para pensiones y obras públicas",
+    "col": "v22",
+    "desc_col": "Contribuciones para pensiones y obras públicas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V23",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Ventas de bienes",
+    "col": "v23",
+    "desc_col": "Ventas de bienes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V24",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Ventas de bienes / Agropecuarios y minerales",
+    "col": "v24",
+    "desc_col": "Ventas de bienes agropecuarios y minerales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V25",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Ventas de bienes/ De educación, recreación y cultura",
+    "col": "v25",
+    "desc_col": "Ventas de bienes de educación, recreación y cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V26",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Ventas de bienes / De salud",
+    "col": "v26",
+    "desc_col": "Ventas de bienes de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V27",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Ventas de bienes / Otros",
+    "col": "v27",
+    "desc_col": "Otras ventas de bienes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V28",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Prestación de servicios",
+    "col": "v28",
+    "desc_col": "Prestación de servicios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V29",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Prestación de servicios / De transportes, comunicaciones y almacenaje",
+    "col": "v29",
+    "desc_col": "Prestación de servicios de transportes, comunicaciones y almacenaje",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V30",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Prestación de servicios / De educación, recreación y cultura",
+    "col": "v30",
+    "desc_col": "Prestación de servicios de educación, recreación y cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V31",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Prestación de servicios / De salud",
+    "col": "v31",
+    "desc_col": "Prestación de servicios de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V32",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Prestación de servicios / Otros",
+    "col": "v32",
+    "desc_col": "Otra prestación de servicios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V33",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad",
+    "col": "v33",
+    "desc_col": "Renta de la propiedad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V34",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad real",
+    "col": "v34",
+    "desc_col": "Renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V35",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad real / Canon",
+    "col": "v35",
+    "desc_col": "Canon de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V36",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad real / Sobre Canon",
+    "col": "v36",
+    "desc_col": "Sobre canon de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V37",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad real / Regalías Mineras",
+    "col": "v37",
+    "desc_col": "Regalías mineras de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V38",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad real / Regalías FOCAM",
+    "col": "v38",
+    "desc_col": "Regalías FOCAM de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V39",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad real / Regalías",
+    "col": "v39",
+    "desc_col": "Regalías de renta de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V40",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad real / Otras rentas",
+    "col": "v40",
+    "desc_col": "Otras rentas de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V41",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Renta de la propiedad financiera",
+    "col": "v41",
+    "desc_col": "Renta de la propiedad financiera",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V42",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Renta de la propiedad / Otras Renta de la propiedad",
+    "col": "v42",
+    "desc_col": "Otras rentas de la propiedad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V43",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Multas, sanciones y otros",
+    "col": "v43",
+    "desc_col": "Multas, sanciones y otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V44",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Multas, sanciones y otros / Multas y análogas",
+    "col": "v44",
+    "desc_col": "Multas y análogas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V45",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Multas, sanciones y otros / Sanciones",
+    "col": "v45",
+    "desc_col": "Sanciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V46",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Multas, sanciones y otros / Otros",
+    "col": "v46",
+    "desc_col": "Otros multas, sanciones y otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V47",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Otros ingresos corrientes",
+    "col": "v47",
+    "desc_col": "Otros ingresos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V48",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Otros ingresos corrientes / Ingresos diversos",
+    "col": "v48",
+    "desc_col": "Ingresos diversos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V49",
+    "desc_q": "2005 (Nuevos Soles) / PIA / II. INGRESO DE CAPITAL",
+    "col": "v49",
+    "desc_col": "Ingreso de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V50",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Venta de activos",
+    "col": "v50",
+    "desc_col": "Venta de activos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V51",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Venta de activos / Inmuebles (excepto terrenos)",
+    "col": "v51",
+    "desc_col": "Venta de inmuebles (excepto terrenos)",
+    "values": null,
+    "value_pos": null
+  }
+]

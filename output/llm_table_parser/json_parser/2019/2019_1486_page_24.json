@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_4",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "95",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2018",
+    "col": "P95_8",
+    "desc_col": "No realizó acciones",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "P96_1",
+    "desc_col": "Actividades realizadas / Promoción y publicidad",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "P96_2",
+    "desc_col": "Actividades realizadas / Ferias",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "P96_3",
+    "desc_col": "Actividades realizadas / Apoyo a comercialización directa de productos",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "P96_4",
+    "desc_col": "Actividades realizadas / Capacitación a artesanos",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "P96_5",
+    "desc_col": "Actividades realizadas / Otra actividad",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "P96_5_O",
+    "desc_col": "Actividades realizadas / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2018",
+    "col": "P96_6",
+    "desc_col": "No realizó actividades",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "h2": "PROTECCIÓN Y CONSERVACIÓN DEL MEDIO AMBIENTE"
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2019",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2019",
+    "col": "P97",
+    "desc_col": "¿La municipalidad tiene Oficina o Unidad Ambiental?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_1",
+    "desc_col": "¿La municipalidad recepcionó y atendió denuncias ambientales por contaminación del agua?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_1_1",
+    "desc_col": "Contaminación del agua / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_1_2",
+    "desc_col": "Contaminación del agua / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_2",
+    "desc_col": "¿La municipalidad recepcionó y atendió denuncias ambientales por contaminación del suelo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_2_1",
+    "desc_col": "Contaminación del suelo / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_2_2",
+    "desc_col": "Contaminación del suelo / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_3",
+    "desc_col": "¿La municipalidad recepcionó y atendió denuncias ambientales por contaminación del aire?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_3_1",
+    "desc_col": "Contaminación del aire / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_3_2",
+    "desc_col": "Contaminación del aire / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_4",
+    "desc_col": "¿La municipalidad recepcionó y atendió denuncias ambientales por deforestación y quema de bosques?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

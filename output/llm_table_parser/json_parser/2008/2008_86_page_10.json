@@ -1,0 +1,479 @@
+[
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P103_17",
+    "desc_q": "Externa / Amortización de la deuda",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "VFI_P104",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_01",
+    "desc_q": "INGRESO TOTAL (I+II+III+IV)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_02",
+    "desc_q": "I. INGRESOS CORRIENTES",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_03",
+    "desc_q": "Impuestos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_04",
+    "desc_q": "Impuestos / Predial",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_05",
+    "desc_q": "Impuestos / De alcabala",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_06",
+    "desc_q": "Impuestos / Al patrimonio vehicular",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_07",
+    "desc_q": "Impuestos / Casino de juego",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_08",
+    "desc_q": "Impuestos / A las apuestas y a los juegos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_09",
+    "desc_q": "Impuestos / A los espectáculos públicos no deportivos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_10",
+    "desc_q": "Impuestos / A los juegos de máquinas tragamonedas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_11",
+    "desc_q": "Impuestos / Otros impuestos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_12",
+    "desc_q": "Tasas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_13",
+    "desc_q": "Tasas / De administración general",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_14",
+    "desc_q": "Tasas / De educación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_15",
+    "desc_q": "Tasas / De salud",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_16",
+    "desc_q": "Tasas / De vivienda y construcción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_17",
+    "desc_q": "Tasas / De agropecuarios y de recursos no minerales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_18",
+    "desc_q": "Tasas / De industria, minería y comercio",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_19",
+    "desc_q": "Tasas / De transportes y comunicaciones",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_20",
+    "desc_q": "Tasas / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_21",
+    "desc_q": "Contribuciones",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_22",
+    "desc_q": "Contribuciones / Para pensiones y obras públicas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_23",
+    "desc_q": "Ventas de bienes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_24",
+    "desc_q": "Ventas de bienes / Agropecuarios y minerales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_25",
+    "desc_q": "Ventas de bienes / De educación, recreación y cultura",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_26",
+    "desc_q": "Ventas de bienes / De salud",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_27",
+    "desc_q": "Ventas de bienes / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_28",
+    "desc_q": "Prestación de servicios",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_29",
+    "desc_q": "Prestación de servicios / De transportes, comunicaciones y almacenaje",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_30",
+    "desc_q": "Prestación de servicios / De educación, recreación y cultura",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_31",
+    "desc_q": "Prestación de servicios / De salud",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_32",
+    "desc_q": "Prestación de servicios / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_33",
+    "desc_q": "Renta de la propiedad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_34",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad real",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_35",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad real / Canon",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_36",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad real / Sobre Canon",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_37",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad real / Regalías Mineras",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_38",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad real / Regalías FOCAM",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_39",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad real / Regalías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_40",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad real / Otras rentas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_41",
+    "desc_q": "Renta de la propiedad / Renta de la propiedad financiera",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_42",
+    "desc_q": "Renta de la propiedad / Otras Renta de la propiedad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_43",
+    "desc_q": "Multas, sanciones y otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_44",
+    "desc_q": "Multas, sanciones y otros / Multas y análogas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_45",
+    "desc_q": "Multas, sanciones y otros / Sanciones",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_46",
+    "desc_q": "Multas, sanciones y otros / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_47",
+    "desc_q": "Otros ingresos corrientes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_48",
+    "desc_q": "Otros ingresos corrientes / Ingresos diversos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_49",
+    "desc_q": "II. INGRESO DE CAPITAL",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_50",
+    "desc_q": "Venta de activos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "n_q": "P104_51",
+    "desc_q": "Venta de activos / Inmuebles (excepto terrenos)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

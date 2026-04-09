@@ -1,0 +1,68 @@
+[
+  {
+    "n_q": "P21_39",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Vial/ Motivo por el que no tiene",
+    "col": "p21_39",
+    "desc_col": "Motivo por el que no tiene Plan Vial",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_40",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Ordenamiento Territorial",
+    "col": "p21_40",
+    "desc_col": "Tiene Plan de Ordenamiento Territorial",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_41",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Ordenamiento Territorial/ Año de publicación",
+    "col": "p21_41",
+    "desc_col": "Año de publicación del Plan de Ordenamiento Territorial",
+    "values": ""
+  },
+  {
+    "n_q": "P21_42",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Ordenamiento Territorial/ Motivo por el que no tiene",
+    "col": "p21_42",
+    "desc_col": "Motivo por el que no tiene Plan de Ordenamiento Territorial",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_43",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres",
+    "col": "p21_43",
+    "desc_col": "Tiene Plan de Gestión de Riesgos de Desastres",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_44",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres/ Año de publicación",
+    "col": "p21_44",
+    "desc_col": "Año de publicación del Plan de Gestión de Riesgos de Desastres",
+    "values": ""
+  },
+  {
+    "n_q": "P21_45",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres/ Motivo por el que no tiene",
+    "col": "p21_45",
+    "desc_col": "Motivo por el que no tiene Plan de Gestión de Riesgos de Desastres",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_46",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones",
+    "col": "p21_46",
+    "desc_col": "Tiene Reglamento de Organización y Funciones",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_47",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Año de publicación",
+    "col": "p21_47",
+    "desc_col": "Año de publicación del Reglamento de Organización y Funciones",
+    "values": ""
+  }
+]

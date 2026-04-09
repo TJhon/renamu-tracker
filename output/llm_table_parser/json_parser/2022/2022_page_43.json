@@ -1,0 +1,141 @@
+[
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_6_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Registradas en la municipalidad / Juntas Vecinales de Seguridad Ciudadana / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_6_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Juntas Vecinales de Seguridad Ciudadana / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No Informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_1",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Conformó un Comité Multisectorial de Prevención",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_2",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Convenios de cooperación de prevención",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_3",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención en instituciones educativas",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_4",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención y fortalecimiento en familias (Comités vecinales, clubes de madres y comités del Programa de Vaso de Leche)",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_5",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Campañas de concientización en ferias, medios de comunicación y otros eventos",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_6",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Actividades recreativas, deportivas, culturales y de formación de valores",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_7",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por la Comisión Nacional para el Desarrollo y Vida sin Drogas",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_8",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por Organización No Gubernamental",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_9",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_9_O",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2021",
+    "col": "P80_10",
+    "desc_col": "La municipalidad no realizó acciones para prevenir el consumo de drogas y alcohol",
+    "values": "0: No; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "h2": "GESTIÓN DEL RIESGO DE DESASTRES"
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Municipalidad que tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2022",
+    "col": "VFI_P84A",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Municipalidad que tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2022",
+    "col": "P84A",
+    "desc_col": "¿La municipalidad tiene Implementado Brigadas para la Atencion Frente a Emergencias y a Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres?",
+    "values": "1: Si; 2: No implementó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Municipalidad que tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2022",
+    "col": "P84A_1A",
+    "desc_col": "Número de Brigadas",
+    "values": "",
+    "value_pos": null
+  }
+]

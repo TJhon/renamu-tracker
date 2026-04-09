@@ -1,0 +1,188 @@
+[
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "13",
+    "desc_q": "Lineas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2014",
+    "col": "P13_03_l",
+    "desc_col": "Telefonía destinada a fax / Líneas de Fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "13",
+    "desc_q": "Lineas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2014",
+    "col": "P13_04_m",
+    "desc_col": "Telefonía móvil / Municipalidades",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "13",
+    "desc_q": "Lineas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2014",
+    "col": "P13_04_l",
+    "desc_col": "Telefonía móvil / Líneas de telefonía Móvil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "C2",
+    "desc_q": "Red informática local en la municipalidad, 2014",
+    "col": "VFI_C2",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "C2",
+    "desc_q": "Red informática local en la municipalidad, 2014",
+    "col": "C2",
+    "desc_col": "La municipalidad tiene red informática local",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "C2",
+    "desc_q": "Red informática local en la municipalidad, 2014",
+    "col": "C2_01",
+    "desc_col": "Número de PC interconectadas a red informática local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Acceso a Internet en la municipalidad, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "C2_C3",
+    "desc_q": "Acceso a Internet en la municipalidad, 2014",
+    "col": "VFI_C2_C3",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "C2_C3",
+    "desc_q": "Acceso a Internet en la municipalidad, 2014",
+    "col": "C2_C3",
+    "desc_col": "La municipalidad tiene acceso a Internet",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "C2_C3",
+    "desc_q": "Acceso a Internet en la municipalidad, 2014",
+    "col": "C2_C3_01",
+    "desc_col": "Número de PC que tienen acceso a Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "C2_C3",
+    "desc_q": "Acceso a Internet en la municipalidad, 2014",
+    "col": "C2_C3_02",
+    "desc_col": "Tipo de conexión a Internet",
+    "values": "1: Módem analógico (Línea telefónica);2: ADSL (Speedy, Terra, Telmex, etc.);3: Fibra Óptica (Línea dedicada);4: Satelital;5: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "C2_C3",
+    "desc_q": "Acceso a Internet en la municipalidad, 2014",
+    "col": "C2_C3_O",
+    "desc_col": "Tipo de conexión a Internet / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Personal de la municipalidad, al 31 de diciembre de 2013"
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "VFI_P14",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14",
+    "desc_col": "La municipalidad tiene personal",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14_NH_1",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Funcionarios y/o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14_NH_2",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14_NH_3",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Técnicos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14_NH_4",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14_NH_5",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Obreros / De limpieza / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14_NH_6",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Obreros / Otros / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2013",
+    "col": "P14_NH_7",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Personal de Vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  }
+]

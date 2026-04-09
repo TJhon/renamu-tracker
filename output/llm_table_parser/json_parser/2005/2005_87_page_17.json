@@ -1,0 +1,86 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertación del presupuesto municipal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulación y control de planes económicos locales",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "92 CUADRO_C0089 Conformación de la junta de delegados vecinales"
+  },
+  {
+    "cuadro": "CUADRO_C0089",
+    "n_q": "92",
+    "desc_q": "Conformación de la junta de delegados vecinales",
+    "col": "V1",
+    "desc_col": "La Municipalidad ha constituido junta de delegados vecinales",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0089",
+    "n_q": "92",
+    "desc_q": "Conformación de la junta de delegados vecinales",
+    "col": "V2",
+    "desc_col": "Número de miembros de la junta de delegados vecinales",
+    "values": "",
+    "value_pos": null
+  }
+]

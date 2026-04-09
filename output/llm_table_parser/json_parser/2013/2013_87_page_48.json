@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P97_O_M_01",
+    "desc_q": "Número de defunciones / Ordinaria / Mujer",
+    "col": "P97_O_M_01",
+    "desc_col": "Número de defunciones / Ordinaria / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P97_P_H_02",
+    "desc_q": "Número de defunciones / Policial / Hombre",
+    "col": "P97_P_H_02",
+    "desc_col": "Número de defunciones / Policial / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P97_P_M_02",
+    "desc_q": "Número de defunciones / Policial / Mujer",
+    "col": "P97_P_M_02",
+    "desc_col": "Número de defunciones / Policial / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P97_J_H_03",
+    "desc_q": "Número de defunciones / Judicial / Hombre",
+    "col": "P97_J_H_03",
+    "desc_col": "Número de defunciones / Judicial / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P97_J_M_03",
+    "desc_q": "Número de defunciones / Judicial / Mujer",
+    "col": "P97_J_M_03",
+    "desc_col": "Número de defunciones / Judicial / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P97_04",
+    "desc_q": "La municipalidad no realizó inscripciones de defunciones en el Registro Civil",
+    "col": "P97_04",
+    "desc_col": "La municipalidad no realizó inscripciones de defunciones en el Registro Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "98"
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "VFI_P98",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, 2012",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, 2012",
+    "col": "P98",
+    "desc_col": "La municipalidad realizó inscripciones de matrimonios en el Registro Civil",
+    "values": "1:Realizó;0:No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_01",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, 2012",
+    "col": "P98_01",
+    "desc_col": "Número de matrimonios / Ordinaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_02",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, 2012",
+    "col": "P98_02",
+    "desc_col": "Número de matrimonios / Judiciales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_03",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, 2012",
+    "col": "P98_03",
+    "desc_col": "La municipalidad no realizó inscripciones de matrimonios en el Registro Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "99"
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "VFI_P99",
+    "desc_q": "Divorcios anotados en el Registro Civil de la municipalidad, 2012",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99",
+    "desc_q": "Divorcios anotados en el Registro Civil de la municipalidad, 2012",
+    "col": "P99",
+    "desc_col": "La municipalidad realizó inscripciones de divorcios en el Registro Civil",
+    "values": "1:Realizó;0:No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_01",
+    "desc_q": "Divorcios anotados en el Registro Civil de la municipalidad, 2012",
+    "col": "P99_01",
+    "desc_col": "Número de divorcios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_02",
+    "desc_q": "Divorcios anotados en el Registro Civil de la municipalidad, 2012",
+    "col": "P99_02",
+    "desc_col": "La municipalidad realizó inscripciones de divorcios en el Registro Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "100"
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "VFI_P100",
+    "desc_q": "Portal de transparencia estándar en la página web de la municipalidad, 2013",
+    "col": "VFI_P100",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "P100",
+    "desc_q": "Portal de transparencia estándar en la página web de la municipalidad, 2013",
+    "col": "P100",
+    "desc_col": "Municipalidades que tienen Portal de Transparencia Estándar en la Página Web de la Municipalidad",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "P100_01",
+    "desc_q": "Portal de transparencia estándar en la página web de la municipalidad, 2013",
+    "col": "P100_01",
+    "desc_col": "Dirección electrónica del Portal de Transparencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "P100_02",
+    "desc_q": "Portal de transparencia estándar en la página web de la municipalidad, 2013",
+    "col": "P100_02",
+    "desc_col": "Responsable del Portal de Transparencia/ Nombres y apellidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "P100_03",
+    "desc_q": "Portal de transparencia estándar en la página web de la municipalidad, 2013",
+    "col": "P100_03",
+    "desc_col": "Responsable del Portal de Transparencia/ Correo electrónico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "P100_04",
+    "desc_q": "Portal de transparencia estándar en la página web de la municipalidad, 2013",
+    "col": "P100_04",
+    "desc_col": "Razón por que no tiene Portal de Transparencia",
+    "values": "1:Está en proceso de desarrollo;2:Está deshabilitado (No tiene acceso);3:Está desactualizado;4:Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "P100_O",
+    "desc_q": "Portal de transparencia estándar en la página web de la municipalidad, 2013",
+    "col": "P100_O",
+    "desc_col": "Razón por que no tiene Portal de Transparencia / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "113",
+    "desc_q": "Cobertura del alumbrado público en el distrito, 2016",
+    "col": "P113A_1",
+    "desc_col": "Cobertura del servicio de alumbrado público / Capital del distrito",
+    "values": "1: Menos del 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%; 5: No existe alumbrado público",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C107",
+    "n_q": "113",
+    "desc_q": "Cobertura del alumbrado público en el distrito, 2016",
+    "col": "P113A_2",
+    "desc_col": "Cobertura del servicio de alumbrado público / Fuera de la capital distrital",
+    "values": "1: Menos del 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%; 5: No existe alumbrado público",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C108",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2016",
+    "col": "VFI_P114",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C108",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2016",
+    "col": "P114",
+    "desc_col": "Municipalidades que informaron que existe cobertura de la red de agua potable en el distrito",
+    "values": "1: Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C108",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2016",
+    "col": "P114A_1",
+    "desc_col": "Cobertura de red de agua potable en el distrito / Capital del distrito",
+    "values": "1: Menos del 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%; 5: No existe red de agua potable",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C108",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2016",
+    "col": "P114A_2",
+    "desc_col": "Cobertura de red de agua potable en el distrito / Fuera de la capital distrital",
+    "values": "1: Menos del 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%; 5: No existe red de agua potable",
+    "value_pos": null
+  },
+  {
+    "h2": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2016"
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2016",
+    "col": "VFI_P115",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2016",
+    "col": "P115",
+    "desc_col": "¿Las entidades u organizaciones se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado en el distrito?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2016",
+    "col": "P115_1",
+    "desc_col": "Entidades u organizaciones / Empresa prestadora municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2016",
+    "col": "P115_2",
+    "desc_col": "Entidades u organizaciones / Empresa prestadora privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2016",
+    "col": "P115_3",
+    "desc_col": "Entidades u organizaciones / Junta Administradora de Servicios de Saneamiento (JASS)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2016",
+    "col": "P115_4",
+    "desc_col": "Entidades u organizaciones / Comité de agua",
+    "values": "",
+    "value_pos": null
+  }
+]

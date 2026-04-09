@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_2_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_2_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_2_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Empleados / Profesionales / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_2_VH",
+    "desc_col": "Contrato Administrativo de Servicios(CAS) / Empleados / Profesionales / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_2_SM",
+    "desc_col": "Locación de Servicios / Empleados / Profesionales / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_2_SH",
+    "desc_col": "Locación de Servicios / Empleados / Profesionales / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_T",
+    "desc_col": "Total personal / Empleados / Técnicos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Empleados / Técnicos / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Empleados / Técnicos / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Empleados / Técnicos / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Empleados / Técnicos / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Técnicos / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Técnicos / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Empleados / Técnicos / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Empleados / Técnicos / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_SM",
+    "desc_col": "Locación de Servicios / Empleados / Técnicos / Mujer",
+    "values": "Mujer",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P21_3_SH",
+    "desc_col": "Locación de Servicios / Empleados / Técnicos / Hombre",
+    "values": "Hombre",
+    "value_pos": 1
+  }
+]

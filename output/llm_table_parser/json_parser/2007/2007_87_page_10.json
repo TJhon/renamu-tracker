@@ -1,0 +1,407 @@
+[
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "VFL_P56",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "P56",
+    "desc_col": "La municipalidad tiene registradas organizaciones de seguridad vecinal",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "P56_01",
+    "desc_col": "Organizaciones de seguridad vecinal / Ronda Urbana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "P56_02",
+    "desc_col": "Organizaciones de seguridad vecinal / Ronda Campesina",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "P56_03",
+    "desc_col": "Organizaciones de seguridad vecinal / Comité Vecinal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "P56_04",
+    "desc_col": "Organizaciones de seguridad vecinal / Comité de Autodefensa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "P56_05",
+    "desc_col": "Organizaciones de seguridad vecinal / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "56",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, 2007",
+    "col": "P56_O",
+    "desc_col": "Organizaciones de seguridad vecinal / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "57",
+    "desc_q": "Serenazgo de la municipalidad al 30 de junio del 2007",
+    "col": "VFL_P57",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "57",
+    "desc_q": "Serenazgo de la municipalidad al 30 de junio del 2007",
+    "col": "P57",
+    "desc_col": "La municipalidad tiene serenazgo",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "57",
+    "desc_q": "Serenazgo de la municipalidad al 30 de junio del 2007",
+    "col": "P57_01",
+    "desc_col": "Número de efectivos / Serenazgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "57",
+    "desc_q": "Serenazgo de la municipalidad al 30 de junio del 2007",
+    "col": "P57_02",
+    "desc_col": "Número de Puestos de Vigilancia / Serenazgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "58",
+    "desc_q": "Conformación y funcionamiento del comité de Defensa Civil en la municipalidad al 30 de junio del 2007",
+    "col": "VFL_P58",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "58",
+    "desc_q": "Conformación y funcionamiento del comité de Defensa Civil en la municipalidad al 30 de junio del 2007",
+    "col": "P58",
+    "desc_col": "Conformación y funcionamiento del Comité de Defensa Civil",
+    "values": "1: Constituido y se reúne periódicamente; 2: Funciona solo cuando hay una emergencia; 3: No se ha constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "VFL_P59",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59",
+    "desc_col": "La municipalidad dispone instrumentos técnicos de Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_01",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Plan de prevención y atención de desastres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_02",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Sistema de alerta temprana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_03",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Programa de protección contra desbordes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_04",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Programa de recuperación y limpieza de cauce",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_05",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Áreas inundables identificadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_06",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Mapa de identificación de zonas de alto riesgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_07",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Estadísticas de desastres más frecuentes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "59",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P59_08",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Registro de inspectores técnicos en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "VFL_P60",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P60",
+    "desc_col": "La municipalidad tiene oficina de Defensa Civil",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P60_01",
+    "desc_col": "Medios de comunicación/ Radiotransmisor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P60_02",
+    "desc_col": "Medio de comunicación/ Línea de telefonía fija",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P60_03",
+    "desc_col": "Medios de comunicación/ Línea destinada a fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P60_04",
+    "desc_col": "Medios de comunicación/ Conexión de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P60_05",
+    "desc_col": "Acciones que realizo la oficina/ realiza cursos de capacitación en defensa civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Medios de comunicaciones y acciones que realizo la oficina de defensa civil de la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P60_06",
+    "desc_col": "Acciones que realizo la oficina/ realiza simulacros par comprobar el plan de operaciones de emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "VFL_P61",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61",
+    "desc_col": "En el distrito existen fenómenos naturales",
+    "values": "1: Si existen; 0: No existen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_01",
+    "desc_col": "Fenómenos naturales mas frecuentes / Sismos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_02",
+    "desc_col": "Fenómenos naturales mas frecuentes / Actividad Volcánica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_03",
+    "desc_col": "Fenómenos naturales mas frecuentes / Desborde de ríos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_04",
+    "desc_col": "Fenómenos naturales mas frecuentes / Aluvión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_05",
+    "desc_col": "Fenómenos naturales mas frecuentes / Deslizamiento de tierra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_06",
+    "desc_col": "Fenómenos naturales mas frecuentes / Derrumbe de cerros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_07",
+    "desc_col": "Fenómenos naturales mas frecuentes / Huayco",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_08",
+    "desc_col": "Fenómenos naturales mas frecuentes / Granizada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_09",
+    "desc_col": "Fenómenos naturales mas frecuentes / Helada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_10",
+    "desc_col": "Fenómenos naturales mas frecuentes / Nevada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito, 2007",
+    "col": "P61_11",
+    "desc_col": "Fenómenos naturales mas frecuentes / Viento Fuerte",
+    "values": "",
+    "value_pos": null
+  }
+]

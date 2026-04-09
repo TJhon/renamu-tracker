@@ -1,0 +1,29 @@
+[
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "42",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales realizados por la municipalidad, 2017",
+    "col": "P42_10",
+    "desc_col": "¿La municipalidad realizó construcción de caminos rurales sin afirmar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "42",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales realizados por la municipalidad, 2017",
+    "col": "P42A_10_1",
+    "desc_col": "Construcción de caminos rurales sin afirmar / Kilómetros (km)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "42",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales realizados por la municipalidad, 2017",
+    "col": "P42A_10_2",
+    "desc_col": "Construcción de caminos rurales sin afirmar / Gasto anual en Soles (No incluye decimales)",
+    "values": "",
+    "value_pos": null
+  }
+]

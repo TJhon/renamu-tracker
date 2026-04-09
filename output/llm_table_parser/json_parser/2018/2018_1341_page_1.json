@@ -1,0 +1,138 @@
+[
+  {
+    "h2": "DEFINICIÓN DE VARIABLES GLOBALES"
+  },
+  {
+    "col": "idmunici",
+    "desc_col": "Código de la Municipalidad",
+    "values": ""
+  },
+  {
+    "col": "ccdd",
+    "desc_col": "Código del Departamento",
+    "values": ""
+  },
+  {
+    "col": "ccpp",
+    "desc_col": "Código de la Provincia",
+    "values": ""
+  },
+  {
+    "col": "ccdi",
+    "desc_col": "Código del Distrito",
+    "values": ""
+  },
+  {
+    "col": "Departamento",
+    "desc_col": "Nombre del Departamento",
+    "values": ""
+  },
+  {
+    "col": "Provincia",
+    "desc_col": "Nombre de la Provincia",
+    "values": ""
+  },
+  {
+    "col": "Distrito",
+    "desc_col": "Nombre del Distrito",
+    "values": ""
+  },
+  {
+    "col": "catmuni",
+    "desc_col": "Categoría de la Municipalidad",
+    "values": "1: Provincial; 2: Distrital; 3. Centro Poblado"
+  },
+  {
+    "h2": "MÓDULO I: DATOS GENERALES DE LA MUNICIPALIDAD"
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "VFI",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P03",
+    "desc_col": "Número de agencias municipales",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04",
+    "desc_col": "Dirección de la Municipalidad",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "CC",
+    "desc_col": "Código de la ciudad",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P05",
+    "desc_col": "Teléfonos de la Municipalidad",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P06",
+    "desc_col": "Otro teléfono de referencia",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P07",
+    "desc_col": "Facebook de la Municipalidad",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P08",
+    "desc_col": "Correo Electrónico de la Municipalidad",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P09",
+    "desc_col": "Página Web de la Municipalidad",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10",
+    "desc_col": "Nombres y apellidos del Alcalde",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_CDIR",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10_1",
+    "desc_col": "Sexo",
+    "values": "1: Mujer; 2: Hombre",
+    "value_pos": 1
+  }
+]

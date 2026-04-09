@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P57",
+    "desc_col": "¿La municipalidad tiene biblioteca municipal?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_1",
+    "desc_col": "Número de ejemplares / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_2",
+    "desc_col": "Número de ejemplares / Libros electrónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_3",
+    "desc_col": "Número de ejemplares / Folletos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_4",
+    "desc_col": "Número de ejemplares / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_5",
+    "desc_col": "Número de ejemplares / Material audiovisual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_6",
+    "desc_col": "Número de ejemplares / Material en Braille",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_7",
+    "desc_col": "Número de ejemplares / Afiches y otros similares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_8",
+    "desc_col": "Número de ejemplares / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C50",
+    "n_q": "58",
+    "desc_q": "Material bibliográfico que dispone la biblioteca municipal, 2016",
+    "col": "P58_8_O",
+    "desc_col": "Número de ejemplares / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Servicios que brinda la biblioteca municipal, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P57",
+    "desc_col": "¿La municipalidad tiene biblioteca municipal?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59",
+    "desc_col": "¿La biblioteca municipal brinda servicios?",
+    "values": "1: Brinda; 0: No brinda",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_1",
+    "desc_col": "Servicios que brinda / Biblioteca virtual",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_2",
+    "desc_col": "Servicios que brinda / Lectura en sala",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_3",
+    "desc_col": "Servicios que brinda / Sala infantil",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_4",
+    "desc_col": "Servicios que brinda / Sala de revistas y periódicos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_5",
+    "desc_col": "Servicios que brinda / Préstamo de libros a domicilio",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_6",
+    "desc_col": "Servicios que brinda / Préstamo de libros entre bibliotecas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_7",
+    "desc_col": "Servicios que brinda / Capacitación de usuarios",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_8",
+    "desc_col": "Servicios que brinda / Información a usuarios",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_9",
+    "desc_col": "Servicios que brinda / Actividades culturales",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_10",
+    "desc_col": "Servicios que brinda / Fomento del libro y la lectura",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2017",
+    "col": "P59_11",
+    "desc_col": "Servicios que brinda / Cabinas públicas de Internet",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

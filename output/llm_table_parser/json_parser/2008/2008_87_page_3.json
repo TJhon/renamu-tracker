@@ -1,0 +1,362 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P29_03",
+    "desc_col": "Costo total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P29_04",
+    "desc_col": "Ingresos propios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P29_05",
+    "desc_col": "Transferencia del sector público",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P29_06",
+    "desc_col": "Transferencia del sector privado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P29_07",
+    "desc_col": "Tiempo de ejecución (meses).",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "VFI_P30",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30",
+    "desc_col": "Municipalidad realizó reparación y construcción de pistas, veredas, caminos rurales y escalinatas",
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_M_01",
+    "desc_col": "Metros cuadrados/ Pistas reparadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_M_02",
+    "desc_col": "Metros cuadrados/ Pistas construidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_M_03",
+    "desc_col": "Metros cuadrados/ Veredas reparadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_M_04",
+    "desc_col": "Metros cuadrados/ Veredas construidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_M_05",
+    "desc_col": "Metros cuadrados/ Escalinatas reparadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_M_06",
+    "desc_col": "Metros cuadrados/ Escalinatas construidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_K_07",
+    "desc_col": "Kilómetros/ Caminos rurales afirmados reparados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_K_08",
+    "desc_col": "Kilómetros/ Caminos rurales afirmados construidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_K_09",
+    "desc_col": "Kilómetros/ Caminos rurales sin afirmar reparados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_K_10",
+    "desc_col": "Kilómetros/ Caminos rurales sin afirmar construidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_01",
+    "desc_col": "Costo Nuevos Soles/ Pistas reparadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_02",
+    "desc_col": "Costo Nuevos Soles/ Pistas construidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_03",
+    "desc_col": "Costo Nuevos Soles/ Veredas reparadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_04",
+    "desc_col": "Costo Nuevos Soles/ Veredas construidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_05",
+    "desc_col": "Costo Nuevos Soles/ Escalinatas reparadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_06",
+    "desc_col": "Costo Nuevos Soles/ Escalinatas construidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_07",
+    "desc_col": "Costo Nuevos Soles/ Caminos rurales afirmados reparados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_08",
+    "desc_col": "Costo Nuevos Soles/ Caminos rurales afirmados construidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_09",
+    "desc_col": "Costo Nuevos Soles/ Caminos rurales sin afirmar reparados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "30",
+    "desc_q": "Reparación y construcción de pistas, veredas, caminos rurales y escalinatas ejecutados por la municipalidad ,en el 2007",
+    "col": "P30_C_10",
+    "desc_col": "Costo Nuevos Soles/ Caminos rurales sin afirmar construidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "31",
+    "desc_q": "Red Vial Vecinal en el distrito, 2008",
+    "col": "VFI_P31",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "31",
+    "desc_q": "Red Vial Vecinal en el distrito, 2008",
+    "col": "P31_01",
+    "desc_col": "Red Vial Vecinal/ Asfaltada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "31",
+    "desc_q": "Red Vial Vecinal en el distrito, 2008",
+    "col": "P31_02",
+    "desc_col": "Red Vial Vecinal/ Afirmada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "31",
+    "desc_q": "Red Vial Vecinal en el distrito, 2008",
+    "col": "P31_03",
+    "desc_col": "Red Vial Vecinal/ Sin afirmar",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "31",
+    "desc_q": "Red Vial Vecinal en el distrito, 2008",
+    "col": "P31_04",
+    "desc_col": "Red Vial Vecinal/ Trocha",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "VFI_P32",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "P32",
+    "desc_col": "La municipalidad otorgó licencias de apertura de establecimientos",
+    "values": "1: Si otorgó licencias; 0: No otorgó licencias",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "P32_01",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Hoteles, hostales y otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "P32_02",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Restaurantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "P32_03",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Agencias de viaje",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "P32_04",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Mensajerías",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "P32_05",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Courier",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "32",
+    "desc_q": "Licencias de apertura de establecimientos, en el 2007",
+    "col": "P32_06",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Limpieza",
+    "values": null,
+    "value_pos": null
+  }
+]

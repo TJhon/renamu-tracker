@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P63_5",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Proyector multimedia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P63A_5",
+    "desc_col": "Número de equipos operativos / Proyector multimedia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P63_6",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Otro?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P63A_6",
+    "desc_col": "Número de equipos operativos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P63_6_O",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "64"
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "VFI_P64",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64",
+    "desc_col": "¿La municipalidad administra infraestructura deportivas y/o recreativas?",
+    "values": "1: Administra; 0: No administra",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64_1",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Estadios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64A_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Estadios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64_2",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Complejos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64A_2",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Complejos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64_3",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Coliseos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64A_3",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Coliseos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64_4",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas multideportivas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64A_4",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas multideportivas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64_5",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para fulbito?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64A_5",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para fulbito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64_6",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para vóley?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64A_6",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para vóley",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C56",
+    "n_q": "64",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2017",
+    "col": "P64_7",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para básquet?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

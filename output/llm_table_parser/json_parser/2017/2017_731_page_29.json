@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P76A_17_O",
+    "desc_col": "Serenazgo dispone de infraestructura / Otra infraestructura / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "77A",
+    "desc_q": "Distrito que está sectorizado para actividades de patrullaje, 2017",
+    "col": "P74_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2017?",
+    "values": "1: Brindó; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "77A",
+    "desc_q": "Distrito que está sectorizado para actividades de patrullaje, 2017",
+    "col": "P77A",
+    "desc_col": "¿La municipalidad informó que el distrito está sectorizado para actividades de patrullaje?",
+    "values": "1: Informó; 2: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "77A",
+    "desc_q": "Distrito que está sectorizado para actividades de patrullaje, 2017",
+    "col": "P77A_1",
+    "desc_col": "Número de sectores para actividades de patrullaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C73",
+    "n_q": "77B",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú, 2017",
+    "col": "P74_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2017?",
+    "values": "1: Brindó; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C73",
+    "n_q": "77B",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú, 2017",
+    "col": "P77B",
+    "desc_col": "¿El serenazgo realizó patrullaje integrado con la Policia Nacional del Perú?",
+    "values": "1: Realizó; 2: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P74_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2017?",
+    "values": "1: Brindó; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P77B",
+    "desc_col": "¿El serenazgo realizó patrullaje integrado con la Policia Nacional del Perú?",
+    "values": "1: Realizó; 2: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P78_1",
+    "desc_col": "Modalidad del patrullaje / Auto y/o camioneta",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P78_2",
+    "desc_col": "Modalidad del patrullaje / Motocicleta",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P78_3",
+    "desc_col": "Modalidad del patrullaje / A pie",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P78_4",
+    "desc_col": "Modalidad del patrullaje / Otra modalidad",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P78_4_O",
+    "desc_col": "Modalidad del patrullaje / Otra modalidad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P74_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2017?",
+    "values": "1: Brindó; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P77B",
+    "desc_col": "¿El serenazgo realizó patrullaje integrado con la Policia Nacional del Perú?",
+    "values": "1: Realizó; 2: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P79_1",
+    "desc_col": "Frecuencia del patrullaje integrado / Diaria",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P79_2",
+    "desc_col": "Frecuencia del patrullaje integrado / Interdiaria",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P79_3",
+    "desc_col": "Frecuencia del patrullaje integrado / Semanal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P79_4",
+    "desc_col": "Frecuencia del patrullaje integrado / Quincenal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2017",
+    "col": "P79_5",
+    "desc_col": "Frecuencia del patrullaje integrado / Mensual",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  }
+]

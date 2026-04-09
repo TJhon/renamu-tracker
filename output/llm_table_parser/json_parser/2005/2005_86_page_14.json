@@ -1,0 +1,302 @@
+[
+  {
+    "h2": "Registro Nacional de Municipalidades"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V226",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Ventas de bienes De salud",
+    "values": "2004 (Nuevos Soles);Ejecución;Ventas de bienes De salud",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V227",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Prestación de servicios",
+    "values": "2004 (Nuevos Soles);Ejecución;Prestación de servicios",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V228",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Prestación de servicios/ De transportes, comunicaciones y almacenaje",
+    "values": "2004 (Nuevos Soles);Ejecución;Prestación de servicios/ De transportes, comunicaciones y almacenaje",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V229",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Prestación de servicios/ De educación, recreación y cultura",
+    "values": "2004 (Nuevos Soles);Ejecución;Prestación de servicios/ De educación, recreación y cultura",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V230",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Prestación de servicios/ De salud",
+    "values": "2004 (Nuevos Soles);Ejecución;Prestación de servicios/ De salud",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V231",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Prestación de servicios /Otros",
+    "values": "2004 (Nuevos Soles);Ejecución;Prestación de servicios /Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V232",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Renta de la propiedad",
+    "values": "2004 (Nuevos Soles);Ejecución;Renta de la propiedad",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V233",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad real",
+    "values": "2004 (Nuevos Soles);Ejecución;Renta de la propiedad /Renta de la propiedad real",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V234",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad real /Canon",
+    "values": "2004 (Nuevos Soles);Ejecución;Renta de la propiedad /Renta de la propiedad real /Canon",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V235",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad real /Otras rentas",
+    "values": "2004 (Nuevos Soles);Ejecución;Renta de la propiedad /Renta de la propiedad real /Otras rentas",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V236",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad financiera",
+    "values": "2004 (Nuevos Soles);Ejecución;Renta de la propiedad /Renta de la propiedad financiera",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V237",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Multas, sanciones y otros",
+    "values": "2004 (Nuevos Soles);Ejecución;Multas, sanciones y otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V238",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Multas, sanciones y otros/ Multas y análogas",
+    "values": "2004 (Nuevos Soles);Ejecución;Multas, sanciones y otros/ Multas y análogas",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V239",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Multas, sanciones y otros /Sanciones",
+    "values": "2004 (Nuevos Soles);Ejecución;Multas, sanciones y otros /Sanciones",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V240",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Multas, sanciones y otros /Otros",
+    "values": "2004 (Nuevos Soles);Ejecución;Multas, sanciones y otros /Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V241",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Otros ingresos corrientes",
+    "values": "2004 (Nuevos Soles);Ejecución;Otros ingresos corrientes",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V242",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Otros ingresos corrientes Ingresos diversos",
+    "values": "2004 (Nuevos Soles);Ejecución;Otros ingresos corrientes Ingresos diversos",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V243",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / II. INGRESO DE CAPITAL",
+    "values": "2004 (Nuevos Soles);Ejecución;II. INGRESO DE CAPITAL",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V244",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Venta de activos",
+    "values": "2004 (Nuevos Soles);Ejecución;Venta de activos",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V245",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Inmuebles (excepto terrenos)",
+    "values": "2004 (Nuevos Soles);Ejecución;Inmuebles (excepto terrenos)",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V246",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Venta de activos /Terrenos urbanos y rurales",
+    "values": "2004 (Nuevos Soles);Ejecución;Venta de activos /Terrenos urbanos y rurales",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V247",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Venta de activos /Vehículos, equipos y maquinarias (usados)",
+    "values": "2004 (Nuevos Soles);Ejecución;Venta de activos /Vehículos, equipos y maquinarias (usados)",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V248",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Venta de activos /Otros",
+    "values": "2004 (Nuevos Soles);Ejecución;Venta de activos /Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V249",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Amortización por préstamos concedidos (Reembolso)",
+    "values": "2004 (Nuevos Soles);Ejecución;Amortización por préstamos concedidos (Reembolso)",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V250",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Otros ingresos de capital",
+    "values": "2004 (Nuevos Soles);Ejecución;Otros ingresos de capital",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V251",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / III. TRANSFERENCIAS",
+    "values": "2004 (Nuevos Soles);Ejecución;III. TRANSFERENCIAS",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V252",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Internas del Sector No Público",
+    "values": "2004 (Nuevos Soles);Ejecución;Internas del Sector No Público",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V253",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Internas del Sector Público",
+    "values": "2004 (Nuevos Soles);Ejecución;Internas del Sector Público",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V254",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Internas del Sector Público /Programa del Vaso de Leche",
+    "values": "2004 (Nuevos Soles);Ejecución;Internas del Sector Público /Programa del Vaso de Leche",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V255",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Internas del Sector Público/ De instancias descentralizadas",
+    "values": "2004 (Nuevos Soles);Ejecución;Internas del Sector Público/ De instancias descentralizadas",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V256",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución Internas del Sector Público / Del gobierno nacional",
+    "values": "2004 (Nuevos Soles);Ejecución Internas del Sector Público / Del gobierno nacional",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V257",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Internas del Sector Público /Para proyectos de infraestructura social y productiva",
+    "values": "2004 (Nuevos Soles);Ejecución;Internas del Sector Público /Para proyectos de infraestructura social y productiva",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V258",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Internas del Sector Público /Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "values": "2004 (Nuevos Soles);Ejecución;Internas del Sector Público /Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "value_pos": null
+  }
+]

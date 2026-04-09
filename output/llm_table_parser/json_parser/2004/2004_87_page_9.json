@@ -1,0 +1,392 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "personal ocupado, al 2003",
+    "col": "V3",
+    "desc_col": "Principal actividad económica que desarrolla",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "personal ocupado, al 2003",
+    "col": "V4",
+    "desc_col": "Personal ocupado de la empresa municipal/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "personal ocupado, al 2003",
+    "col": "V5",
+    "desc_col": "Personal ocupado de la empresa municipal/ Nombrado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "personal ocupado, al 2003",
+    "col": "V6",
+    "desc_col": "Personal ocupado de la empresa municipal/ Contratado/ Eventual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "personal ocupado, al 2003",
+    "col": "V7",
+    "desc_col": "Personal ocupado de la empresa municipal/ Contratado/ Permanente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, del 2003",
+    "col": "V1",
+    "desc_col": "Total organismos públicos descentralizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, del 2003",
+    "col": "V2",
+    "desc_col": "Organismo publico descentralizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, del 2003",
+    "col": "V3",
+    "desc_col": "Principal actividad económica que desarrollan",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, del 2003",
+    "col": "V4",
+    "desc_col": "Personal ocupado de los organismos públicos descentralizados/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, del 2003",
+    "col": "V5",
+    "desc_col": "Personal ocupado de los organismos públicos descentralizados/ Nombrado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, del 2003",
+    "col": "V6",
+    "desc_col": "Personal ocupado de los organismos públicos descentralizados/ Contratado/ Eventual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "71",
+    "desc_q": "Organismos públicos descentralizados de la municipalidad y personal ocupado, del 2003",
+    "col": "V7",
+    "desc_col": "Personal ocupado de los organismos públicos descentralizados/ Contratado/ Permanente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "72",
+    "desc_q": "Actividades que ejecuta la municipalidad a través de empresas de servicios de terceros, (SERVICE) 2003",
+    "col": "V1",
+    "desc_col": "Total empresas de SERVICE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "72",
+    "desc_q": "Actividades que ejecuta la municipalidad a través de empresas de servicios de terceros, (SERVICE) 2003",
+    "col": "V2",
+    "desc_col": "Actividad de la empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "72",
+    "desc_q": "Actividades que ejecuta la municipalidad a través de empresas de servicios de terceros, (SERVICE) 2003",
+    "col": "V3",
+    "desc_col": "Nombre de la empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "72",
+    "desc_q": "Actividades que ejecuta la municipalidad a través de empresas de servicios de terceros, (SERVICE) 2003",
+    "col": "V4",
+    "desc_col": "Periodo de contrato",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "73",
+    "desc_q": "Programas y proyectos que ejecuto la municipalidad a través de convenios con otras entidades",
+    "col": "V1",
+    "desc_col": "Total programas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "73",
+    "desc_q": "Programas y proyectos que ejecuto la municipalidad a través de convenios con otras entidades",
+    "col": "V2",
+    "desc_col": "Programa/ Proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "73",
+    "desc_q": "Programas y proyectos que ejecuto la municipalidad a través de convenios con otras entidades",
+    "col": "V3",
+    "desc_col": "Entidad con la que suscribió el convenio la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "73",
+    "desc_q": "Programas y proyectos que ejecuto la municipalidad a través de convenios con otras entidades",
+    "col": "V4",
+    "desc_col": "Tiempo de duración del convenio ( En meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la caja municipal que existe en el distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen caja municipal",
+    "values": "1: Tienen Caja; 0: No tienen Caja",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la caja municipal que existe en el distrito",
+    "col": "V2",
+    "desc_col": "Créditos Directos/ Numero de operaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la caja municipal que existe en el distrito",
+    "col": "V3",
+    "desc_col": "Créditos Directos/ Monto(Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la caja municipal que existe en el distrito",
+    "col": "V4",
+    "desc_col": "Depósitos/ Numero de operaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la caja municipal que existe en el distrito",
+    "col": "V5",
+    "desc_col": "Depósitos/ Monto(Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que registraron MYPES",
+    "values": "1: Si registraron; 0: No registraron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad",
+    "col": "V2",
+    "desc_col": "Tipo de Producción/ Alimentos y bebidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad",
+    "col": "V3",
+    "desc_col": "Tipo de Producción/ Textiles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad",
+    "col": "V4",
+    "desc_col": "Tipo de Producción/ Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad",
+    "col": "V5",
+    "desc_col": "Tipo de Producción/ Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad",
+    "col": "V6",
+    "desc_col": "Tipo de Producción/ Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad",
+    "col": "V7",
+    "desc_col": "Tipo de Producción/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE",
+    "col": "V1",
+    "desc_col": "Municipalidades que realizaron accione para incentivav a la MYPE",
+    "values": "1: Si realizaron; 0: No realizaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE",
+    "col": "V2",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Promoción y publicidad",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE",
+    "col": "V3",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ realización de ferias y concursos",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE",
+    "col": "V4",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Convenios con ONG, empresas privadas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE",
+    "col": "V5",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Capacitación para mejorar la producción y venta",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE",
+    "col": "V6",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Otras acciones",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE",
+    "col": "Total_Otro",
+    "desc_col": "Nº de Acciones realizadas por la municipalidad para incentivar a la MYPE/ Otras acciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que en el distrito se realizo acciones de promoción al empleo productivo",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2003",
+    "col": "V2",
+    "desc_col": "Numero de puestos de trabajo generados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2003",
+    "col": "V3",
+    "desc_col": "Tiempo de duración ( En mese)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Cod_Categoria"
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2003",
+    "col": "Programa",
+    "desc_col": "Programa",
+    "values": "1 al 3 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  }
+]

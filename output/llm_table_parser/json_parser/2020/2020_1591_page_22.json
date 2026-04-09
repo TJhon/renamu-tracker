@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "91",
+    "desc_q": "Municipalidades que incorporaron Proyectos de Gestión del Riesgo de Desastres en el Presupuesto Participativo para el año Fiscal 2020",
+    "col": "P91_2",
+    "desc_col": "Tipo de proyectos/ Limpieza de cauce",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "91",
+    "desc_q": "Municipalidades que incorporaron Proyectos de Gestión del Riesgo de Desastres en el Presupuesto Participativo para el año Fiscal 2020",
+    "col": "P91_3",
+    "desc_col": "Tipo de proyectos/ Muros de contención",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "91",
+    "desc_q": "Municipalidades que incorporaron Proyectos de Gestión del Riesgo de Desastres en el Presupuesto Participativo para el año Fiscal 2020",
+    "col": "P91_4",
+    "desc_col": "Tipo de proyectos/ Limpieza de canales o drenes",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2019",
+    "col": "VFI_P92",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2019",
+    "col": "P92",
+    "desc_col": "¿La Municipalidad ejecutó proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N° 068 \"Reducción de la vulnerabilidad y atención de emergencias por desastres\"?",
+    "values": "1: Sí, 2: No ejecutó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2019",
+    "col": "P92_1",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres / Estimación del riesgo",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2019",
+    "col": "P92_2",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres / Prevención del riesgo",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2019",
+    "col": "P92_3",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres / Reducción del riesgo",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2019",
+    "col": "P92_4",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres / Preparación, respuesta y rehabilitación del riesgo",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "92",
+    "desc_q": "Proyectos de inversión y/o actividades vinculadas al Programa Presupuestal por Resultados N°068, 2019",
+    "col": "P92_5",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres / Reconstrucción",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "93",
+    "desc_q": "Municipalidad elaboró informes de Evaluación de Riesgos (EVAR), 2019",
+    "col": "VFI_P93",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "93",
+    "desc_q": "Municipalidad elaboró informes de Evaluación de Riesgos (EVAR), 2019",
+    "col": "P93",
+    "desc_col": "¿La municipalidad elaboró informes de Evaluación de Riesgos (EVAR)?",
+    "values": "1: Sí, 2: No elaboró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "93",
+    "desc_q": "Municipalidad elaboró informes de Evaluación de Riesgos (EVAR), 2019",
+    "col": "P93_1",
+    "desc_col": "Elaboró informes de Evaluación de Riesgos / Ejecutó medidas de prevención y reducción",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "VFI_P94",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "1: Sí, 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "2: Sí, 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "3: Sí, 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_4",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "4: Sí, 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "5: Sí, 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "6: Sí, 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "7: Sí, 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2019",
+    "col": "P94_8",
+    "desc_col": "No realizó acciones",
+    "values": "8: Sí, 0: No",
+    "value_pos": 8
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "cuadro": "41",
+    "n_q": "P40_O",
+    "desc_q": "Destino final de la basura recolectada (%) / Otro/ Descripción",
+    "col": "P40_O",
+    "desc_col": "Destino final de la basura recolectada (%) / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41",
+    "desc_col": "La municipalidad realizó operativos de control",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_01",
+    "desc_col": "Operativos de control / Aseo, higiene y salubridad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_02",
+    "desc_col": "Operativos de control / Carné de sanidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_03",
+    "desc_col": "Operativos de control / Servicios higiénicos públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_04",
+    "desc_col": "Operativos de control / Fumigación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_05",
+    "desc_col": "Operativos de control / Anuncios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_06",
+    "desc_col": "Operativos de control / Pesas y medidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_07",
+    "desc_col": "Operativos de control / Alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_08",
+    "desc_col": "Operativos de control / Comercio ambulatorio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_09",
+    "desc_col": "Operativos de control / Transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_10",
+    "desc_col": "Operativos de control/ Tránsito vehicular en coordinación con la PNP",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_11",
+    "desc_col": "Operativos de control / Vigencia de licencia de construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_12",
+    "desc_col": "Operativos de control / Vigencia de licencia de funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_13",
+    "desc_col": "Operativos de control / Emisión de humos, gases tóxicos, ruidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_14",
+    "desc_col": "Operativos de control/ Certificado de seguridad en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_15",
+    "desc_col": "Operativos de control / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": "CUADRO_C032",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2010",
+    "col": "P41_O",
+    "desc_col": "Operativos de control / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "42",
+    "n_q": "CUADRO_C033",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, 2010",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "42",
+    "n_q": "CUADRO_C033",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, 2010",
+    "col": "P42",
+    "desc_col": "La Municipalidad expidió carné de sanidad",
+    "values": "1: Expidió; 0: No expidió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "42",
+    "n_q": "CUADRO_C033",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, 2010",
+    "col": "P42_01",
+    "desc_col": "Número de carné / Para venta de alimentos en restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "42",
+    "n_q": "CUADRO_C033",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, 2010",
+    "col": "P42_02",
+    "desc_col": "Número de carné / Para venta ambulatoria de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "42",
+    "n_q": "CUADRO_C033",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, 2010",
+    "col": "P42_03",
+    "desc_col": "Número de carné / Para otros usos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "43",
+    "n_q": "CUADRO_C034",
+    "desc_q": "Ambulantes registrados en la municipalidad, 2010",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "43",
+    "n_q": "CUADRO_C034",
+    "desc_q": "Ambulantes registrados en la municipalidad, 2010",
+    "col": "P43",
+    "desc_col": "La municipalidad tiene ambulantes registrados",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "43",
+    "n_q": "CUADRO_C034",
+    "desc_q": "Ambulantes registrados en la municipalidad, 2010",
+    "col": "P43_01",
+    "desc_col": "Número de ambulantes registrados en la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "44",
+    "n_q": "CUADRO_C035",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2010",
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "44",
+    "n_q": "CUADRO_C035",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2010",
+    "col": "P44",
+    "desc_col": "La municipalidad tiene instalados baños de uso público en el distrito",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "44",
+    "n_q": "CUADRO_C035",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2010",
+    "col": "P44_01",
+    "desc_col": "Número de baños públicos instalados y en funcionamiento de la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "45",
+    "n_q": "CUADRO_C036",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2010",
+    "col": "VFI_P45",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "45",
+    "n_q": "CUADRO_C036",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2010",
+    "col": "P45",
+    "desc_col": "La municipalidad conserva áreas verdes en el distrito",
+    "values": "1: Conserva; 0: No conserva",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "45",
+    "n_q": "CUADRO_C036",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2010",
+    "col": "P45_01",
+    "desc_col": "Áreas verdes (m²) / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "45",
+    "n_q": "CUADRO_C036",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2010",
+    "col": "P45_02",
+    "desc_col": "Áreas verdes (m²) / Parques",
+    "values": "",
+    "value_pos": null
+  }
+]

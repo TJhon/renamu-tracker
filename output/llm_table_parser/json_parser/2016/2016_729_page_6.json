@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_14",
+    "desc_col": "Inclusión Social",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_15",
+    "desc_col": "Asistencia técnica que requiere / Políticas de Igualdad de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_16",
+    "desc_col": "Asistencia técnica que requiere / Catastro Urbano y Rural",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_17",
+    "desc_col": "Asistencia técnica que requiere / Aplicativo MICosto",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_18",
+    "desc_col": "Asistencia técnica que requiere / Sistema Unico de Trámites (SUT)",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_19",
+    "desc_col": "Asistencia técnica que requiere / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_20",
+    "desc_col": "Asistencia técnica que requiere / Indicadores de Gestión Municipal",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_21",
+    "desc_col": "Asistencia técnica que requiere / Sistema de Focalización de Hogares",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_22",
+    "desc_col": "Asistencia técnica que requiere / Población y Desarrollo",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_23",
+    "desc_col": "Asistencia técnica que requiere / Otro",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_23_O",
+    "desc_col": "Asistencia técnica que requiere / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Capacitación que requiere la municipalidad, 2016"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_1",
+    "desc_col": "Requerimiento de capacitación / Planificación Estratégica Institucional con Enfoque de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_2",
+    "desc_col": "Requerimiento de capacitación / Presupuesto con Enfoque a Resultados y Enfoque de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_3",
+    "desc_col": "Requerimiento de capacitación / Administración Tributaria Municipal",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_4",
+    "desc_col": "Requerimiento de capacitación/ Estadística e Indicadores Municipales con Enfoque de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_5",
+    "desc_col": "Requerimiento de capacitación / Gestión de Estándares para mejorar la Atención al Ciudadano",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_6",
+    "desc_col": "Requerimiento de capacitación / Gestión Descentralizada del Programa de Complementación Alimentaria",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_7",
+    "desc_col": "Requerimiento de capacitación / Ecoeficiencia",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_8",
+    "desc_col": "Requerimiento de capacitación / Gestión del Desarrollo Urbano y Territorial",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_9",
+    "desc_col": "Requerimiento de capacitación / Metodología de Gestión por Procesos",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_10",
+    "desc_col": "Requerimiento de capacitación / Metodología para elaborar cartas de servicios",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_11",
+    "desc_col": "Requerimiento de capacitación / Formulación y Evaluación de Proyectos Públicos",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_12",
+    "desc_col": "Requerimiento de capacitación / Normas técnicas de edificación y de habilitación urbana",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_13",
+    "desc_col": "Requerimiento de capacitación / Procedimientos Administrativos",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2016",
+    "col": "P24_14",
+    "desc_col": "Requerimiento de capacitación / Política de Desarrollo e Inclusión Social",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

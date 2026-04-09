@@ -1,0 +1,326 @@
+[
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades informantes sobre distritos que tienen comisarías",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2003",
+    "col": "V2",
+    "desc_col": "Tipo de comisarías/ Comandancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2003",
+    "col": "V3",
+    "desc_col": "Tipo de comisarías/ Comisaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2003",
+    "col": "V4",
+    "desc_col": "Tipo de comisarías/ Delegación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2003",
+    "col": "V5",
+    "desc_col": "Tipo de comisarías/ Puestos policiales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2003",
+    "col": "V6",
+    "desc_col": "Tipo de comisarías/ Comisaría de mujeres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, 2003",
+    "col": "V1",
+    "desc_col": "Tipo de material",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, 2003",
+    "col": "V2",
+    "desc_col": "Material que predomina/ Cemento",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, 2003",
+    "col": "V3",
+    "desc_col": "Material que predomina/ Asfalto",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, 2003",
+    "col": "V4",
+    "desc_col": "Material que predomina/ Tierra afirmada",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, 2003",
+    "col": "V5",
+    "desc_col": "Material que predomina/ Enrripiado",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, 2003",
+    "col": "V6",
+    "desc_col": "Material que predomina/ Empedrada",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, 2003",
+    "col": "V7",
+    "desc_col": "Material que predomina/ Otra",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0097",
+    "n_q": "100",
+    "desc_q": "Alumbrado Publico en el distrito, 2003",
+    "col": "V1",
+    "desc_col": "Alumbrado publico en el distrito/ Tiene",
+    "values": "1: Afirma; 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0097",
+    "n_q": "100",
+    "desc_q": "Alumbrado Publico en el distrito, 2003",
+    "col": "V2",
+    "desc_col": "Alumbrado publico en el distrito/ No tiene",
+    "values": "1: Afirma; 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0098",
+    "n_q": "101",
+    "desc_q": "Viviendas en el distrito que disponen energía eléctrica al 2003",
+    "col": "V1",
+    "desc_col": "% de viviendas con Energía Eléctrica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2003",
+    "col": "V1",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2003",
+    "col": "V2",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Red publica dentro de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2003",
+    "col": "V3",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Red publica fuera de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2003",
+    "col": "V4",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Pilón de uso publico o pileta publica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2003",
+    "col": "V5",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Camión cisterna o similar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2003",
+    "col": "V6",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Pozo, río, acequia, manantial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2003",
+    "col": "V7",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicio higiénico que disponen las viviendas del distrito, al 2003",
+    "col": "V1",
+    "desc_col": "Tipo de servicio higiénico (%)/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicio higiénico que disponen las viviendas del distrito, al 2003",
+    "col": "V2",
+    "desc_col": "Tipo de servicio higiénico (%)/ Red publica dentro de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicio higiénico que disponen las viviendas del distrito, al 2003",
+    "col": "V3",
+    "desc_col": "Tipo de servicio higiénico (%)/ Red publica fuera de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicio higiénico que disponen las viviendas del distrito, al 2003",
+    "col": "V4",
+    "desc_col": "Tipo de servicio higiénico (%)/ Pozo séptico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicio higiénico que disponen las viviendas del distrito, al 2003",
+    "col": "V5",
+    "desc_col": "Tipo de servicio higiénico (%)/ Pozo negro o ciego/ Letrina",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicio higiénico que disponen las viviendas del distrito, al 2003",
+    "col": "V6",
+    "desc_col": "Tipo de servicio higiénico (%) / sobre río, acequia o canal, campo abierto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicio higiénico que disponen las viviendas del distrito, al 2003",
+    "col": "V7",
+    "desc_col": "Municipalidades que informaron sobre las viviendas que no tienen servicio higiénico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "104",
+    "desc_q": "Vía principal y secundaria de acceso la distrito, al 2003",
+    "col": "V1",
+    "desc_col": "Vía de acceso al distrito",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "104",
+    "desc_q": "Vía principal y secundaria de acceso la distrito, al 2003",
+    "col": "V2",
+    "desc_col": "Tipo de vía de acceso al distrito/ Trocha o sendero",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "104",
+    "desc_q": "Vía principal y secundaria de acceso la distrito, al 2003",
+    "col": "V3",
+    "desc_col": "Tipo de vía de acceso al distrito/ Camino de herradura",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "104",
+    "desc_q": "Vía principal y secundaria de acceso la distrito, al 2003",
+    "col": "V4",
+    "desc_col": "Tipo de vía de acceso al distrito/ Vía fluvial/ lacustre",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "104",
+    "desc_q": "Vía principal y secundaria de acceso la distrito, al 2003",
+    "col": "V5",
+    "desc_col": "Tipo de vía de acceso al distrito/ Camino carrozable",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0101",
+    "n_q": "104",
+    "desc_q": "Vía principal y secundaria de acceso la distrito, al 2003",
+    "col": "V6",
+    "desc_col": "Tipo de vía de acceso al distrito/ Vía aérea",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  }
+]

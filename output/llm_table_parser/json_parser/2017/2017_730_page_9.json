@@ -1,0 +1,95 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P29_9",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que la información del presupuesto esté a disposición de la ciudadanía en la página Web",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P29_10",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los informes financieros presupuestales incluyan información completa sobre ingresos y gastos de proyectos financiados por donantes, a través de Cooperación Técnica Nacional e Internacional",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P29_11",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los sistemas de remuneración y de evaluación del personal incentiven la obtención de resultados organizacionales",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P29_12",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que las estrategias permitan mejorar la calidad de los servicios públicos que brinda a la ciudadanía",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P29_13",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Utiliza mecanismos de consulta periódica a la ciudadanía para introducir mejoras en los servicios públicos",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P29_14",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Tiene indicadores de eficiencia y eficacia sobre la cobertura de los servicios públicos",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "Municipalidad"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P30",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "30 y 30A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2017",
+    "col": "P30",
+    "desc_col": "¿La municipalidad tiene Texto Único de Procedimientos Administrativos (TUPA) según metodología de determinación de costos?",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "30 y 30A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2017",
+    "col": "P30_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Fecha de última actualización (dd/mm/aa)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "30 y 30A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2017",
+    "col": "P30A_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos Administrativos que contiene el TUPA",
+    "values": "",
+    "value_pos": null
+  }
+]

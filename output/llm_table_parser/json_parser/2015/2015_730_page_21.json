@@ -1,0 +1,230 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "establecimientos de granjas avícolas?",
+    "col": "P39_34",
+    "desc_col": "establecimientos de granjas avícolas?",
+    "values": "2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Granjas avícolas",
+    "col": "P39A_34_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Granjas avícolas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de establos lecheros?",
+    "col": "P39_35",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de establos lecheros?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Establos lecheros",
+    "col": "P39A_35_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Establos lecheros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "col": "P39_36",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Otro / Especifique",
+    "col": "P39A_36_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40_1",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para vivienda?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40A_1",
+    "desc_col": "Número de licencias de habilitación urbana / Vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40_2",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para comercio?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40A_2",
+    "desc_col": "Número de licencias de habilitación urbana / Comercio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40_3",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para servicio?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40A_3",
+    "desc_col": "Número de licencias de habilitación urbana / Servicio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40_4",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para industria?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40A_4",
+    "desc_col": "Número de licencias de habilitación urbana / Industria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40_5",
+    "desc_col": "¿La municipalidad otorgó Otras licencias de habilitación urbana (tierras por urbanizar) ?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P40A_5",
+    "desc_col": "Número de licencias de habilitación urbana / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P41_1",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas unifamiliares?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P41A_1",
+    "desc_col": "Número de licencias de edificación / Viviendas unifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P41_2",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para Viviendas multifamiliares?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P41A_2",
+    "desc_col": "Número de licencias de edificación / Viviendas multifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P41_3",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para edificaciones de uso mixto con vivienda?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P41A_3",
+    "desc_col": "Número de licencias de edificación / Edificaciones de uso mixto con vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C32",
+    "n_q": "40",
+    "desc_q": "Licencias de habilitación urbana (tierras por urbanizar) otorgadas por la municipalidad, 2014",
+    "col": "P41_4",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para restaurantes?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2019",
+    "col": "VFI_P83",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2019",
+    "col": "P83",
+    "desc_col": "¿Se ha constituido la Plataforma de Defensa Civil en el municipio?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2019",
+    "col": "P83A",
+    "desc_col": "Número de Resolución de Alcaldía u otra norma",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2019",
+    "col": "P83_1",
+    "desc_col": "La municipalidad tiene constituido la Plataforma de Defensa Civil / ¿Tiene Reglamento Interno de Funcionamiento?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2019",
+    "col": "P83_2",
+    "desc_col": "La municipalidad tiene constituido la Plataforma de Defensa Civil / ¿Tiene Plan de Trabajo Anual para el año 2019?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2019",
+    "col": "VFI_P84",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2019",
+    "col": "P84",
+    "desc_col": "¿ La municipalidad tiene Brigadas de Defensa Civil constituidas por el Voluntariado en Emergencias y Rehabilitación?",
+    "values": "1: Sí\n2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2019",
+    "col": "P84A_1",
+    "desc_col": "Número de Resolución de Alcaldía u otra norma",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2019",
+    "col": "P84A_2",
+    "desc_col": "Número de Brigadas",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2019",
+    "col": "P84A_3",
+    "desc_col": "Número de Voluntarios que conforman el Total de Brigadas",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "85",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2019",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "85",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2019",
+    "col": "P85_1",
+    "desc_col": "¿La municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL)?",
+    "values": "1: Sí y el COEL se encuentra contemplado dentro de la estructura orgánica de la municipalidad\n2: Sí y el COEL no se encuentra contemplado dentro de la estructura orgánica de la municipalidad\n3: No ha conformado"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "86",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2019",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "86",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2019",
+    "col": "P86_1",
+    "desc_col": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL)",
+    "values": "1: Funciona las 24 horas\n2: Funciona solo en horario de oficina\n3: Funciona solo cuando hay una emergencia"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2019",
+    "col": "VFI_P87",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2019",
+    "col": "P87_1",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Personal con dedicación exclusiva?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2019",
+    "col": "P87_2",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Computadora?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2019",
+    "col": "P87_3",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Radio comunicador?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2019",
+    "col": "P87_4",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Línea de telefonía fija?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  }
+]

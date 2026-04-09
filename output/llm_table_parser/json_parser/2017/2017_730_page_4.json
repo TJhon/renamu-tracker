@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_9_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Prevención y Reducción del Riesgo de Desastres / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_9_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Prevención y Reducción del Riesgo de Desastres / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_9_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Prevención y Reducción del Riesgo de Desastres / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_9_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Prevención y Reducción del Riesgo de Desastres / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "0: No informó; 1: No incluye; 2: Incluye",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_10",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo de Capacidades (PDC)",
+    "values": "1: Sí; 3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_10_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo de Capacidades / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_10_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo de Capacidades / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_10_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo de Capacidades / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_10_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo de Capacidades / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "0: No informó; 1: No incluye; 2: Incluye",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_11",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Local de Igualdad de Género",
+    "values": "1: Sí; 3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_11_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Local de Igualdad de Género / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_11_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Local de Igualdad de Género / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  }
+]

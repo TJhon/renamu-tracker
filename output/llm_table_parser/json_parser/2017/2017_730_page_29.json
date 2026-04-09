@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44_1",
+    "desc_col": "¿La municipalidad realizó reparación de pistas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_1_1",
+    "desc_col": "Realizó reparación de pistas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_1_2",
+    "desc_col": "Realizó reparación de pistas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44_2",
+    "desc_col": "¿La municipalidad realizó construcción de pistas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_2_1",
+    "desc_col": "Realizó construcción de pistas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_2_2",
+    "desc_col": "Realizó construcción de pistas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44_3",
+    "desc_col": "¿La municipalidad realizó reparación de veredas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_3_1",
+    "desc_col": "Realizó reparación de veredas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_3_2",
+    "desc_col": "Realizó reparación de veredas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44_4",
+    "desc_col": "¿La municipalidad realizó construcción de veredas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_4_1",
+    "desc_col": "Realizó construcción de veredas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_4_2",
+    "desc_col": "Realizó construcción de veredas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44_5",
+    "desc_col": "¿La municipalidad realizó reparación de escalinatas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_5_1",
+    "desc_col": "Realizó reparación de escalinatas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_5_2",
+    "desc_col": "Realizó reparación de escalinatas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44_6",
+    "desc_col": "¿La municipalidad realizó construcción de escalinatas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C36",
+    "n_q": "44",
+    "desc_q": "Reparación y/o construcción de pistas, veredas, escalinatas y caminos rurales ejecutados por la municipalidad, 2016",
+    "col": "P44A_6_1",
+    "desc_col": "Realizó construcción de escalinatas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  }
+]

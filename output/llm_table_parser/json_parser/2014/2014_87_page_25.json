@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "50",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2013",
+    "col": "P50_V_01",
+    "desc_col": "Número de visitantes/usuarios / Teatros y teatrines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "50",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2013",
+    "col": "P50_V_02",
+    "desc_col": "Número de visitantes/usuarios / Cines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "50",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2013",
+    "col": "P50_V_03",
+    "desc_col": "Número de visitantes/usuarios / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "50",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2013",
+    "col": "P50_V_04",
+    "desc_col": "Número de visitantes/usuarios / Bibliotecas Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "50",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2013",
+    "col": "P50_V_05",
+    "desc_col": "Número de visitantes/usuarios / Casa de la Cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "50",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2013",
+    "col": "P50_V_06",
+    "desc_col": "Número de visitantes/usuarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "50",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2013",
+    "col": "P50_O",
+    "desc_col": "Locales y beneficiarios / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "C12"
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "VFI_C12",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12",
+    "desc_col": "La municipalidad tiene DEMUNA",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_01",
+    "desc_col": "Casos atendidos / Pensión por alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_02",
+    "desc_col": "Casos atendidos / Tenencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_03",
+    "desc_col": "Casos atendidos / Régimen de visitas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_04",
+    "desc_col": "Casos atendidos / Filiación extramatrimonial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_05",
+    "desc_col": "Casos atendidos / Indocumentación infantil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_06",
+    "desc_col": "Casos atendidos / Matrícula escolar oportuna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_07",
+    "desc_col": "Casos atendidos / Derecho a salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_08",
+    "desc_col": "Casos atendidos / Contravenciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_09",
+    "desc_col": "Casos atendidos / Violencia familiar (Maltrato físico y/o psicológico )",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_10",
+    "desc_col": "Casos atendidos / Maltrato físico y/o psicológico por personas que no son miembros de la familia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_11",
+    "desc_col": "Casos atendidos / Abuso sexual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_12",
+    "desc_col": "Casos atendidos / Colocación familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_13",
+    "desc_col": "Casos atendidos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "C12",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2013",
+    "col": "C12_14",
+    "desc_col": "No se registraron casos",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_23",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO / Farmacias y boticas?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_23",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Farmacias y boticas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_24",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Ferreterías?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_24",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Ferreterías / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_25",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Prendas de vestir?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_25",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Prendas de vestir / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_26",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Calzado?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_26",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Calzado / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_27",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Mercados de abastos?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_27",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Mercados de abastos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_28",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Centros comerciales o galerías comerciales?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_28",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Centros comerciales o galerías comerciales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_29",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Proveedores de insumos agropecuarios?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_29",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Proveedores de insumos agropecuarios / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34_30",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Otro ?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_30",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P34A_30_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro / Especifique la de mayor frecuencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "VFI_P35",
+    "desc_col": "Municipalidad informante",
+    "values": "Informó;No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P35_1",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas unifamiliares?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P35A_1",
+    "desc_col": "Licencias de edificación para viviendas unifamiliares / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P35_2",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas multifamiliares?",
+    "values": "Sí;No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P35A_2",
+    "desc_col": "Licencias de edificación para viviendas multifamiliares / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2018",
+    "col": "P35_3",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para edificaciones de uso mixto con vivienda?",
+    "values": "Sí;No",
+    "value_pos": 1
+  }
+]

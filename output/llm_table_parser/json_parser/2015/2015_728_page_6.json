@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "VFI_P18",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18",
+    "desc_col": "¿La municipalidad tiene sistemas informáticos?",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_1",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Trámite Documentario",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_2",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Presupuesto",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_3",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Abastecimiento",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_4",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Contabilidad",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_5",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Tesorería",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_6",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Personal",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_7",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Renta y Administración tributaria",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_8",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Catastro",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_9",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Licencia de Funcionamiento",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_10",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Licencia de Edificación y Habilitación Urbana",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_11",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Biblioteca",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_12",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Registro Civil",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_13",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Otro",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos que tiene la municipalidad, 2015",
+    "col": "P18_13_O",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Aplicativo informático que utiliza la municipalidad"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P19",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P19_01",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P19_02",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema Único de Trámites (SUT)",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P19_03",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Mi Costo",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  }
+]

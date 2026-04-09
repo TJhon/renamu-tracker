@@ -1,0 +1,371 @@
+[
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "VFI_P103",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_01",
+    "desc_col": "INGRESO TOTAL (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_02",
+    "desc_col": "I. INGRESOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_03",
+    "desc_col": "Impuestos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_04",
+    "desc_col": "Impuestos / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_05",
+    "desc_col": "Impuestos / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_06",
+    "desc_col": "Impuestos / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_07",
+    "desc_col": "Impuestos / A los casinos de juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_08",
+    "desc_col": "Impuestos / A las apuestas y juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_09",
+    "desc_col": "Impuestos / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_10",
+    "desc_col": "Impuestos / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_11",
+    "desc_col": "Impuestos / Otros impuestos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_12",
+    "desc_col": "Derechos y tasas administrativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_13",
+    "desc_col": "Derechos y tasas administrativas / De administración general",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_14",
+    "desc_col": "Derechos y tasas administrativas / De educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_15",
+    "desc_col": "Derechos y tasas administrativas / De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_16",
+    "desc_col": "Derechos y tasas administrativas / De vivienda y construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_17",
+    "desc_col": "Derechos y tasas administrativas / De agricultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_18",
+    "desc_col": "Derechos y tasas administrativas / De industria y comercio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_19",
+    "desc_col": "Derechos y tasas administrativas / De transportes y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_20",
+    "desc_col": "Derechos y tasas administrativas / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_21",
+    "desc_col": "Contribuciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_22",
+    "desc_col": "Contribuciones / Contribuciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_23",
+    "desc_col": "Contribuciones / Contribuciones obligatorias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_24",
+    "desc_col": "Ventas de bienes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_25",
+    "desc_col": "Ventas de bienes / Agropecuarios, forestales y minerales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_26",
+    "desc_col": "Ventas de bienes/ De productos de educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_27",
+    "desc_col": "Ventas de bienes / De productos de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_28",
+    "desc_col": "Ventas de bienes / De productos industriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_29",
+    "desc_col": "Ventas de bienes / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_30",
+    "desc_col": "Venta de servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_31",
+    "desc_col": "Venta de servicios / De transporte y comunicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_32",
+    "desc_col": "Venta de servicios / De educación, recreación y cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_33",
+    "desc_col": "Venta de servicios / De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_34",
+    "desc_col": "Venta de servicios / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_35",
+    "desc_col": "Donaciones y transferencias corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_36",
+    "desc_col": "Donaciones y transferencias corrientes / De Gobiernos Extranjeros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_37",
+    "desc_col": "Donaciones y transferencias corrientes / De Organismos Internacionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_38",
+    "desc_col": "Donaciones y transferencias corrientes / De otras Unidades de Gobierno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_39",
+    "desc_col": "Donaciones y transferencias corrientes / Canon",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "P103_40",
+    "desc_col": "Donaciones y transferencias corrientes / Sobrecanon",
+    "values": "",
+    "value_pos": null
+  }
+]

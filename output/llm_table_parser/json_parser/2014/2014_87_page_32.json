@@ -1,0 +1,197 @@
+[
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "56",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2013",
+    "col": "P56_03",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Charlas y/o talleres de prevención en instituciones educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "56",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2013",
+    "col": "P56_04",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Charlas y/o talleres de prevención y fortalecimiento en familias (Comités vecinales, Club de madres y Vaso de Leche)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "56",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2013",
+    "col": "P56_05",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Campañas de concientización en ferias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "56",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2013",
+    "col": "P56_06",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Actividades recreativas, deportivas, culturales y de formación moral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "56",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2013",
+    "col": "P56_07",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Recibió capacitación y asistencia técnica en aspectos de prevención por DEVIDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "56",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2013",
+    "col": "P56_08",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Recibió capacitación y asistencia técnica en aspectos de prevención por ONG, dedicada al tema",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "56",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2013",
+    "col": "P56_09",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Otra acción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "57",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014",
+    "col": "VFI_P57",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "57",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014",
+    "col": "P57",
+    "desc_col": "La municipalidad registró organizaciones de seguridad vecinal y comunal",
+    "values": "1: Registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "57",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014",
+    "col": "P57_01",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "57",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014",
+    "col": "P57_02",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "57",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014",
+    "col": "P57_03",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Comité Vecinal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "57",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014",
+    "col": "P57_04",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Comité de Autodefensa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "57",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2014",
+    "col": "P57_05",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "58",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013",
+    "col": "VFI_P58",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "58",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013",
+    "col": "P58",
+    "desc_col": "Municipalidades que conformaron y realizaron actividades del Comité Distrital de Seguridad Ciudadana",
+    "values": "1: Conformó;0: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "58",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013",
+    "col": "P58_01",
+    "desc_col": "Conformó y juramentó su Comité Distrital de Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "58",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013",
+    "col": "P58_02",
+    "desc_col": "Designó y acreditó al Secretario Técnico del Comité de Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "58",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013",
+    "col": "P58_03",
+    "desc_col": "Realizó sesiones de Comité de Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "58",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013",
+    "col": "P58_04",
+    "desc_col": "Número de sesiones realizadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "58",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2013",
+    "col": "P58_05",
+    "desc_col": "Realizó consultas ciudadanas",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P57_E_09",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Botiquín",
+    "col": "P57_E_09",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Botiquín",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_E_10",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Otro",
+    "col": "P57_E_10",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_01",
+    "desc_q": "Número de establecimientos / Privado / Hospital/ Clínica",
+    "col": "P57_P_01",
+    "desc_col": "Número de establecimientos / Privado / Hospital/ Clínica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_02",
+    "desc_q": "Número de establecimientos / Privado / Centro de Salud",
+    "col": "P57_P_02",
+    "desc_col": "Número de establecimientos / Privado / Centro de Salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_03",
+    "desc_q": "Número de establecimientos / Privado / Puesto de Salud",
+    "col": "P57_P_03",
+    "desc_col": "Número de establecimientos / Privado / Puesto de Salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_04",
+    "desc_q": "Número de establecimientos / Privado / Consultorio médico",
+    "col": "P57_P_04",
+    "desc_col": "Número de establecimientos / Privado / Consultorio médico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_05",
+    "desc_q": "Número de establecimientos / Privado / Consultorio odontológico",
+    "col": "P57_P_05",
+    "desc_col": "Número de establecimientos / Privado / Consultorio odontológico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_06",
+    "desc_q": "Número de establecimientos / Privado / Casa de reposo/Asilo",
+    "col": "P57_P_06",
+    "desc_col": "Número de establecimientos / Privado / Casa de reposo/Asilo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_07",
+    "desc_q": "Número de establecimientos / Privado / Farmacia",
+    "col": "P57_P_07",
+    "desc_col": "Número de establecimientos / Privado / Farmacia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_08",
+    "desc_q": "Número de establecimientos / Privado / Botica",
+    "col": "P57_P_08",
+    "desc_col": "Número de establecimientos / Privado / Botica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_09",
+    "desc_q": "Número de establecimientos / Privado / Botiquín",
+    "col": "P57_P_09",
+    "desc_col": "Número de establecimientos / Privado / Botiquín",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_P_10",
+    "desc_q": "Número de establecimientos / Privado / Otro",
+    "col": "P57_P_10",
+    "desc_col": "Número de establecimientos / Privado / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_O",
+    "desc_q": "Número de establecimientos / Otro/ Descripción",
+    "col": "P57_O",
+    "desc_col": "Número de establecimientos / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "VFI_P58",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P58",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58",
+    "desc_q": "La municipalidad realizó actividades con el Ministerio de Salud",
+    "col": "P58",
+    "desc_col": "La municipalidad realizó actividades con el Ministerio de Salud",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_01",
+    "desc_q": "Actividades que realizó/ Campañas de control de epidemias",
+    "col": "P58_01",
+    "desc_col": "Actividades que realizó/ Campañas de control de epidemias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_02",
+    "desc_q": "Actividades que realizó/ Campañas de salud preventiva",
+    "col": "P58_02",
+    "desc_col": "Actividades que realizó/ Campañas de salud preventiva",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_03",
+    "desc_q": "Actividades que realizó/ Campañas de primeros auxilios",
+    "col": "P58_03",
+    "desc_col": "Actividades que realizó/ Campañas de primeros auxilios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_04",
+    "desc_q": "Actividades que realizó/ Campañas de educación sanitaria",
+    "col": "P58_04",
+    "desc_col": "Actividades que realizó/ Campañas de educación sanitaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_05",
+    "desc_q": "Actividades que realizó/ Campañas de profilaxis local",
+    "col": "P58_05",
+    "desc_col": "Actividades que realizó/ Campañas de profilaxis local",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_06",
+    "desc_q": "Actividades que realizó/ Campañas de fumigación",
+    "col": "P58_06",
+    "desc_col": "Actividades que realizó/ Campañas de fumigación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_07",
+    "desc_q": "Actividades que realizó/ Campañas de registro y certificación de canes",
+    "col": "P58_07",
+    "desc_col": "Actividades que realizó/ Campañas de registro y certificación de canes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_08",
+    "desc_q": "Actividades que realizó/ Campañas de salud mental",
+    "col": "P58_08",
+    "desc_col": "Actividades que realizó/ Campañas de salud mental",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "VFI_P59",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P59",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59",
+    "desc_q": "Se implementaron Programas de Control y Prevención de la salud en el distrito",
+    "col": "P59",
+    "desc_col": "Se implementaron Programas de Control y Prevención de la salud en el distrito",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_01",
+    "desc_q": "Programa implementado / Control del crecimiento y desarrollo del niño",
+    "col": "P59_01",
+    "desc_col": "Programa implementado / Control del crecimiento y desarrollo del niño",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_02",
+    "desc_q": "Programa implementado / Control de infecciones respiratorias agudas",
+    "col": "P59_02",
+    "desc_col": "Programa implementado / Control de infecciones respiratorias agudas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_03",
+    "desc_q": "Programa implementado / Control de enfermedades diarréicas agudas",
+    "col": "P59_03",
+    "desc_col": "Programa implementado / Control de enfermedades diarréicas agudas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_04",
+    "desc_q": "Programa implementado / Vacunas (Inmunización)",
+    "col": "P59_04",
+    "desc_col": "Programa implementado / Vacunas (Inmunización)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_05",
+    "desc_q": "Programa implementado / Planificación familiar",
+    "col": "P59_05",
+    "desc_col": "Programa implementado / Planificación familiar",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_06",
+    "desc_q": "Programa implementado / Control de tuberculosis",
+    "col": "P59_06",
+    "desc_col": "Programa implementado / Control de tuberculosis",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_07",
+    "desc_q": "Programa implementado / Control de enfermedades de transmisión sexual y VIH/SIDA",
+    "col": "P59_07",
+    "desc_col": "Programa implementado / Control de enfermedades de transmisión sexual y VIH/SIDA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_08",
+    "desc_q": "Programa implementado / Otro",
+    "col": "P59_08",
+    "desc_col": "Programa implementado / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_O",
+    "desc_q": "Programa implementado / Otro / Descripción",
+    "col": "P59_O",
+    "desc_col": "Programa implementado / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  }
+]

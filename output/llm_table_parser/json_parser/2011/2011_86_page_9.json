@@ -1,0 +1,362 @@
+[
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P104_10",
+    "desc_q": "Adquisición de activos financieros",
+    "col": "p104_10",
+    "desc_col": "Adquisición de activos financieros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P104_11",
+    "desc_q": "Donaciones y transferencias de capital",
+    "col": "p104_11",
+    "desc_col": "Donaciones y transferencias de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P104_12",
+    "desc_q": "Otros gastos de capital",
+    "col": "p104_12",
+    "desc_col": "Otros gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P104_13",
+    "desc_q": "III. SERVICIO DE LA DEUDA",
+    "col": "p104_13",
+    "desc_col": "III. SERVICIO DE LA DEUDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P104_14",
+    "desc_q": "Servicio de la deuda pública",
+    "col": "p104_14",
+    "desc_col": "Servicio de la deuda pública",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "VFI_P105",
+    "desc_q": "Municipalidad informante",
+    "col": "vfi_p105",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_01",
+    "desc_q": "TOTAL INGRESOS (I+II+III+IV)",
+    "col": "p105_01",
+    "desc_col": "TOTAL INGRESOS (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_02",
+    "desc_q": "I. INGRESOS CORRIENTES",
+    "col": "p105_02",
+    "desc_col": "I. INGRESOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_03",
+    "desc_q": "Impuestos y contribuciones obligatorias y contribuciones obligatorias",
+    "col": "p105_03",
+    "desc_col": "Impuestos y contribuciones obligatorias y contribuciones obligatorias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_04",
+    "desc_q": "Impuestos y contribuciones obligatorias / Predial",
+    "col": "p105_04",
+    "desc_col": "Impuestos y contribuciones obligatorias / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_05",
+    "desc_q": "Impuestos y contribuciones obligatorias / De alcabala",
+    "col": "p105_05",
+    "desc_col": "Impuestos y contribuciones obligatorias / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_06",
+    "desc_q": "Impuestos y contribuciones obligatorias / Al patrimonio vehicular",
+    "col": "p105_06",
+    "desc_col": "Impuestos y contribuciones obligatorias / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_07",
+    "desc_q": "Impuestos y contribuciones obligatorias / A los casinos de juegos",
+    "col": "p105_07",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los casinos de juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_08",
+    "desc_q": "Impuestos y contribuciones obligatorias / A las apuestas y a los juegos",
+    "col": "p105_08",
+    "desc_col": "Impuestos y contribuciones obligatorias / A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_09",
+    "desc_q": "Impuestos y contribuciones obligatorias / A los espectáculos públicos no deportivos",
+    "col": "p105_09",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_10",
+    "desc_q": "Impuestos y contribuciones obligatorias / A los juegos de máquinas tragamonedas",
+    "col": "p105_10",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_11",
+    "desc_q": "Impuestos y contribuciones obligatorias / Otros impuestos y contribuciones obligatorias",
+    "col": "p105_11",
+    "desc_col": "Impuestos y contribuciones obligatorias / Otros impuestos y contribuciones obligatorias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_12",
+    "desc_q": "Contribuciones sociales",
+    "col": "p105_12",
+    "desc_col": "Contribuciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_13",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos",
+    "col": "p105_13",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_14",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos generales",
+    "col": "p105_14",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos generales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_15",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación",
+    "col": "p105_15",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_16",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud",
+    "col": "p105_16",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_17",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de vivienda y construcción",
+    "col": "p105_17",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de vivienda y construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_18",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura",
+    "col": "p105_18",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_19",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria, comercio y minería",
+    "col": "p105_19",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria, comercio y minería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_20",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones",
+    "col": "p105_20",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_21",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de bienes agropecuarios y forestales",
+    "col": "p105_21",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de bienes agropecuarios y forestales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_22",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de productos de educación",
+    "col": "p105_22",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de productos de educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_23",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de productos de salud",
+    "col": "p105_23",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de productos de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_24",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de productos minerales",
+    "col": "p105_24",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de productos minerales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_25",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Servicios de transporte y comunicaciones",
+    "col": "p105_25",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Servicios de transporte y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_26",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Servicios de educación, recreación y cultura",
+    "col": "p105_26",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Servicios de educación, recreación y cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_27",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Servicios de salud",
+    "col": "p105_27",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Servicios de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_28",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos",
+    "col": "p105_28",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_29",
+    "desc_q": "Rentas de la propiedad",
+    "col": "p105_29",
+    "desc_col": "Rentas de la propiedad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_30",
+    "desc_q": "Rentas de la propiedad / Rentas de la propiedad real",
+    "col": "p105_30",
+    "desc_col": "Rentas de la propiedad / Rentas de la propiedad real",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_31",
+    "desc_q": "Rentas de la propiedad / Rentas de la propiedad financiera",
+    "col": "p105_31",
+    "desc_col": "Rentas de la propiedad / Rentas de la propiedad financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_32",
+    "desc_q": "Otros ingresos corrientes",
+    "col": "p105_32",
+    "desc_col": "Otros ingresos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_33",
+    "desc_q": "II. INGRESOS DE CAPITAL",
+    "col": "p105_33",
+    "desc_col": "II. INGRESOS DE CAPITAL",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_34",
+    "desc_q": "Venta de activos no producidos",
+    "col": "p105_34",
+    "desc_col": "Venta de activos no producidos",
+    "values": "",
+    "value_pos": null
+  }
+]

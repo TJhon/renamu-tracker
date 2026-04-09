@@ -1,0 +1,122 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P41A_11",
+    "desc_col": "Número de licencias de edificación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P41A_11_O",
+    "desc_col": "Número de licencias de edificación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2015",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2015",
+    "col": "P42",
+    "desc_col": "¿La municipalidad realizó verificaciones técnicas a las obras con licencia de edificación?",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2015",
+    "col": "P42_1",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Total de obras con licencias de edificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2015",
+    "col": "P42_2",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Obras con verificación técnica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2015",
+    "col": "P42_3",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Total de verificaciones técnicas realizadas a las obras con verificaciones técnicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2015",
+    "col": "P42_4",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Monto recaudado por concepto de verificaciones técnicas (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "ACCESO AL SUELO PARA VIVIENDA"
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que disponen de terrenos para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2016",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que disponen de terrenos para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2016",
+    "col": "P43",
+    "desc_col": "¿La municipalidad dispone de terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso?",
+    "values": "1: Dispone;0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que disponen de terrenos para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2016",
+    "col": "P43A_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que disponen de terrenos para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2016",
+    "col": "P43A_1_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con saneamiento físico y legal / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que disponen de terrenos para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2016",
+    "col": "P43A_1_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con factibilidad de servicio de agua, desagüe y electricidad / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "VFL_P11A",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_1",
+    "desc_col": "¿La municipalidad cuenta con auto y/o camioneta?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_1_1",
+    "desc_col": "Número de bienes / Auto y/o camioneta / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_1_2",
+    "desc_col": "Número de bienes / Auto y/o camioneta / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_2",
+    "desc_col": "¿La municipalidad cuenta con motocicleta?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_2_1",
+    "desc_col": "Número de bienes / Motocicleta / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_2_2",
+    "desc_col": "Número de bienes / Motocicleta / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_3",
+    "desc_col": "¿La municipalidad cuenta con ambulancia?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_3_1",
+    "desc_col": "Número de bienes / Ambulancia / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_3_2",
+    "desc_col": "Número de bienes / Ambulancia / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_4",
+    "desc_col": "¿La municipalidad cuenta con volquete?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_4_1",
+    "desc_col": "Número de bienes / Volquete / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_4_2",
+    "desc_col": "Número de bienes / Volquete / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_5",
+    "desc_col": "¿La municipalidad cuenta con camión recolector de basura (camión compactador y otros)?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_5_1",
+    "desc_col": "Número de bienes / Camión recolector de basura / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_5_2",
+    "desc_col": "Número de bienes / Camión recolector de basura / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_6",
+    "desc_col": "¿La municipalidad cuenta con Camión cisterna?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_6_1",
+    "desc_col": "Número de bienes / Camión cisterna / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_6_2",
+    "desc_col": "Número de bienes / Camión cisterna / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_7",
+    "desc_col": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura ni camiones cisterna)?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_7_1",
+    "desc_col": "Número de bienes / Camión / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_7_2",
+    "desc_col": "Número de bienes / Camión / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_8",
+    "desc_col": "¿La municipalidad cuenta con grupo electrógeno?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_8_1",
+    "desc_col": "Número de bienes / Grupo electrógeno / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_8_2",
+    "desc_col": "Número de bienes / Grupo electrógeno / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_9",
+    "desc_col": "¿La municipalidad cuenta con panel solar?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_9_1",
+    "desc_col": "Número de bienes / Panel solar / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_9_2",
+    "desc_col": "Número de bienes / Panel solar / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_10",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_10_1",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_10_2",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2022",
+    "col": "P11A_10_O",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo? / Especifique",
+    "values": ""
+  },
+  {
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2022",
+    "col": "VFL_P11B",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2022",
+    "col": "P11B_11",
+    "desc_col": "¿La municipalidad cuenta con excavadora?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2022",
+    "col": "P11B_11_1",
+    "desc_col": "Número de bienes / Excavadoras / Operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2022",
+    "col": "P11B_11_2",
+    "desc_col": "Número de bienes / Excavadoras / No operativos",
+    "values": ""
+  },
+  {
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2022",
+    "col": "P11B_12",
+    "desc_col": "¿La municipalidad cuenta con Retroexcavadora?",
+    "values": "1: Si, 2: No",
+    "value_pos": 1
+  }
+]

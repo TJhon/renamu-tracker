@@ -1,0 +1,149 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P31_P_02",
+    "desc_q": "Procedimiento administrativo/ Licencia de edificación (Modalidad B)/ Plazo de atención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P31_P_03",
+    "desc_q": "Procedimiento administrativo/ Carné de sanidad para venta de alimentos/ Plazo de atención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P31_P_04",
+    "desc_q": "Procedimiento administrativo/ Autorización para interferir temporalmente el tránsito en la vía pública/ Plazo de atención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P31_P_05",
+    "desc_q": "Procedimiento administrativo/ Copia certificada de partida de nacimiento/ Plazo de atención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P31_P_06",
+    "desc_q": "Procedimiento administrativo/ Copia certificada de partida de defunción/ Plazo de atención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P31_P_07",
+    "desc_q": "Procedimiento administrativo/ Copia certificada de partida de matrimonio/ Plazo de atención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P31_P_08",
+    "desc_q": "Procedimiento administrativo/ Acceso a la información pública (Copia fotostática simple)/ Plazo de atención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "32 CUADRO_C023 Licencias de apertura de establecimientos, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "VFI_P32",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32",
+    "desc_q": "la municipalidad otorgó licencias de apertura de establecimientos",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Otorgó licencias;0: No otorgó licencias",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32_01",
+    "desc_q": "Número de licencias de apertura de establecimientos/ SERVICIOS/ Hoteles, hostales y otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32_02",
+    "desc_q": "Número de licencias de apertura de establecimientos/ SERVICIOS/ Restaurantes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32_03",
+    "desc_q": "Número de licencias de apertura de establecimientos/ SERVICIOS/ Agencias de viaje",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32_04",
+    "desc_q": "Número de licencias de apertura de establecimientos/ SERVICIOS/ Mensajerías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32_05",
+    "desc_q": "Número de licencias de apertura de establecimientos/ SERVICIOS/ Courier",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32_06",
+    "desc_q": "Número de licencias de apertura de establecimientos/ SERVICIOS/ Limpieza",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "P32_07",
+    "desc_q": "Número de licencias de apertura de establecimientos/ SERVICIOS/",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "y 30 de Junio 2016",
+    "col": "P66A_2_1",
+    "desc_col": "Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P66A_2_2",
+    "desc_col": "Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED) / Total de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P66A_2_3",
+    "desc_col": "Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED) / Total de beneficiarios al 30 de Junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VF1_P67",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Niñas y niños de 0 a 6 años?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_1_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Niñas y niños de 0 a 6 años / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_1_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Niñas y niños de 0 a 6 años / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Niñas y niños de 7 a 13 años?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_2_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Niñas y niños de 7 a 13 años / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_2_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Niñas y niños de 7 a 13 años / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_3",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Madres gestantes?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_3_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Madres gestantes / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_3_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Madres gestantes / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_4",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Madres en período de lactancia?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P67_4_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Madres en período de lactancia / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  }
+]

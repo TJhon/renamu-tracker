@@ -1,0 +1,317 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "distrito, al 2003",
+    "col": "V2",
+    "desc_col": "Total de instalaciones deportivas",
+    "values": "1 al 11 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "distrito, al 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de local",
+    "values": "1 al 11 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a al educación implementados por la municipalidad en el distrito, en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que realizaron programas de apoyo a la educación",
+    "values": "1:Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a al educación implementados por la municipalidad en el distrito, en el 2003",
+    "col": "V2",
+    "desc_col": "Total de instalaciones deportivas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a al educación implementados por la municipalidad en el distrito, en el 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de local",
+    "values": "1 al 6 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el 2002 y 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen locales de uso recreacional y cultural",
+    "values": "1:Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el 2002 y 2003",
+    "col": "V2",
+    "desc_col": "Numero de locales de uso recreacional y cultural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el 2002 y 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de instalación",
+    "values": "1 al 7 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0049",
+    "n_q": "53",
+    "desc_q": "Biblioteca municipal en el distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen Biblioteca",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0049",
+    "n_q": "53",
+    "desc_q": "Biblioteca municipal en el distrito",
+    "col": "V2",
+    "desc_col": "Biblioteca municipal/ Área m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0049",
+    "n_q": "53",
+    "desc_q": "Biblioteca municipal en el distrito",
+    "col": "V3",
+    "desc_col": "Biblioteca municipal/ Promedio mensual usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal",
+    "col": "V1",
+    "desc_col": "Numero de volúmenes por tipo colección/ Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal",
+    "col": "V2",
+    "desc_col": "Numero de volúmenes por tipo colección/ Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal",
+    "col": "V3",
+    "desc_col": "Numero de volúmenes por tipo colección/ Materiales audio visuales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal",
+    "col": "V4",
+    "desc_col": "Numero de volúmenes por tipo colección/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que el distrito cuenta con establecimiento de salud",
+    "values": "1: Si cuenta; 0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2003",
+    "col": "V2",
+    "desc_col": "Total de establecimientos de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2003",
+    "col": "V3",
+    "desc_col": "Establecimiento de Salud por entidad administradora/ Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2003",
+    "col": "V4",
+    "desc_col": "Establecimiento de Salud por entidad administradora/ Otras instituciones del estado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2003",
+    "col": "V5",
+    "desc_col": "Establecimiento de Salud por entidad administradora/ Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de establecimiento",
+    "values": "1 al 9 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que el distrito cuenta con servicios de apoyo a la salud",
+    "values": "1: Si cuenta; 0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe",
+    "col": "V2",
+    "desc_col": "Tipo de servicio/ Rayos X, Ecografía",
+    "values": "1. Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe",
+    "col": "V3",
+    "desc_col": "Tipo de servicio/ Laboratorio",
+    "values": "1. Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe",
+    "col": "V4",
+    "desc_col": "Tipo de servicio/ Servicio odontológico",
+    "values": "1. Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe",
+    "col": "V5",
+    "desc_col": "Tipo de servicio/ Otro",
+    "values": "1. Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades que realizaron asistencia alimentaria, control y prevención",
+    "values": "1: Si realizaron; 0: No realizaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V2",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Canasta alimentaria (PANFAR)",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V3",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Papilla u otro alimento a niños menores",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V4",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Alimento para enfermos y ancianos",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V5",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Control del crecimiento y desarrollo del niño",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V6",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Control de infecciones respiratorias agudas",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V7",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Control de enfermedades diarreicas agudas",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V8",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Vacunas (Inmunización)",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de salud implementados en el distrito",
+    "col": "V9",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de",
+    "values": "1: Si realizo",
+    "value_pos": 1
+  }
+]

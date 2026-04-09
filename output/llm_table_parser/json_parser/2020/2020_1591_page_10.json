@@ -1,0 +1,248 @@
+[
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_8",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Sistemas de riego?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_8_1",
+    "desc_col": "Número de proyectos / Sistemas de riego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_9",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_9_1",
+    "desc_col": "Número de proyectos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_9_O",
+    "desc_col": "La municipalidad ha recibido transferencia de proyectos de infraestructura en Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SALUD"
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "VF1_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66",
+    "desc_col": "¿La municipalidad informó que administra establecimientos de salud?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_1",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Hospital / Clínica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_1_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Hospital / Clínica / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_2",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_2_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Centro de salud / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_3",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Puesto / Posta de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_3_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Puesto / Posta de salud / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_4",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio médico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_4_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Consultorio médico / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_5",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio odontológico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_5_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Consultorio odontológico / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_6",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Casa de reposo / Asilo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_6_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Casa de reposo / Asilo / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_7",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de rehabilitación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_7_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Centro de rehabilitación / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_8",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Farmacia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_8_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Farmacia / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_9",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_9_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botica / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_10",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botiquín comunal (Local)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2020",
+    "col": "P66_10_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botiquín comunal (Local) / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  }
+]

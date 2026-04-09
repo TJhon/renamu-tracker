@@ -1,0 +1,119 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P39_9",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para peñas?",
+    "col": "P39_9",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para peñas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_9",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Peñas",
+    "col": "P39A_9",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Peñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_10",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de actividades profesionales?",
+    "col": "P39_10",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de actividades profesionales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_10",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Actividades profesionales",
+    "col": "P39A_10",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Actividades profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_11",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para empresas de transporte?",
+    "col": "P39_11",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para empresas de transporte?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_11",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Empresas de transporte",
+    "col": "P39A_11",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Empresas de transporte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_12",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para cabinas públicas de internet?",
+    "col": "P39_12",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para cabinas públicas de internet?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_12",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Cabinas públicas de internet",
+    "col": "P39A_12",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Cabinas públicas de internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_13",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de juegos de casino y máquinas tragamonedas?",
+    "col": "P39_13",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de juegos de casino y máquinas tragamonedas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_13",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Juegos de casino y máquinas tragamonedas",
+    "col": "P39A_13",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Juegos de casino y máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_14",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para gimnasios?",
+    "col": "P39_14",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para gimnasios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_14",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Gimnasios",
+    "col": "P39A_14",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Gimnasios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_15",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (1)?",
+    "col": "P39_15",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (1)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

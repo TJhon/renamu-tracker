@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales administrados por la municipalidad, según condición de tenencia, 2019",
+    "col": "VFI_P11",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales administrados por la municipalidad, según condición de tenencia, 2019",
+    "col": "P11_1",
+    "desc_col": "¿La municipalidad administra Locales propios?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales administrados por la municipalidad, según condición de tenencia, 2019",
+    "col": "P11A_1",
+    "desc_col": "Número de locales administrados / Propios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales administrados por la municipalidad, según condición de tenencia, 2019",
+    "col": "P11_2",
+    "desc_col": "¿La municipalidad administra Locales alquilados?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales administrados por la municipalidad, según condición de tenencia, 2019",
+    "col": "P11A_2",
+    "desc_col": "Número de locales administrados / Alquilados por la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales administrados por la municipalidad, según condición de tenencia, 2019",
+    "col": "P11_3",
+    "desc_col": "¿La municipalidad administra Locales que le fueron cedidos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales administrados por la municipalidad, según condición de tenencia, 2019",
+    "col": "P11A_3",
+    "desc_col": "Número de locales administrados / Cedidos a la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "VFI_P12A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_1",
+    "desc_col": "¿La municipalidad cuenta con auto y/o camioneta?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_1_1",
+    "desc_col": "Número de bienes / Auto y/o camioneta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_1_2",
+    "desc_col": "Número de bienes / Auto y/o camioneta / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_2",
+    "desc_col": "¿La municipalidad cuenta con motocicleta?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_2_1",
+    "desc_col": "Número de bienes / Motocicleta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_2_2",
+    "desc_col": "Número de bienes / Motocicleta / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_3",
+    "desc_col": "¿La municipalidad cuenta con ambulancia?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_3_1",
+    "desc_col": "Número de bienes / Ambulancia / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_3_2",
+    "desc_col": "Número de bienes / Ambulancia / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_4",
+    "desc_col": "¿La municipalidad cuenta con volquete?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_4_1",
+    "desc_col": "Número de bienes / Volquete / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_4_2",
+    "desc_col": "Número de bienes / Volquete / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_5",
+    "desc_col": "¿La municipalidad cuenta con camión recolector de basura (camión compactador y otros)?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_5_1",
+    "desc_col": "Número de bienes / Camión recolector de basura / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_5_2",
+    "desc_col": "Número de bienes / Camión recolector de basura / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_6",
+    "desc_col": "¿La municipalidad cuenta con camión cisterna?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_6_1",
+    "desc_col": "Número de bienes / Camión cisterna / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_6_2",
+    "desc_col": "Número de bienes / Camión cisterna / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_7",
+    "desc_col": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura ni camiones cisterna)?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_7_1",
+    "desc_col": "Número de bienes / Camión / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_7_2",
+    "desc_col": "Número de bienes / Camión / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_8",
+    "desc_col": "¿La municipalidad cuenta con grupo electrógeno?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_8_1",
+    "desc_col": "Número de bienes / Grupo electrógeno / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_8_2",
+    "desc_col": "Número de bienes / Grupo electrógeno / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_9",
+    "desc_col": "¿La municipalidad cuenta con panel solar?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_9_1",
+    "desc_col": "Número de bienes / Panel solar / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_9_2",
+    "desc_col": "Número de bienes / Panel solar / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_10",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo?",
+    "values": "1:Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_10_1",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_10_2",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "12A",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2019",
+    "col": "P12A_10_O",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo? / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

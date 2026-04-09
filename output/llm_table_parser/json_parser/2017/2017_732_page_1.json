@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2017",
+    "col": "VFI_P110",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110",
+    "desc_q": "¿La poblacion participa en la gestión administrativa de la municipalidad?",
+    "col": "P110",
+    "desc_col": "¿La poblacion participa en la gestión administrativa de la municipalidad?",
+    "values": "1: Participa;0: No participa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110_1",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "col": "P110_1",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110_2",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertando el presupuesto municipal",
+    "col": "P110_2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertando el presupuesto municipal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110_3",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Formulando y controlando los planes económicos locales",
+    "col": "P110_3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando y controlando los planes económicos locales",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110_4",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En el presupuesto participativo",
+    "col": "P110_4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En el presupuesto participativo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110_5",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "col": "P110_5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110_6",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En audiencias públicas para rendición de cuentas",
+    "col": "P110_6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En audiencias públicas para rendición de cuentas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "P110_7",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "col": "P110_7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

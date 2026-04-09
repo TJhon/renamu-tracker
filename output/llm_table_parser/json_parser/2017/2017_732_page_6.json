@@ -1,0 +1,56 @@
+[
+  {
+    "cuadro": "CUADRO_C114",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P117_1",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar asistencia técnica",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C114",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P117_2",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar capacitación",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C114",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P117_3",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar mantenimiento del sistema de saneamiento",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C114",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P117_4",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar la ampliación y/o rehabilitación de los sistemas de saneamiento",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C114",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P117_5",
+    "desc_col": "Actividades que realiza la municipalidad / Otra actividad",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C114",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P117_5_O",
+    "desc_col": "Actividades que realiza la municipalidad / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

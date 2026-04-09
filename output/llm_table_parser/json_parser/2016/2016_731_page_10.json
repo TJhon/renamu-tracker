@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63A_2",
+    "desc_col": "Número de equipos de oficina / Escáner",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63_3",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Impresora básica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63A_3",
+    "desc_col": "Número de equipos de oficina / Impresora básica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63_4",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Impresora multifuncional?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63A_4",
+    "desc_col": "Número de equipos de oficina / Impresora multifuncional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63_5",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Proyector multimedia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63A_5",
+    "desc_col": "Número de equipos de oficina / Proyector multimedia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63_6",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63A_6",
+    "desc_col": "Número de equipos de oficina / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "63",
+    "desc_q": "Equipos de oficina operativos que dispone la biblioteca municipal, 2016",
+    "col": "P63_6_O",
+    "desc_col": "La biblioteca municipal cuenta con equipos de oficina operativos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Infraestructura deportiva y/o recreativa"
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "VFI_P64",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64",
+    "desc_col": "¿La municipalidad administra instalaciones deportivas y/o recreativas?",
+    "values": "1: Administra; 0: No administra",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64_1",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Estadios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64A_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Estadios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64_2",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Complejos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64A_2",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Complejos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64_3",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Coliseos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64A_3",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Coliseos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64_4",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas multideportivas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64A_4",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas multideportivas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64_5",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas de fulbito?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C5",
+    "n_q": "64",
+    "desc_q": "Infraestructura deportiva y/o recreativa",
+    "col": "P64A_5",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas de fulbito",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_9_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_9_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_9_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_9_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / ¿Por qué no tiene?",
+    "values": "Falta aprobar por el Concejo Municipal, En elaboración, Falta de recursos para su elaboración, Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_9_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Reglamento de Organización y Funciones / ¿Por qué no tiene? / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_10",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_10_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_10_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_10_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_10_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / ¿Por qué no tiene?",
+    "values": "Falta aprobar por el Concejo Municipal, En elaboración, Falta de recursos para su elaboración, Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_10_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Organización y Funciones / ¿Por qué no tiene? / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_11",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_11_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_11_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_11_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / ¿Por qué no tiene?",
+    "values": "Falta aprobar por el Concejo Municipal, En elaboración, Falta de recursos para su elaboración, Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_11_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Cuadro de Asignación de Personal / ¿Por qué no tiene? / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  }
+]

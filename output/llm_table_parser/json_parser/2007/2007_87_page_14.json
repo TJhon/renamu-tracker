@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P75_06",
+    "desc_q": "Fuente contaminante / Acumulación y quema clandestina de basura y restojos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P75_07",
+    "desc_q": "Fuente contaminante / Deforestación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P75_08",
+    "desc_q": "Fuente contaminante / Crianza de animales domésticos sin control",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P75_09",
+    "desc_q": "Fuente contaminante / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P75_O",
+    "desc_q": "Fuente contaminante/ Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "76 CUADRO_C067 Instrumentos de gestión ambiental que dispone la municipalidad, 2007"
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "VFI_P76",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76",
+    "desc_q": "La municipalidad tiene instrumentos de gestión ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_01",
+    "desc_q": "Instrumentos de gestión ambiental / Diagnóstico ambiental local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_02",
+    "desc_q": "Instrumentos de gestión ambiental / Plan de acción ambiental local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_03",
+    "desc_q": "Instrumentos de gestión ambiental / Agenda ambiental local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_04",
+    "desc_q": "Instrumentos de gestión ambiental / Política ambiental local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_05",
+    "desc_q": "Instrumentos de gestión ambiental / Sistema local de gestión ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_06",
+    "desc_q": "Instrumentos de gestión ambiental / Evaluaciones ambientales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_07",
+    "desc_q": "Instrumentos de gestión ambiental / Fiscalizaciones ambientales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_08",
+    "desc_q": "Instrumentos de gestión ambiental / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P776_O",
+    "desc_q": "Instrumentos de gestión ambiental / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "77 CUADRO_C068 Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente, 2007"
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "VFI_P77",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77",
+    "desc_q": "La municipalidad realizó acciones para incentivar la conservación del medio ambiente",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_01",
+    "desc_q": "Acciones realizadas / Dispone de una oficina ó unidad ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_02",
+    "desc_q": "Acciones realizadas / Campañas de concientización ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_03",
+    "desc_q": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_04",
+    "desc_q": "Acciones realizadas / Apoyo en la formulación de proyectos sobre problemática ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_05",
+    "desc_q": "Acciones realizadas / Convenios institucionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_06",
+    "desc_q": "Acciones realizadas / Charlas educativas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_07",
+    "desc_q": "Acciones realizadas / Atención a denuncias ambientales realizadas por la población",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_08",
+    "desc_q": "Acciones realizadas / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P75_O",
+    "desc_q": "Acciones realizadas / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "78 CUADRO_C069 Participación de la población en la gestión administrativa de la municipalidad, 2007"
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "VFI_P78",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78",
+    "desc_q": "En la gestión administrativa de la municipalidad existe participación vecinal",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_01",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación de los planes de desarrollo municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_02",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación del presupuesto municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_03",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Formulación y control de planes económicos locales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_04",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_05",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_06",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_07",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_08",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P75_O",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

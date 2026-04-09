@@ -1,0 +1,158 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_10_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_10_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_10_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_10_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Costo del procedimiento (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_10_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_10_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "34"
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34",
+    "desc_col": "¿La Municipalidad tiene canales de atención al ciudadano?",
+    "values": "1: Si;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34_1",
+    "desc_col": "Canales de atención al ciudadano / Personal con dedicación exclusiva para atención al ciudadano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34_2",
+    "desc_col": "Canales de atención al ciudadano / Línea de telefonía fija o móvil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34_3",
+    "desc_col": "Canales de atención al ciudadano / Correo electrónico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34_4",
+    "desc_col": "Canales de atención al ciudadano / Buzón de Sugerencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34_5",
+    "desc_col": "Canales de atención al ciudadano / Libro de Reclamaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34_6",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P34_6_1",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "VFI_P35",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C26",
+    "n_q": "34",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2015",
+    "col": "P35",
+    "desc_col": "¿La Municipalidad cuenta con modalidades de pago para el cobro de tributos y/o servicios?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

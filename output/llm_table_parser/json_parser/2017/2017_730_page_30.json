@@ -1,0 +1,119 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_6_2",
+    "desc_col": "Realizó construcción de escalinatas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P44_7",
+    "desc_q": "¿La municipalidad realizó reparación de caminos rurales afirmados?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó reparación de caminos rurales afirmados / Kilómetros (km)",
+    "col": "P44A_7_1",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó reparación de caminos rurales afirmados / Gasto anual en Soles (No incluya decimales)",
+    "col": "P44A_7_2",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P44_8",
+    "desc_q": "¿La municipalidad realizó construcción de caminos rurales afirmados?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó construcción de caminos rurales afirmados / Kilómetros (km)",
+    "col": "P44A_8_1",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó construcción de caminos rurales afirmados / Gasto anual en Soles (No incluya decimales)",
+    "col": "P44A_8_2",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P44_9",
+    "desc_q": "¿La municipalidad realizó reparación de caminos rurales sin afirmar?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó reparación de caminos rurales sin afirmar / Kilómetros (km)",
+    "col": "P44A_9_1",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó reparación de caminos rurales sin afirmar / Gasto anual en Soles (No incluya decimales)",
+    "col": "P44A_9_2",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P44_10",
+    "desc_q": "¿La municipalidad realizó construcción de caminos rurales sin afirmar?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó construcción de caminos rurales sin afirmar / Kilómetros (km)",
+    "col": "P44A_10_1",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Realizó construcción de caminos rurales sin afirmar / Gasto anual en Soles (No incluya decimales)",
+    "col": "P44A_10_2",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  }
+]

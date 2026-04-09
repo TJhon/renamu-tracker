@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_8",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Actividades profesionales, científicas y técnicas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_9",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Actividades de servicios administrativos y de apoyo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_9",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Actividades de servicios administrativos y de apoyo / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_10",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Empresas de transporte (urbano, turístico, interprovincial, aéreo y acuático)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_10",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Empresas de transporte (urbano, turístico, interprovincial, aéreo y acuático) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_11",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Cabinas públicas de internet?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_11",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Cabinas públicas de internet / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_12",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Juegos de azar (casinos, máquinas tragamonedas, otros) y apuestas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_12",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Juegos de azar (casinos, máquinas tragamonedas, otros) y apuestas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_13",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_13",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_13_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro / Especifique la de mayor frecuencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_14",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos AGROPECUARIO: Granjas avícolas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_14",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO: Granjas avícolas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_15",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos AGROPECUARIO: Establos lecheros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_15",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO / Establos lecheros / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_16",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos AGROPECUARIO: Otro ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_16",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_16_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos AGROPECUARIO / Otro / Especifique la de la mayor frecuencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_17",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA : Artesanías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_17",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Artesanías / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_18",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA : Fábricas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_18",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Fábricas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_19",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Plantas agroindustriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

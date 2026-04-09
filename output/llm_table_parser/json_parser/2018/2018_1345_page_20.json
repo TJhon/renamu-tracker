@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "78",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2017",
+    "col": "P78A_6",
+    "desc_col": "Espacios de seguridad ciudadana en la página web y/o redes sociales de la municipalidad / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "78",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2017",
+    "col": "P78_7",
+    "desc_col": "¿El Comité Distrital de seguridad ciudadana realizó Recuperación de espacios públicos?",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2018",
+    "col": "VFL_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2018",
+    "col": "P79_1",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana ha sido Ratificado mediante Ordenanza Municipal",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2018",
+    "col": "P79_2",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana ha sido Articulado al Plan Operativo Institucional",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2018",
+    "col": "P79_3",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana ha sido Derivado al Comité Regional/Provincial para su evaluación",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "79",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2018",
+    "col": "P79_4",
+    "desc_col": "No tiene Plan de Seguridad Ciudadana",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2018",
+    "col": "VFL_P80",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2018",
+    "col": "P80_1",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa del Delito",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2018",
+    "col": "P80_2",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa de Riesgo",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2018",
+    "col": "P80_3",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Plan de Patrullaje Integrado del Serenazgo con la Policía Nacional del Perú",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2018",
+    "col": "P80_4",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2018",
+    "col": "P80_4_O",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "80",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2018",
+    "col": "P80_5",
+    "desc_col": "El Plan de Seguridad Ciudadana no tiene instrumentos técnicos",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "VFL_P81",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81_1",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Ronda Urbana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_1_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana / Registradas a la fecha en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_1_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana / No registradas en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81_2",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Ronda Campesina?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_2_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina / Registradas a la fecha en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_2_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81_3",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Junta Vecinal o Comité Vecinal?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_3_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Registradas a la fecha en la municipalidad / Junta Vecinal o Comité Vecinal / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_3_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Junta Vecinal o Comité Vecinal / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

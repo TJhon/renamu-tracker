@@ -1,0 +1,92 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25",
+    "desc_q": "¿La municipalidad tiene instrumentos de gestión desarrollo urbano y/o rural?",
+    "col": "P25",
+    "desc_col": "¿La municipalidad tiene instrumentos de gestión desarrollo urbano y/o rural?",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_1",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado",
+    "col": "P25_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_1_1",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado/ Año de publicación",
+    "col": "P25_1_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_1_2",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado / Motivo por el que no tiene",
+    "col": "P25_1_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado / Motivo por el que no tiene",
+    "values": "1. Falta de aprobación por el Concejo;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_2",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional",
+    "col": "P25_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_2_1",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional / Año de publicación",
+    "col": "P25_2_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_2_2",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional / Motivo por el que no tiene",
+    "col": "P25_2_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional / Motivo por el que no tiene",
+    "values": "1. Falta de aprobación por el Concejo Municipal;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_3",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local",
+    "col": "P25_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_3_1",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local / Año de publicación",
+    "col": "P25_3_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local / Año de publicación",
+    "values": "1. Falta de aprobación por el Concejo Municipal",
+    "value_pos": null
+  }
+]

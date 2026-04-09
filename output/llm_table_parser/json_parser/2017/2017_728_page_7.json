@@ -1,0 +1,167 @@
+[
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistema informático implementado por el Estado que utiliza la municipalidad, 2017",
+    "col": "P18_5",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Sistema Integrado de Administración Financiera (SIAF)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistema informático implementado por el Estado que utiliza la municipalidad, 2017",
+    "col": "P18_6",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Sistema de Recaudación Tributaria Municipal (SRTM)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistema informático implementado por el Estado que utiliza la municipalidad, 2017",
+    "col": "P18_7",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Saldos de Fondos Públicos (SAFOP)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistema informático implementado por el Estado que utiliza la municipalidad, 2017",
+    "col": "P18_8",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Sistema de Saneamiento Contable (SISCO)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistema informático implementado por el Estado que utiliza la municipalidad, 2017",
+    "col": "P18_9",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Aplicativo informático para el Registro Centralizado de Planillas y de Datos de los Recursos Humanos del Sector Público (AIRHSP)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistema informático implementado por el Estado que utiliza la municipalidad, 2017",
+    "col": "P18_10",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Otro aplicativo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "18",
+    "desc_q": "Sistema informático implementado por el Estado que utiliza la municipalidad, 2017",
+    "col": "P18_10_O",
+    "desc_col": "Sistema informático que utiliza la municipalidad / Otro aplicativo / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P19"
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "VFI_P19",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19",
+    "desc_col": "¿La municipalidad tiene sistemas informáticos?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_1",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Trámite Documentario",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_2",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Presupuesto",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_3",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Abastecimiento",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_4",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Contabilidad",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_5",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Tesorería",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_6",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Personal",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_7",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Renta y Administración tributaria",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_8",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Catastro",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2017",
+    "col": "P19_9",
+    "desc_col": "Sistemas informáticos que tiene la municipalidad / Licencia de Funcionamiento",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P78_P_03",
+    "desc_q": "Número de Pequeñas empresas / Producen / Artesanía",
+    "col": "P78_P_03",
+    "desc_col": "Número de Pequeñas empresas / Producen / Artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_04",
+    "desc_q": "Número de Pequeñas empresas / Producen / Textiles",
+    "col": "P78_P_04",
+    "desc_col": "Número de Pequeñas empresas / Producen / Textiles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_05",
+    "desc_q": "Número de Pequeñas empresas / Producen / Muebles y accesorios",
+    "col": "P78_P_05",
+    "desc_col": "Número de Pequeñas empresas / Producen / Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_06",
+    "desc_q": "Número de Pequeñas empresas / Producen / Metalurgia",
+    "col": "P78_P_06",
+    "desc_col": "Número de Pequeñas empresas / Producen / Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_07",
+    "desc_q": "Número de Pequeñas empresas / Producen / Maquinaria y equipo",
+    "col": "P78_P_07",
+    "desc_col": "Número de Pequeñas empresas / Producen / Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_08",
+    "desc_q": "Número de Pequeñas empresas / Producen / Agropecuario",
+    "col": "P78_P_08",
+    "desc_col": "Número de Pequeñas empresas / Producen / Agropecuario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_09",
+    "desc_q": "Número de Pequeñas empresas / Producen / Industria",
+    "col": "P78_P_09",
+    "desc_col": "Número de Pequeñas empresas / Producen / Industria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_10",
+    "desc_q": "Número de Pequeñas empresas / Producen / Servicios",
+    "col": "P78_P_10",
+    "desc_col": "Número de Pequeñas empresas / Producen / Servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_P_11",
+    "desc_q": "Número de Pequeñas empresas / Producen / Otros",
+    "col": "P78_P_11",
+    "desc_col": "Número de Pequeñas empresas / Producen / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "79"
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "VFI_P79",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79",
+    "desc_col": "La municipalidad realizó acciones para incentivar a las MYPES",
+    "values": "1:Realizó;0:No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79_01",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79_01",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79_02",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79_02",
+    "desc_col": "Acciones realizadas / Realización de ferias y concursos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79_03",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79_03",
+    "desc_col": "Acciones realizadas / Convenios con ONG, empresas privadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79_04",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79_04",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79_05",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79_05",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79_06",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79_06",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C_070",
+    "n_q": "P79_O",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2012",
+    "col": "P79_O",
+    "desc_col": "Acciones realizadas / Otra acción / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "80"
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "VFI_P80",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2012",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "P80",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2012",
+    "col": "P80",
+    "desc_col": "La municipalidad otorgó concesiones y autorizaciones para el servicio de transporte público urbano",
+    "values": "1:Otorgó;0:No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "P80_N_01",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2012",
+    "col": "P80_N_01",
+    "desc_col": "Número de concesiones / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "P80_N_02",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2012",
+    "col": "P80_N_02",
+    "desc_col": "Número de concesiones / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "P80_E_01",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2012",
+    "col": "P80_E_01",
+    "desc_col": "Número de empresas registradas / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  }
+]

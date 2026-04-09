@@ -1,0 +1,137 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "P39A_28",
+    "desc_q": "",
+    "col": "P39A_28",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Campos feriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_29",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (4)?",
+    "col": "P39_29",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_29",
+    "desc_q": "",
+    "col": "P39A_29",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Otro (4)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_29_O",
+    "desc_q": "",
+    "col": "P39A_29_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Otro / Especifique 4",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_30",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (5)?",
+    "col": "P39_30",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_30",
+    "desc_q": "",
+    "col": "P39A_30",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Otro (5)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_30_O",
+    "desc_q": "",
+    "col": "P39A_30_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Otro / Especifique 5",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_31",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para empresas proveedoras de insumos?",
+    "col": "P39_31",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_31",
+    "desc_q": "",
+    "col": "P39A_31",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Empresas proveedoras de insumos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_32",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para plantas agroindustriales?",
+    "col": "P39_32",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_32",
+    "desc_q": "",
+    "col": "P39A_32",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Plantas agroindustriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_33",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de cueros y pieles?",
+    "col": "P39_33",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_33",
+    "desc_q": "",
+    "col": "P39A_33",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Cueros y pieles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_34",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para granjas avícolas?",
+    "col": "P39_34",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39A_34",
+    "desc_q": "",
+    "col": "P39A_34",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Granjas avícolas",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_19",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo (1)?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_19_1",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo (1) / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_19_2",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo (1) / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_19_O",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo? / Especifique 1",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_20",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo (2)?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_20_1",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo (2) / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_20_2",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo (2) / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_20_O",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo? / Especifique 2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P12"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P12",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_B",
+    "desc_col": "¿La municipalidad cuenta con bienes muebles propios, como maquinaria pesada?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_11",
+    "desc_col": "¿La municipalidad cuenta con excavadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12B_11_1",
+    "desc_col": "Número de bienes / Excavadoras / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12B_11_2",
+    "desc_col": "Número de bienes / Excavadoras / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_12",
+    "desc_col": "¿La municipalidad cuenta con Retroexcavadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12B_12_1",
+    "desc_col": "Número de bienes / Retroexcavadora / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12B_12_2",
+    "desc_col": "Número de bienes / Retroexcavadora / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_13",
+    "desc_col": "¿La municipalidad cuenta con motoniveladora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12B_13_1",
+    "desc_col": "Número de bienes / Motoniveladora / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12B_13_2",
+    "desc_col": "Número de bienes / Motoniveladora / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_14",
+    "desc_col": "¿La municipalidad cuenta con cargador frontal?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12B_14_1",
+    "desc_col": "Número de bienes / Cargador frontal / Operativos",
+    "values": "",
+    "value_pos": null
+  }
+]

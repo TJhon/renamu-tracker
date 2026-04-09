@@ -1,0 +1,200 @@
+[
+  {
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2023",
+    "col": "P30_8",
+    "desc_col": "Canales de atención al ciudadano / Redes Sociales",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2023",
+    "col": "P30_6",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2023",
+    "col": "P30_6_O",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2023",
+    "col": "VFI_P31",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2023",
+    "col": "P31_1",
+    "desc_col": "Modalidades de pago / En ventanilla de la municipalidad con efectivo",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2023",
+    "col": "P31_2",
+    "desc_col": "Modalidades de pago / En ventanilla de la municipalidad con tarjeta de crédito o débito",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2023",
+    "col": "P31_3",
+    "desc_col": "Modalidades de pago / Página Web de la municipalidad (Pago en línea)",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2023",
+    "col": "P31_4",
+    "desc_col": "Modalidades de pago / Instituciones financieras (Bancos y agentes, cajas municipales, entre otros)",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2023",
+    "col": "P31_5",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2023",
+    "col": "P31_5_O",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DE ADMINISTRACIÓN TRIBUTARIA"
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "VFI_P32",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "P32",
+    "desc_col": "¿La Municipalidad tiene personal exclusivo del área de administracion tributaria?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "P32_1_T",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre de 2022 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "P32_1_M",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre de 2022 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "P32_1_H",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre de 2022 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "P32_2_T",
+    "desc_col": "Personal exclusivo del área al 31 de marzo de 2023 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "P32_2_M",
+    "desc_col": "Personal exclusivo del área al 31 de marzo de 2023 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del Área de Administracion Tributaria al 31 de diciembre 2022 y 31 de marzo 2023",
+    "col": "P32_2_H",
+    "desc_col": "Personal exclusivo del área al 31 de marzo de 2023 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2023",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2023",
+    "col": "P33A",
+    "desc_col": "¿La municipalidad tiene un área de ejecución coactiva?",
+    "values": "1: Sí y depende del Área de Administración Tributaria; 2: Sí y no depende del Área de Administración Tributaria; 3: No tiene área de ejecución coactiva",
+    "value_pos": null
+  },
+  {
+    "h2": "LICENCIAS OTORGADAS POR LA MUNICIPALIDAD"
+  },
+  {
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_1",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34A_1",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Hoteles, hostales y otros establecimientos de hospedaje / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2022",
+    "col": "P34_2",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Restaurantes y otros establecimientos de comidas y bebidas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

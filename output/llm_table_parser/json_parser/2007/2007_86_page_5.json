@@ -1,0 +1,329 @@
+[
+  {
+    "cuadro": "17",
+    "n_q": "VFI_P17",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": "VFI_P17",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17",
+    "desc_q": "La municipalidad requiere asistencia técnica",
+    "col": "P17",
+    "desc_col": "La municipalidad requiere asistencia técnica",
+    "values": "1: Si requiere;0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_01",
+    "desc_q": "Asistencia técnica que requiere/ Gestión municipal",
+    "col": "P17_01",
+    "desc_col": "Asistencia técnica que requiere/ Gestión municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_02",
+    "desc_q": "Asistencia técnica que requiere/ Catastro urbano y rural",
+    "col": "P17_02",
+    "desc_col": "Asistencia técnica que requiere/ Catastro urbano y rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_03",
+    "desc_q": "Asistencia técnica que requiere/ Planificación del desarrollo local",
+    "col": "P17_03",
+    "desc_col": "Asistencia técnica que requiere/ Planificación del desarrollo local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_04",
+    "desc_q": "Asistencia técnica que requiere/ Contabilidad financiera",
+    "col": "P17_04",
+    "desc_col": "Asistencia técnica que requiere/ Contabilidad financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_05",
+    "desc_q": "Asistencia técnica que requiere/ Formulación y ejecución de proyectos",
+    "col": "P17_05",
+    "desc_col": "Asistencia técnica que requiere/ Formulación y ejecución de proyectos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_06",
+    "desc_q": "Asistencia técnica que requiere/ Desarrollo local y descentralización",
+    "col": "P17_06",
+    "desc_col": "Asistencia técnica que requiere/ Desarrollo local y descentralización",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_07",
+    "desc_q": "Asistencia técnica que requiere/ Defensa civil",
+    "col": "P17_07",
+    "desc_col": "Asistencia técnica que requiere/ Defensa civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_08",
+    "desc_q": "Asistencia técnica que requiere/ Seguridad ciudadana",
+    "col": "P17_08",
+    "desc_col": "Asistencia técnica que requiere/ Seguridad ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_09",
+    "desc_q": "Asistencia técnica que requiere/ Estadística",
+    "col": "P17_09",
+    "desc_col": "Asistencia técnica que requiere/ Estadística",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_10",
+    "desc_q": "Asistencia técnica que requiere/ Informática",
+    "col": "P17_10",
+    "desc_col": "Asistencia técnica que requiere/ Informática",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_11",
+    "desc_q": "Asistencia técnica que requiere/ Turismo",
+    "col": "P17_11",
+    "desc_col": "Asistencia técnica que requiere/ Turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_12",
+    "desc_q": "Asistencia técnica que requiere/ Gestión externa del estado",
+    "col": "P17_12",
+    "desc_col": "Asistencia técnica que requiere/ Gestión externa del estado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_13",
+    "desc_q": "Asistencia técnica que requiere/ Biblioteca",
+    "col": "P17_13",
+    "desc_col": "Asistencia técnica que requiere/ Biblioteca",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_14",
+    "desc_q": "Asistencia técnica que requiere/ Otro",
+    "col": "P17_14",
+    "desc_col": "Asistencia técnica que requiere/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P17_O",
+    "desc_q": "Asistencia técnica que requiere/ Otro/ Descripción",
+    "col": "P17_O",
+    "desc_col": "Asistencia técnica que requiere/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "CUADRO_C008"
+  },
+  {
+    "cuadro": "17",
+    "n_q": "VFI_P18",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": "VFI_P18",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18",
+    "desc_q": "La municipalidad requiere capacitación",
+    "col": "P18",
+    "desc_col": "La municipalidad requiere capacitación",
+    "values": "1: Si requiere;0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_01",
+    "desc_q": "Capacitación que requiere/ Administración, contabilidad y finanzas",
+    "col": "P18_01",
+    "desc_col": "Capacitación que requiere/ Administración, contabilidad y finanzas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_02",
+    "desc_q": "Capacitación que requiere/ Política y gestión municipal",
+    "col": "P18_02",
+    "desc_col": "Capacitación que requiere/ Política y gestión municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_03",
+    "desc_q": "Capacitación que requiere/ Legislación municipal",
+    "col": "P18_03",
+    "desc_col": "Capacitación que requiere/ Legislación municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_04",
+    "desc_q": "Capacitación que requiere/ Registro civil",
+    "col": "P18_04",
+    "desc_col": "Capacitación que requiere/ Registro civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_05",
+    "desc_q": "Capacitación que requiere/ Plan estratégico y planificación operativa",
+    "col": "P18_05",
+    "desc_col": "Capacitación que requiere/ Plan estratégico y planificación operativa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_06",
+    "desc_q": "Capacitación que requiere/ Gestión ambiental",
+    "col": "P18_06",
+    "desc_col": "Capacitación que requiere/ Gestión ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_07",
+    "desc_q": "Capacitación que requiere/ Defensa civil",
+    "col": "P18_07",
+    "desc_col": "Capacitación que requiere/ Defensa civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_08",
+    "desc_q": "Capacitación que requiere/ Seguridad ciudadana",
+    "col": "P18_08",
+    "desc_col": "Capacitación que requiere/ Seguridad ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_09",
+    "desc_q": "Capacitación que requiere/ Estadística e indicadores municipales",
+    "col": "P18_09",
+    "desc_col": "Capacitación que requiere/ Estadística e indicadores municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_10",
+    "desc_q": "Capacitación que requiere/ Gestión externa del estado",
+    "col": "P18_10",
+    "desc_col": "Capacitación que requiere/ Gestión externa del estado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_11",
+    "desc_q": "Capacitación que requiere/ Informática",
+    "col": "P18_11",
+    "desc_col": "Capacitación que requiere/ Informática",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_12",
+    "desc_q": "Capacitación que requiere/ Organización y gestión de bibliotecas",
+    "col": "P18_12",
+    "desc_col": "Capacitación que requiere/ Organización y gestión de bibliotecas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_13",
+    "desc_q": "Capacitación que requiere/ Turismo",
+    "col": "P18_13",
+    "desc_col": "Capacitación que requiere/ Turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_14",
+    "desc_q": "Capacitación que requiere/ Derechos y desarrollo humano",
+    "col": "P18_14",
+    "desc_col": "Capacitación que requiere/ Derechos y desarrollo humano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_15",
+    "desc_q": "Capacitación que requiere/ Formulación y ejecución de proyectos",
+    "col": "P18_15",
+    "desc_col": "Capacitación que requiere/ Formulación y ejecución de proyectos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_16",
+    "desc_q": "Capacitación que requiere/ Otro",
+    "col": "P18_16",
+    "desc_col": "Capacitación que requiere/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "17",
+    "n_q": "P18_O",
+    "desc_q": "Capacitación que requiere/ Otro/ Descripción",
+    "col": "P18_O",
+    "desc_col": "Capacitación que requiere/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

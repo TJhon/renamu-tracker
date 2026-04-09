@@ -1,0 +1,210 @@
+[
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_4",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de primeros auxilios",
+    "values": "0: No, 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_5",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de control de epidemias",
+    "values": "0: No, 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_6",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de profilaxis local",
+    "values": "0: No, 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_7",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de fumigación",
+    "values": "0: No, 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_8",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud mental",
+    "values": "0: No, 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_9",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de registro y certificación de canes",
+    "values": "0: No, 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_10",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de esterilización de perros y gatos",
+    "values": "0: No, 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_13",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de prevención contra el COVID-19",
+    "values": "0: No, 13: Sí",
+    "value_pos": 13
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_14",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de prevención y control del DENGUE",
+    "values": "0: No, 14: Sí",
+    "value_pos": 14
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_11",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otro",
+    "values": "0: No, 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_11_O",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P67_12",
+    "desc_col": "La municipalidad no realizó campañas en coordinación con el MINSA",
+    "values": "0: No, 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "VFL_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_1",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Vacunación",
+    "values": "0: No, 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_2",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control del crecimiento y desarrollo del niño",
+    "values": "0: No, 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_3",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de infecciones respiratorias agudas",
+    "values": "0: No, 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_4",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de enfermedades diarreicas agudas",
+    "values": "0: No, 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_5",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de tuberculosis",
+    "values": "0: No, 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_6",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Planificación familiar",
+    "values": "0: No, 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_7",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de infecciones de transmisión sexual y VIH/SIDA",
+    "values": "0: No, 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_10",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Prevención y reducción de la anemia",
+    "values": "0: No, 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_13",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Prevención y seguimiento contra el COVID-19",
+    "values": "0: No, 13: Sí",
+    "value_pos": 13
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_12",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Detección y seguimiento oportuno contra el Dengue",
+    "values": "0: No, 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_8",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Otro",
+    "values": "0: No, 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_8_O",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2024",
+    "col": "P68_9",
+    "desc_col": "La municipalidad no implementó programas de control y prevención de la salud en coordinación con el MINSA",
+    "values": "0: No, 9: Sí",
+    "value_pos": 9
+  }
+]

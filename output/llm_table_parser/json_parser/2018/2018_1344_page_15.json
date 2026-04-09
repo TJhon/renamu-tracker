@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_5",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Peluquerías y salones spa / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Entidades financieras y de seguros?",
+    "col": "P36_6",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_6",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Entidades financieras y de seguros / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Artes, entretenimiento y recreación?",
+    "col": "P36_7",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_7",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Artes, entretenimiento y recreación / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Discotecas?",
+    "col": "P36_8",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_8",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Discotecas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Peñas?",
+    "col": "P36_9",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_9",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Peñas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Actividades profesionales?",
+    "col": "P36_10",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_10",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Actividades profesionales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Empresas de transporte?",
+    "col": "P36_11",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_11",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Empresas de transporte / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Cabinas públicas de internet?",
+    "col": "P36_12",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_12",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Cabinas públicas de internet / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Juegos de casino y máquinas tragamonedas?",
+    "col": "P36_13",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_13",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Juegos de casino y máquinas tragamonedas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Gimnasios?",
+    "col": "P36_14",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_14",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Gimnasios / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Otro (1)?",
+    "col": "P36_15",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_15",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro (1) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_15_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro (1) / Especifique (1)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Otro (2)?",
+    "col": "P36_16",
+    "desc_col": "",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_16",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro (2) / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

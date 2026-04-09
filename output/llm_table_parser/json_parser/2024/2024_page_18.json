@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2024",
+    "col": "VFI_P26",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2024",
+    "col": "P26",
+    "desc_col": "El actual Texto Único de Procedimientos Administrativos (TUPA) según Metodología de Determinación de Costos, ¿Ha sido elaborado según metodología de determinación de costos?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2024",
+    "col": "P26A_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos Administrativos que contiene el TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "27",
+    "desc_q": "Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos que ha sido ratificado por la municipalidad provincial, 2024",
+    "col": "VFI_P27",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "27",
+    "desc_q": "Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos que ha sido ratificado por la municipalidad provincial, 2024",
+    "col": "P27",
+    "desc_col": "El actual Texto Único de Procedimientos Administrativos (TUPA) según Metodología de Determinación de Costos, ¿Ha sido ratificado por la municipalidad provincial?",
+    "values": "1: Sí; 2: No ha sido ratificado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "28",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2024",
+    "col": "VFI_P28",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "28",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2024",
+    "col": "P28_1",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Diario Oficial \"El Peruano\"",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "28",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2024",
+    "col": "P28_2",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Diario Local",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "28",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2024",
+    "col": "P28_3",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Pizarra y/o vitrina de la municipalidad (Incluir periódico mural)",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "28",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2024",
+    "col": "P28_4",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Página Web de la municipalidad",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "28",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2024",
+    "col": "P28_5",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Otro",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": null,
+    "n_q": "28",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2024",
+    "col": "P28_5_O",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "VFI_P29",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_1",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo bajo (Con ITSE posterior)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_1_1",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo bajo (Con ITSE posterior) / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_1_2",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo bajo (Con ITSE posterior) / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_1_3",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo bajo (Con ITSE posterior) / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_1_4",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo bajo (Con ITSE posterior) / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_1_5",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo bajo (Con ITSE posterior) / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_1_6",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo bajo (Con ITSE posterior) / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_2",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo medio (Con ITSE posterior)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_2_1",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo medio (Con ITSE posterior) / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_2_2",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo medio (Con ITSE posterior) / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_2_3",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo medio (Con ITSE posterior) / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  }
+]

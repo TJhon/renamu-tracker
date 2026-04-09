@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P72_6",
+    "desc_col": "La municipalidad realizó / Campañas de profilaxis local",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P72_7",
+    "desc_col": "La municipalidad realizó / Campañas de fumigación",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P72_8",
+    "desc_col": "La municipalidad realizó / Campañas de salud mental",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P72_9",
+    "desc_col": "La municipalidad realizó / Campañas de registro y certificación de canes",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P72_10",
+    "desc_col": "La municipalidad realizó / Campañas de esterilización de perros y gatos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P72_11",
+    "desc_col": "La municipalidad realizó / Otra campaña",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P72_11_O",
+    "desc_col": "La municipalidad realizó / Otra campaña / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "VFI_P73",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73",
+    "desc_col": "¿La Municipalidad implementó programas de Control y Prevención de la Salud?",
+    "values": "1: Implementó; 0: No implementó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_1",
+    "desc_col": "Programa de Control y Prevención de la Salud / Vacunación",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_2",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control del crecimiento y desarrollo del niño",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_3",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de infecciones respiratorias agudas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_4",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de enfermedades diarreicas agudas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_5",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de tuberculosis",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_6",
+    "desc_col": "Programa de Control y Prevención de la Salud / Planificación familiar",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_7",
+    "desc_col": "Programa de Control y Prevención de la Salud / Control de infecciones de transmisión sexual y VIH/SIDA",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_8",
+    "desc_col": "Programa de Control y Prevención de la Salud / Otro",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "73",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2016",
+    "col": "P73_8_O",
+    "desc_col": "Programa de Control y Prevención de la Salud / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SEGURIDAD CIUDADANA"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P74",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  }
+]

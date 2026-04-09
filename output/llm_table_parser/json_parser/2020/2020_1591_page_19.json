@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "81",
+    "desc_q": "Constitución del Grupo de Trabajo de la Gestión del Riesgo de Desastres, 2020",
+    "col": "P81_2",
+    "desc_col": "El Grupo de Trabajo de la Gestión del Riesgo de Desastres / Ha designado al Secretario Técnico del Grupo de Trabajo",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "81",
+    "desc_q": "Constitución del Grupo de Trabajo de la Gestión del Riesgo de Desastres, 2020",
+    "col": "P81_3",
+    "desc_col": "El Grupo de Trabajo de la Gestión del Riesgo de Desastres / Tiene Plan de Trabajo Anual para el año 2020",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "81",
+    "desc_q": "Constitución del Grupo de Trabajo de la Gestión del Riesgo de Desastres, 2020",
+    "col": "P81_4",
+    "desc_col": "El Grupo de Trabajo de la Gestión del Riesgo de Desastres / Tiene Reglamento Interno en Funcionamiento",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "VFI_P82",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_1",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Prevención y Reducción del Riesgo de Desastres",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_2",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Preparación",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_3",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Operaciones de Emergencia",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_4",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Educación Comunitaria",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_5",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Rehabilitación",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_6",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Contingencia",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_7",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Sistema de Alerta Temprana Comunitario",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_8",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Mapa Comunitario de Riesgos",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_9",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Zonificación Ecológica y Económica (ZEE)",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_10",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Otro",
+    "values": "11: Sí; 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_10_O",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "82",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2020",
+    "col": "P82_11",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / No tiene instrumentos de Gestión del Riesgo de Desastres",
+    "values": "12: Sí; 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2020",
+    "col": "VFI_P83",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2020",
+    "col": "P83",
+    "desc_col": "¿Se ha constituido la Plataforma de Defensa Civil en el municipio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2020",
+    "col": "P83A",
+    "desc_col": "Número de Resolución de Alcaldía u otra norma",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2020",
+    "col": "P83_1",
+    "desc_col": "La municipalidad tiene constituido la Plataforma de Defensa Civil / ¿Tiene Reglamento Interno de Funcionamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "83",
+    "desc_q": "Constitución de la Plataforma de Defensa Civil en el municipio, 2020",
+    "col": "P83_2",
+    "desc_col": "La municipalidad tiene constituido la Plataforma de Defensa Civil / ¿Tiene Plan de Trabajo Anual para el año 2020?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2020",
+    "col": "VFI_P84",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2020",
+    "col": "P84",
+    "desc_col": "¿ La municipalidad tiene Brigadas de Defensa Civil constituidas por el Voluntariado en Emergencias y Rehabilitación?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2020",
+    "col": "P84A_1",
+    "desc_col": "Número de Resolución de Alcaldía u otra norma",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2020",
+    "col": "P84A_2",
+    "desc_col": "Número de Brigadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "84",
+    "desc_q": "Municipalidades que tienen Brigadas de Defensa Civil Constituidas por el Voluntariado en Emergencias y Rehabilitación, 2020",
+    "col": "P84A_3",
+    "desc_col": "Número de Voluntarios que conforman el Total de Brigadas",
+    "values": "",
+    "value_pos": null
+  }
+]

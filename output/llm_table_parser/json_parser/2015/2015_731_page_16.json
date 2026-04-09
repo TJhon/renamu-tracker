@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P68_10",
+    "desc_q": "¿La municipalidad atendió casos de matrícula escolar?",
+    "col": "P68_10",
+    "desc_col": "¿La municipalidad atendió casos de matrícula escolar?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_10",
+    "desc_q": "Número de casos atendidos / Matrícula escolar",
+    "col": "P68A_10",
+    "desc_col": "Número de casos atendidos / Matrícula escolar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68_11",
+    "desc_q": "¿La municipalidad atendió casos de atentados contra la libertad sexual?",
+    "col": "P68_11",
+    "desc_col": "¿La municipalidad atendió casos de atentados contra la libertad sexual?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_11",
+    "desc_q": "Número de casos atendidos / Atentados contra la libertad sexual",
+    "col": "P68A_11",
+    "desc_col": "Número de casos atendidos / Atentados contra la libertad sexual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68_12",
+    "desc_q": "¿La municipalidad atendió casos sociales?",
+    "col": "P68_12",
+    "desc_col": "¿La municipalidad atendió casos sociales?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_12",
+    "desc_q": "Número de casos atendidos / Casos sociales",
+    "col": "P68A_12",
+    "desc_col": "Número de casos atendidos / Casos sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68_13",
+    "desc_q": "¿La municipalidad atendió casos de trabajo infantil?",
+    "col": "P68_13",
+    "desc_col": "¿La municipalidad atendió casos de trabajo infantil?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_13",
+    "desc_q": "Número de casos atendidos / Trabajo infantil",
+    "col": "P68A_13",
+    "desc_col": "Número de casos atendidos / Trabajo infantil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68_14",
+    "desc_q": "¿La municipalidad atendió casos de presunto estado de abandono?",
+    "col": "P68_14",
+    "desc_col": "¿La municipalidad atendió casos de presunto estado de abandono?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_14",
+    "desc_q": "Número de casos atendidos / Presunto estado de abandono",
+    "col": "P68A_14",
+    "desc_col": "Número de casos atendidos / Presunto estado de abandono",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68_15",
+    "desc_q": "¿La municipalidad atendió otros casos 1?",
+    "col": "P68_15",
+    "desc_col": "¿La municipalidad atendió otros casos 1?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_15",
+    "desc_q": "Número de casos atendidos / Otro",
+    "col": "P68A_15",
+    "desc_col": "Número de casos atendidos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_15_O",
+    "desc_q": "Número de casos atendidos / Otro / Especifique",
+    "col": "P68A_15_O",
+    "desc_col": "Número de casos atendidos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68_16",
+    "desc_q": "¿La municipalidad atendió otros casos 2?",
+    "col": "P68_16",
+    "desc_col": "¿La municipalidad atendió otros casos 2?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_16",
+    "desc_q": "Número de casos atendidos / Otro",
+    "col": "P68A_16",
+    "desc_col": "Número de casos atendidos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P68A_16_O",
+    "desc_q": "Número de casos atendidos / Otro / Especifique",
+    "col": "P68A_16_O",
+    "desc_col": "Número de casos atendidos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P69"
+  },
+  {
+    "cuadro": null,
+    "n_q": "VFI_P69",
+    "desc_q": "Municipalidad",
+    "col": "VFI_P69",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;2: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P69_1_1",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Fondo de Cooperación para el Desarrollo Social",
+    "col": "P69_1_1",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Fondo de Cooperación para el Desarrollo Social",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P69_2_1",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "col": "P69_2_1",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P69_3_1",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "col": "P69_3_1",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P69_4_1",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de vivienda, construcción y saneamiento (Programa Nacional de Saneamiento Urbano)",
+    "col": "P69_4_1",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de vivienda, construcción y saneamiento (Programa Nacional de Saneamiento Urbano)",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  }
+]

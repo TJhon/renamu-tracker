@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P18_CM_2",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Empleados / Profesionales / Mujer",
+    "col": "P18_CM_2",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Profesionales / Mujer",
+    "values": "1;Presencia de personal contratado en el nivel profesional (mujer);0;Ausencia de personal contratado en el nivel profesional (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CM_3",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Empleados / Técnicos / Mujer",
+    "col": "P18_CM_3",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Técnicos / Mujer",
+    "values": "1;Presencia de personal contratado en el nivel técnico (mujer);0;Ausencia de personal contratado en el nivel técnico (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CM_4",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Empleados / Auxiliares / Mujer",
+    "col": "P18_CM_4",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Auxiliares / Mujer",
+    "values": "1;Presencia de personal contratado en el nivel auxiliar (mujer);0;Ausencia de personal contratado en el nivel auxiliar (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CM_5",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Obreros / De limpieza / Mujer",
+    "col": "P18_CM_5",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Obreros / De limpieza / Mujer",
+    "values": "1;Presencia de personal obrero de limpieza (mujer);0;Ausencia de personal obrero de limpieza (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CM_6",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Personal de Vigilancia /",
+    "col": "P18_CM_6",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Personal de Vigilancia /",
+    "values": "1;Presencia de personal de vigilancia;0;Ausencia de personal de vigilancia",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CM_7",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Obreros / Otros / Mujer",
+    "col": "P18_CM_7",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Obreros / Otros / Mujer",
+    "values": "1;Presencia de otros obreros contratados (mujer);0;Ausencia de otros obreros contratados (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LH_1",
+    "desc_q": "Decreto Legislativo N° 728 / Funcionarios y/o Directivos / Hombre",
+    "col": "P18_LH_1",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/o Directivos / Hombre",
+    "values": "1;Presencia de funcionarios o directivos (hombre);0;Ausencia de funcionarios o directivos (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LH_2",
+    "desc_q": "Decreto Legislativo N° 728 / Empleados / Profesionales / Hombre",
+    "col": "P18_LH_2",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Hombre",
+    "values": "1;Presencia de empleados profesionales (hombre);0;Ausencia de empleados profesionales (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LH_3",
+    "desc_q": "Decreto Legislativo N° 728/ Empleados / Técnicos / Hombre",
+    "col": "P18_LH_3",
+    "desc_col": "Decreto Legislativo N° 728/ Empleados / Técnicos / Hombre",
+    "values": "1;Presencia de empleados técnicos (hombre);0;Ausencia de empleados técnicos (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LH_4",
+    "desc_q": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Hombre",
+    "col": "P18_LH_4",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Hombre",
+    "values": "1;Presencia de empleados auxiliares (hombre);0;Ausencia de empleados auxiliares (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LH_5",
+    "desc_q": "Decreto Legislativo N° 728/ Obreros / De limpieza / Hombre",
+    "col": "P18_LH_5",
+    "desc_col": "Decreto Legislativo N° 728/ Obreros / De limpieza / Hombre",
+    "values": "1;Presencia de obreros de limpieza (hombre);0;Ausencia de obreros de limpieza (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LH_6",
+    "desc_q": "Decreto Legislativo N° 728 / Personal de Vigilancia / Hombre",
+    "col": "P18_LH_6",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Hombre",
+    "values": "1;Presencia de personal de vigilancia (hombre);0;Ausencia de personal de vigilancia (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LH_7",
+    "desc_q": "Decreto Legislativo N° 728 / Obreros/ Otros / Hombre",
+    "col": "P18_LH_7",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros/ Otros / Hombre",
+    "values": "1;Presencia de otros obreros (hombre);0;Ausencia de otros obreros (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LM_1",
+    "desc_q": "Decreto Legislativo N° 728 / Funcionarios y/ o Directivos / Mujer",
+    "col": "P18_LM_1",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/ o Directivos / Mujer",
+    "values": "1;Presencia de funcionarios o directivos (mujer);0;Ausencia de funcionarios o directivos (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LM_2",
+    "desc_q": "Decreto Legislativo N° 728 / Empleados / Profesionales / Mujer",
+    "col": "P18_LM_2",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Mujer",
+    "values": "1;Presencia de empleados profesionales (mujer);0;Ausencia de empleados profesionales (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LM_3",
+    "desc_q": "Decreto Legislativo N° 728 / Empleados / Técnicos / Mujer",
+    "col": "P18_LM_3",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Técnicos / Mujer",
+    "values": "1;Presencia de empleados técnicos (mujer);0;Ausencia de empleados técnicos (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LM_4",
+    "desc_q": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Mujer",
+    "col": "P18_LM_4",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Mujer",
+    "values": "1;Presencia de empleados auxiliares (mujer);0;Ausencia de empleados auxiliares (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LM_5",
+    "desc_q": "Decreto Legislativo N° 728 / Obreros / De limpieza / Mujer",
+    "col": "P18_LM_5",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / De limpieza / Mujer",
+    "values": "1;Presencia de obreros de limpieza (mujer);0;Ausencia de obreros de limpieza (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LM_6",
+    "desc_q": "Decreto Legislativo N° 728 / Personal de Vigilancia / Mujer",
+    "col": "P18_LM_6",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Mujer",
+    "values": "1;Presencia de personal de vigilancia (mujer);0;Ausencia de personal de vigilancia (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_LM_7",
+    "desc_q": "Decreto Legislativo N° 728 / Obreros / Otros / Mujer",
+    "col": "P18_LM_7",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / Otros / Mujer",
+    "values": "1;Presencia de otros obreros (mujer);0;Ausencia de otros obreros (mujer)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VH_1",
+    "desc_q": "Contrato administrativo de servicios (CAS)/ Funcionarios y/o Directivos / Hombre",
+    "col": "P18_VH_1",
+    "desc_col": "Contrato administrativo de servicios (CAS)/ Funcionarios y/o Directivos / Hombre",
+    "values": "1;Presencia de funcionarios o directivos CAS (hombre);0;Ausencia de funcionarios o directivos CAS (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VH_2",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Empleados / Profesionales / Hombre",
+    "col": "P18_VH_2",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Empleados / Profesionales / Hombre",
+    "values": "1;Presencia de empleados profesionales CAS (hombre);0;Ausencia de empleados profesionales CAS (hombre)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VH_3",
+    "desc_q": "Contrato administrativo de servicios (CAS)/ Empleados / Técnicos / Hombre",
+    "col": "P18_VH_3",
+    "desc_col": "Contrato administrativo de servicios (CAS)/ Empleados / Técnicos / Hombre",
+    "values": "1;Presencia de empleados técnicos CAS (hombre);0;Ausencia de empleados técnicos CAS (hombre)",
+    "value_pos": 1
+  }
+]

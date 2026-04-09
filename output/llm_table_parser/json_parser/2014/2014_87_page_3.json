@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_21",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional/ Motivo por el que no tiene",
+    "values": "2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_22",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Operativo Institucional",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_23",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Operativo Institucional / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_24",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Operativo Institucional / Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_25",
+    "desc_col": "Instrumento de gestion y desarrollo que dispone / Plan de Desarrollo de Capacidades",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_26",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo de Capacidades / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_27",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo de Capacidades / Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_28",
+    "desc_col": "Instrumento de gestion y desarrollo que dispone/ Plan de Desarrollo Económico Local",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_29",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Económico Local / Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

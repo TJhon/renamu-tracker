@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_5",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Señalización de zonas de seguridad en áreas de alto riesgo",
+    "values": "5: SI; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_6",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción",
+    "values": "6: SI; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_6_O",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción / Especifique",
+    "values": "7: SI; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_7",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / No realizó acciones",
+    "values": "7: SI; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "93",
+    "desc_q": "Municipalidades que registraron contar con personal dedicado a la generación de información técnica y científica, sobre peligros, vulnerabilidades y riesgos de desastres, 2018",
+    "col": "VFL_P93",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "93",
+    "desc_q": "Municipalidades que registraron contar con personal dedicado a la generación de información técnica y científica, sobre peligros, vulnerabilidades y riesgos de desastres, 2018",
+    "col": "P93_1",
+    "desc_col": "La municipalidad cuenta con personal dedicado a la generación de información técnica y científica, sobre peligros, vulnerabilidades y riesgos de desastres",
+    "values": "1: Sí, y la información que se genera es ingresada al SIGRID; 2: Sí, y la información que se genera no es ingresada al SIGRID; 3: No cuenta con personal dedicado a la generación de información",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94",
+    "desc_q": "Actividades y/o proyectos de inversión vinculados al PPR N°068, 2017",
+    "col": "VFL_P94",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94",
+    "desc_q": "Actividades y/o proyectos de inversión vinculados al PPR N°068, 2017",
+    "col": "P94_1",
+    "desc_col": "La Municipalidad ejecutó actividades y/o proyectos de inversión vinculados al programa presupuestal por resultados N° 068 \"Reducción de la vulnerabilidad y atención de emergencias por desastres\"",
+    "values": "1: Solo Actividades; 2: Solo Proyectos de inversión; 3: Actividades y Proyectos de inversión; 4: No ejecuto",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94_A",
+    "desc_q": "A qué procesos de la Gestión del Riesgo de Desastres se destino la inversión vinculada al programa presupuestal por resultados N° 068, 2017",
+    "col": "VFL_P94A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94_A",
+    "desc_q": "A qué procesos de la Gestión del Riesgo de Desastres se destino la inversión vinculada al programa presupuestal por resultados N° 068, 2017",
+    "col": "P94A_1",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Estimación del riesgo",
+    "values": "1: SI; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94_A",
+    "desc_q": "A qué procesos de la Gestión del Riesgo de Desastres se destino la inversión vinculada al programa presupuestal por resultados N° 068, 2017",
+    "col": "P94A_2",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Estimación del riesgo",
+    "values": "1: SI; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94_A",
+    "desc_q": "A qué procesos de la Gestión del Riesgo de Desastres se destino la inversión vinculada al programa presupuestal por resultados N° 068, 2017",
+    "col": "P94A_3",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Prevención del riesgo",
+    "values": "1: SI; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94_A",
+    "desc_q": "A qué procesos de la Gestión del Riesgo de Desastres se destino la inversión vinculada al programa presupuestal por resultados N° 068, 2017",
+    "col": "P94A_4",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Reducción del riesgo",
+    "values": "1: SI; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "94_A",
+    "desc_q": "A qué procesos de la Gestión del Riesgo de Desastres se destino la inversión vinculada al programa presupuestal por resultados N° 068, 2017",
+    "col": "P94A_5",
+    "desc_col": "Procesos de la Gestión del Riesgo de Desastres/ Preparación, respuesta y rehabilitación del riesgo",
+    "values": "1: SI; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "95",
+    "desc_q": "Informe de evaluación del riesgo de desastres como base para la formulación de proyectos de inversión, 2017",
+    "col": "VFL_P95",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "95",
+    "desc_q": "Informe de evaluación del riesgo de desastres como base para la formulación de proyectos de inversión, 2017",
+    "col": "P95_1",
+    "desc_col": "¿La municipalidad utilizó algún informe de evaluación del riesgo de desastres como base para la formulación de proyectos de inversión?",
+    "values": "1: SI; 2: No utilizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFL_P96",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_1",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "1: SI; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_2",
+    "desc_col": "Fenómenos naturales registrados / Aluviones",
+    "values": "2: SI; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_3",
+    "desc_col": "Fenómenos naturales registrados / Deslizamientos de tierra",
+    "values": "3: SI; 0: No",
+    "value_pos": 3
+  }
+]

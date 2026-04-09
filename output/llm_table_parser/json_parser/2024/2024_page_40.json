@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2024",
+    "col": "P70A_14_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Uniforme completo / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2024",
+    "col": "P70_15",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Canes para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2024",
+    "col": "P70A_15_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Canes / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2024",
+    "col": "P70_16",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Otro para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2024",
+    "col": "P70A_16_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Otro / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2024",
+    "col": "P70A_16_O",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "VFI_P71",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_1",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo a transeúntes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_1",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo a transeúntes / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_2",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo a domicilio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_2",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo a domicilio / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_3",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo de vehículos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_3",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo de vehículos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_4",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo de autopartes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_4",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo de autopartes / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_5",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo a establecimientos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_5",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo a establecimientos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_6",
+    "desc_col": "¿El serenazgo registró intervenciones por Consumo de alcohol en vía pública?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_6",
+    "desc_col": "Intervenciones registradas por el serenazgo / Consumo de alcohol en vía pública / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_7",
+    "desc_col": "¿El serenazgo registró intervenciones por Consumo de drogas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_7",
+    "desc_col": "Intervenciones registradas por el serenazgo / Consumo de drogas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_8",
+    "desc_col": "¿El serenazgo registró intervenciones por Accidentes de tránsito?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_8",
+    "desc_col": "Intervenciones registradas por el serenazgo / Accidentes de tránsito / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_9",
+    "desc_col": "¿El serenazgo registró intervenciones por Comercio informal?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_9",
+    "desc_col": "Intervenciones registradas por el serenazgo / Comercio informal / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_10",
+    "desc_col": "¿El serenazgo registró intervenciones por Violencia familiar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_10",
+    "desc_col": "Intervenciones registradas por el serenazgo / Violencia familiar / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_11",
+    "desc_col": "¿El serenazgo registró intervenciones por Pandillaje (incluye pandillaje pernicioso)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_11",
+    "desc_col": "Intervenciones registradas por el serenazgo / Pandillaje / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71_12",
+    "desc_col": "¿El serenazgo registró intervenciones por Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_12",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2023",
+    "col": "P71A_12_O",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  }
+]

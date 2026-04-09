@@ -1,0 +1,221 @@
+[
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "VFI_P11",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P11_1",
+    "desc_col": "¿La municipalidad cuenta con Locales propios?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P11A_1",
+    "desc_col": "Número de locales / Propios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P11_2",
+    "desc_col": "¿La municipalidad cuenta con Locales alquilados?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P11A_2",
+    "desc_col": "Número de locales / Alquilados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P11_3",
+    "desc_col": "¿La municipalidad cuenta con Locales Cedidos?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P11A_3",
+    "desc_col": "Número de locales / Cedidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "MÓDULO II: EQUIPAMIENTO Y TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES"
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "VFI_P12",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12_1",
+    "desc_col": "¿La municipalidad cuenta con camioneta y/o auto?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_1_1",
+    "desc_col": "Número de bien(es) / Camionetas y/o autos / Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_1_2",
+    "desc_col": "Número de bienes / Camionetas y/o autos / No operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12_2",
+    "desc_col": "¿La municipalidad cuenta con volquetes?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_2_1",
+    "desc_col": "Número de bienes / Volquetes / Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_2_2",
+    "desc_col": "Número de bienes / Volquetes / No Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12_3",
+    "desc_col": "¿La municipalidad cuenta con camión recolector de basura?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_3_1",
+    "desc_col": "Número de bien(es) / Recolectores de basura / Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_3_2",
+    "desc_col": "Número de bien(es) / Recolectores de basura / No Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12_4",
+    "desc_col": "¿La municipalidad cuenta con Camión cisterna?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_4_1",
+    "desc_col": "Número de bien(es) / Camiones cisterna / Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_4_2",
+    "desc_col": "Número de bien(es) / Camiones cisterna / No Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12_5",
+    "desc_col": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura y camiones cisterna)?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_5_1",
+    "desc_col": "Número de bien(es) / Camiones / Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12A_5_2",
+    "desc_col": "Número de bien(es) / Camiones / No Operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad, según condición de tenencia, 2015",
+    "col": "P12_6",
+    "desc_col": "¿La municipalidad cuenta con ambulancia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

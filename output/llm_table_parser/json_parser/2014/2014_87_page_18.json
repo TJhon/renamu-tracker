@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "CUADRO_CO30",
+    "n_q": "33",
+    "desc_q": "Frecuencia del recojo de residuos sólidos, 2014",
+    "col": "P32",
+    "desc_col": "Municipalidades que realizaron recojo de residuos sólidos",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO30",
+    "n_q": "33",
+    "desc_q": "Frecuencia del recojo de residuos sólidos, 2014",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO30",
+    "n_q": "33",
+    "desc_q": "Frecuencia del recojo de residuos sólidos, 2014",
+    "col": "P33_01",
+    "desc_col": "Frecuencia de tiempo en que la municipalidad realiza el recojo de residuos sólidos",
+    "values": "1: Diaria;2: Interdiaria;3: Dos veces por semana;4: Una vez por semana",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P32",
+    "desc_col": "Municipalidades que realizaron recojo de residuos sólidos",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_CD_01",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Capital del distrito / Menos del 25%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_CD_02",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Capital del distrito / De 25% a 49%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_CD_03",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Capital del distrito / De 50% a 74%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_CD_04",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Capital del distrito / De 75% a 100%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_RD_01",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Resto del distrito / Menos del 25%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_RD_02",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Resto del distrito / De 25% a 49%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_RD_03",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Resto del distrito / De 50% a 74%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_RD_04",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Resto del distrito / De 75% a 100%",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO31",
+    "n_q": "34",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos por la municipalidad, en el distrito, 2014",
+    "col": "P34_RD_05",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos / Resto del distrito / No realiza en el resto del distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO32",
+    "n_q": "35",
+    "desc_q": "Costo que demandó el servicio de limpieza pública, 2013",
+    "col": "P32",
+    "desc_col": "Municipalidades que realizaron recojo de residuos sólidos",
+    "values": "1: Realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO32",
+    "n_q": "35",
+    "desc_q": "Costo que demandó el servicio de limpieza pública, 2013",
+    "col": "VFI_41",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO32",
+    "n_q": "35",
+    "desc_q": "Costo que demandó el servicio de limpieza pública, 2013",
+    "col": "P35_01",
+    "desc_col": "Costo que demandó el servicio / Costo Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO32",
+    "n_q": "35",
+    "desc_q": "Costo que demandó el servicio de limpieza pública, 2013",
+    "col": "P35_02",
+    "desc_col": "Costo que demandó el servicio / Recojo domiciliario de residuos sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO32",
+    "n_q": "35",
+    "desc_q": "Costo que demandó el servicio de limpieza pública, 2013",
+    "col": "P35_03",
+    "desc_col": "Costo que demandó el servicio / Barridos de calles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Costo que demandó el servicio de"
+  },
+  {
+    "cuadro": "CUADRO_CO32",
+    "n_q": "35",
+    "desc_q": "Costo que demandó el servicio de",
+    "col": "PV_04",
+    "desc_col": "Costo que demandó el servicio / Transporte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO32",
+    "n_q": "35",
+    "desc_q": "Costo que demandó el servicio de",
+    "col": "P35_05",
+    "desc_col": "Costo que demandó el servicio / Destino final",
+    "values": "",
+    "value_pos": null
+  }
+]

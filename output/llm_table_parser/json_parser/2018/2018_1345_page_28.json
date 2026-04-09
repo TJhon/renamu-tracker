@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_10_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de servicios / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_10_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de servicios / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_11",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de otros productos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_11_1",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_11_2",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_11_3",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_11_3_O",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_4",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "98",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2017",
+    "col": "P98_8",
+    "desc_col": "No realizó acciones",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_1",
+    "desc_col": "Tipo de producción artesanal / Lácteos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_2",
+    "desc_col": "Tipo de producción artesanal / Miel de abeja",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_3",
+    "desc_col": "Tipo de producción artesanal / Textiles artesanales (lana de camélidos, algodón, etc.)",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_4",
+    "desc_col": "Tipo de producción artesanal / Cesterías y fibras vegetales",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_5",
+    "desc_col": "Tipo de producción artesanal / Alfarería - cerámica",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_6",
+    "desc_col": "Tipo de producción artesanal / Mates burilados (repujados)",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_7",
+    "desc_col": "Tipo de producción artesanal / Joyería - orfebrería",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_8",
+    "desc_col": "Tipo de producción artesanal / Bisutería",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_9",
+    "desc_col": "Tipo de producción artesanal / Trabajos en madera",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  }
+]

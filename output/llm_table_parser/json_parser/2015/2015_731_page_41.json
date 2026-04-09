@@ -1,0 +1,161 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "prestar servicio de transporte público urbano, 2014",
+    "col": "P102_2",
+    "desc_col": "¿La municipalidad otorgó concesiones y autorizaciones para el servicio de transporte público urbano a personas jurídicas?",
+    "values": "1: Otorgó;2: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "prestar servicio de transporte público urbano, 2014",
+    "col": "P102A_2_1",
+    "desc_col": "Número de concesiones / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "prestar servicio de transporte público urbano, 2014",
+    "col": "P102A_2_2",
+    "desc_col": "Número de empresas registradas / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "prestar servicio de transporte público urbano, 2014",
+    "col": "P102A_2_3",
+    "desc_col": "Número de vehículos autorizados / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "103"
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "VFI_P103",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "P103",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehículos menores?",
+    "values": "1: Si autorizó;0: No autorizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "P103_1",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehículos motorizados?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "P103A_1_1",
+    "desc_col": "Número de empresas / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "P103A_1_2",
+    "desc_col": "Número de vehículos / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "P103_2",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehículos no motorizados?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "P103A_2_1",
+    "desc_col": "Número de empresas / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C96",
+    "n_q": "103",
+    "desc_q": "Número de empresas y vehículos menores autorizados por la municipalidad, 2014",
+    "col": "P103A_2_2",
+    "desc_col": "Número de vehículos / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "104"
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2014, realizados por la municipalidad en convenios con otras entidades",
+    "col": "VFI_P104",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2014, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_01",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Nombre del programa/Proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2014, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_02",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Costo del programa / Proyecto (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2014, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_03",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C97",
+    "n_q": "104",
+    "desc_q": "Programas y proyectos ejecutados y concluidos en el año 2014, realizados por la municipalidad en convenios con otras entidades",
+    "col": "P104_04",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Tiempo de ejecución (en meses)",
+    "values": "",
+    "value_pos": null
+  }
+]

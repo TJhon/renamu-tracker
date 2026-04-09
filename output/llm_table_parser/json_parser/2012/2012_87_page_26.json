@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P59_V_01",
+    "desc_col": "Número de visitantes/usuarios / Teatros y teatrines",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P59_V_02",
+    "desc_col": "Número de visitantes/usuarios / Cines",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P59_V_03",
+    "desc_col": "Número de visitantes/usuarios / Museos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P59_V_04",
+    "desc_col": "Número de visitantes/usuarios / Bibliotecas Municipales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P59_V_05",
+    "desc_col": "Número de visitantes/usuarios / Casa de la Cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P59_V_06",
+    "desc_col": "Número de visitantes/usuarios / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P59_O",
+    "desc_col": "Locales y beneficiarios / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "VFI_P56",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60",
+    "desc_col": "La municipalidad tiene DEMUNA",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_01",
+    "desc_col": "Casos atendidos / Pensión por alimentos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_02",
+    "desc_col": "Casos atendidos / Tenencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_03",
+    "desc_col": "Casos atendidos / Régimen de visitas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_04",
+    "desc_col": "Casos atendidos / Filiación extramatrimonial",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_05",
+    "desc_col": "Casos atendidos / Indocumentación infantil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_06",
+    "desc_col": "Casos atendidos / Matrícula escolar oportuna",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_07",
+    "desc_col": "Casos atendidos / Derecho a salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_08",
+    "desc_col": "Casos atendidos / Contravenciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_09",
+    "desc_col": "Casos atendidos / Violencia familiar (Maltrato físico y/o psicológico )",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_10",
+    "desc_col": "Casos atendidos / Maltrato físico y/o psicológico por personas que no son miembros de la familia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_11",
+    "desc_col": "Casos atendidos / Abuso sexual",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_12",
+    "desc_col": "Casos atendidos / Colocación familiar",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_13",
+    "desc_col": "Casos atendidos / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "60",
+    "desc_q": "Casos atendidos en la DEMUNA, en el 2011",
+    "col": "P60_14",
+    "desc_col": "No se registraron casos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Locales en funcionamiento para atención de la salud en el distrito, 2011",
+    "col": "VFI_P61",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Locales en funcionamiento para atención de la salud en el distrito, 2011",
+    "col": "P61_M",
+    "desc_col": "El distrito tiene locales de atención de salud",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Locales en funcionamiento para atención de la salud en el distrito, 2011",
+    "col": "p57_m_01",
+    "desc_col": "Número de establecimientos / Municipalidad / Hospital / Clínica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "61",
+    "desc_q": "Locales en funcionamiento para atención de la salud en el distrito, 2011",
+    "col": "p57_m_02",
+    "desc_col": "Número de establecimientos / Municipalidad / Centro de Salud",
+    "values": null,
+    "value_pos": null
+  }
+]

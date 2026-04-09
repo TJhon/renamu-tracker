@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "V7",
+    "desc_q": "Tipo de vía de acceso al distrito/ Ferrocarril",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V8",
+    "desc_q": "Tipo de vía de acceso al distrito/ Carretera afirmada",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V9",
+    "desc_q": "Tipo de vía de acceso al distrito/ Carretera asfaltada",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V10",
+    "desc_q": "Tipo de vía de acceso al distrito/ Avenida",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V11",
+    "desc_q": "Tipo de vía de acceso al distrito/ Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V1",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Ladrillo o bloque de cemento",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V2",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Piedra o sillar con cal o cemento",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V3",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Adobe o Tapia",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V4",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Quincha (caña de barro)",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V5",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Piedra con barro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V6",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Madera",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V7",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Estera",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "105",
+    "n_q": "CUADRO_C0102",
+    "desc_q": "Material predominante en las paredes de las viviendas del distrito, al 2003",
+    "col": "V8",
+    "desc_col": "Tipo de material predominante en las paredes de las viviendas/ Otro material",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "106",
+    "n_q": "CUADRO_C0103",
+    "desc_q": "Problemas que afectan a la capital distrital, en el 2003",
+    "col": "V1",
+    "desc_col": "Problemas que afectan la capital distrital/ Ubicada en zona de emergencia por dispositivo Legal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "106",
+    "n_q": "CUADRO_C0103",
+    "desc_q": "Problemas que afectan a la capital distrital, en el 2003",
+    "col": "V2",
+    "desc_col": "Problemas que afectan la capital distrital/ Ubicada en zona inundable",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "106",
+    "n_q": "CUADRO_C0103",
+    "desc_q": "Problemas que afectan a la capital distrital, en el 2003",
+    "col": "V3",
+    "desc_col": "Problemas que afectan la capital distrital/ Basurales a menos de 5 cuadras de la plaza principal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "106",
+    "n_q": "CUADRO_C0103",
+    "desc_q": "Problemas que afectan a la capital distrital, en el 2003",
+    "col": "V4",
+    "desc_col": "Problemas que afectan la capital/ Ninguno",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "107",
+    "n_q": "CUADRO_C0104",
+    "desc_q": "Existencia de Pistas Pavimentadas en la capital distrital, 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que en la capital distrital existen pistas pavimentadas",
+    "values": "1: Si existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "107",
+    "n_q": "CUADRO_C0104",
+    "desc_q": "Existencia de Pistas Pavimentadas en la capital distrital, 2003",
+    "col": "V2",
+    "desc_col": "Distancia a la capital Distrital/ Menos de 5 cuadras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "107",
+    "n_q": "CUADRO_C0104",
+    "desc_q": "Existencia de Pistas Pavimentadas en la capital distrital, 2003",
+    "col": "V3",
+    "desc_col": "Distancia a la capital Distrital/ De 5 a más cuadras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "108",
+    "n_q": "CUADRO_C0105",
+    "desc_q": "Transporte publico en la capital distrital, al 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que en la capital distrital existe transporte urbano",
+    "values": "1: Si existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "108",
+    "n_q": "CUADRO_C0105",
+    "desc_q": "Transporte publico en la capital distrital, al 2003",
+    "col": "V2",
+    "desc_col": "Numero de empresas de trasporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "109",
+    "n_q": "CUADRO_C0106",
+    "desc_q": "Ubicación de los teléfonos públicos en la capital distrital ,en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que en la capital distrital existen teléfonos públicos",
+    "values": "1: Si existen;0: No existen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "109",
+    "n_q": "CUADRO_C0106",
+    "desc_q": "Ubicación de los teléfonos públicos en la capital distrital ,en el 2003",
+    "col": "V2",
+    "desc_col": "Distancia de ubicación de teléfonos públicos/ A menos de 5 cuadras de la plaza principal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "109",
+    "n_q": "CUADRO_C0106",
+    "desc_q": "Ubicación de los teléfonos públicos en la capital distrital ,en el 2003",
+    "col": "V3",
+    "desc_col": "Distancia de ubicación de teléfonos públicos/ De 5 a más cuadras de la plaza principal",
+    "values": "",
+    "value_pos": null
+  }
+]

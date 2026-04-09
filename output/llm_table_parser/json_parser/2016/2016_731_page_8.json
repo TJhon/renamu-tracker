@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P60_3_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Auxiliares / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P60_3_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P60_4_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Otro / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P60_4_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Otro / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P60_4_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Otro / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P60_4_O",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 30 de Junio 2016",
+    "col": "P60_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 30 de Junio 2016",
+    "col": "P60_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 30 de Junio 2016",
+    "col": "P60_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "VFI_P61",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P57",
+    "desc_col": "¿La municipalidad tiene biblioteca municipal?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P60",
+    "desc_col": "¿La municipalidad tiene personal exclusivo de la biblioteca municipal?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P61",
+    "desc_col": "¿El personal de la biblioteca municipal recibió capacitación?",
+    "values": "1: Recibió; 0: No recibió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P61_1",
+    "desc_col": "Instituciones que brindaron capacitación / Biblioteca Nacional del Perú",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P61_2",
+    "desc_col": "Instituciones que brindaron capacitación / Colegio de Bibliotecólogos del Perú",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P61_3",
+    "desc_col": "Instituciones que brindaron capacitación / Universidad Pública y/o Privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P61_4",
+    "desc_col": "Instituciones que brindaron capacitación / Instituto Superior",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C53",
+    "n_q": "61",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2015",
+    "col": "P61_5",
+    "desc_col": "Instituciones que brindaron capacitación / Organización No Gubernamental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P62",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P57",
+    "desc_col": "¿La municipalidad tiene biblioteca municipal?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P62",
+    "desc_col": "¿La municipalidad tiene computadoras operativas en la Biblioteca Municipal?",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  }
+]

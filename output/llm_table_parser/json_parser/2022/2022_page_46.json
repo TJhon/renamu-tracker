@@ -1,0 +1,189 @@
+[
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_6",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_6_O",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_7",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / No realizó acciones",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "VFI_P94",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "0: No; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "0: No; 2: Si",
+    "value_pos": 2
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "0: No; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_4",
+    "desc_col": "Acciones realizadas / Capacitación presencial y/o semipresencial para mejorar la producción y venta",
+    "values": "0: No; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "0: No; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "0: No; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "0: No; 7: Si",
+    "value_pos": 7
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_8",
+    "desc_col": "No realizó acciones",
+    "values": "0: No; 8: Si",
+    "value_pos": 8
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2021",
+    "col": "P94_9",
+    "desc_col": "Capacitación Virtual para mejorar la producción y venta",
+    "values": "0: No; 9: Si",
+    "value_pos": 9
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_1",
+    "desc_col": "Actividades realizadas / Promoción y publicidad",
+    "values": "0: No; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_2",
+    "desc_col": "Actividades realizadas / Ferias",
+    "values": "0: No; 2: Si",
+    "value_pos": 2
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_3",
+    "desc_col": "Actividades realizadas / Apoyo a comercialización directa de productos",
+    "values": "0: No; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_4",
+    "desc_col": "Actividades realizadas / Capacitación presencial y/o semipresencial para artesanos",
+    "values": "0: No; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_5",
+    "desc_col": "Actividades realizadas / Otra actividad",
+    "values": "0: No; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_5_O",
+    "desc_col": "Actividades realizadas / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_6",
+    "desc_col": "No realizó actividades",
+    "values": "0: No; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2021",
+    "col": "P95_7",
+    "desc_col": "Capacitación virtual para artesanos",
+    "values": "0: No; 7: Si",
+    "value_pos": 7
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "VFL_P100",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_1",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "values": "0: Pase; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertando el presupuesto municipal",
+    "values": "0: Pase; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando y controlando los planes económicos locales",
+    "values": "0: Pase; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En el presupuesto participativo",
+    "values": "0: Pase; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "0: Pase; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En audiencias públicas para rendición de cuentas",
+    "values": "0: Pase; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "0: Pase; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_8",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comités de gestión alimentaria",
+    "values": "0: Pase; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_9",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comité de ejecución de obras",
+    "values": "0: Pase; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_10",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales (comités vecinales)",
+    "values": "0: Pase; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_11",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otra",
+    "values": "0: Pase; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_11_O",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otra / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2021",
+    "col": "P100_12",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / No participa",
+    "values": "0: Pase; 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "VFL_P101",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "P101_1",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Participativo Local de Educación",
+    "values": "0: Pase; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "P101_2",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Local de Salud",
+    "values": "0: Pase; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "P101_3",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Consultivo de Niñas, Niños y Adolescentes",
+    "values": "0: Pase; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "P101_4",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Mesa de Concertación para la Lucha Contra la Pobreza",
+    "values": "0: Pase; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "P101_5",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Otro",
+    "values": "0: Pase; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "P101_5_O",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2021",
+    "col": "P101_6",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / No participa",
+    "values": "0: Pase; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2021",
+    "col": "VFL_P102",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2021",
+    "col": "P102",
+    "desc_col": "¿La municipalidad tiene constituida la Junta de Delegados Vecinales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2021",
+    "col": "P102_1_T",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2021",
+    "col": "P102_1_M",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2021",
+    "col": "P102_1_H",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2021",
+    "col": "P102_2",
+    "desc_col": "¿La Junta de Delegados Vecinales se encuentra en actividad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

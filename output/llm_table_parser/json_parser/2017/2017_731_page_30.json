@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "80",
+    "desc_q": "Municipalidad que conformó el Comité Distrital de Seguridad Ciudadana, 2016",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "80",
+    "desc_q": "Municipalidad que conformó el Comité Distrital de Seguridad Ciudadana, 2016",
+    "col": "P80",
+    "desc_col": "¿La Municipalidad conformó el Comité Distrital de Seguridad Ciudadana?",
+    "values": "1: Conformó; 2: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P80",
+    "desc_col": "¿La Municipalidad conformó el Comité Distrital de Seguridad Ciudadana?",
+    "values": "1: Conformó; 2: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó actividades?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81_1",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Sesiones de Comité de Seguridad Ciudadana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81A_1",
+    "desc_col": "Número de Sesiones de Comité de Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81_2",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Consultas públicas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81A_2",
+    "desc_col": "Número de Consultas públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81_3",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Capacitación a los efectivos de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81A_3",
+    "desc_col": "Número de Capacitaciones a efectivos de serenazgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81_4",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81A_4",
+    "desc_col": "Número de Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81_5",
+    "desc_col": "¿El Comité Distrital de seguridad ciudadana realizó Capacitación en la elaboración del Mapa del Delito?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81A_5",
+    "desc_col": "Número de Capacitaciones en la elaboración del Mapa del Delito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81_6",
+    "desc_col": "¿El Comité Distrital de seguridad ciudadana realizó Espacios de seguridad ciudadana en la página web y/o redes sociales de la municipalidad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "81",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2016",
+    "col": "P81A_6",
+    "desc_col": "Número de Espacios de seguridad ciudadana en la página web y/o redes sociales de la municipalidad",
+    "values": "",
+    "value_pos": null
+  }
+]

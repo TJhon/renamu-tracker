@@ -1,0 +1,179 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2018",
+    "col": "P37A_3",
+    "desc_col": "Licencias de habilitación urbana para Servicio / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2018",
+    "col": "P37_4",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para industria?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2018",
+    "col": "P37A_4",
+    "desc_col": "Licencias de habilitación urbana para Industria / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2018",
+    "col": "P37_5",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para otro ?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2018",
+    "col": "P37A_5",
+    "desc_col": "Licencias de habilitación urbana / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2018",
+    "col": "P37A_5_O",
+    "desc_col": "Licencias de habilitación urbana / Otro / Especifique la de mayor frecuencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "ACCESO AL SUELO PARA VIVIENDA"
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "38",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2019",
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "38",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2019",
+    "col": "P38",
+    "desc_col": "¿La municipalidad dispone de terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso?",
+    "values": "1: Sí, 2: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "38",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2019",
+    "col": "P38_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "38",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2019",
+    "col": "P38_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Área total (m2 )",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "38",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2019",
+    "col": "P38A_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con saneamiento físico y legal / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "38",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2019",
+    "col": "P38A_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con factibilidad de servicio de agua, desagüe y electricidad / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "38",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2019",
+    "col": "P38A_3",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con zonificación compatible con vivienda / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "INFRAESTRUCTURA URBANA O RURAL BÁSICA"
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2019?",
+    "col": "VFI_P39",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2019?",
+    "col": "P39_1",
+    "desc_col": "¿La municipalidad realizó Levantamiento catastral?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2019?",
+    "col": "P39A_1",
+    "desc_col": "Año del último Levantamiento catastral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2019?",
+    "col": "P39_2",
+    "desc_col": "¿La municipalidad realizó Actualización catastral?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2019?",
+    "col": "P39A_2",
+    "desc_col": "Año de la última Actualización catastral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "39",
+    "desc_q": "De acuerdo con el cumplimiento de las normas técnicas emitidas por el SNCP de la SUNARP, ¿La municipalidad realizó en el 2019?",
+    "col": "P39_3",
+    "desc_col": "¿La municipalidad realizó Mantenimiento catastral?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "VFI_P94",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94",
+    "desc_col": "¿La Municipalidad realizó acciones?",
+    "values": "1: Realizó;0: No Realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94_1",
+    "desc_col": "Acciones que realizó / Cursos de capacitación en Gestión Reactiva del Riesgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94_2",
+    "desc_col": "Acciones que realizó / Simulacros para probar el Plan de Operaciones de Emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94A_2",
+    "desc_col": "Número de simulacros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94_3",
+    "desc_col": "Acciones que realizó/ Identificación del nivel de riesgo existente en áreas de distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94_4",
+    "desc_col": "Acciones que realizó / Supervisar el cumplimiento de las normas de seguridad en recintos con acceso al público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94_5",
+    "desc_col": "Acciones que realizó / Otra acción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2014",
+    "col": "P94_O",
+    "desc_col": "Acciones que realizó / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "CUADRO_C088"
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95",
+    "desc_col": "¿La Municipalidad registró fenómenos naturales u ocasionados por el hombre?",
+    "values": "1: Registró;0: No Registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_1",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_2",
+    "desc_col": "Fenómenos naturales registrados / Aluviones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_3",
+    "desc_col": "Fenómenos naturales registrados / Deslizamiento de tierra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_4",
+    "desc_col": "Fenómenos naturales registrados / Derrumbe de cerros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_5",
+    "desc_col": "Fenómenos naturales registrados /Huayco",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_6",
+    "desc_col": "Fenómenos naturales registrados / Granizada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_7",
+    "desc_col": "Fenómenos naturales registrados / Helada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_8",
+    "desc_col": "Fenómenos naturales registrados / Nevada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_9",
+    "desc_col": "Fenómenos naturales registrados / Lluvia intensa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres ocasionados por el hombre, registrados por la municipalidad, en el2014",
+    "col": "P95_10",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "n_q": "P103_41",
+    "desc_q": "Donaciones y transferencias corrientes / Regalías mineras",
+    "col": "P103_41",
+    "desc_col": "Donaciones y transferencias corrientes / Regalías mineras"
+  },
+  {
+    "n_q": "P103_42",
+    "desc_q": "Donaciones y transferencias corrientes / Regalías FOCAM",
+    "col": "P103_42",
+    "desc_col": "Donaciones y transferencias corrientes / Regalías FOCAM"
+  },
+  {
+    "n_q": "P103_43",
+    "desc_q": "Donaciones y transferencias corrientes / Participación renta de aduanas",
+    "col": "P103_43",
+    "desc_col": "Donaciones y transferencias corrientes / Participación renta de aduanas"
+  },
+  {
+    "n_q": "P103_44",
+    "desc_q": "Donaciones y transferencias corrientes / Participación por eliminación de exoneraciones",
+    "col": "P103_44",
+    "desc_col": "Donaciones y transferencias corrientes / Participación por eliminación de exoneraciones"
+  },
+  {
+    "n_q": "P103_45",
+    "desc_q": "Donaciones y transferencias corrientes / FONCOMUN",
+    "col": "P103_45",
+    "desc_col": "Donaciones y transferencias corrientes / FONCOMUN"
+  },
+  {
+    "n_q": "P103_46",
+    "desc_q": "Rentas de la propiedad",
+    "col": "P103_46",
+    "desc_col": "Rentas de la propiedad"
+  },
+  {
+    "n_q": "P103_47",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad real",
+    "col": "P103_47",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad real"
+  },
+  {
+    "n_q": "P103_48",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad real / Derechos e ingreso por concesiones",
+    "col": "P103_48",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad real / Derechos e ingreso por concesiones"
+  },
+  {
+    "n_q": "P103_49",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad real / Dividendos",
+    "col": "P103_49",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad real / Dividendos"
+  },
+  {
+    "n_q": "P103_50",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera",
+    "col": "P103_50",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera"
+  },
+  {
+    "n_q": "P103_51",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera / Intereses",
+    "col": "P103_51",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera / Intereses"
+  },
+  {
+    "n_q": "P103_52",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera / Diferencial cambiario",
+    "col": "P103_52",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera / Diferencial cambiario"
+  },
+  {
+    "n_q": "P103_53",
+    "desc_q": "Rentas de la propiedad / Renta de la propiedad financiera / Otros intereses",
+    "col": "P103_53",
+    "desc_col": "Rentas de la propiedad / Renta de la propiedad financiera / Otros intereses"
+  },
+  {
+    "n_q": "P103_54",
+    "desc_q": "Multas y sanciones no tributarias",
+    "col": "P103_54",
+    "desc_col": "Multas y sanciones no tributarias"
+  },
+  {
+    "n_q": "P103_55",
+    "desc_q": "Multas y sanciones no tributarias / Multas y sanciones no tributarias",
+    "col": "P103_55",
+    "desc_col": "Multas y sanciones no tributarias / Multas y sanciones no tributarias"
+  },
+  {
+    "n_q": "P103_56",
+    "desc_q": "Multas y sanciones no tributarias / Sanciones",
+    "col": "P103_56",
+    "desc_col": "Multas y sanciones no tributarias / Sanciones"
+  },
+  {
+    "n_q": "P103_57",
+    "desc_q": "Otros ingresos corrientes",
+    "col": "P103_57",
+    "desc_col": "Otros ingresos corrientes"
+  },
+  {
+    "n_q": "P103_58",
+    "desc_q": "Otros ingresos corrientes / Transferencias voluntarias corrientes distintas de donaciones",
+    "col": "P103_58",
+    "desc_col": "Otros ingresos corrientes / Transferencias voluntarias corrientes distintas de donaciones"
+  },
+  {
+    "n_q": "P103_59",
+    "desc_q": "Otros ingresos corrientes / Ingresos diversos",
+    "col": "P103_59",
+    "desc_col": "Otros ingresos corrientes / Ingresos diversos"
+  },
+  {
+    "h2": "II. INGRESOS DE CAPITAL"
+  },
+  {
+    "n_q": "P103_60",
+    "desc_q": "II. INGRESOS DE CAPITAL",
+    "col": "P103_60",
+    "desc_col": "II. INGRESOS DE CAPITAL"
+  },
+  {
+    "n_q": "P103_61",
+    "desc_q": "Donaciones de capital",
+    "col": "P103_61",
+    "desc_col": "Donaciones de capital"
+  },
+  {
+    "n_q": "P103_62",
+    "desc_q": "Donaciones de capital / De Gobiernos Extranjeros",
+    "col": "P103_62",
+    "desc_col": "Donaciones de capital / De Gobiernos Extranjeros"
+  },
+  {
+    "n_q": "P103_63",
+    "desc_q": "Donaciones de capital / Organismos Internacionales",
+    "col": "P103_63",
+    "desc_col": "Donaciones de capital / Organismos Internacionales"
+  },
+  {
+    "n_q": "P103_64",
+    "desc_q": "Donaciones de capital / De otras unidades de Gobierno",
+    "col": "P103_64",
+    "desc_col": "Donaciones de capital / De otras unidades de Gobierno"
+  },
+  {
+    "n_q": "P103_65",
+    "desc_q": "Venta de activos no financieros",
+    "col": "P103_65",
+    "desc_col": "Venta de activos no financieros"
+  },
+  {
+    "n_q": "P103_66",
+    "desc_q": "Venta de activos no financieros / Venta de edificios y estructuras",
+    "col": "P103_66",
+    "desc_col": "Venta de activos no financieros / Venta de edificios y estructuras"
+  },
+  {
+    "n_q": "P103_67",
+    "desc_q": "Venta de activos no financieros / Venta de activos no producidos",
+    "col": "P103_67",
+    "desc_col": "Venta de activos no financieros / Venta de activos no producidos"
+  },
+  {
+    "n_q": "P103_68",
+    "desc_q": "Venta de activos no financieros / Venta de vehículos, maquinarias y otros",
+    "col": "P103_68",
+    "desc_col": "Venta de activos no financieros / Venta de vehículos, maquinarias y otros"
+  },
+  {
+    "n_q": "P103_69",
+    "desc_q": "Venta de activos no financieros / Venta de otros activos fijos",
+    "col": "P103_69",
+    "desc_col": "Venta de activos no financieros / Venta de otros activos fijos"
+  },
+  {
+    "n_q": "P103_70",
+    "desc_q": "Ingresos de capital / Otros ingresos de capital",
+    "col": "P103_70",
+    "desc_col": "Ingresos de capital / Otros ingresos de capital"
+  },
+  {
+    "h2": "IV. FINANCIAMIENTO"
+  },
+  {
+    "n_q": "P103_71",
+    "desc_q": "IV. FINANCIAMIENTO",
+    "col": "P103_71",
+    "desc_col": "IV. FINANCIAMIENTO"
+  },
+  {
+    "n_q": "P103_73",
+    "desc_q": "Endeudamiento Externo",
+    "col": "P103_73",
+    "desc_col": "Endeudamiento Externo"
+  },
+  {
+    "n_q": "P103_72",
+    "desc_q": "Endeudamiento Interno",
+    "col": "P103_72",
+    "desc_col": "Endeudamiento Interno"
+  },
+  {
+    "n_q": "P103_74",
+    "desc_q": "Saldo de balance",
+    "col": "P103_74",
+    "desc_col": "Saldo de balance"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2009",
+    "col": "VFI_P104",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "GASTO TOTAL (I + II + III)",
+    "n_q": "P104_01",
+    "col": "P104_01",
+    "desc_col": "GASTO TOTAL (I + II + III)"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "I. GASTOS CORRIENTES",
+    "n_q": "P104_02",
+    "col": "P104_02",
+    "desc_col": "I. GASTOS CORRIENTES"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Personal y obligaciones sociales",
+    "n_q": "P104_03",
+    "col": "P104_03",
+    "desc_col": "Personal y obligaciones sociales"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Pensiones y otras prestaciones sociales",
+    "n_q": "P104_04",
+    "col": "P104_04",
+    "desc_col": "Pensiones y otras prestaciones sociales"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Bienes y servicios",
+    "n_q": "P104_05",
+    "col": "P104_05",
+    "desc_col": "Bienes y servicios"
+  }
+]

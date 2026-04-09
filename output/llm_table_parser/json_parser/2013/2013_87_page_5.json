@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P21_39",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Vial/ Motivo por el que no tiene",
+    "col": null,
+    "desc_col": null,
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_40",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Ordenamiento Territorial",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_41",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Ordenamiento Territorial/ Año de publicación",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_42",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Ordenamiento Territorial/ Motivo por el que no tiene",
+    "col": null,
+    "desc_col": null,
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_43",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_44",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres/ Año de publicación",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_45",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres/ Motivo por el que no tiene",
+    "col": null,
+    "desc_col": null,
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_46",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_47",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Año de publicación",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  }
+]

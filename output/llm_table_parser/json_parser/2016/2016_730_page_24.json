@@ -1,0 +1,140 @@
+[
+  {
+    "h2": "INFRAESTRUCTURA URBANA O RURAL BÁSICA"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P43A_1_3",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con zonificación compatible con vivienda / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P43A_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Área Total (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44_1",
+    "desc_col": "¿La municipalidad realizó reparación de pistas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_1_1",
+    "desc_col": "Realizó reparación de pistas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_1_2",
+    "desc_col": "Realizó reparación de pistas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44_2",
+    "desc_col": "¿La municipalidad realizó construcción de pistas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_2_1",
+    "desc_col": "Realizó construcción de pistas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_2_2",
+    "desc_col": "Realizó construcción de pistas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44_3",
+    "desc_col": "¿La municipalidad realizó reparación de veredas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_3_1",
+    "desc_col": "Realizó reparación de veredas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_3_2",
+    "desc_col": "Realizó reparación de veredas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44_4",
+    "desc_col": "¿La municipalidad realizó construcción de veredas",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_4_1",
+    "desc_col": "Realizó construcción de veredas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44A_4_2",
+    "desc_col": "Realizó construcción de veredas / Gasto anual en Soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  }
+]

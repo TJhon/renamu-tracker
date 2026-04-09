@@ -1,0 +1,249 @@
+[
+  {
+    "n_q": "P103_14",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos generales",
+    "col": "P103_14",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos generales"
+  },
+  {
+    "n_q": "P103_15",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación",
+    "col": "P103_15",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación"
+  },
+  {
+    "n_q": "P103_16",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud",
+    "col": "P103_16",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud"
+  },
+  {
+    "n_q": "P103_17",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de vivienda y construcción",
+    "col": "P103_17",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de vivienda y construcción"
+  },
+  {
+    "n_q": "P103_18",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura",
+    "col": "P103_18",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura"
+  },
+  {
+    "n_q": "P103_19",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria, comercio y minería",
+    "col": "P103_19",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria, comercio y minería"
+  },
+  {
+    "n_q": "P103_20",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones",
+    "col": "P103_20",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones"
+  },
+  {
+    "n_q": "P103_21",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de bienes agropecuarios y forestales",
+    "col": "P103_21",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de bienes agropecuarios y forestales"
+  },
+  {
+    "n_q": "P103_22",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de productos de educación",
+    "col": "P103_22",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de productos de educación"
+  },
+  {
+    "n_q": "P103_23",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de productos de salud",
+    "col": "P103_23",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de productos de salud"
+  },
+  {
+    "n_q": "P103_24",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Venta de productos minerales",
+    "col": "P103_24",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Venta de productos minerales"
+  },
+  {
+    "n_q": "P103_25",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Servicios de transporte y comunicaciones",
+    "col": "P103_25",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Servicios de transporte y comunicaciones"
+  },
+  {
+    "n_q": "P103_26",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Servicios de educación, recreación y cultura",
+    "col": "P103_26",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Servicios de educación, recreación y cultura"
+  },
+  {
+    "n_q": "P103_27",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Servicios de salud",
+    "col": "P103_27",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Servicios de salud"
+  },
+  {
+    "n_q": "P103_28",
+    "desc_q": "Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos",
+    "col": "P103_28",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos"
+  },
+  {
+    "n_q": "P103_29",
+    "desc_q": "Rentas de la propiedad",
+    "col": "P103_29",
+    "desc_col": "Rentas de la propiedad"
+  },
+  {
+    "n_q": "P103_30",
+    "desc_q": "Rentas de la propiedad / Rentas de la propiedad real",
+    "col": "P103_30",
+    "desc_col": "Rentas de la propiedad / Rentas de la propiedad real"
+  },
+  {
+    "n_q": "P103_31",
+    "desc_q": "Rentas de la propiedad / Rentas de la propiedad financiera",
+    "col": "P103_31",
+    "desc_col": "Rentas de la propiedad / Rentas de la propiedad financiera"
+  },
+  {
+    "n_q": "P103_32",
+    "desc_q": "Otros ingresos corrientes",
+    "col": "P103_32",
+    "desc_col": "Otros ingresos corrientes"
+  },
+  {
+    "h2": "II. INGRESOS DE CAPITAL"
+  },
+  {
+    "n_q": "P103_34",
+    "desc_q": "Venta de activos no producidos",
+    "col": "P103_34",
+    "desc_col": "Venta de activos no producidos"
+  },
+  {
+    "n_q": "P103_35",
+    "desc_q": "Venta de otros ingresos de capital",
+    "col": "P103_35",
+    "desc_col": "Venta de otros ingresos de capital"
+  },
+  {
+    "h2": "III. TRANSFERENCIAS"
+  },
+  {
+    "n_q": "P103_37",
+    "desc_q": "Canon",
+    "col": "P103_37",
+    "desc_col": "Canon"
+  },
+  {
+    "n_q": "P103_38",
+    "desc_q": "Sobrecanon",
+    "col": "P103_38",
+    "desc_col": "Sobrecanon"
+  },
+  {
+    "n_q": "P103_39",
+    "desc_q": "Regalías mineras",
+    "col": "P103_39",
+    "desc_col": "Regalías mineras"
+  },
+  {
+    "n_q": "P103_40",
+    "desc_q": "Regalías FOCAM",
+    "col": "P103_40",
+    "desc_col": "Regalías FOCAM"
+  },
+  {
+    "n_q": "P103_41",
+    "desc_q": "Fondo de Compensación Municipal",
+    "col": "P103_41",
+    "desc_col": "Fondo de Compensación Municipal"
+  },
+  {
+    "n_q": "P103_42",
+    "desc_q": "Otros ingresos por transferencias",
+    "col": "P103_42",
+    "desc_col": "Otros ingresos por transferencias"
+  },
+  {
+    "h2": "IV. FINANCIAMIENTO"
+  },
+  {
+    "n_q": "P103_44",
+    "desc_q": "Endeudamiento",
+    "col": "P103_44",
+    "desc_col": "Endeudamiento"
+  },
+  {
+    "n_q": "P103_45",
+    "desc_q": "Saldos de balance",
+    "col": "P103_45",
+    "desc_col": "Saldos de balance"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "VFI_P104",
+    "desc_col": "Municipalidad informante",
+    "col": "VFI_P104",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "P104_01",
+    "desc_col": "TOTAL GASTOS (I + II + III)",
+    "col": "P104_01"
+  },
+  {
+    "h2": "I. GASTOS CORRIENTES"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "P104_03",
+    "desc_col": "Personal y obligaciones sociales",
+    "col": "P104_03"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "P104_04",
+    "desc_col": "Pensiones y otras prestaciones sociales",
+    "col": "P104_04"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "P104_05",
+    "desc_col": "Bienes y servicios",
+    "col": "P104_05"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "P104_06",
+    "desc_col": "Donaciones y transferencias corrientes",
+    "col": "P104_06"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "P104_07",
+    "desc_col": "Otros gastos corrientes",
+    "col": "P104_07"
+  },
+  {
+    "h2": "II. GASTOS DE CAPITAL"
+  },
+  {
+    "cuadro": "CUADRO_C095",
+    "desc_q": "Gastos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "n_q": "P104_09",
+    "desc_col": "Adquisición de activos no financieros",
+    "col": "P104_09"
+  }
+]

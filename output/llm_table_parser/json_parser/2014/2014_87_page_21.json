@@ -1,0 +1,248 @@
+[
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "41",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2013",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "41",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2013",
+    "col": "P41",
+    "desc_col": "La municipalidad tiene instalados baños de uso público en el distrito",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "41",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2013",
+    "col": "P41_01",
+    "desc_col": "Número de baños públicos instalados y en funcionamiento de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "C15"
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "C15",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2013",
+    "col": "VFI_C15",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "C15",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2013",
+    "col": "C15",
+    "desc_col": "La municipalidad conserva áreas verdes en el distrito",
+    "values": "1: Conserva;0: No conserva",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "C15",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2013",
+    "col": "C15_01",
+    "desc_col": "Áreas verdes (m²) / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "C15",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2013",
+    "col": "C15_02",
+    "desc_col": "Áreas verdes (m²) / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "C15",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2013",
+    "col": "C15_03",
+    "desc_col": "Áreas verdes (m²) / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "C15",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2013",
+    "col": "C15_04",
+    "desc_col": "Áreas verdes (m²) / Bermas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "C15",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2013",
+    "col": "C15_05",
+    "desc_col": "Áreas verdes (m²) / Alamedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "42",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la Biblioteca Municipal, 2013)",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "42",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la Biblioteca Municipal, 2013)",
+    "col": "P42",
+    "desc_col": "La municipalidad brinda servicios de cabinas públicas de Internet",
+    "values": "1: Brinda;0: No brinda",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "42",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la Biblioteca Municipal, 2013)",
+    "col": "P42_01",
+    "desc_col": "Cabina pública de Internet/ Número de locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "42",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la Biblioteca Municipal, 2013)",
+    "col": "P42_02",
+    "desc_col": "Cabina pública de Internet / Número de PC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "42",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la Biblioteca Municipal, 2013)",
+    "col": "P42_03",
+    "desc_col": "Cabina pública de Internet / Tipo de conexión a Internet",
+    "values": "1: Módem analógico;2: ADSL;3: Fibra óptica;4: Satelital;5: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "43",
+    "desc_q": "Biblioteca municipal en el distrito, 2013",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "43",
+    "desc_q": "Biblioteca municipal en el distrito, 2013",
+    "col": "P43",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "43",
+    "desc_q": "Biblioteca municipal en el distrito, 2013",
+    "col": "P43_01",
+    "desc_col": "Biblioteca Municipal / Área (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "43",
+    "desc_q": "Biblioteca municipal en el distrito, 2013",
+    "col": "P43_02",
+    "desc_col": "Biblioteca Municipal / Número de usuarios atendidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "43",
+    "desc_q": "Biblioteca municipal en el distrito, 2013",
+    "col": "P43_03",
+    "desc_col": "Biblioteca municipal / Número de asientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "44",
+    "desc_q": "Colecciones que dispone la bibliteca municipal, en el 2013",
+    "col": "P43",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "44",
+    "desc_q": "Colecciones que dispone la bibliteca municipal, en el 2013",
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "44",
+    "desc_q": "Colecciones que dispone la bibliteca municipal, en el 2013",
+    "col": "P44_01",
+    "desc_col": "Número de volúmenes / Folletos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "44",
+    "desc_q": "Colecciones que dispone la bibliteca municipal, en el 2013",
+    "col": "P44_02",
+    "desc_col": "Número de volúmenes / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "44",
+    "desc_q": "Colecciones que dispone la bibliteca municipal, en el 2013",
+    "col": "P44_03",
+    "desc_col": "Número de volúmenes / Libros electrónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "44",
+    "desc_q": "Colecciones que dispone la bibliteca municipal, en el 2013",
+    "col": "P44_04",
+    "desc_col": "Número de volúmenes / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "44",
+    "desc_q": "Colecciones que dispone la bibliteca municipal, en el 2013",
+    "col": "P44_05",
+    "desc_col": "Número de volúmenes / Material audiovisual",
+    "values": "",
+    "value_pos": null
+  }
+]

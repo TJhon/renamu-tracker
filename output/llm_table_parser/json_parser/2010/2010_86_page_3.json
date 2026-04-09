@@ -1,0 +1,254 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P12_N_13",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Rodillo",
+    "col": "P12_N_13",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Rodillo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_14",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Camión cisterna",
+    "col": "P12_N_14",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Camión cisterna",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_15",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Otro",
+    "col": "P12_N_15",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_O",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Otros/ Descripción",
+    "col": "P12_O",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Otros/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "VFI_P13",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P13",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13",
+    "desc_q": "La municipalidad tiene sistemas informáticos",
+    "col": "P13",
+    "desc_col": "La municipalidad tiene sistemas informáticos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_01",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Abastecimiento",
+    "col": "P13_01",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Abastecimiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_02",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Contabilidad",
+    "col": "P13_02",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Contabilidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_03",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Tesorería",
+    "col": "P13_03",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Tesorería",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_04",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Catastro",
+    "col": "P13_04",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Catastro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_05",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Personal",
+    "col": "P13_05",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Personal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_06",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Presupuesto",
+    "col": "P13_06",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Presupuesto",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_07",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Trámite documentario",
+    "col": "P13_07",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Trámite documentario",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_08",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad/ Arbitrios municipales",
+    "col": "P13_08",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad/ Arbitrios municipales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_09",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Licencia de funcionamiento",
+    "col": "P13_09",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Licencia de funcionamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_10",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Renta y administración tributaria",
+    "col": "P13_10",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Renta y administración tributaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_11",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Autovalúo",
+    "col": "P13_11",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Autovalúo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_12",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Biblioteca",
+    "col": "P13_12",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Biblioteca",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_13",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Registro Civil",
+    "col": "P13_13",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Registro Civil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_14",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Otro",
+    "col": "P13_14",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_O",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Otro / Descripción",
+    "col": "P13_O",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "VFI_P14",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P14",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14",
+    "desc_q": "La municipalidad tiene equipos de cómputo y de oficina",
+    "col": "P14",
+    "desc_col": "La municipalidad tiene equipos de cómputo y de oficina",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_01",
+    "desc_q": "Número de equipos de cómputo y de oficina / Pentium, Pentium I y Pentium II",
+    "col": "P14_01",
+    "desc_col": "Número de equipos de cómputo y de oficina / Pentium, Pentium I y Pentium II",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_02",
+    "desc_q": "Número de equipos de cómputo y de oficina / Pentium III y Pentium IV",
+    "col": "P14_02",
+    "desc_col": "Número de equipos de cómputo y de oficina / Pentium III y Pentium IV",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_03",
+    "desc_q": "Número de equipos de cómputo y de oficina / Pentium D",
+    "col": "P14_03",
+    "desc_col": "Número de equipos de cómputo y de oficina / Pentium D",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_04",
+    "desc_q": "Número de equipos de cómputo y de oficina / Celeron",
+    "col": "P14_04",
+    "desc_col": "Número de equipos de cómputo y de oficina / Celeron",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_05",
+    "desc_q": "Número de equipos de cómputo y de oficina / Core Duo",
+    "col": "P14_05",
+    "desc_col": "Número de equipos de cómputo y de oficina / Core Duo",
+    "values": null,
+    "value_pos": null
+  }
+]

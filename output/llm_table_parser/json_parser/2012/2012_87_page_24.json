@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P55_01",
+    "desc_q": "Instituciones que brindaron capacitación/ Biblioteca Nacional del Perú",
+    "col": "P55_01",
+    "desc_col": "Instituciones que brindaron capacitación/ Biblioteca Nacional del Perú",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_02",
+    "desc_q": "Instituciones que brindaron capacitación/ Colegio de Bibliotecólogos",
+    "col": "P55_02",
+    "desc_col": "Instituciones que brindaron capacitación/ Colegio de Bibliotecólogos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_03",
+    "desc_q": "Instituciones que brindaron capacitación/ Universidad pública/privada",
+    "col": "P55_03",
+    "desc_col": "Instituciones que brindaron capacitación/ Universidad pública/privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_04",
+    "desc_q": "Instituciones que brindaron capacitación/ Instituto superior",
+    "col": "P55_04",
+    "desc_col": "Instituciones que brindaron capacitación/ Instituto superior",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_05",
+    "desc_q": "Instituciones que brindaron capacitación/ ONG",
+    "col": "P55_05",
+    "desc_col": "Instituciones que brindaron capacitación/ ONG",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P51",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": "P51",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "VFI_P56",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P56",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56",
+    "desc_q": "La municipalidad tiene equipos de cómputo en la biblioteca",
+    "col": "P56",
+    "desc_col": "La municipalidad tiene equipos de cómputo en la biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_01",
+    "desc_q": "Número de equipos de cómputo / Pentium (I, II,III y II)",
+    "col": "P56_01",
+    "desc_col": "Número de equipos de cómputo / Pentium (I, II,III y II)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_02",
+    "desc_q": "Número de equipos de cómputo / Pentium D y Celeron",
+    "col": "P56_02",
+    "desc_col": "Número de equipos de cómputo / Pentium D y Celeron",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_03",
+    "desc_q": "Número de equipos de cómputo / Core Duo y Core 2 Duo",
+    "col": "P56_03",
+    "desc_col": "Número de equipos de cómputo / Core Duo y Core 2 Duo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_04",
+    "desc_q": "Número de equipos de cómputo / Core i3 y Core bi5",
+    "col": "P56_04",
+    "desc_col": "Número de equipos de cómputo / Core i3 y Core bi5",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_05",
+    "desc_q": "Número de equipos de cómputo / Core i7 a mas",
+    "col": "P56_05",
+    "desc_col": "Número de equipos de cómputo / Core i7 a mas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_06",
+    "desc_q": "Número de equipos de cómputo / Otros",
+    "col": "P56_06",
+    "desc_col": "Número de equipos de cómputo / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_07",
+    "desc_q": "Número de equipos de cómputo / PC con acceso a Internet",
+    "col": "P56_07",
+    "desc_col": "Número de equipos de cómputo / PC con acceso a Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P51",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": "P51",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "VFI_P57",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P57",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57",
+    "desc_q": "La biblioteca está contemplada en algún documento municipal",
+    "col": "P57",
+    "desc_col": "La biblioteca está contemplada en algún documento municipal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_01",
+    "desc_q": "Documentos que establece el funcionamiento de la Biblioteca Municipal / Reglamento de Organizaciones y Funciones (ROF)",
+    "col": "P57_01",
+    "desc_col": "Documentos que establece el funcionamiento de la Biblioteca Municipal / Reglamento de Organizaciones y Funciones (ROF)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_02",
+    "desc_q": "Documentos que establece el funcionamiento de la Biblioteca Municipal/Cuadro de Asignación de Personal (CAP)",
+    "col": "P57_02",
+    "desc_col": "Documentos que establece el funcionamiento de la Biblioteca Municipal/Cuadro de Asignación de Personal (CAP)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_03",
+    "desc_q": "Documentos que establece el funcionamiento de la Biblioteca Municipal/ Manual de Organizaciones y Funciones (MOF)",
+    "col": "P57_03",
+    "desc_col": "Documentos que establece el funcionamiento de la Biblioteca Municipal/ Manual de Organizaciones y Funciones (MOF)",
+    "values": "",
+    "value_pos": null
+  }
+]

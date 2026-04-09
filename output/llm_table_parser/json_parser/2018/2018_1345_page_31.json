@@ -1,0 +1,266 @@
+[
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_27",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Centros comerciales o galerias comerciales?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_27",
+    "desc_col": "Número de establecimientos / Centros comerciales o galerías comerciales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_28",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de campos ferales?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_28",
+    "desc_col": "Número de establecimientos / Campos ferales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_29",
+    "desc_col": "¿La municipalidad tiene establecimientos de venta de artesanías?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_29",
+    "desc_col": "Número de establecimientos de comercio / Venta de artesanías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_30",
+    "desc_col": "¿La municipalidad tiene otros establecimientos de comercio?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_30",
+    "desc_col": "Número de establecimientos de comercio / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_30_O",
+    "desc_col": "La municipalidad tiene otros establecimientos de comercio / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "PROTECCIÓN Y CONSERVACIÓN DEL AMBIENTE"
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "101",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2018",
+    "col": "VFL_P101",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "101",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2018",
+    "col": "P101",
+    "desc_col": "¿La municipalidad tiene Oficina o Unidad Ambiental?",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "VFL_P102",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_1_1",
+    "desc_col": "Contaminación del agua / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_1_2",
+    "desc_col": "Contaminación del agua / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_2_1",
+    "desc_col": "Contaminación del suelo / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_2_2",
+    "desc_col": "Contaminación del suelo / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_3",
+    "desc_col": "¿La municipalidad recepcionó y atendió denuncias ambientales por contaminación del aire?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_3_1",
+    "desc_col": "Contaminación del aire / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_3_2",
+    "desc_col": "Contaminación del aire / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_4",
+    "desc_col": "¿La municipalidad recepcionó y atendió denuncias ambientales por deforestación y quema de bosques?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_4_1",
+    "desc_col": "Deforestación y quema de bosques / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_4_2",
+    "desc_col": "Deforestación y quema de bosques / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_5",
+    "desc_col": "¿La municipalidad recepcionó y atendió y atendió denuncias ambientales por contaminación sonora?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_5_1",
+    "desc_col": "Contaminación sonora / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_5_2",
+    "desc_col": "Contaminación sonora / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_6",
+    "desc_col": "¿La municipalidad recepcionó y atendió otro tipo de denuncias ambientales?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_6_1",
+    "desc_col": "Otro / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_6_2",
+    "desc_col": "Otro / Número de denuncias atendidas /",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "102",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2017",
+    "col": "P102_6_O",
+    "desc_col": "Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

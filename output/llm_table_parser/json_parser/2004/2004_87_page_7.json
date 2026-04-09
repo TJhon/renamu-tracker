@@ -1,0 +1,380 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "la salud/ Planificación familiar",
+    "col": "",
+    "desc_col": "",
+    "values": "0: No realizo",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "V10",
+    "desc_q": "Programas de asistencia alimentaria, control y prevención de la salud/ Control de Tuberculosis",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V11",
+    "desc_q": "Programas de asistencia alimentaria, control y prevención de la salud/ Control de enfermedades de transmisión sexual y SIDA",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V12",
+    "desc_q": "Programas de asistencia alimentaria, control y prevención de la salud/ Campañas de fumigación",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V13",
+    "desc_q": "Programas de asistencia alimentaria, control y prevención de la salud/ Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "Total_Otro",
+    "desc_q": "Nº de Programas de asistencia alimentaria, control y prevención de la salud/ Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "58",
+    "n_q": "",
+    "desc_q": "Organizaciones sociales que existe en el distrito, en el 2002 y 2003",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "V1",
+    "desc_q": "2002/ Organizaciones sociales",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "V2",
+    "desc_q": "2002/ Beneficiarios",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "V3",
+    "desc_q": "2003/ Organizaciones sociales",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "V4",
+    "desc_q": "2003/ Beneficiarios",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "Cod_Categoria",
+    "desc_q": "Tipo de Organización",
+    "col": "",
+    "desc_col": "",
+    "values": "1 al 7 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "59",
+    "n_q": "",
+    "desc_q": "Beneficiarios del programa vaso de leche, en el 2002 y 2003",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "V1",
+    "desc_q": "Beneficiarios del programa Vaso de leche/ 2002",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "V2",
+    "desc_q": "Beneficiarios del programa Vaso de leche/ 2003",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "Cod_Categoria",
+    "desc_q": "Tipo de beneficiarios",
+    "col": "",
+    "desc_col": "",
+    "values": "1 al 6 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "60",
+    "n_q": "",
+    "desc_q": "Raciones distribuidazas en el programa vaso de leche, en el 2002 y 2003",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "V1",
+    "desc_q": "2002/ Raciones Distribuidas",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "V2",
+    "desc_q": "2002/ Costo de la Ración",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "V3",
+    "desc_q": "2003/ Raciones Distribuidas",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "V4",
+    "desc_q": "2003/ Costo de la Ración",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "61",
+    "n_q": "",
+    "desc_q": "Programas sociales, proyectos de infraestructura social y productivos trasferidos a la municipalidad",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "V1",
+    "desc_q": "Municipalidades que han recibido trasferencia de programas sociales / proyectos",
+    "col": "",
+    "desc_col": "",
+    "values": "1: han recibido; 0: No han recibido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "V2",
+    "desc_q": "Numero de beneficiarios",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "Cod_Categoria",
+    "desc_q": "Tipo de Programa",
+    "col": "",
+    "desc_col": "",
+    "values": "1 al 4 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V1",
+    "desc_q": "Municipalidades que informaron que el distrito tiene problemas de seguridad",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V2",
+    "desc_q": "Tipo de delito/Robo en viviendas",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V3",
+    "desc_q": "Tipo de delito/ Robos callejeros",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V4",
+    "desc_q": "Tipo de delito/ Pandillaje",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V5",
+    "desc_q": "Tipo de delito/ Drogadicción",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V6",
+    "desc_q": "Tipo de delito/ Alcoholismo",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V7",
+    "desc_q": "Tipo de delito/ Prostitucion",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V8",
+    "desc_q": "Tipo de delito/ Narcotráfico",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V9",
+    "desc_q": "Tipo de delito/ Terrorismo",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V10",
+    "desc_q": "Tipo de delito/ Abigeato",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "V11",
+    "desc_q": "Tipo de delito/ Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "63",
+    "n_q": "",
+    "desc_q": "Organizaciones de segura vecinal registradas en la Municipalidad",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "V1",
+    "desc_q": "Municipalidades que tienen registradas organizaciones de seguridad vecinal",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "V2",
+    "desc_q": "Tipo de organización vecinal registrada/ Ronda urbana",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "V3",
+    "desc_q": "Tipo de organización vecinal registrada/ Ronda campesina",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "V4",
+    "desc_q": "Tipo de organización vecinal registrada/ Comité vecinal",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene",
+    "value_pos": 1
+  }
+]

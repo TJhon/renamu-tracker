@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En el presupuesto participativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En audiencias públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_8",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comités de gestión alimentaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_9",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comité de ejecución de obras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_10",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales (comités vecinales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_11",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2016",
+    "col": "P110_11_O",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Conformación de la Junta de la Junta Delegados Vecinales, 2016"
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "111",
+    "desc_q": "Conformación de la Junta de la Junta Delegados Vecinales, 2016",
+    "col": "VFI_P111",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "111",
+    "desc_q": "Conformación de la Junta de la Junta Delegados Vecinales, 2016",
+    "col": "P111",
+    "desc_col": "¿La municipalidad ha constituido Junta de Delegados Vecinales?",
+    "values": "1: Si ha constituido;0: No ha constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "111",
+    "desc_q": "Conformación de la Junta de la Junta Delegados Vecinales, 2016",
+    "col": "P111_1_T",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "111",
+    "desc_q": "Conformación de la Junta de la Junta Delegados Vecinales, 2016",
+    "col": "P111_1_M",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "111",
+    "desc_q": "Conformación de la Junta de la Junta Delegados Vecinales, 2016",
+    "col": "P111_1_H",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "111",
+    "desc_q": "Conformación de la Junta de la Junta Delegados Vecinales, 2016",
+    "col": "P111_2",
+    "desc_col": "¿La Junta de Delegados Vecinales se encuentra en actividad?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

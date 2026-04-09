@@ -1,0 +1,11 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P88_02",
+    "desc_q": "Vía secundaria",
+    "col": "via_secundaria",
+    "desc_col": "Tipo de vía secundaria",
+    "values": "1: Trocha o sendero;2: Camino de herradura;3: Vía fluvial / lacustre;4: Camino carrozable;5: Vía aérea;6: Ferrocarril;7: Carretera afirmada;8: Carretera asfaltada;9: Avenida",
+    "value_pos": null
+  }
+]

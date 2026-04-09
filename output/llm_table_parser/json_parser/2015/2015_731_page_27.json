@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81_2_H",
+    "desc_col": "Efectivos de serenazgo al 30 de junio 2015 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81A_2",
+    "desc_col": "Número de Puestos de vigilancia al 30 de junio 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "82"
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "VFI_P82",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento/ Auto y/o camioneta?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_1_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_1_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_1_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número de No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento/ Motocicleta?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_2_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_2_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_2_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número de No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Bicicleta?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_3_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_3_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_3_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número de No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82_4",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Radio comunicador?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_4_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento /Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_4_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_4_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número de No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82_05",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Cámara de video vigilancia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_5_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_5_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "82",
+    "desc_q": "El serenazgo dispone de equipamiento, 2015",
+    "col": "P82A_5_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento /",
+    "values": "",
+    "value_pos": null
+  }
+]

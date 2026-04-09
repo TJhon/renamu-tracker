@@ -1,0 +1,350 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P55_L_03",
+    "desc_q": "Número de locales / Museos",
+    "col": "P55_L_03",
+    "desc_col": "Número de locales / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_L_04",
+    "desc_q": "Número de locales / Bibliotecas Municipales",
+    "col": "P55_L_04",
+    "desc_col": "Número de locales / Bibliotecas Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_L_05",
+    "desc_q": "Número de locales / Casa de la Cultura",
+    "col": "P55_L_05",
+    "desc_col": "Número de locales / Casa de la Cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_L_06",
+    "desc_q": "Número de locales / Otro",
+    "col": "P55_L_06",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_V_01",
+    "desc_q": "Número de visitantes / Usuarios / Teatros y Teatrines",
+    "col": "P55_V_01",
+    "desc_col": "Número de visitantes / Usuarios / Teatros y Teatrines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_V_02",
+    "desc_q": "Número de visitantes / Usuarios / Cines",
+    "col": "P55_V_02",
+    "desc_col": "Número de visitantes / Usuarios / Cines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_V_03",
+    "desc_q": "Número de visitantes / Usuarios / Museos",
+    "col": "P55_V_03",
+    "desc_col": "Número de visitantes / Usuarios / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_V_04",
+    "desc_q": "Número de visitantes/usuarios / Bibliotecas Municipales",
+    "col": "P55_V_04",
+    "desc_col": "Número de visitantes/usuarios / Bibliotecas Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_V_05",
+    "desc_q": "Número de visitantes/usuarios / Casa de la Cultura",
+    "col": "P55_V_05",
+    "desc_col": "Número de visitantes/usuarios / Casa de la Cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_V_06",
+    "desc_q": "Número de visitantes / Usuarios / Otro",
+    "col": "P55_V_06",
+    "desc_col": "Número de visitantes / Usuarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P55_O",
+    "desc_q": "Locales y beneficiarios / Otro / Descripción",
+    "col": "P55_O",
+    "desc_col": "Locales y beneficiarios / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "56 CUADRO_C047 Casos atendidos en la DEMUNA, en el 2007"
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "VFI_P56",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P56",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56",
+    "desc_q": "La municipalidad tiene DEMUNA",
+    "col": "P56",
+    "desc_col": "La municipalidad tiene DEMUNA",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_01",
+    "desc_q": "Casos atendidos / Pensión por alimentos",
+    "col": "P56_01",
+    "desc_col": "Casos atendidos / Pensión por alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_02",
+    "desc_q": "Casos atendidos / Tenencia",
+    "col": "P56_02",
+    "desc_col": "Casos atendidos / Tenencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_03",
+    "desc_q": "Casos atendidos / Régimen de visitas",
+    "col": "P56_03",
+    "desc_col": "Casos atendidos / Régimen de visitas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_04",
+    "desc_q": "Casos atendidos / Filiación extramatrimonial",
+    "col": "P56_04",
+    "desc_col": "Casos atendidos / Filiación extramatrimonial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_05",
+    "desc_q": "Casos atendidos / Indocumentación infantil",
+    "col": "P56_05",
+    "desc_col": "Casos atendidos / Indocumentación infantil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_06",
+    "desc_q": "Casos atendidos / Matrícula escolar oportuna",
+    "col": "P56_06",
+    "desc_col": "Casos atendidos / Matrícula escolar oportuna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_07",
+    "desc_q": "Casos atendidos / Derecho a salud",
+    "col": "P56_07",
+    "desc_col": "Casos atendidos / Derecho a salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_08",
+    "desc_q": "Casos atendidos / Contravenciones",
+    "col": "P56_08",
+    "desc_col": "Casos atendidos / Contravenciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_09",
+    "desc_q": "Casos atendidos / Violencia familiar (Maltrato físico y/o psicológico)",
+    "col": "P56_09",
+    "desc_col": "Casos atendidos / Violencia familiar (Maltrato físico y/o psicológico)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_10",
+    "desc_q": "Casos atendidos / Maltrato físico y/o psicológico por personas que no son miembros de la familia",
+    "col": "P56_10",
+    "desc_col": "Casos atendidos / Maltrato físico y/o psicológico por personas que no son miembros de la familia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_11",
+    "desc_q": "Casos atendidos / Abuso sexual",
+    "col": "P56_11",
+    "desc_col": "Casos atendidos / Abuso sexual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_12",
+    "desc_q": "Casos atendidos / Colocación familiar",
+    "col": "P56_12",
+    "desc_col": "Casos atendidos / Colocación familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_13",
+    "desc_q": "Casos atendidos / Otros",
+    "col": "P56_13",
+    "desc_col": "Casos atendidos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C047",
+    "n_q": "P56_14",
+    "desc_q": "No se registraron casos",
+    "col": "P56_14",
+    "desc_col": "No se registraron casos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "57 CUADRO_C048 Locales de atención de salud en funcionamiento en el distrito, en el 2008"
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "VFI_P57",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P57",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57",
+    "desc_q": "El distrito tiene locales de atención de salud",
+    "col": "P57",
+    "desc_col": "El distrito tiene locales de atención de salud",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_01",
+    "desc_q": "Número de establecimientos / Municipalidad / Hospital / Clínica",
+    "col": "P57_M_01",
+    "desc_col": "Número de establecimientos / Municipalidad / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_02",
+    "desc_q": "Número de establecimientos / Municipalidad / Centro de Salud",
+    "col": "P57_M_02",
+    "desc_col": "Número de establecimientos / Municipalidad / Centro de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_03",
+    "desc_q": "Número de establecimientos / Municipalidad / Puesto de Salud",
+    "col": "P57_M_03",
+    "desc_col": "Número de establecimientos / Municipalidad / Puesto de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_04",
+    "desc_q": "Número de establecimientos / Municipalidad / Consultorio médico",
+    "col": "P57_M_04",
+    "desc_col": "Número de establecimientos / Municipalidad / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_05",
+    "desc_q": "Número de establecimientos / Municipalidad / Consultorio odontológico",
+    "col": "P57_M_05",
+    "desc_col": "Número de establecimientos / Municipalidad / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_06",
+    "desc_q": "Número de establecimientos / Municipalidad / Casa de reposo/Asilo",
+    "col": "P57_M_06",
+    "desc_col": "Número de establecimientos / Municipalidad / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_07",
+    "desc_q": "Número de establecimientos / Municipalidad / Farmacia",
+    "col": "P57_M_07",
+    "desc_col": "Número de establecimientos / Municipalidad / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_08",
+    "desc_q": "Número de establecimientos / Municipalidad / Botica",
+    "col": "P57_M_08",
+    "desc_col": "Número de establecimientos / Municipalidad / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C048",
+    "n_q": "P57_M_09",
+    "desc_q": "Número de establecimientos / Municipalidad / Botiquín",
+    "col": "P57_M_09",
+    "desc_col": "Número de establecimientos / Municipalidad / Botiquín",
+    "values": "",
+    "value_pos": null
+  }
+]

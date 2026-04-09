@@ -1,0 +1,317 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2022?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_2_T",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2022 / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_2_M",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2022 / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_2_H",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2022 / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_1",
+    "desc_col": "¿La Municipalidad dispone de unidades móviles como auto y/o camioneta para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_1_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_1_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_1_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_2",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Motocicleta para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_2_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicleta / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_2_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicleta / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_2_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicleta / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_3",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Bicicleta para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_3_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Bicicleta / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_3_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Bicicleta / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_3_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Bicicleta / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_4",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Cuatrimoto para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_4_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Cuatrimoto / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_4_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Cuatrimoto / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_4_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Cuatrimoto / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_5",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Otros para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_5_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_5_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_5_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_5_O",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_6",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Radio comunicador para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_6_1",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Radio comunicador / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_6_2",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Radio comunicador / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_6_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Radio comunicador / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_7",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Cámara de videovigilancia para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_7_1",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_7_2",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70A_7_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2022",
+    "col": "P70_8",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Otro para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

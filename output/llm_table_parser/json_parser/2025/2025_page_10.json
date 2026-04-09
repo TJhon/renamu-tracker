@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT18",
+    "desc_col": "Asistencia técnica que requiere / Población y Desarrollo",
+    "values": "0: No; 18: Sí",
+    "value_pos": 18
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT19",
+    "desc_col": "Asistencia técnica que requiere / Política de Desarrollo e Inclusión Social",
+    "values": "0: No; 19: Sí",
+    "value_pos": 19
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT20",
+    "desc_col": "Asistencia técnica que requiere / Presupuesto con Enfoque a Resultados y Enfoque de Género",
+    "values": "0: No; 20: Sí",
+    "value_pos": 20
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT21",
+    "desc_col": "Asistencia técnica que requiere / Procedimientos Administrativos",
+    "values": "0: No; 21: Sí",
+    "value_pos": 21
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT22",
+    "desc_col": "Asistencia técnica que requiere / Programa de Incentivos a la Mejora de la Gestión Municipal",
+    "values": "0: No; 22: Sí",
+    "value_pos": 22
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT23",
+    "desc_col": "Asistencia técnica que requiere / Sistema de Focalización de Hogares",
+    "values": "0: No; 23: Sí",
+    "value_pos": 23
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT24",
+    "desc_col": "Asistencia técnica que requiere / Otro",
+    "values": "0: No; 24: Sí",
+    "value_pos": 24
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_AT24_O",
+    "desc_col": "Asistencia técnica que requiere / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C1",
+    "desc_col": "Capacitación que requiere / Acondicionamiento Territorial y Desarrollo Urbano",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C2",
+    "desc_col": "Capacitación que requiere / Administración Tributaria Municipal",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C3",
+    "desc_col": "Capacitación que requiere / Catastro Urbano y Rural",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C4",
+    "desc_col": "Capacitación que requiere / Control Gubernamental (Atención de Auditorías, Control Interno)",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C5",
+    "desc_col": "Capacitación que requiere / Estrategia de Gestión Financiera del Riesgo de Desastres",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C6",
+    "desc_col": "Capacitación que requiere / Evaluación del Riesgo de Desastres",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C7",
+    "desc_col": "Capacitación que requiere / Formulación y Evaluación de Proyectos Públicos",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C8",
+    "desc_col": "Capacitación que requiere / Gestión de Estándares para mejorar la Atención al Ciudadano",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C9",
+    "desc_col": "Capacitación que requiere / Gestión del Desarrollo Urbano Territorial",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C10",
+    "desc_col": "Capacitación que requiere / Gobierno Electrónico Municipal",
+    "values": "0: No; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C11",
+    "desc_col": "Capacitación que requiere / Indicadores de Gestión Municipal",
+    "values": "0: No; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C12",
+    "desc_col": "Capacitación que requiere / Metodología de Implementación de Portal de Transparencia Estándar",
+    "values": "0: No; 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C13",
+    "desc_col": "Capacitación que requiere / Metodología de Simplificación Administrativa Pública",
+    "values": "0: No; 13: Sí",
+    "value_pos": 13
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C14",
+    "desc_col": "Capacitación que requiere / Plan de Prevención y Reducción del Riesgo de Desastres",
+    "values": "0: No; 14: Sí",
+    "value_pos": 14
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C15",
+    "desc_col": "Capacitación que requiere / Plan de Reasentamiento Poblacional",
+    "values": "0: No; 15: Sí",
+    "value_pos": 15
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C16",
+    "desc_col": "Capacitación que requiere / Plan Integral de Reconstrucción",
+    "values": "0: No; 16: Sí",
+    "value_pos": 16
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C17",
+    "desc_col": "Capacitación que requiere / Planificación Estratégica Institucional con Enfoque de Género",
+    "values": "0: No; 17: Sí",
+    "value_pos": 17
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C18",
+    "desc_col": "Capacitación que requiere / Población y Desarrollo",
+    "values": "0: No; 18: Sí",
+    "value_pos": 18
+  },
+  {
+    "cuadro": null,
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C19",
+    "desc_col": "Capacitación que requiere / Política de Desarrollo e Inclusión Social",
+    "values": "0: No; 19: Sí",
+    "value_pos": 19
+  }
+]

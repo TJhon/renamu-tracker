@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_28",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Campos feriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_28",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Campos feriales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_29",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Otro (4)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_29",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro (4) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_29_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro (4) / Especifique (4)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_30",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Otro (5)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_30",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro (5) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_30_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro (5) / Especifique (5)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_31",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS: Empresas proveedoras de insumos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_31",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS / Empresas proveedoras de insumos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_32",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS: Plantas agroindustriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_32",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS / Plantas agroindustriales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_33",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS: Cueros y pieles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_33",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS/ Cueros y pieles / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_34",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS: Granjas avícolas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_34",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS / Granjas avícolas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_35",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS: Establos lecheros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_35",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS / Establos lecheros / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_36",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_36",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_36_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ACTIVIDADES AGROPECUARIAS / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "VFI_P37",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37_1",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para vivienda?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37A_1",
+    "desc_col": "Licencias de habilitación urbana para Vivienda / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

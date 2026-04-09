@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "VFI_P109",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109",
+    "desc_col": "¿La municipalidad realizó acciones para incentivar la conservación del medio ambiente?",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_1",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_2",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_3",
+    "desc_col": "Acciones realizadas / Ejecutó proyectos referidos al tema ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_4",
+    "desc_col": "Acciones realizadas / Dispone de comisión Ambiental Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_5",
+    "desc_col": "Acciones realizadas / Apoyo en la formulación de proyectos sobre problemática ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_6",
+    "desc_col": "Acciones realizadas / Convenios Interinstitucionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_7",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_8",
+    "desc_col": "Acciones realizadas / Atención y apoyo a denuncias ambientales por la población",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_9",
+    "desc_col": "Acciones realizadas / Realizó mediciones acústicas con sonómetro propio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_10",
+    "desc_col": "Acciones realizadas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "109",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación ambiental, 2014",
+    "col": "P109_10_O",
+    "desc_col": "Acciones realizadas / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "PARTICIPACIÓN VECINAL"
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "VFI_P110",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110",
+    "desc_col": "¿En la gestión administrativa de la municipalidad existe participación vecinal?",
+    "values": "1: Existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110_1",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110_2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertando el presupuesto municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110_3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando y controlando los planes económicos locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110_4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En el presupuesto participativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110_5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110_6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En audiencias públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "110",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2015",
+    "col": "P110_7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "",
+    "value_pos": null
+  }
+]

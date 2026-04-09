@@ -1,0 +1,173 @@
+[
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P67_11",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otro",
+    "values": "0: No, 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P67_11_O",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P67_12",
+    "desc_col": "La municipalidad no realizó campañas en coordinación con el MINSA",
+    "values": "0: No, 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_1",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Vacunación",
+    "values": "0: No, 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_2",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control del crecimiento y desarrollo del niño",
+    "values": "0: No, 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_3",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de infecciones respiratorias agudas",
+    "values": "0: No, 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_4",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de enfermedades diarreicas agudas",
+    "values": "0: No, 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_5",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de tuberculosis",
+    "values": "0: No, 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_6",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Planificación familiar",
+    "values": "0: No, 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_7",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Control de infecciones de transmisión sexual y VIH/SIDA",
+    "values": "0: No, 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_10",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Prevención y reducción de la anemia",
+    "values": "0: No, 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_11",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Preparación y respuesta frente al COVID-19",
+    "values": "0: No, 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_8",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Otro",
+    "values": "0: No, 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_8_O",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud en coordinación con el Ministerio de Salud (MINSA), 2021",
+    "col": "P68_9",
+    "desc_col": "La municipalidad no implementó programas de control y prevención de la salud en coordinación con el MINSA",
+    "values": "0: No, 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "h2": "SEGURIDAD CIUDADANA"
+  },
+  {
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "VFI_P69",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_1",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de diciembre 2021?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_1_T",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2021 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_1_M",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2021 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "68",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo,al 31 de diciembre 2021 y 31 de marzo 2022",
+    "col": "P69_1_H",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2021 / Hombre",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V092",
+    "desc_q": "Salud / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V093",
+    "desc_q": "Salud / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V094",
+    "desc_q": "Salud / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V095",
+    "desc_q": "Salud / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V096",
+    "desc_q": "Salud / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V097",
+    "desc_q": "Salud / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V098",
+    "desc_q": "Salud / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V101",
+    "desc_q": "Otra / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V102",
+    "desc_q": "Otra / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V103",
+    "desc_q": "Otra / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V104",
+    "desc_q": "Otra / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V105",
+    "desc_q": "Otra / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V106",
+    "desc_q": "Otra / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V107",
+    "desc_q": "Otra / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V108",
+    "desc_q": "Otra / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Licencias comerciales, industriales y de actividades profesionales otorgadas por la municipalidad, en el 2003 y 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V101",
+    "desc_q": "Licencias / Comercio / Bodegas/ 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V102",
+    "desc_q": "Licencias / Comercio / Farmacias y boticas / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V103",
+    "desc_q": "Licencias / Comercio / Panaderías / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V104",
+    "desc_q": "Licencias / Comercio / Ferreterías / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V105",
+    "desc_q": "Licencias / Comercio / Otros / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V106",
+    "desc_q": "Licencias/Servicios / Hoteles, hostales y otros / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V107",
+    "desc_q": "Licencias / Servicios / Restaurantes / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V108",
+    "desc_q": "Licencias / Servicios / Agencias de viajes / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V109",
+    "desc_q": "Licencias / Servicios / Mensajerías / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V110",
+    "desc_q": "Licencias/Servicios / Courier / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V111",
+    "desc_q": "Licencias / Servicios / Limpieza/2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V112",
+    "desc_q": "Licencias / Servicios / Otros / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V113",
+    "desc_q": "Licencias / Artesanía y Manufactura / Artesanía / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V114",
+    "desc_q": "Licencias / Artesanía y Manufactura / Fábricas / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V115",
+    "desc_q": "Licencias / Artesanía y Manufactura / Otros / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V116",
+    "desc_q": "Licencias / Construcción / Constructoras / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V117",
+    "desc_q": "Licencias / Construcción / Construcción de viviendas / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V118",
+    "desc_q": "Licencias / Construcción / Hoteles / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V119",
+    "desc_q": "Licencias / Construcción / Restaurantes / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V120",
+    "desc_q": "Licencias / Construcción / Otros / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V121",
+    "desc_q": "Licencias / Actividades profesionales / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V122",
+    "desc_q": "Licencias / Otros / Transporte / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V123",
+    "desc_q": "Licencias / Otros / Cabinas públicas / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V124",
+    "desc_q": "Licencias / Otros / Colegios profesionales / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V125",
+    "desc_q": "Licencias / Otros / Otros / 2003",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V201",
+    "desc_q": "Licencias / Comercio / Bodegas/ 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V202",
+    "desc_q": "Licencias / Comercio / Farmacias y boticas / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V203",
+    "desc_q": "Licencias / Comercio / Panaderías / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V204",
+    "desc_q": "Licencias / Comercio / Ferreterías / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V205",
+    "desc_q": "Licencias / Comercio / Otros / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V206",
+    "desc_q": "Licencias / Servicios / Hoteles, hostales y otros / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V207",
+    "desc_q": "Licencias / Servicios / Restaurantes / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V208",
+    "desc_q": "Licencias / Servicios / Agencias de viajes / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V209",
+    "desc_q": "Licencias / Servicios / Mensajerías / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V210",
+    "desc_q": "Licencias / Servicios / Courier / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V211",
+    "desc_q": "Licencias / Servicios / Limpieza / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V212",
+    "desc_q": "Licencias / Servicios / Otros / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V213",
+    "desc_q": "Licencias / Artesanía y Manufactura / Artesanía / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V214",
+    "desc_q": "Licencias / Artesanía y Manufactura/Fábricas / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V215",
+    "desc_q": "Licencias / Artesanía y Manufactura / Otros / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V216",
+    "desc_q": "Licencias / Construcción / Constructoras / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V217",
+    "desc_q": "Licencias / Construcción / Construcción de viviendas / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V218",
+    "desc_q": "Licencias / Construcción / Hoteles / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "V219",
+    "desc_q": "Licencias / Construcción / Restaurantes / 2004",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

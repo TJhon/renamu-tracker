@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_3",
+    "desc_col": "¿La municipalidad informó que tiene Club de Madres?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_3_1",
+    "desc_col": "Club de Madres / Número de organizaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_3_2",
+    "desc_col": "Club de Madres / Total de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_4",
+    "desc_col": "¿La municipalidad informó que tiene Organizaciones Juveniles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_4_1",
+    "desc_col": "Organizaciones Juveniles / Número de organizaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_4_2",
+    "desc_col": "Organizaciones Juveniles / Total de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_5",
+    "desc_col": "¿La municipalidad informó que tiene Otras Organizaciones Sociales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_5_1",
+    "desc_col": "Otras Organizaciones Sociales / Número de organizaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_5_2",
+    "desc_col": "Otras Organizaciones Sociales / Total de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60A",
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2019",
+    "col": "P60A_5_O",
+    "desc_col": "Otras Organizaciones Sociales / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "VFI_P60B",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_T_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Total de beneficiarios / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_1_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Niñas y niños de 0 a 6 años / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_2_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Niñas y niños de 7 a 13 años / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_3_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Madres gestantes / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_4_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Madres en período de lactancia / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_5_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas afectadas con tuberculosis / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_6_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Adulto Mayor / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_7_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas con alguna discapacidad / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "60B",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de diciembre 2019",
+    "col": "P60B_8_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Otros beneficiarios / Número de beneficiarios y/o afiliados al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2019",
+    "col": "VFI_P61",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2019",
+    "col": "P61",
+    "desc_col": "¿La Municipalidad ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490?",
+    "values": "1: Sí; 2: No implementó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2019",
+    "col": "P61_1",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Número de locales en funcionamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2019",
+    "col": "P61_2",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Total de beneficiarios al 31 de diciembre 2019",
+    "values": null,
+    "value_pos": null
+  }
+]

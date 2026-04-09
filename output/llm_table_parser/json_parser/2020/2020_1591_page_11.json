@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "VFI_P67",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_1",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud preventiva",
+    "values": "1: Sí, 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_2",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de vacunación",
+    "values": "2: Sí, 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_3",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de educación sanitaria",
+    "values": "3: Sí, 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_4",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de primeros auxilios",
+    "values": "4: Sí, 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_5",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de control de epidemias",
+    "values": "5: Sí, 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_6",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de profilaxis local",
+    "values": "6: Sí, 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_7",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de fumigación",
+    "values": "7: Sí, 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_8",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud mental",
+    "values": "8: Sí, 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_9",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de registro y certificación de canes",
+    "values": "9: Sí, 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_10",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de esterilización de perros y gatos",
+    "values": "10: Sí, 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_11",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otro",
+    "values": "11: Sí, 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_11_O",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "67",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2019",
+    "col": "P67_12",
+    "desc_col": "La municipalidad no realizó campañas en coordinación con el MINSA",
+    "values": "12: Sí, 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "P68_1",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Vacunación",
+    "values": "1: Sí, 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "P68_2",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control del crecimiento y desarrollo del niño",
+    "values": "2: Sí, 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "P68_3",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de infecciones respiratorias agudas",
+    "values": "3: Sí, 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "P68_4",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de enfermedades diarreicas agudas",
+    "values": "4: Sí, 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "P68_5",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de tuberculosis",
+    "values": "5: Sí, 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "P68_6",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Planificación familiar",
+    "values": "6: Sí, 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "68",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2019",
+    "col": "P68_7",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de infecciones de transmisión sexual y VIH/SIDA",
+    "values": "7: Sí, 0: No",
+    "value_pos": 7
+  }
+]

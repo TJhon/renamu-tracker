@@ -1,0 +1,92 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P20_13",
+    "desc_q": "Requerimiento de capacitación/ Presupuesto con Enfoque a Resultados",
+    "col": "P20_13",
+    "desc_col": "Requerimiento de capacitación/ Presupuesto con Enfoque a Resultados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_14",
+    "desc_q": "Requerimiento de capacitación/ Simplificación Administrativa y Costeo",
+    "col": "P20_14",
+    "desc_col": "Requerimiento de capacitación/ Simplificación Administrativa y Costeo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_15",
+    "desc_q": "Requerimiento de capacitación/ Gobierno Electrónico Municipal",
+    "col": "P20_15",
+    "desc_col": "Requerimiento de capacitación/ Gobierno Electrónico Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_16",
+    "desc_q": "Requerimiento de capacitación/ Turismo",
+    "col": "P20_16",
+    "desc_col": "Requerimiento de capacitación/ Turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_17",
+    "desc_q": "Requerimiento de capacitación/ Derechos y Desarrollo Humano",
+    "col": "P20_17",
+    "desc_col": "Requerimiento de capacitación/ Derechos y Desarrollo Humano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_18",
+    "desc_q": "Requerimiento de capacitación/ Formulación y Ejecución de Proyectos",
+    "col": "P20_18",
+    "desc_col": "Requerimiento de capacitación/ Formulación y Ejecución de Proyectos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_19",
+    "desc_q": "Requerimiento de capacitación/ Licencias de Edificación (construcción)",
+    "col": "P20_19",
+    "desc_col": "Requerimiento de capacitación/ Licencias de Edificación (construcción)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_20",
+    "desc_q": "Requerimiento de capacitación/ Promoción y Desarrollo de las MYPES",
+    "col": "P20_20",
+    "desc_col": "Requerimiento de capacitación/ Promoción y Desarrollo de las MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_21",
+    "desc_q": "Capacitación que requiere / Otro",
+    "col": "P20_21",
+    "desc_col": "Capacitación que requiere / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_O",
+    "desc_q": "Capacitación que requiere / Otro / Descripción",
+    "col": "P20_O",
+    "desc_col": "Capacitación que requiere / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

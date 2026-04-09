@@ -1,0 +1,68 @@
+[
+  {
+    "n_q": "P21_30",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local/ Motivo por el que no tiene",
+    "col": "p21_30",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local/ Motivo por el que no tiene",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_31",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental",
+    "col": "p21_31",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_32",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental/ Año de publicación",
+    "col": "p21_32",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental/ Año de publicación",
+    "values": ""
+  },
+  {
+    "n_q": "P21_33",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental/ Motivo por el que no tiene",
+    "col": "p21_33",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acción Ambiental/ Motivo por el que no tiene",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_34",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social",
+    "col": "p21_34",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_35",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social/ Año de publicación",
+    "col": "p21_35",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social/ Año de publicación",
+    "values": ""
+  },
+  {
+    "n_q": "P21_36",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social/ Motivo por el que no tiene",
+    "col": "p21_36",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia social/ Motivo por el que no tiene",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro"
+  },
+  {
+    "n_q": "P21_37",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Vial",
+    "col": "p21_37",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Vial",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P21_38",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Vial/ Año de publicación",
+    "col": "p21_38",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Vial/ Año de publicación",
+    "values": ""
+  }
+]

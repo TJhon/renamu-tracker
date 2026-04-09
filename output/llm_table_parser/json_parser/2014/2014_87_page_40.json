@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "72",
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, 2013",
+    "col": "P72",
+    "desc_col": "fomento a la artesanía",
+    "values": "0: No realizó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "72",
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, 2013",
+    "col": "P72_01",
+    "desc_col": "Acciones de fomento a la artesanía / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "72",
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, 2013",
+    "col": "P72_02",
+    "desc_col": "Acciones de fomento a la artesanía / Realización de ferias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "72",
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, 2013",
+    "col": "P72_03",
+    "desc_col": "Acciones de fomento a la artesanía / Apoyo a la comercialización de productos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "72",
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, 2013",
+    "col": "P72_04",
+    "desc_col": "Acciones de fomento a la artesanía / Capacitación a artesanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "72",
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, 2013",
+    "col": "P72_05",
+    "desc_col": "Acciones de fomento a la artesanía / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "72",
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, 2013",
+    "col": "P72_O",
+    "desc_col": "Acciones de fomento a la artesanía / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "C8"
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "VFI_C8",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8",
+    "desc_col": "La municipalidad tiene establecimientos registrados",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_01",
+    "desc_col": "Número de establecimientos / Establecimiento de hospedaje (Hoteles, hostales y otros)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_02",
+    "desc_col": "Número de establecimientos / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_03",
+    "desc_col": "Número de establecimientos / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_04",
+    "desc_col": "Número de establecimientos / Empresas de transporte turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_05",
+    "desc_col": "Número de establecimientos / Empresas de transporte interprovincial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_06",
+    "desc_col": "Número de establecimientos / Empresas de transporte / Urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_07",
+    "desc_col": "Número de establecimientos / Empresas de transporte / Aéreo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_08",
+    "desc_col": "Número de establecimientos / Empresas de transporte / Acuático",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_09",
+    "desc_col": "Número de establecimientos / Empresas de alquiler de autos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_10",
+    "desc_col": "Número de establecimientos / Empresas de servicios de seguridad privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_11",
+    "desc_col": "Número de establecimientos / Entidades financieras y de seguros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_12",
+    "desc_col": "Número de establecimientos / Establecimientos de venta de artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_13",
+    "desc_col": "Número de establecimientos / Discotecas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_14",
+    "desc_col": "Número de establecimientos / Peñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_15",
+    "desc_col": "Número de establecimientos / Juegos de casinos y máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_16",
+    "desc_col": "Número de establecimientos/ Peluquerías y salones de spa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "C8",
+    "desc_q": "Establecimientos de servicios registrados en la municipalidad, al 31 de diciembre del 2013",
+    "col": "C8_17",
+    "desc_col": "Número de establecimientos/ Gimnasios",
+    "values": "",
+    "value_pos": null
+  }
+]

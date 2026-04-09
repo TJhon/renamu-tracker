@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_7_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_7_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_7_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_7_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_7_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_7_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_8",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de defunción?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_8_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_8_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_8_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_8_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_8_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  }
+]

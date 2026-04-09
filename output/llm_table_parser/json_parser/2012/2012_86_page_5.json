@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "15",
+    "desc_q": "Líneas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2012",
+    "col": "VFI_P15",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "15",
+    "desc_q": "Líneas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2012",
+    "col": "P15",
+    "desc_col": "La municipalidad tiene líneas de comunicación",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "15",
+    "desc_q": "Líneas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2012",
+    "col": "P15_01",
+    "desc_col": "Número de líneas de comunicación / Líneas de telefonía Fija",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "15",
+    "desc_q": "Líneas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2012",
+    "col": "P15_02",
+    "desc_col": "Número de líneas de comunicación / Líneas de telefonía Móvil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "15",
+    "desc_q": "Líneas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2012",
+    "col": "P15_03",
+    "desc_col": "Número de líneas de comunicación / Líneas destinadas a Fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "15",
+    "desc_q": "Líneas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2012",
+    "col": "P15_04",
+    "desc_col": "Número de líneas de comunicación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C005",
+    "n_q": "15",
+    "desc_q": "Líneas de comunicación (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2012",
+    "col": "P15_O",
+    "desc_col": "Número de líneas de comunicación / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2012",
+    "col": "VFI_P16",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2012",
+    "col": "P16",
+    "desc_col": "La municipalidad tiene red informática local",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C006",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2012",
+    "col": "P16_01",
+    "desc_col": "Número de PC interconectadas a red informática local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "17",
+    "desc_q": "Acceso a Internet en la municipalidad, 2012",
+    "col": "VFI_P17",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "17",
+    "desc_q": "Acceso a Internet en la municipalidad, 2012",
+    "col": "P17",
+    "desc_col": "La municipalidad tiene acceso a Internet",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "17",
+    "desc_q": "Acceso a Internet en la municipalidad, 2012",
+    "col": "P17_01",
+    "desc_col": "Número de PC que tienen acceso a Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C007",
+    "n_q": "17",
+    "desc_q": "Acceso a Internet en la municipalidad, 2012",
+    "col": "P17_02",
+    "desc_col": "Tipo de conexión a Internet",
+    "values": "1: Módem analógico (Línea telefónica); 2: ADSL (Speedy, Terra, Telmex, etc.); 3: Fibra Óptica (Línea dedicada); 4: Satelital; 5: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "18",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre del 2011",
+    "col": "VFI_P18",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "18",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre del 2011",
+    "col": "P18",
+    "desc_col": "La municipalidad tiene personal",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "18",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre del 2011",
+    "col": "P18_NH_1",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "18",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre del 2011",
+    "col": "P18_NH_2",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "18",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre del 2011",
+    "col": "P18_NH_3",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Técnicos / Hombre",
+    "values": "",
+    "value_pos": null
+  }
+]

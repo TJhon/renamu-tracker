@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_01",
+    "desc_col": "Principal actividad económica / Agricultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_02",
+    "desc_col": "Principal actividad económica / Ganadería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_03",
+    "desc_col": "Principal actividad económica / Pesca",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_04",
+    "desc_col": "Principal actividad económica / Minería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_05",
+    "desc_col": "Principal actividad económica / Industria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_06",
+    "desc_col": "Principal actividad económica / Petróleo, electricidad y gas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_07",
+    "desc_col": "Principal actividad económica / Construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_08",
+    "desc_col": "Principal actividad económica / Turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_09",
+    "desc_col": "Principal actividad económica / Artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_10",
+    "desc_col": "Principal actividad económica / Comercio, restaurantes y hoteles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_11",
+    "desc_col": "Principal actividad económica / Transportes y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_12",
+    "desc_col": "Principal actividad económica / Finanzas y seguros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_13",
+    "desc_col": "Principal actividad económica / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "80",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito, 2007",
+    "col": "P80_O",
+    "desc_col": "Principal actividad económica / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "VFI_P81",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81",
+    "desc_col": "En el distrito existen servicios de comunicación",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81_01",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Centros comunitarios telefónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81_02",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Centrales telefónicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81_03",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Oficina de correo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81_04",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Antena parabólica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81_05",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Cabinas públicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81_06",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Otro/",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "81",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2007",
+    "col": "P81_O",
+    "desc_col": "Otros tipos de instalaciones de servicios de comunicación / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2007",
+    "col": "VFI_82",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2007",
+    "col": "P82",
+    "desc_col": "La municipalidad tiene registradas emisoras o estaciones de radio",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2007",
+    "col": "P82_N",
+    "desc_col": "Número de Emisoras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2007",
+    "col": "P82_01",
+    "desc_col": "Nombre de la emisora o estación de radio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2007",
+    "col": "P82_02",
+    "desc_col": "Régimen de Propiedad de la Emisora",
+    "values": "1: Privado; 0: Público",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "83",
+    "desc_q": "Alumbrado Público en el distrito, al 2007",
+    "col": "VFI_83",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "83",
+    "desc_q": "Alumbrado Público en el distrito, al 2007",
+    "col": "P83",
+    "desc_col": "El Distrito tiene Alumbrado Público",
+    "values": "1: Si Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Racionamiento de agua potable en el distrito, 2007",
+    "col": "VFI_84",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  }
+]

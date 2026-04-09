@@ -1,0 +1,137 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_13_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Consejo Municipal\n2: En elaboración\n3: Falta de recursos para su elaboración\n4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_13_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_15",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Accesibilidad Local / ¿Tiene?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_15_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Accesibilidad Local / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_15_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Accesibilidad Local / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_15_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Accesibilidad Local / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal\n2: En elaboración\n3: Falta de recursos para su elaboración\n4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_15_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Accesibilidad Local / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_16",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan para la vigilancia, prevención y control del COVID-19 / ¿Tiene?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_16_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan para la vigilancia, prevención y control del COVID-19 / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_16_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan para la vigilancia, prevención y control del COVID-19 / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_16_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan para la vigilancia, prevención y control del COVID-19 / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_16_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan para la vigilancia, prevención y control del COVID-19 / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal\n2: En elaboración\n3: Falta de recursos para su elaboración\n4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_16_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan para la vigilancia, prevención y control del COVID-19 / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_14",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / ¿Tiene?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_14_1_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Especifique (Nombre del instrumento)",
+    "values": "",
+    "value_pos": null
+  }
+]

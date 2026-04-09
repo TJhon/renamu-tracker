@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_10_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de servicios / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de otros productos?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_1",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_2",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_3",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_3_O",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "97"
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97",
+    "desc_col": "¿La municipalidad realizó acciones para incentivar a las micro y pequeñas empresas?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_4",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2016",
+    "col": "P97_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P98",
+    "desc_col": "¿Se realiza producción artesanal en el distrito?",
+    "values": "1: Si se realiza; 0: No se realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P98_1",
+    "desc_col": "Tipo de producción artesanal / Lácteos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P98_2",
+    "desc_col": "Tipo de producción artesanal / Miel de abeja",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P98_3",
+    "desc_col": "Tipo de producción artesanal / Textiles (tejidos de punto, tapiz y plano )",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

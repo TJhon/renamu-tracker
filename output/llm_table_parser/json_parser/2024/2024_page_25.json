@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35_8",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para fábricas industriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35A_8",
+    "desc_col": "Licencias de edificación para fábricas industriales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35_9",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para locales de instituciones del Estado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35A_9",
+    "desc_col": "Licencias de edificación para locales de instituciones del Estado / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35_10",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para terminales de transporte terrestre?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35A_10",
+    "desc_col": "Licencias de edificación para terminales de transporte terrestre / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35_11",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35A_11",
+    "desc_col": "Licencias de edificación para: Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "35",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2023",
+    "col": "P35A_11_O",
+    "desc_col": "Licencias de edificación para: Otro / Especifique la de mayor frecuencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "36",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó verificaciones técnicas a las obras con licencia de edificación, 2023",
+    "col": "VFI_P36",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "36",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó verificaciones técnicas a las obras con licencia de edificación, 2023",
+    "col": "P36",
+    "desc_col": "¿La municipalidad realizó verificaciones técnicas a las obras con licencia de edificación?",
+    "values": "1: Sí; 2: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "36",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó verificaciones técnicas a las obras con licencia de edificación, 2023",
+    "col": "P36_1",
+    "desc_col": "Total de obras con licencias de edificación / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "36",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó verificaciones técnicas a las obras con licencia de edificación, 2023",
+    "col": "P36_2",
+    "desc_col": "Obras con verificación técnica / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "36",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó verificaciones técnicas a las obras con licencia de edificación, 2023",
+    "col": "P36_3",
+    "desc_col": "Total de verificaciones técnicas realizadas a las obras con verificaciones técnicas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "VFI_P37",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37_1",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para vivienda?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37A_1",
+    "desc_col": "Licencias de habilitación urbana para Vivienda / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37_2",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para comercio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37A_2",
+    "desc_col": "Licencias de habilitación urbana para Comercio / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37_3",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para servicio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37A_3",
+    "desc_col": "Licencias de habilitación urbana para Servicio / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37_4",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para industria?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37A_4",
+    "desc_col": "Licencias de habilitación urbana para Industria / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37_5",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37A_5",
+    "desc_col": "Licencias de habilitación urbana / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2023",
+    "col": "P37A_5_O",
+    "desc_col": "Licencias de habilitación urbana / Otro / Especifique la de mayor frecuencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": null,
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2024",
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "38",
+    "n_q": null,
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2024",
+    "col": "P38",
+    "desc_col": "¿La municipalidad dispone de terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso?",
+    "values": "1: Sí; 2: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "38",
+    "n_q": null,
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2024",
+    "col": "P38_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Número de terrenos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": null,
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2024",
+    "col": "P38_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Área total (m2 )",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": null,
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2024",
+    "col": "P38A_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con saneamiento físico y legal / Número de terrenos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": null,
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2024",
+    "col": "P38A_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con factibilidad de servicio de agua, desagüe y electricidad / Número de terrenos",
+    "values": null,
+    "value_pos": null
+  }
+]

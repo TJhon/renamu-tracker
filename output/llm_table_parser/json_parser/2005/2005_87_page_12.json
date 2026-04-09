@@ -1,0 +1,326 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "social y productiva transferidos a la municipalidad, en el 2004",
+    "col": "V5",
+    "desc_col": "Municipalidades que han recibido trasferencia de programas sociales / proyectos",
+    "values": "1: han recibido;0: No han recibido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que el distrito tiene problemas de seguridad",
+    "values": "1: Si tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V2",
+    "desc_col": "Tipo de delito/Robo en viviendas",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V3",
+    "desc_col": "Tipo de delito/ Robos callejeros",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V4",
+    "desc_col": "Tipo de delito/ Pandillaje",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V5",
+    "desc_col": "Tipo de delito/ Drogadicción",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V6",
+    "desc_col": "Tipo de delito/ Alcoholismo",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V7",
+    "desc_col": "Tipo de delito/ Prostitución",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V8",
+    "desc_col": "Tipo de delito/ Narcotráfico",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V9",
+    "desc_col": "Tipo de delito/ Terrorismo",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V10",
+    "desc_col": "Tipo de delito/ Abigeato",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "62",
+    "desc_q": "Problemas que afectan la seguridad del distrito",
+    "col": "V11",
+    "desc_col": "Tipo de delito/ Otro",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "63",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen registradas organizaciones de seguridad vecinal",
+    "values": "1: Si tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "63",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2004",
+    "col": "V2",
+    "desc_col": "Tipo de organización vecinal registrada/ Ronda urbana",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "63",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2004",
+    "col": "V3",
+    "desc_col": "Tipo de organización vecinal registrada/ Ronda campesina",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "63",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2004",
+    "col": "V4",
+    "desc_col": "Tipo de organización vecinal registrada/ Comité vecinal",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "63",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2004",
+    "col": "V5",
+    "desc_col": "Tipo de organización vecinal registrada/ Comité de autodefensa",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "63",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2004",
+    "col": "V6",
+    "desc_col": "Tipo de organización vecinal registrada/ Otro",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0060",
+    "n_q": "64",
+    "desc_q": "Serenazgo de la municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen Serenazgo",
+    "values": "1: SI tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0060",
+    "n_q": "64",
+    "desc_q": "Serenazgo de la municipalidad",
+    "col": "V2",
+    "desc_col": "Número de Efectivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0061",
+    "n_q": "65",
+    "desc_q": "Conformación y funcionamiento del comité de defensa civil, en el 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades que cuentan con el comité de defensa civil / Constituido",
+    "values": "1: Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0061",
+    "n_q": "65",
+    "desc_q": "Conformación y funcionamiento del comité de defensa civil, en el 2004",
+    "col": "V2",
+    "desc_col": "Municipalidades que cuentan con el comité de defensa civil / Funciona solo cuando hay una emergencia",
+    "values": "1: Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0061",
+    "n_q": "65",
+    "desc_q": "Conformación y funcionamiento del comité de defensa civil, en el 2004",
+    "col": "V3",
+    "desc_col": "Municipalidades que cuentan con el comité de defensa civil / No se ha constituido",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "66",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad, al 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades con instrumentos de defensa civil",
+    "values": "1: Con instrumentos;0: Sin instrumentos",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "66",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad, al 2004",
+    "col": "V2",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Plan de acciones de prevención y gestión de riesgos",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "66",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad, al 2004",
+    "col": "V3",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Estadísticas de desastres más frecuentes",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "66",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad, al 2004",
+    "col": "V4",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Mapa de riesgos",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "66",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad, al 2004",
+    "col": "V5",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Registro de inspecciones técnicos de seguridad en defensa civil",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "66",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad, al 2004",
+    "col": "V6",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Otro",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "67",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades con peligros naturales frecuentes",
+    "values": "1: Con peligros;0: Sin peligros",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "67",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V2",
+    "desc_col": "Tipo de peligros naturales/ Lluvias torrenciales",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "67",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V3",
+    "desc_col": "Tipo de peligros naturales/ Desborde de ríos",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "67",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V4",
+    "desc_col": "Tipo de peligros naturales/ Huaycos, avalanchas, deslizamientos",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "67",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V5",
+    "desc_col": "Tipo de peligros naturales/ Inundación",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "67",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V6",
+    "desc_col": "Tipo de peligros naturales/ Materazo",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "67",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V7",
+    "desc_col": "Tipo de peligros naturales/ Hundimiento de tierras",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "20",
+    "desc_q": "Municipalidades que tienen Portal de Transparencia Estándar en la página web, 2016",
+    "col": "VFI_P20",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "20",
+    "desc_q": "Municipalidades que tienen Portal de Transparencia Estándar en la página web, 2016",
+    "col": "P20",
+    "desc_col": "¿La municipalidad tiene Portal de Transparencia Estándar?",
+    "values": "1: Si y está actualizado;2: Si y está desactualizado;3: No tiene, porque está en proceso de implementación;4: No tiene, porque desconoce cómo implementarlo",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "20",
+    "desc_q": "Municipalidades que tienen Portal de Transparencia Estándar en la página web, 2016",
+    "col": "P20_Portal",
+    "desc_col": "Dirección Web del Portal de Transparencia Estándar",
+    "values": "",
+    "value_pos": null
+  }
+]

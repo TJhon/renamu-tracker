@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_3",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71_4",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio médico?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_4",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71_5",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio odontológico?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_5",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71_6",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Casa de reposo / Asilo?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_6",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Casa de reposo / Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71_7",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de rehabilitación?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_7",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Centro de rehabilitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71_8",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Farmacia?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_8",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71_9",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botica?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_9",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71_10",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botiquín comunal (Local)?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "71",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2017",
+    "col": "P71A_10",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad/ Botiquín comunal (Local)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016"
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016",
+    "col": "VFI_P72",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016",
+    "col": "P72",
+    "desc_col": "¿La municipalidad realizó campañas en coordinación con el Ministerio de Salud?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016",
+    "col": "P72_1",
+    "desc_col": "La municipalidad realizó / Campañas de salud preventiva",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016",
+    "col": "P72_2",
+    "desc_col": "La municipalidad realizó / Campañas de vacunación",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016",
+    "col": "P72_3",
+    "desc_col": "La municipalidad realizó / Campañas de educación sanitaria",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016",
+    "col": "P72_4",
+    "desc_col": "La municipalidad realizó / Campañas de primeros auxilios",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C67",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, 2016",
+    "col": "P72_5",
+    "desc_col": "La municipalidad realizó / Campañas de control de epidemias",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

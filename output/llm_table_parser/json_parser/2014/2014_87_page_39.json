@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "70",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2014",
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "70",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2014",
+    "col": "P70",
+    "desc_col": "La municipalidad tiene Oficina de Programación de Inversiones (OPI)",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "70",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2014",
+    "col": "P70_01",
+    "desc_col": "Razón por la que no dispone de OPI la Municipalidad",
+    "values": "1: No tiene personal especializado;2: Desconoce cómo integrarse al SNIP;3: Desconoce la función del SNIP;4: Falta de presupuesto para implementarla;5: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "70",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2014",
+    "col": "P70_O",
+    "desc_col": "Razón por la que no dispone de OPI la Municipalidad / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "VFI_P71",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71",
+    "desc_col": "El distrito tiene producción artesanal",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_01",
+    "desc_col": "Producción artesanal / Lácteos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_02",
+    "desc_col": "Producción artesanal / Miel de abeja",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_03",
+    "desc_col": "Producción artesanal / Textiles (tejidos de punto, tapiz)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_04",
+    "desc_col": "Producción artesanal / Alfarería – cerámica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_05",
+    "desc_col": "Producción artesanal / Joyería – orfebrería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_06",
+    "desc_col": "Producción artesanal / Fibras vegetales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_07",
+    "desc_col": "Producción artesanal / Madera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_08",
+    "desc_col": "Producción artesanal / Cuero, pieles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_09",
+    "desc_col": "Producción artesanal / Bisutería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_10",
+    "desc_col": "Producción artesanal / Mates burilados (repujados / tallado en calabaza)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_11",
+    "desc_col": "Producción artesanal / Manualidades",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_12",
+    "desc_col": "Producción artesanal / Instrumentos musicales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_13",
+    "desc_col": "Producción artesanal / Imaginería (yeso, pasta de arroz)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_14",
+    "desc_col": "Producción artesanal / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "71",
+    "desc_q": "Producción artesanal en el distrito, 2014",
+    "col": "P71_O",
+    "desc_col": "Producción artesanal / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Instituto Nacional de Estadística e Informática - Registro Nacional de Municipalidades 2014"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P72",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P72",
+    "desc_col": "La municipalidad realizó acciones de",
+    "values": "1: Realizó",
+    "value_pos": 1
+  }
+]

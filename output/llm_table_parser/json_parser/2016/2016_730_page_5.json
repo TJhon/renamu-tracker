@@ -1,0 +1,92 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_13_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Reglamento de Organización y Funciones / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_13_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Reglamento de Organización y Funciones / Motivo por el que no tiene",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_14",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Organización y Funciones",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_14_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Organización y Funciones / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_14_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Organización y Funciones / Motivo por el que no tiene",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_15",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Cuadro de Asignación de Personal",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_15_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Cuadro de Asignación de Personal / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_15_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Cuadro de Asignación de Personal / Motivo por el que no tiene",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_16",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Procesos y Procedimientos",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P25_16_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Manual de Procesos y Procedimientos / Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

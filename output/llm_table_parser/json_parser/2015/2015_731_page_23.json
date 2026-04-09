@@ -1,0 +1,149 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P74_16",
+    "desc_col": "Problemas que afectan la seguridad / Extorsión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P74_17",
+    "desc_col": "Problemas que afectan la seguridad / Accidentes de tránsito (Atropellos, choques)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P74_18",
+    "desc_col": "Problemas que afectan la seguridad / Abigeato",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P74_19",
+    "desc_col": "Problemas que afectan la seguridad / Comercio informal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P74_20",
+    "desc_col": "Problemas que afectan la seguridad / Expendio de licor a menores de edad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P74_21",
+    "desc_col": "Problemas que afectan la seguridad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P74_21_O",
+    "desc_col": "Problemas que afectan la seguridad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014"
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75",
+    "desc_col": "¿La Municipalidad realizó acciones para prevenir el consumo de drogas y alcohol?",
+    "values": "1: Realizaron;0: No realizaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75_1",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Conformación de un Comité Multisectorial de prevención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75_2",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Convenios de cooperación de prevención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75_3",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención en instituciones educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75_4",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención y fortalecimiento en familias (Comités vecinales, club de madres y comités del Programa de Vaso de Leche)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75_5",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Campañas de concientización en ferias, medios de comunicación y otros eventos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75_6",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Actividades recreativas, deportivas, culturales y de formación de valores",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "75",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, en el 2014",
+    "col": "P75_7",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por la Comisión Nacional para el Desarrollo y Vida sin Drogas",
+    "values": "",
+    "value_pos": null
+  }
+]

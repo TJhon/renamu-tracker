@@ -1,0 +1,416 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P61_12",
+    "desc_q": "Fenómenos naturales mas frecuentes / Lluvia Intensa",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P61_13",
+    "desc_q": "Fenómenos naturales mas frecuentes / Inundación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P61_14",
+    "desc_q": "Fenómenos naturales mas frecuentes / Sequía",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "VFI_P62",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, de enero al 30 de junio del 2007",
+    "col": "Municipalidad que informo sobre la pregunta",
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_H_01",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, de enero al 30 de junio del 2007",
+    "col": "Número de nacimientos / Hombre",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_M_01",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, de enero al 30 de junio del 2007",
+    "col": "Número de nacimientos / Mujer",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_H_02",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, de enero al 30 de junio del 2007",
+    "col": "Número de defunciones / Hombre",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_M_02",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, de enero al 30 de junio del 2007",
+    "col": "Número de defunciones / Mujer",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_03",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, de enero al 30 de junio del 2007",
+    "col": "Número de matrimonios",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "P62_04",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, de enero al 30 de junio del 2007",
+    "col": "Número de divorcios",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "VFI_P63",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Municipalidad que informo sobre la pregunta",
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "La municipalidad tiene registradas MYPES",
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_01",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Alimentos y bebidas",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_02",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Cueros y calzados",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_03",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Artesanía",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_04",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Textiles",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_05",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Muebles y accesorios",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_06",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Metalurgia",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_07",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Maquinaria y equipo",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_08",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Número de MYPES / Producen / Otro",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C054",
+    "n_q": "P63_O",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 30 de junio del 2007",
+    "col": "Otros tipos de MYPES / Descripción",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "VFI_P64",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Municipalidad que informo sobre la pregunta",
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "La municipalidad realizó acciones para incentivar a las MYPES",
+    "desc_col": null,
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_01",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Acciones realizadas / Promoción y publicidad",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_02",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Acciones realizadas / Realización de ferias y concursos",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_03",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Acciones realizadas / Convenios con ONG, empresas privadas",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_04",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_05",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_06",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Acciones realizadas / Otra acción",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_O",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, de enero al 30 de junio del 2007",
+    "col": "Acciones realizadas / Otra acción/ Descripción",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "VFI_P65",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "Municipalidad que informo sobre la pregunta",
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "La municipalidad otorgó concesiones y autorizaciones para el servicio de transporte público urbano",
+    "desc_col": null,
+    "values": "1: Si otorgó; 0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_N_01",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "Número de concesiones / Personas Naturales",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_E_01",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "Número de empresas registradas / Personas Naturales",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_V_01",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "Número de vehículos autorizados / Personas Naturales",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_N_02",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "Número de concesiones / Personas Jurídicas",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_E_02",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "Número de empresas registradas / Personas Jurídicas",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_V_02",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, de enero al 30 de junio del 2007 (solo responder municipalidades provinciales)",
+    "col": "Número de vehículos autorizados / Personas Jurídicas",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "VFI_P66",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2007",
+    "col": "Municipalidad que informo sobre la pregunta",
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "P66_N",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2007",
+    "col": "Número de Programas o Proyectos",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "P66_01",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2007",
+    "col": "Programas y proyectos que ejecutó la municipalidad / Nombre del programa / proyecto",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "P66_02",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2007",
+    "col": "Programas y proyectos que ejecutó la municipalidad/ Entidad con la que suscribió el convenio",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "P66_03",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2007",
+    "col": "Programas y proyectos que ejecutó la municipalidad/ Tiempo de duración",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C058",
+    "n_q": "VFI_P67",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad,",
+    "col": "Municipalidad que informo sobre la pregunta",
+    "desc_col": null,
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C058",
+    "n_q": "P67_N",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad,",
+    "col": "Número de obras de inversión aprobadas por el presupuesto",
+    "desc_col": null,
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C058",
+    "n_q": "P67_01",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad,",
+    "col": "Obras de inversión aprobadas por el presupuesto/ Nombre de la Obra",
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

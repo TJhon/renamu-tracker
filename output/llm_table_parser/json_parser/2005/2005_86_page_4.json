@@ -1,0 +1,207 @@
+[
+  {
+    "col": "V28",
+    "desc_col": "2003 / Empleados / Auxiliares / Contratado permanente / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V29",
+    "desc_col": "2003 / Empleados / Auxiliares / Contratado por servicios no personales / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V30",
+    "desc_col": "2003 / Empleados / Auxiliares / Contratado por servicios no personales / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V31",
+    "desc_col": "2003 / Empleados / Auxiliares / Contratado por service / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V32",
+    "desc_col": "2003 / Empleados / Auxiliares / Contratado por service / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V33",
+    "desc_col": "2003 / Obreros / Limpieza / Nombrado / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V34",
+    "desc_col": "2003 / Obreros / Limpieza / Nombrado / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V35",
+    "desc_col": "2003 / Obreros / Limpieza / Contratado permanente / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V36",
+    "desc_col": "2003 / Obreros / Limpieza / Contratado permanente / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V37",
+    "desc_col": "2003 / Obreros / Limpieza / Contratado por servicios no personales / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V38",
+    "desc_col": "2003 / Obreros / Limpieza / Contratado por servicios no personales / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V39",
+    "desc_col": "2003 / Obreros / Limpieza / Contratado por service / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V40",
+    "desc_col": "2003 / Obreros / Limpieza / Contratado por service / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V41",
+    "desc_col": "2003 / Obreros / Otros / Nombrado / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V42",
+    "desc_col": "2003 / Obreros / Otros / Nombrado / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V43",
+    "desc_col": "2003 / Obreros / Otros / Contratado permanente / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V44",
+    "desc_col": "2003 / Obreros / Otros / Contratado permanente / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V45",
+    "desc_col": "2003 / Obreros / Otros / Contratado por servicios no personales / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V46",
+    "desc_col": "2003 / Obreros / Otros / Contratado por servicios no personales / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V47",
+    "desc_col": "2003 / Obreros / Otros / Contratado por service / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V48",
+    "desc_col": "2003 / Obreros / Otros / Contratado por service / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V49",
+    "desc_col": "2003 / Personal de Vigilancia / Nombrado / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V50",
+    "desc_col": "2003 / Personal de Vigilancia / Nombrado / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V51",
+    "desc_col": "2003 / Personal de Vigilancia / Contratado permanente / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V52",
+    "desc_col": "2003 / Personal de Vigilancia / Contratado permanente / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V53",
+    "desc_col": "2003 / Personal de Vigilancia / Contratado por servicios no personales / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V54",
+    "desc_col": "2003 / Personal de Vigilancia / Contratado por servicios no personales / Mujer",
+    "values": "2/;"
+  },
+  {
+    "col": "V55",
+    "desc_col": "2003 / Personal de Vigilancia / Contratado por service / Hombre",
+    "values": "2/;"
+  },
+  {
+    "col": "V56",
+    "desc_col": "2003 / Personal de Vigilancia / Contratado por service / Mujer",
+    "values": "2/;"
+  },
+  {
+    "h2": "1/ Incluye los cargos de confianza"
+  },
+  {
+    "h2": "2/ No incluir al personal de vigilancia"
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16.B",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2004",
+    "col": "V1",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Nombrado / Hombre",
+    "values": "1/;",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16.B",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2004",
+    "col": "V2",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Nombrado / Mujer",
+    "values": "1/;",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16.B",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2004",
+    "col": "V3",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Contratado permanente / Hombre",
+    "values": "1/;",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16.B",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2004",
+    "col": "V4",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Contratado permanente / Mujer",
+    "values": "1/;",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16.B",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2004",
+    "col": "V5",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Contratado por servicios no personales / Hombre",
+    "values": "1/;",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16.B",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2004",
+    "col": "V6",
+    "desc_col": "2004 / Funcionarios y/o Directivos / Contratado por servicios no personales / Mujer",
+    "values": "1/;",
+    "value_pos": 1
+  }
+]

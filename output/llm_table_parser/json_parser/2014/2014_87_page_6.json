@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_48",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_49",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_50",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_51",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones/ Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_52",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_53",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_54",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Cuadro de Asignación de Personal / Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_55",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Manual de Procedimientos",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_56",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Procedimientos / Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P97_00",
+    "desc_col": "Municipalidad",
+    "values": "0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98",
+    "desc_col": "¿Se realiza producción artesanal en el distrito?",
+    "values": "1: Si realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_1",
+    "desc_col": "Tipo de producción artesanal / Lácteos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_2",
+    "desc_col": "Tipo de producción artesanal / Miel de abeja",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_3",
+    "desc_col": "Tipo de producción artesanal / Textiles (tejidos de punto, tapiz y plano)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_4",
+    "desc_col": "Tipo de producción artesanal / Fibras vegetales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_5",
+    "desc_col": "Tipo de producción artesanal / Alfarería - cerámica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_6",
+    "desc_col": "Tipo de producción artesanal / Mates burilados (repujados)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_7",
+    "desc_col": "Tipo de producción artesanal / Imaginería (yeso, pasta de arroz)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_8",
+    "desc_col": "Tipo de producción artesanal / Joyería – orfebrería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_9",
+    "desc_col": "Tipo de producción artesanal / Bisutería",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_10",
+    "desc_col": "Tipo de producción artesanal / Madera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_11",
+    "desc_col": "Tipo de producción artesanal / Cueros, pieles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_12",
+    "desc_col": "Tipo de producción artesanal / Instrumentos musicales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_13",
+    "desc_col": "Tipo de producción artesanal / Medicina tradicional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_14",
+    "desc_col": "Tipo de producción artesanal / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "98",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2015",
+    "col": "P98_14_O",
+    "desc_col": "Tipo de producción artesanal / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "P99",
+    "desc_col": "¿La municipalidad realizó actividades para fomentar la artesanía en el distrito?",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "P99_1",
+    "desc_col": "Actividades / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "P99_2",
+    "desc_col": "Actividades / Ferias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "P99_3",
+    "desc_col": "Actividades / Apoyo a la comercialización de productos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "P99_4",
+    "desc_col": "Actividades / Capacitación a artesanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "P99_5",
+    "desc_col": "Actividades / Otra actividad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C92",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2014",
+    "col": "P99_5_O",
+    "desc_col": "Actividades / Otra actividad /Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "VFI_P100",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100",
+    "desc_col": "¿La municipalidad realizó actividades para fomentar el turismo en el distrito?",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_1",
+    "desc_col": "Actividades / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_2",
+    "desc_col": "Actividades / Dispone de una oficina de turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_3",
+    "desc_col": "Actividades / Instalación de áreas de información turística operativa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_4",
+    "desc_col": "Actividades / Mejoramiento de la infraestructura de vías de acceso al distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_5",
+    "desc_col": "Actividades / Implementación de nuevos atractivos turísticos",
+    "values": "",
+    "value_pos": null
+  }
+]

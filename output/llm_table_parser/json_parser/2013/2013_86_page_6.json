@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P18_NH_4",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Empleados / Auxiliares / Hombre",
+    "col": "P18_NH_4",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NH_5",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Obreros / De limpieza / Hombre",
+    "col": "P18_NH_5",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Obreros / De limpieza / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NH_6",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Personal de Vigilancia/ Hombre",
+    "col": "P18_NH_6",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Personal de Vigilancia/ Hombre",
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NH_7",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Obreros / Otros / Hombre",
+    "col": "P18_NH_7",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Obreros / Otros / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NM_1",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Funcionarios y/o Directivos / Mujer",
+    "col": "P18_NM_1",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Funcionarios y/o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NM_2",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Empleados / Profesionales / Mujer",
+    "col": "P18_NM_2",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Profesionales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NM_3",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Empleados / Técnicos / Mujer",
+    "col": "P18_NM_3",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Técnicos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NM_4",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Empleados / Auxiliares / Mujer",
+    "col": "P18_NM_4",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Empleados / Auxiliares / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NM_5",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Obreros / De limpieza / Mujer",
+    "col": "P18_NM_5",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Obreros / De limpieza / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NM_6",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado/ Personal de Vigilancia /",
+    "col": "P18_NM_6",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado/ Personal de Vigilancia /",
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_NM_7",
+    "desc_q": "Decreto Legislativo N° 276/ Nombrado / Obreros / Otros / Mujer",
+    "col": "P18_NM_7",
+    "desc_col": "Decreto Legislativo N° 276/ Nombrado / Obreros / Otros / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CH_1",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Funcionarios y/o Directivos / Hombre",
+    "col": "P18_CH_1",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CH_2",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Empleados / Profesionales / Hombre",
+    "col": "P18_CH_2",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CH_3",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Empleados / Técnicos / Hombre",
+    "col": "P18_CH_3",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Técnicos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CH_4",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Empleados / Auxiliares / Hombre",
+    "col": "P18_CH_4",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Empleados / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CH_5",
+    "desc_q": "Contratado permanente / Obreros / De limpieza / Hombre",
+    "col": "P18_CH_5",
+    "desc_col": "Contratado permanente / Obreros / De limpieza / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CH_6",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Personal de Vigilancia / Hombre",
+    "col": "P18_CH_6",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Personal de Vigilancia / Hombre",
+    "values": "2/",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CH_7",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Obreros / Otros / Hombre",
+    "col": "P18_CH_7",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Obreros / Otros / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_CM_1",
+    "desc_q": "Decreto Legislativo N° 276/ Contratado/ Funcionarios y/ o Directivos / Mujer",
+    "col": "P18_CM_1",
+    "desc_col": "Decreto Legislativo N° 276/ Contratado/ Funcionarios y/ o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": 1
+  }
+]

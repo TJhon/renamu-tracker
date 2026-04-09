@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_15",
+    "desc_col": "Requerimiento de capacitación / Políticas de Igualdad de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_16",
+    "desc_col": "Requerimiento de capacitación / Gobierno Electrónico Municipal",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_17",
+    "desc_col": "Requerimiento de capacitación / Metodología de Simplificación Administrativa Pública",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_18",
+    "desc_col": "Requerimiento de capacitación / Metodología de Implementación del Portal de Transparencia Estándar",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_19",
+    "desc_col": "Requerimiento de capacitación / Aplicación de las Normas Contables en la Gestión Municipal con incidencia en la Norma Internacional de Contabilidad del Sector Público (NICSP)",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_20",
+    "desc_col": "Requerimiento de capacitación / Indicadores de Gestión Municipal",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_21",
+    "desc_col": "Requerimiento de capacitación / Sistema de Registro Nacional del Artesano",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_22",
+    "desc_col": "Requerimiento de capacitación / Otro",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P24_22_O",
+    "desc_col": "Requerimiento de capacitación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85",
+    "desc_col": "En el distrito existen fuentes de contaminación",
+    "values": "1: Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_01",
+    "desc_col": "Fuente contaminante / Emanación de gases y partículas de fábrica o refinerías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_02",
+    "desc_col": "Fuente contaminante / Gases de vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_03",
+    "desc_col": "Fuente contaminante / Relaves mineros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_04",
+    "desc_col": "Fuente contaminante / Ruidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_05",
+    "desc_col": "Fuente contaminante / Aguas servidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_06",
+    "desc_col": "Fuente contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_07",
+    "desc_col": "Fuente contaminante / Deforestación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_08",
+    "desc_col": "Fuente contaminante / Crianza de animales domésticos sin control",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_09",
+    "desc_col": "Fuente contaminante / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2008",
+    "col": "P85_O",
+    "desc_col": "Fuente contaminante/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86",
+    "desc_col": "La municipalidad tiene instrumentos de gestión ambiental",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_01",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_02",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_03",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_04",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_05",
+    "desc_col": "Instrumentos de gestión ambiental / Sistema Local de Gestión Ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_06",
+    "desc_col": "Instrumentos de gestión ambiental / Evaluaciones ambientales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_07",
+    "desc_col": "Instrumentos de gestión ambiental / Fiscalizaciones ambientales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_08",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2008",
+    "col": "P86_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "VFI_P87",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87",
+    "desc_col": "La municipalidad realizó acciones para incentivar la conservación del medio ambiente",
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_01",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_02",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_03",
+    "desc_col": "Acciones realizadas / Apoyo en la formulación de proyectos sobre problemática ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_04",
+    "desc_col": "Acciones realizadas / Convenios institucionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_05",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_06",
+    "desc_col": "Acciones realizadas / Atención a denuncias ambientales realizadas por la población",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_07",
+    "desc_col": "Acciones realizadas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "87",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar la conservación del medio ambiente, en el 2007",
+    "col": "P87_O",
+    "desc_col": "Acciones realizadas / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "88",
+    "desc_q": "Participación de la población en la gestión",
+    "col": "VFI_P88",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  }
+]

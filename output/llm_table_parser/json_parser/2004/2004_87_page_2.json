@@ -1,0 +1,377 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V7",
+    "desc_col": "Requerimientos de asistencia técnica/ Desarrollo local y descentralizado",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Requerimientos de asistencia técnica/ defensa civil",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Requerimientos de asistencia técnica/ Estadística",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Requerimientos de asistencia técnica/ Informática",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Requerimientos de asistencia técnica/ Otro",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "h2": "27 CUADRO_C0022 Capacitación que requiere la Municipalidad"
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V1",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que requieren de Capacitación",
+    "values": "1: Si requieren 0: No requieren",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V2",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V2",
+    "desc_col": "Requerimientos de capacitación/ Administración ,contabilidad y finazas",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V3",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V3",
+    "desc_col": "Requerimientos de capacitación/ Política y gestión municipal",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V4",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V4",
+    "desc_col": "Requerimientos de capacitación/ Legislación municipal",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V5",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V5",
+    "desc_col": "Requerimientos de capacitación/ registro civil",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V6",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V6",
+    "desc_col": "Requerimientos de capacitación/ Plan estratégico y planificación operativa",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V7",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V7",
+    "desc_col": "Requerimientos de capacitación/ Gestión ambiental",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V8",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V8",
+    "desc_col": "Requerimientos de capacitación/ Defensa civil",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "v9",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "v9",
+    "desc_col": "Requerimientos de capacitación/ Estadística e indicadores municipales",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V10",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V10",
+    "desc_col": "Requerimientos de capacitación/ Informática",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V11",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V11",
+    "desc_col": "Requerimientos de capacitación/ organización y gestión de bibliotecas",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "V12",
+    "desc_q": "Capacitación que requiere la Municipalidad",
+    "col": "V12",
+    "desc_col": "Requerimientos de capacitación/ Otro",
+    "values": "1: Si requiere 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "h2": "28 CUADRO_C0023 Catastro Distrital, al 2003"
+  },
+  {
+    "cuadro": "CUADRO_C0023",
+    "n_q": "V1",
+    "desc_q": "Catastro Distrital, al 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que realizaron catastro",
+    "values": "1: Si realizaron 0: No realizaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0023",
+    "n_q": "V2",
+    "desc_q": "Catastro Distrital, al 2003",
+    "col": "V2",
+    "desc_col": "Año del ultimo catastro realizado por la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "29 CUADRO_C0024 Predios urbanos y rustico en el Distrito, en el 2003"
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "V1",
+    "desc_q": "Predios urbanos y rustico en el Distrito, en el 2003",
+    "col": "V1",
+    "desc_col": "Predios rústicos y urbanos/Catastro/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "V2",
+    "desc_q": "Predios urbanos y rustico en el Distrito, en el 2003",
+    "col": "V2",
+    "desc_col": "Predios rústicos y urbanos/Catastro/ Predios rústicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "V3",
+    "desc_q": "Predios urbanos y rustico en el Distrito, en el 2003",
+    "col": "V3",
+    "desc_col": "Predios rústicos y urbanos/Catastro/ Predios urbanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "V4",
+    "desc_q": "Predios urbanos y rustico en el Distrito, en el 2003",
+    "col": "V4",
+    "desc_col": "Predios rústicos y urbanos/Autovalúo u otros/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "V5",
+    "desc_q": "Predios urbanos y rustico en el Distrito, en el 2003",
+    "col": "V5",
+    "desc_col": "Predios rústicos y urbanos/Autovalúo u otros/ Predios rústicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "V6",
+    "desc_q": "Predios urbanos y rustico en el Distrito, en el 2003",
+    "col": "V6",
+    "desc_col": "Predios rústicos y urbanos/Autovalúo u otros/ Predios urbanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "30 CUADRO_C0025 Asentamientos humanos urbanos que existen el distrito, al diciembre 2003"
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "V1",
+    "desc_q": "Asentamientos humanos urbanos que existen el distrito, al diciembre 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que el distrito tiene AA.HH.",
+    "values": "1: Si tiene 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "V2",
+    "desc_q": "Asentamientos humanos urbanos que existen el distrito, al diciembre 2003",
+    "col": "V2",
+    "desc_col": "Numero de Asentamientos humanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "V3",
+    "desc_q": "Asentamientos humanos urbanos que existen el distrito, al diciembre 2003",
+    "col": "V3",
+    "desc_col": "Población estimada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "V4",
+    "desc_q": "Asentamientos humanos urbanos que existen el distrito, al diciembre 2003",
+    "col": "V4",
+    "desc_col": "Numero de Viviendas estimadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "Cod_Categoria",
+    "desc_q": "Asentamientos humanos urbanos que existen el distrito, al diciembre 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Estado de Asentamientos humanos",
+    "values": "1 al 2 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "h2": "31 CUADRO_C0026 Asentamientos urbanos registrados en la Municipalidad , al 2003"
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V1",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V1",
+    "desc_col": "Total AA.HH",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V2",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V2",
+    "desc_col": "Nombre del Asentamiento Humano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V3",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V3",
+    "desc_col": "Numero de viviendas estimadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V4",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V4",
+    "desc_col": "Población estimada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V5",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V5",
+    "desc_col": "Cuenta con servicios Básicos/ Agua potable por red publica/ Si",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V6",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V6",
+    "desc_col": "Cuenta con servicios Básicos/ Agua potable por red publica/ No",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V7",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V7",
+    "desc_col": "Cuenta con servicios Básicos/ Alcantarillado/ Si",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V8",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V8",
+    "desc_col": "Cuenta con servicios Básicos/ Alcantarillado / No",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V9",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V9",
+    "desc_col": "Cuenta con servicios Básicos/ Alumbrado publico/ Si",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "V10",
+    "desc_q": "Asentamientos urbanos registrados en la Municipalidad , al 2003",
+    "col": "V10",
+    "desc_col": "Cuenta con servicios Básicos/ Alumbrado publico/ No",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  }
+]

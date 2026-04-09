@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_1_8",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / Otros impuestos y contribuciones obligatorias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_1",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos generales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_2",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_3",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_4",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria y comercio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_5",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_6",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_7",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de vivienda y construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_8",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros derechos administrativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_9",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de bienes agrícolas y forestales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_10",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos de educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_11",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_12",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos minerales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_13",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos industriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_14",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de educación, recreación y cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_15",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_16",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de transporte y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_17",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Ingreso por alquileres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_18",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros ingresos por prestación de servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_2_19",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_3",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_3_1",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad real",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_3_2",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_4",
+    "desc_col": "Ingresos corrientes / Multas y sanciones no tributarias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2023",
+    "col": "C96_1_5",
+    "desc_col": "Ingresos corrientes / Otros ingresos corrientes",
+    "values": "",
+    "value_pos": null
+  }
+]

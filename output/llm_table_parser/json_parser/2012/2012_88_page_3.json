@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P109_01",
+    "desc_q": "Tratamiento que recibe el agua potable / Sólo es clorada",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P109_02",
+    "desc_q": "Tratamiento que recibe el agua potable / Sólo es filtrada",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P109_03",
+    "desc_q": "Tratamiento que recibe el agua potable / Es clorada y filtrada",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P109_04",
+    "desc_q": "Tratamiento que recibe el agua potable / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P109_O",
+    "desc_q": "Tratamiento que recibe el agua potable / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "110 CUADRO_C098 Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "P106",
+    "desc_q": "El distrito tiene red de agua potable",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "VFI_P110",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "P110_01",
+    "desc_q": "Número de empresas / Empresa Prestadora Municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "P110_02",
+    "desc_q": "Número de empresas / Empresa Prestadora Privada",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "P110_03",
+    "desc_q": "Número de empresas / Asociaciones o Comité de Agua",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "P110_04",
+    "desc_q": "Número de empresas / Junta Administradora de Servicios de Saneamiento",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "P110_05",
+    "desc_q": "Número de empresas / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C098",
+    "n_q": "P110_O",
+    "desc_q": "Número de empresas / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "111 CUADRO_C099 Aguas servidas generadas en el distrito, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C099",
+    "n_q": "VFI_111",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C099",
+    "n_q": "P111",
+    "desc_q": "Las aguas servidas reciben tratamiento",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Recibe;0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C099",
+    "n_q": "P111_01",
+    "desc_q": "Tipo de tratamiento que reciben las aguas servidas",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Lagunas facultativas;2: Lagunas aireadas;3: Lagunas anaerobias;4: Lodos activados;5: Tanque séptico;6: Tanque imhoff;7: Filtro biológico;8: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C099",
+    "n_q": "P101_O",
+    "desc_q": "Tipos de tratamiento / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "112 CUADRO_C0100 El sistema de Alcantarillado del distrito desemboca en, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "VFI_112",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "P112",
+    "desc_q": "El distrito tiene sistema de desagüe",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0. No tiene",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P39_02",
+    "desc_q": "Instrumento de gestión / Plan Municipal de Residuos Sólidos",
+    "col": "P39_02",
+    "desc_col": "Instrumento de gestión / Plan Municipal de Residuos Sólidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_03",
+    "desc_q": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "col": "P39_03",
+    "desc_col": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_04",
+    "desc_q": "Instrumento de gestión/ Programa de Transformación de Residuos Sólidos",
+    "col": "P39_04",
+    "desc_col": "Instrumento de gestión/ Programa de Transformación de Residuos Sólidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_05",
+    "desc_q": "Instrumento de gestión / Otro",
+    "col": "P39_05",
+    "desc_col": "Instrumento de gestión / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_O",
+    "desc_q": "Instrumento de gestión / Otro/ Descripción",
+    "col": "P39_O",
+    "desc_col": "Instrumento de gestión / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P35",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": "P35",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Si realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "VFI_P40",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_01",
+    "desc_q": "Destino final de la basura recolectada (%) / Relleno sanitario",
+    "col": "P40_01",
+    "desc_col": "Destino final de la basura recolectada (%) / Relleno sanitario",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_02",
+    "desc_q": "Destino final de la basura recolectada (%) / Botadero a cielo abierto",
+    "col": "P40_02",
+    "desc_col": "Destino final de la basura recolectada (%) / Botadero a cielo abierto",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_03",
+    "desc_q": "Destino final de la basura recolectada (%) / Vertidos en el río, laguna o mar",
+    "col": "P40_03",
+    "desc_col": "Destino final de la basura recolectada (%) / Vertidos en el río, laguna o mar",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_04",
+    "desc_q": "Destino final de la basura recolectada (%) / Reciclaje",
+    "col": "P40_04",
+    "desc_col": "Destino final de la basura recolectada (%) / Reciclaje",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_05",
+    "desc_q": "Destino final de la basura recolectada (%) / Quemada",
+    "col": "P40_05",
+    "desc_col": "Destino final de la basura recolectada (%) / Quemada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_06",
+    "desc_q": "Destino final de la basura recolectada (%) / Otro",
+    "col": "P40_06",
+    "desc_col": "Destino final de la basura recolectada (%) / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_O",
+    "desc_q": "Destino final de la basura recolectada (%) / Otro/ Especifique",
+    "col": "P40_O",
+    "desc_col": "Destino final de la basura recolectada (%) / Otro/ Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "VFI_P41",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41",
+    "desc_q": "La municipalidad realizó operativos de control",
+    "col": "P41",
+    "desc_col": "La municipalidad realizó operativos de control",
+    "values": "1: Si realizo; 0: No realizo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_01",
+    "desc_q": "Operativos de control / Aseo, higiene y salubridad",
+    "col": "P41_01",
+    "desc_col": "Operativos de control / Aseo, higiene y salubridad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_02",
+    "desc_q": "Operativos de control / Carné de sanidad",
+    "col": "P41_02",
+    "desc_col": "Operativos de control / Carné de sanidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_03",
+    "desc_q": "Operativos de control / Servicios higiénicos públicos",
+    "col": "P41_03",
+    "desc_col": "Operativos de control / Servicios higiénicos públicos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_04",
+    "desc_q": "Operativos de control / Fumigación",
+    "col": "P41_04",
+    "desc_col": "Operativos de control / Fumigación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_05",
+    "desc_q": "Operativos de control / Anuncios",
+    "col": "P41_05",
+    "desc_col": "Operativos de control / Anuncios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_06",
+    "desc_q": "Operativos de control / Pesas y medidas",
+    "col": "P41_06",
+    "desc_col": "Operativos de control / Pesas y medidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_07",
+    "desc_q": "Operativos de control / Alimentos",
+    "col": "P41_07",
+    "desc_col": "Operativos de control / Alimentos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_08",
+    "desc_q": "Operativos de control / Comercio ambulatorio",
+    "col": "P41_08",
+    "desc_col": "Operativos de control / Comercio ambulatorio",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_09",
+    "desc_q": "Operativos de control / Transporte urbano",
+    "col": "P41_09",
+    "desc_col": "Operativos de control / Transporte urbano",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_10",
+    "desc_q": "Operativos de control/ Tránsito vehicular en coordinación con la PNP",
+    "col": "P41_10",
+    "desc_col": "Operativos de control/ Tránsito vehicular en coordinación con la PNP",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_11",
+    "desc_q": "Operativos de control / Vigencia de licencia de construcción",
+    "col": "P41_11",
+    "desc_col": "Operativos de control / Vigencia de licencia de construcción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_12",
+    "desc_q": "Operativos de control / Vigencia de licencia de funcionamiento",
+    "col": "P41_12",
+    "desc_col": "Operativos de control / Vigencia de licencia de funcionamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_13",
+    "desc_q": "Operativos de control / Emisión de humos, gases tóxicos, ruidos",
+    "col": "P41_13",
+    "desc_col": "Operativos de control / Emisión de humos, gases tóxicos, ruidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_14",
+    "desc_q": "Operativos de control/ Certificado de seguridad en Defensa Civil",
+    "col": "P41_14",
+    "desc_col": "Operativos de control/ Certificado de seguridad en Defensa Civil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_15",
+    "desc_q": "Operativos de control / Otro",
+    "col": "P41_15",
+    "desc_col": "Operativos de control / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "P41_O",
+    "desc_q": "Operativos de control / Otro/ especifique",
+    "col": "P41_O",
+    "desc_col": "Operativos de control / Otro/ especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "VFI_P42",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "P42",
+    "desc_q": "La Municipalidad expidió carné de sanidad",
+    "col": "P42",
+    "desc_col": "La Municipalidad expidió carné de sanidad",
+    "values": "1: Si expidió; 0: No expidió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "P42_01",
+    "desc_q": "Número de carné / Para venta de alimentos en restaurantes",
+    "col": "P42_01",
+    "desc_col": "Número de carné / Para venta de alimentos en restaurantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "P42_02",
+    "desc_q": "Número de carné / Para venta ambulatoria de alimentos",
+    "col": "P42_02",
+    "desc_col": "Número de carné / Para venta ambulatoria de alimentos",
+    "values": null,
+    "value_pos": null
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Acciones para incentivar el turismo / Capacitación a promotores de turismo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Acciones para incentivar el turismo / Programas de conciencia turística a la población",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V12",
+    "desc_col": "Acciones para incentivar el turismo / Convenios institucionales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V13",
+    "desc_col": "Acciones para incentivar el turismo / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "72",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad registró denuncias ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "72",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad en el 2005",
+    "col": "V2",
+    "desc_col": "Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0067",
+    "n_q": "72",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad en el 2005",
+    "col": "V3",
+    "desc_col": "Número de Denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "73",
+    "desc_q": "Contaminantes en el aire de mayor incidencia que afectan al distrito",
+    "col": "V1",
+    "desc_col": "En el distrito existe contaminantes en el aire",
+    "values": "1: Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "73",
+    "desc_q": "Contaminantes en el aire de mayor incidencia que afectan al distrito",
+    "col": "V2",
+    "desc_col": "Contaminantes en el aire / Material particularizado fino",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "73",
+    "desc_q": "Contaminantes en el aire de mayor incidencia que afectan al distrito",
+    "col": "V3",
+    "desc_col": "Contaminantes en el aire / Dióxido de azufre",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "73",
+    "desc_q": "Contaminantes en el aire de mayor incidencia que afectan al distrito",
+    "col": "V4",
+    "desc_col": "Contaminantes en el aire / Plomo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0068",
+    "n_q": "73",
+    "desc_q": "Contaminantes en el aire de mayor incidencia que afectan al distrito",
+    "col": "V5",
+    "desc_col": "Contaminantes en el aire / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V1",
+    "desc_col": "En el distrito existen fuentes de contaminación",
+    "values": "1: Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V2",
+    "desc_col": "Fuente contaminante / Emanación de gases y partículas de fábrica o refinerías",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V3",
+    "desc_col": "Fuente contaminante / Gases de vehículos motorizados",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V4",
+    "desc_col": "Fuente contaminante / Relaves mineros",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V5",
+    "desc_col": "Fuente contaminante / Ruidos",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V6",
+    "desc_col": "Fuente contaminante / Aguas servidas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V7",
+    "desc_col": "Fuente contaminante / Acumulación y quema clandestina de basura y restrojos",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V8",
+    "desc_col": "Fuente contaminante / Deforestación",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V9",
+    "desc_col": "Fuente contaminante / Crianza de animales domésticos sin control",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0069",
+    "n_q": "74",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito",
+    "col": "V10",
+    "desc_col": "Fuente contaminante / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene instrumentos de gestión ambiental",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V2",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico ambiental local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V3",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de acción ambiental local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V4",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda ambiental local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V5",
+    "desc_col": "Instrumentos de gestión ambiental / Política ambiental local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V6",
+    "desc_col": "Instrumentos de gestión ambiental / Sistema local de gestión ambiental",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V7",
+    "desc_col": "Instrumentos de gestión ambiental / Evaluaciones ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V8",
+    "desc_col": "Instrumentos de gestión ambiental / Fiscalizaciones ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0070",
+    "n_q": "75",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad",
+    "col": "V9",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "76",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente",
+    "col": "V1",
+    "desc_col": "La municipalidad realiza acciones para incentivar la conservación del medio ambiente",
+    "values": "1: Si realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "76",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente",
+    "col": "V2",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "76",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente",
+    "col": "V3",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "76",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente",
+    "col": "V4",
+    "desc_col": "Acciones realizadas / Apoyo en la formulación de proyectos sobre problemática ambiental",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "76",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente",
+    "col": "V5",
+    "desc_col": "Acciones realizadas / Convenios institucionales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "76",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente",
+    "col": "V6",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "76",
+    "desc_q": "Acciones que realiza la municipalidad para incentivar la conservación del medio ambiente",
+    "col": "V7",
+    "desc_col": "Acciones realizadas / Atención a denuncias ambientales realizadas por la población",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  }
+]

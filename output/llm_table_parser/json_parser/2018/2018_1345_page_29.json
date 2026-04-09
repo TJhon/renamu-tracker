@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_10",
+    "desc_col": "Tipo de producción artesanal / Trabajos en cuero, pieles",
+    "values": "10: Si; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_11",
+    "desc_col": "Tipo de producción artesanal / Medicina tradicional",
+    "values": "11: Si; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_12",
+    "desc_col": "Tipo de producción artesanal / Otro",
+    "values": "12: Si; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_12_O",
+    "desc_col": "Tipo de producción artesanal / Otro / Especifique",
+    "values": "13: Si",
+    "value_pos": 13
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "99",
+    "desc_q": "Tipo de producción artesanal que se realiza en el distrito, 2018",
+    "col": "P99_13",
+    "desc_col": "No se realiza producción artesanal",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "h2": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017"
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "VFL_P100",
+    "desc_col": "Municipalidad informante",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_1",
+    "desc_col": "Número de establecimientos de servicios / Hoteles, hostales y otros establecimientos de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_1",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_2",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Restaurantes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_2",
+    "desc_col": "Número de establecimientos de servicios / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_3",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Agencias de viaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_3",
+    "desc_col": "Número de establecimientos de servicios / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_4",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte urbano?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_4",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_5",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte turístico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_5",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_6",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte interprovincial?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_6",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte interprovincial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_7",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte aéreo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_7",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte aéreo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_8",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte acuático?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_8",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte acuático",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_9",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de alquiler de autos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_9",
+    "desc_col": "Número de establecimientos de servicios / Empresas de alquiler de autos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_10",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de seguridad privada?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_10",
+    "desc_col": "Número de establecimientos de servicios / Empresas de seguridad privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100_11",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Entidades financieras y de seguros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre de 2017",
+    "col": "P100A_11",
+    "desc_col": "Número de establecimientos de servicios / Entidades financieras y de seguros",
+    "values": "",
+    "value_pos": null
+  }
+]

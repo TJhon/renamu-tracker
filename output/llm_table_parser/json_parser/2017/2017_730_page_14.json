@@ -1,0 +1,92 @@
+[
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_5_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_5_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_6",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_6_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_6_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_6_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_6_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_6_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_6_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "33",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2016",
+    "col": "P33A_7",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de nacimiento?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

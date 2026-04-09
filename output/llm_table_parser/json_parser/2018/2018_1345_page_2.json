@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "47",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2017",
+    "col": "P47_4",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Quemados / Incinerados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "47",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2017",
+    "col": "P47_5",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "47",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2017",
+    "col": "P47_5_O",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "48",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2017",
+    "col": "VFI_P48",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "48",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2017",
+    "col": "P48_T",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Gasto Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "48",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2017",
+    "col": "P48_1",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Recojo domiciliario, transporte y destino final de los residuos sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "48",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2017",
+    "col": "P48_2",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Barrido de calles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "48",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2017",
+    "col": "P48_3",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "48",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2017",
+    "col": "P48_3_O",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "VFI_P49",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "P49_1",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para venta de alimentos en restaurantes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "P49A_1",
+    "desc_col": "Carnés de sanidad para venta de alimentos en restaurantes / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "P49_2",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para venta ambulatoria de alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "P49A_2",
+    "desc_col": "Carnés de sanidad para venta ambulatoria de alimentos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "P49_3",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "P49A_3",
+    "desc_col": "Carnés de sanidad para otros / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "49",
+    "desc_q": "Municipalidad que expidió carné de sanidad, 2017",
+    "col": "P49A_3_O",
+    "desc_col": "Carnés de sanidad para otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "VFI_P50",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_1",
+    "desc_col": "¿La municipalidad realizó operativos de control de aseo, higiene y salubridad de establecimientos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_1",
+    "desc_col": "Operativos de control de aseo, higiene y salubridad de establecimientos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_2",
+    "desc_col": "¿La municipalidad realizó operativos de control de carné de sanidad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_2",
+    "desc_col": "Operativos de control de carné de sanidad/ Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_3",
+    "desc_col": "¿La municipalidad realizó operativos de control de servicios higiénicos públicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_3",
+    "desc_col": "Operativos de control de servicios higiénicos públicos/ Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_4",
+    "desc_col": "¿La municipalidad realizó operativos de control de fumigación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_4",
+    "desc_col": "Operativos de control de fumigación / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_5",
+    "desc_col": "¿La municipalidad realizó operativos de control de anuncios publicitarios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_5",
+    "desc_col": "Operativos de control de anuncios publicitarios / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50_6",
+    "desc_col": "¿La municipalidad realizó operativos de control de verificación de pesas y medidas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 13",
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó operativos de control, 2017",
+    "col": "P50A_6",
+    "desc_col": "Operativos de control de verificación de pesas y medidas / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_24_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Venta de prendas de vestir",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_25",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de venta de calzado?",
+    "col": "P39_25",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de venta de calzado?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_25_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Venta de calzado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_26",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de mercados?",
+    "col": "P39_26",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de mercados?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_26_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Mercados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_27",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de centros comerciales, galerías comerciales o campos feriales?",
+    "col": "P39_27",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de centros comerciales, galerías comerciales o campos feriales?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_27_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Centros comerciales, galerías comerciales o campos feriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_28",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "col": "P39_28",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_28_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_29",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "col": "P39_29",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_29_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_30",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "col": "P39_30",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_30_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_31",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de empresas proveedoras de insumos?",
+    "col": "P39_31",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de empresas proveedoras de insumos?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_31_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Empresas proveedoras de insumos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_32",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de plantas agroindustriales?",
+    "col": "P39_32",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de plantas agroindustriales?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_32_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Plantas agroindustriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_33",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de cueros y pieles?",
+    "col": "P39_33",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de cueros y pieles?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_33_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / AGROPECUARIO / Cueros y pieles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_34",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para",
+    "col": "P39_34",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para",
+    "values": "1: Si",
+    "value_pos": 1
+  }
+]

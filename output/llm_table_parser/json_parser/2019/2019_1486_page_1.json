@@ -1,0 +1,230 @@
+[
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "41",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2018",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "41",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2018",
+    "col": "P41_1",
+    "desc_col": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad",
+    "values": "1: Diaria\n2: Interdiaria\n3: Dos veces por semana\n4: Una vez por semana\n5: No realizó recojo"
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "42",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2018",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "42",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2018",
+    "col": "P42_1",
+    "desc_col": "Cantidad promedio diaria de residuos sólidos (basura) en kilogramos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "43",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) realizado por la municipalidad, 2018",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "43",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) realizado por la municipalidad, 2018",
+    "col": "P43_1",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos en el distrito",
+    "values": "1: Menos de 25%\n2: De 25% a 49%\n3: De 50% a 74%\n4: De 75% a 100%"
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_1",
+    "desc_col": "Instrumento de gestión / Plan Integral de Gestión Ambiental de Residuos Sólidos",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_2",
+    "desc_col": "Instrumento de gestión / Plan de Manejo de Residuos Sólidos",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_3",
+    "desc_col": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_4",
+    "desc_col": "Instrumento de gestión / Programa de Transformación de Residuos Sólidos",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_5",
+    "desc_col": "Instrumento de gestión / Programa de Segregación en la Fuente y Recolección Selectiva de Residuos Sólidos",
+    "values": "5: Sí\n0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_6",
+    "desc_col": "Instrumento de gestión / Otro",
+    "values": "6: Sí\n0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_6_O",
+    "desc_col": "Instrumento de gestión / Otro / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "44",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2018",
+    "col": "P44_7",
+    "desc_col": "Instrumento de gestión / No contó con instrumentos de gestión de residuos sólidos",
+    "values": "7: Sí\n0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "VFI_P45",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Relleno sanitario",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_1_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Relleno sanitario",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_2",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Botadero",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_2_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Botadero",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_3",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Reciclados",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_3_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Reciclados",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_4",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Quemados/ Incinerados",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_4_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Quemados / Incinerados",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_5",
+    "desc_col": "Destino final de los residuos sólidos recolectados/ Otro",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_5_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C 10",
+    "n_q": "45",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2018",
+    "col": "P45_5_O",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro /Especifique",
+    "values": ""
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79",
+    "desc_col": "En la gestión administrativa de la municipalidad existe participación vecinal",
+    "values": "1: Existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_01",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertación de los planes de desarrollo municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_02",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertación del presupuesto municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_03",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulación y control de planes económicos locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_04",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_05",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_06",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_07",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_08",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "79",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2014",
+    "col": "P79_O",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Portal de"
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "P80",
+    "desc_col": "La municipalidad ha constituido Junta de Delegados Vecinales",
+    "values": "1: Está constituido;0: No está constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "P80_H_01",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "P80_M_01",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "P80_02",
+    "desc_col": "La Junta de Delegados Vecinales se encuentra en Actividad",
+    "values": "1: Se encuentra;0: No se encuentra",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "P85",
+    "desc_col": "Municipalidades que tienen Portal de Transparencia Estándar en la Página Web de la Municipalidad",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "P85_01",
+    "desc_col": "Dirección electrónica del Portal de Transparencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "80",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2014",
+    "col": "P85_02",
+    "desc_col": "Responsable del Portal de Transparencia/ Nombres y apellidos",
+    "values": "",
+    "value_pos": null
+  }
+]

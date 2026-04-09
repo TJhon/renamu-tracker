@@ -1,0 +1,206 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82A_5_3",
+    "desc_col": "Número de No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82_6",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Central de control de video vigilancia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82A_6_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82A_7",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Canes?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82A_7_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82_8",
+    "desc_col": "¿El serenazgo dispone de equipamiento /Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82A_O_1",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82_O_2",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82_O_3",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Número de No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P82_O_4",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "83"
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "83",
+    "desc_q": "El serenazgo realiza patrullaje integrado con la Policia Nacional del Perú, 2015",
+    "col": "P81",
+    "desc_col": "¿La Municipalidad tiene Serenazgo?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "83",
+    "desc_q": "El serenazgo realiza patrullaje integrado con la Policia Nacional del Perú, 2015",
+    "col": "VFI_P83",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "83",
+    "desc_q": "El serenazgo realiza patrullaje integrado con la Policia Nacional del Perú, 2015",
+    "col": "P83",
+    "desc_col": "El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "84"
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "VFI_P84",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P81",
+    "desc_col": "¿La Municipalidad tiene Serenazgo?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P83",
+    "desc_col": "El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú",
+    "values": "1 : Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P84_1",
+    "desc_col": "Modalidad del patrullaje / Auto y/o camioneta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P84_2",
+    "desc_col": "Modalidad del patrullaje / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P84_3",
+    "desc_col": "Modalidad del patrullaje / Bicicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P84_4",
+    "desc_col": "Modalidad del patrullaje / Caballo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P84_5",
+    "desc_col": "Modalidad del patrullaje / A pie",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "84",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P84_6",
+    "desc_col": "Modalidad del patrullaje / Otra modalidad",
+    "values": "",
+    "value_pos": null
+  }
+]

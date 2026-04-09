@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P71A_8",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P71_9",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botica?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P71A_9",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P71_10",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botiquín comunal (Local)?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P71A_10",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad/ Botiquín comunal (Local)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "VFI_P72",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72",
+    "desc_col": "¿La municipalidad realizó campañas en coordinación con el Ministerio de Salud?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_1",
+    "desc_col": "La municipalidad realizó / Campañas de salud preventiva",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_2",
+    "desc_col": "La municipalidad realizó / Campañas de vacunación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_3",
+    "desc_col": "La municipalidad realizó / Campañas de educación sanitaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_4",
+    "desc_col": "La municipalidad realizó / Campañas de primeros auxilios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_5",
+    "desc_col": "La municipalidad realizó / Campañas de control de epidemias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_6",
+    "desc_col": "La municipalidad realizó / Campañas de profilaxis local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_7",
+    "desc_col": "La municipalidad realizó / Campañas de fumigación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_8",
+    "desc_col": "La municipalidad realizó / Campañas de salud mental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_9",
+    "desc_col": "La municipalidad realizó / Campañas de registro y certificación de canes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_10",
+    "desc_col": "La municipalidad realizó / Campañas de esterilización de perros y gatos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_11",
+    "desc_col": "La municipalidad realizó / Otra campaña",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "P72_11_O",
+    "desc_col": "La municipalidad realizó / Otra campaña / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C66",
+    "n_q": "72",
+    "desc_q": "Campañas que realizó la municipalidad en coordinación con el Ministerio de Salud, en el 2015",
+    "col": "VFI_P73",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  }
+]

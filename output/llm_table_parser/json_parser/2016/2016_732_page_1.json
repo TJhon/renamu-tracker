@@ -1,0 +1,176 @@
+[
+  {
+    "h2": "MÓDULO VI: GESTIÓN Y POLÍTICA DE DESARROLLO LOCAL"
+  },
+  {
+    "h2": "INFRAESTRUCTURA Y COMUNICACIÓN"
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "VFI_P112",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112",
+    "desc_col": "Municipalidad que informaron que existen servicios de comunicación en el distrito",
+    "values": "1: Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112_1",
+    "desc_col": "¿En el distrito existen servicios de Centros comunitarios telefónicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_1",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Centros comunitarios telefónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112_2",
+    "desc_col": "¿En el distrito existen servicios de Locutorios telefónicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_2",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Locutorios telefónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112_3",
+    "desc_col": "¿En el distrito existen servicios de Mensajerías / Courier?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_3",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Mensajerías / Courier",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112_4",
+    "desc_col": "¿En el distrito existen servicios de Cabinas públicas de internet?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_4",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Cabinas públicas de internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112_5",
+    "desc_col": "¿En el distrito existen Antenas parabólicas con servicios de internet?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_5",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Antenas parabólicas con servicios de internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112_6",
+    "desc_col": "¿En el distrito existen antenas parabólicas con servicios de voz (telefonía y radio)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_6",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Antenas parabólicas con servicios de voz (telefonía y radio)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112_7",
+    "desc_col": "¿En el distrito existen otros servicios de comunicación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_7",
+    "desc_col": "Número de instalaciones de servicio de comunicación / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C106",
+    "n_q": "112",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2016",
+    "col": "P112A_O",
+    "desc_col": "Número de instalaciones de servicio de comunicación / Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "ALUMBRADO PÚBLICO, AGUA POTABLE Y ALCANTARILLADO"
+  },
+  {
+    "col": "VFI_P113",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "col": "P113",
+    "desc_col": "Municipalidades que informaron que existe alumbrado público en el distrito",
+    "values": "1: Existe; 0: No existe",
+    "value_pos": 1
+  }
+]

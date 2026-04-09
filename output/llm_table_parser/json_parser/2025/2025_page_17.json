@@ -1,0 +1,218 @@
+[
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_14_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_14_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_14_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "VFL_P24",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No Informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24",
+    "desc_col": "¿La municipalidad tiene conformado el Consejo de Coordinación Local (CCL)?",
+    "values": "1: Sí; 2: No tiene conformado",
+    "value_pos": 1
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_1_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital (Incluye alcalde y regidores) / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_1_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital (Incluye alcalde y regidores) / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_1_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital (Incluye alcalde y regidores) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_2_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales (Solo municipalidad provincial. No incluir alcalde provincial) / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_2_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales (Solo municipalidad provincial. No incluir alcalde provincial) / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_2_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales (Solo municipalidad provincial. No incluir alcalde provincial) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_3_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados (Solo municipalidad distrital) / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_3_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados (Solo municipalidad distrital) / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_3_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados (Solo municipalidad distrital) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_4_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_4_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local (CCL), al 31 de diciembre 2024",
+    "col": "P24_4_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "VFL_P25",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "P25_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "P25_1_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo / Número de sesiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "P25_2",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en la elaboración del Plan de Desarrollo Municipal Concertado",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "P25_3",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en el Presupuesto Participativo",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "P25_4",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "P25_4_O",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local (CCL), 2024",
+    "col": "P25_5",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / No ejecutó actividades",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "26A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos (TUPA), 2025",
+    "col": "VFI_P26A",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "26A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos (TUPA), 2025",
+    "col": "P26A",
+    "desc_col": "¿La municipalidad tiene Texto Único de Procedimientos Administrativos (TUPA)?",
+    "values": "1: Sí; 2: No tiene TUPA",
+    "value_pos": 1
+  }
+]

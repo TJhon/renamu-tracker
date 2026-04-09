@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_12",
+    "desc_col": "¿La municipalidad atendió casos sociales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_12_1",
+    "desc_col": "Número de casos atendidos / Casos sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_13",
+    "desc_col": "¿La municipalidad atendió casos de trabajo infantil?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_13_1",
+    "desc_col": "Número de casos atendidos / Trabajo infantil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_14",
+    "desc_col": "¿La municipalidad atendió casos de riesgo de desprotección familiar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_14_1",
+    "desc_col": "Número de casos atendidos / Riesgo de desprotección familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_15",
+    "desc_col": "¿La municipalidad atendió casos de desprotección familiar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_15_1",
+    "desc_col": "Número de casos atendidos / Desprotección familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_16",
+    "desc_col": "¿La municipalidad atendió asesoría especializada psicológica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_16_1",
+    "desc_col": "Número de casos atendidos / Asesoría especializada psicológica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_17",
+    "desc_col": "¿La municipalidad atendió casos de asesoría especializada legal?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_17_1",
+    "desc_col": "Número de casos atendidos / Asesoría especializada legal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_18",
+    "desc_col": "¿La municipalidad atendió otros casos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_18_1",
+    "desc_col": "Número de casos atendidos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2019",
+    "col": "P64_18_O",
+    "desc_col": "Número de casos atendidos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "VFI_P65",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_1",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Agua y saneamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_1_1",
+    "desc_col": "Número de proyectos / Agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_2",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Electrificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_2_1",
+    "desc_col": "Número de proyectos / Electrificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_3",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Hospital?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_3_1",
+    "desc_col": "Número de proyectos / Hospital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_4",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Centro de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_4_1",
+    "desc_col": "Número de proyectos / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_5",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Puesto / Posta de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_5_1",
+    "desc_col": "Número de proyectos / Puesto / Posta de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_6",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Aulas escolares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_6_1",
+    "desc_col": "Número de proyectos / Aulas escolares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_7",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Infraestructura vial?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C12",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido transferencias de proyectos de infraestructura, 2019",
+    "col": "P65_7_1",
+    "desc_col": "Número de proyectos / Infraestructura vial",
+    "values": "",
+    "value_pos": null
+  }
+]

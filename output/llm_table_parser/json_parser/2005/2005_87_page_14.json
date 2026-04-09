@@ -1,0 +1,389 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "proyectos que ejecuto la municipalidad a través de convenios con otras entidades",
+    "col": "V2",
+    "desc_col": "Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "proyectos que ejecuto la municipalidad a través de convenios con otras entidades",
+    "col": "V3",
+    "desc_col": "Tiempo de duración del convenio ( En meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la Caja municipal que existe en el distrito, al 31 de diciembre del 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen caja municipal",
+    "values": "1: Tienen Caja;0: No tienen Caja",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la Caja municipal que existe en el distrito, al 31 de diciembre del 2004",
+    "col": "V2",
+    "desc_col": "Créditos Directos/ Número de operaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la Caja municipal que existe en el distrito, al 31 de diciembre del 2004",
+    "col": "V3",
+    "desc_col": "Créditos Directos/ Monto(Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la Caja municipal que existe en el distrito, al 31 de diciembre del 2004",
+    "col": "V4",
+    "desc_col": "Depósitos/ Número de operaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0071",
+    "n_q": "74",
+    "desc_q": "Créditos directos y depósitos de la Caja municipal que existe en el distrito, al 31 de diciembre del 2004",
+    "col": "V5",
+    "desc_col": "Depósitos/ Monto(Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad, en el 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades que registraron MYPES",
+    "values": "1: Si registraron;0: No registraron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad, en el 2004",
+    "col": "V2",
+    "desc_col": "Tipo de Producción/ Alimentos y bebidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad, en el 2004",
+    "col": "V3",
+    "desc_col": "Tipo de Producción/ Textiles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad, en el 2004",
+    "col": "V4",
+    "desc_col": "Tipo de Producción/ Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad, en el 2004",
+    "col": "V5",
+    "desc_col": "Tipo de Producción/ Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad, en el 2004",
+    "col": "V6",
+    "desc_col": "Tipo de Producción/ Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0072",
+    "n_q": "75",
+    "desc_q": "Micro y pequeñas empresas registradas en la municipalidad, en el 2004",
+    "col": "V7",
+    "desc_col": "Tipo de Producción/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE, en el 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades que realizaron accione para incentivas a la MYPE",
+    "values": "1: Si realizaron;0: No realizaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE, en el 2004",
+    "col": "V2",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Promoción y publicidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE, en el 2004",
+    "col": "V3",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Realización de ferias y concursos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE, en el 2004",
+    "col": "V4",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Convenios con ONG, empresas privadas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE, en el 2004",
+    "col": "V5",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Capacitación para mejorar la producción y venta",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE, en el 2004",
+    "col": "V6",
+    "desc_col": "Acciones realizadas por la municipalidad para incentivar a la MYPE/ Otras acciones",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0073",
+    "n_q": "76",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar a la MYPE, en el 2004",
+    "col": "Descr_V6",
+    "desc_col": "Descripción de Acciones realizadas por la municipalidad para incentivar a la MYPE/ Otras acciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen programas de promoción al empleo productivo",
+    "values": "1: Si tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2004",
+    "col": "V21",
+    "desc_col": "Número de puestos de trabajo generados / A Trabajar Urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2004",
+    "col": "V22",
+    "desc_col": "Tiempo de duración ( En meses) / A Trabajar Urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2004",
+    "col": "V31",
+    "desc_col": "Número de puestos de trabajo generados / A Trabajar Rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2004",
+    "col": "V32",
+    "desc_col": "Tiempo de duración ( En meses) / A Trabajar Rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2004",
+    "col": "V41",
+    "desc_col": "Número de puestos de trabajo generados / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "77",
+    "desc_q": "Acciones de promoción de empleo productivo en el distrito, en el 2004",
+    "col": "V42",
+    "desc_col": "Tiempo de duración ( En meses) / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio público de transporte de pasajeros, en el 2004",
+    "col": "V1",
+    "desc_col": "Número de concesiones/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio público de transporte de pasajeros, en el 2004",
+    "col": "V2",
+    "desc_col": "Número de concesiones/ Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio público de transporte de pasajeros, en el 2004",
+    "col": "V3",
+    "desc_col": "Número de concesiones/ Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio público de transporte de pasajeros, en el 2004",
+    "col": "V4",
+    "desc_col": "Número de Autorizaciones/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio público de transporte de pasajeros, en el 2004",
+    "col": "V5",
+    "desc_col": "Número de Autorizaciones / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "78",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio público de transporte de pasajeros, en el 2004",
+    "col": "V6",
+    "desc_col": "Número de Autorizaciones / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "79",
+    "desc_q": "Obras de inversión que proyecta realizar la municipalidad, en e l 2005",
+    "col": "Codtipo",
+    "desc_col": "Tipo de obra",
+    "values": "1: Educación;2: Salud;3: Transporte y comunicaciones;4: Electricidad, agua y alcantarillado;5: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "79",
+    "desc_q": "Obras de inversión que proyecta realizar la municipalidad, en e l 2005",
+    "col": "V1",
+    "desc_col": "Nombre de la obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "79",
+    "desc_q": "Obras de inversión que proyecta realizar la municipalidad, en e l 2005",
+    "col": "V2",
+    "desc_col": "Monto de la inversión previsto (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "Codtipo",
+    "desc_col": "Tipo de obra",
+    "values": "1: Educación;2: Salud;3: Transporte y comunicaciones;4: Electricidad, agua y alcantarillado;5: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V1",
+    "desc_col": "Nombre d e la Obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V2",
+    "desc_col": "Tiene estudios de factibilidad de proyectos / Si",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V3",
+    "desc_col": "Tiene estudios de factibilidad de proyectos / No",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "80",
+    "desc_q": "Obras y proyectos prioritarios que demanda el distrito",
+    "col": "V4",
+    "desc_col": "Monto de inversión estimado (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "81",
+    "desc_q": "Producción artesanal en el",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron tener producción artesanal",
+    "values": "1: Si tienen;0: No tienen",
+    "value_pos": 1
+  }
+]

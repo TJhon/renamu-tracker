@@ -1,0 +1,305 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_1_8",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / Otros impuestos y contribuciones obligatorias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_1",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos generales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_2",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_3",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_4",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria y comercio",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_5",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_6",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_7",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Derechos administrativos de vivienda y construcción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_8",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros derechos administrativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_9",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de bienes agrícolas y forestales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_10",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos de educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_11",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_12",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos minerales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_13",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Venta de productos industriales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_14",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de educación, recreación y cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_15",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_16",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de transporte y comunicaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_17",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Ingreso por alquileres",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_18",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros ingresos por prestación de servicios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_2_19",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_3",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_3_1",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_3_2",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad financiera",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_4",
+    "desc_col": "Ingresos corrientes / Multas y sanciones no tributarias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_1_5",
+    "desc_col": "Ingresos corrientes / Otros ingresos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "II. Ingresos de capital"
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_2",
+    "desc_col": "II. Ingresos de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_2_1",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de activos no producidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_2_2",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de otros activos no financieros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "III. Transferencias"
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_3",
+    "desc_col": "III. Transferencias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_3_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_3_1_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Petrolero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2021",
+    "col": "C96_3_1_2",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Sobrecanon Petrolero",
+    "values": null,
+    "value_pos": null
+  }
+]

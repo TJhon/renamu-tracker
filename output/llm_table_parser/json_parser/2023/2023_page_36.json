@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_1",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la Municipalidad: Hospital / Clínica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_1_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Hospital / Clínica / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_2",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Centro de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_2_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Centro de salud / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_3",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Puesto / Posta de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_3_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Puesto / Posta de salud / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_4",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Consultorio médico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_4_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Consultorio médico / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_5",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Consultorio odontológico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_5_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Consultorio odontológico / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_6",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Casa de reposo / Asilo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_6_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Casa de reposo / Asilo / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_7",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Centro de rehabilitación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_7_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Centro de rehabilitación / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_8",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Farmacia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_8_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Farmacia / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_9",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Botica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_9_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Botica / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_10",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la municipalidad: Botiquín comunal (Local)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2023",
+    "col": "P66_10_1",
+    "desc_col": "Establecimientos administrados por la municipalidad / Botiquín comunal (Local) / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2022",
+    "col": "VFI_P67",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2022",
+    "col": "P67_1",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud preventiva",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2022",
+    "col": "P67_2",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de vacunación",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "66",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2022",
+    "col": "P67_3",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de educación sanitaria",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  }
+]

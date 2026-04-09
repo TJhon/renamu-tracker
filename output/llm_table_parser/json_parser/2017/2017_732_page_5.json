@@ -1,0 +1,128 @@
+[
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2017",
+    "col": "P115",
+    "desc_col": "¿Las entidades u organizaciones se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado?",
+    "values": "1: Se encargan;0: No se encargan",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2017",
+    "col": "P115_1",
+    "desc_col": "Entidades u organizaciones / Empresa prestadora municipal",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2017",
+    "col": "P115_2",
+    "desc_col": "Entidades u organizaciones / Empresa prestadora privada",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2017",
+    "col": "P115_3",
+    "desc_col": "Entidades u organizaciones / Junta Administradora de Servicios de Saneamiento (JASS)",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2017",
+    "col": "P115_4",
+    "desc_col": "Entidades u organizaciones / Comité de agua",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2017",
+    "col": "P115_5",
+    "desc_col": "Entidades u organizaciones / Otra entidad u organización",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "115",
+    "desc_q": "Entidades u organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2017",
+    "col": "P115_5_O",
+    "desc_col": "Entidades u organizaciones / Otra entidad u organización / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C113",
+    "n_q": "116",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "VFI_P116",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C113",
+    "n_q": "116",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P116",
+    "desc_col": "¿La municipalidad supervisa organizaciones comunitarias de servicios de agua y saneamiento?",
+    "values": "1: Supervisa;0: No supervisa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C113",
+    "n_q": "116",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P116_1",
+    "desc_col": "Organizaciones comunitarias / Junta Administradora de Servicios de Saneamiento (JASS)",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C113",
+    "n_q": "116",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P116_2",
+    "desc_col": "Organizaciones comunitarias / Asociación de usuarios",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C113",
+    "n_q": "116",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P116_3",
+    "desc_col": "Organizaciones comunitarias / Comité de agua",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C113",
+    "n_q": "116",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P116_4",
+    "desc_col": "Organizaciones comunitarias / Otra organización",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C113",
+    "n_q": "116",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2017",
+    "col": "P116_4_O",
+    "desc_col": "Organizaciones comunitarias / Otra organización / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

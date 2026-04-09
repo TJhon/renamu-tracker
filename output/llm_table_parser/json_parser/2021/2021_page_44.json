@@ -1,0 +1,189 @@
+[
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2020",
+    "col": "P94_8",
+    "desc_col": "No realizó acciones",
+    "values": "0: Pase; 8: Si",
+    "value_pos": 8
+  },
+  {
+    "n_q": "80",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2020",
+    "col": "P94_9",
+    "desc_col": "Capacitacion Virtual para mejorar la producción y venta",
+    "values": "0: Pase; 9: Si",
+    "value_pos": 9
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_1",
+    "desc_col": "Actividades realizadas / Promoción y publicidad",
+    "values": "0: Pase; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_2",
+    "desc_col": "Actividades realizadas / Ferias",
+    "values": "0: Pase; 2: Si",
+    "value_pos": 2
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_3",
+    "desc_col": "Actividades realizadas / Apoyo a comercialización directa de productos",
+    "values": "0: Pase; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_4",
+    "desc_col": "Actividades realizadas / Capacitación presencial y/o semipresencial a artesanos",
+    "values": "0: Pase; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_5",
+    "desc_col": "Actividades realizadas / Otra actividad",
+    "values": "0: Pase; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_5_O",
+    "desc_col": "Actividades realizadas / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_6",
+    "desc_col": "No realizó actividades",
+    "values": "0: Pase; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "81",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2020",
+    "col": "P95_7",
+    "desc_col": "Capacitación virtual para artesanos",
+    "values": "0: Pase; 7: Si",
+    "value_pos": 7
+  },
+  {
+    "h2": "PROTECCIÓN Y CONSERVACIÓN DEL MEDIO AMBIENTE"
+  },
+  {
+    "n_q": "82",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2021",
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "82",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2021",
+    "col": "P96",
+    "desc_col": "¿La municipalidad tiene oficina o unidad ambiental?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_1",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "0: Pase; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_2",
+    "desc_col": "Elemento contaminante / Emisión de gases de vehículos motorizados",
+    "values": "0: Pase; 2: Si",
+    "value_pos": 2
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_3",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "0: Pase; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_4",
+    "desc_col": "Elemento contaminante / Ruidos con alta intensidad que dañan la salud",
+    "values": "0: Pase; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_5",
+    "desc_col": "Elemento contaminante / Aguas residuales",
+    "values": "0: Pase; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_6",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "0: Pase; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_7",
+    "desc_col": "Elemento contaminante / Deforestación y quema de bosques",
+    "values": "0: Pase; 7: Si",
+    "value_pos": 7
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_8",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "0: Pase; 8: Si",
+    "value_pos": 8
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_9",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "0: Pase; 9: Si",
+    "value_pos": 9
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_19",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Plantas agroindustriales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_20",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Cueros y pieles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_20",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Cueros y pieles / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_21",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Panaderías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_21",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Panaderías / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_22",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_22",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_22_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Otro / Especifique la de mayor frecuencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_23",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Bodegas y otros establecimientos de expendio de abarrotes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_23",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Bodegas y otros establecimientos de expendio de abarrotes / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_24",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Farmacias y boticas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_24",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Farmacias y boticas / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_25",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Ferreterías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_25",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Ferreterías / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_26",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Prendas de vestir?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_26",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Prendas de vestir / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_27",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Calzado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_27",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Calzado / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_28",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Mercados de abastos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_28",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Mercados de abastos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_29",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Centros comerciales o galerías comerciales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_29",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Centros comerciales o galerías comerciales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_30",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Proveedores de insumos agropecuarios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_30",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Proveedores de insumos agropecuarios / Número",
+    "values": null,
+    "value_pos": null
+  }
+]

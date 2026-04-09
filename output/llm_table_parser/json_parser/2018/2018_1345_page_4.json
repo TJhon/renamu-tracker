@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "VFI_P53",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53_1",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes? / Plazas",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_1_1",
+    "desc_col": "Número de espacios públicos / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_1_2",
+    "desc_col": "Área total conservada en m2 / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53_2",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes? / Parques",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_2_1",
+    "desc_col": "Número de espacios públicos / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_2_2",
+    "desc_col": "Área total conservada en m2 / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53_3",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes? / Parques zonales y zoológicos",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_3_1",
+    "desc_col": "Número de espacios públicos / Parques zonales y zoológicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_3_2",
+    "desc_col": "Área total conservada en m2 / Parques zonales y zoológicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53_4",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes? / Jardines y óvalos",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_4_1",
+    "desc_col": "Número de espacios públicos / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_4_2",
+    "desc_col": "Área total conservada en m2 / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53_5",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes? / Bermas",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_5_1",
+    "desc_col": "Número de espacios públicos / Bermas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_5_2",
+    "desc_col": "Área total conservada en m2 / Bermas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53_6",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes? / Alamedas",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_6_1",
+    "desc_col": "Número de espacios públicos / Alamedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 15",
+    "n_q": "53",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2017",
+    "col": "P53A_6_2",
+    "desc_col": "Área total conservada en m2 / Alamedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "EDUCACIÓN, CULTURA, DEPORTE Y RECREACIÓN"
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "54",
+    "desc_q": "Municipalidad que brindó el servicio de cabinas de internet, 2017",
+    "col": "VFI_P54",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "54",
+    "desc_q": "Municipalidad que brindó el servicio de cabinas de internet, 2017",
+    "col": "P54",
+    "desc_col": "¿La municipalidad brindó servicio de cabinas de internet?",
+    "values": "1: Brindó; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "54",
+    "desc_q": "Municipalidad que brindó el servicio de cabinas de internet, 2017",
+    "col": "P54_1",
+    "desc_col": "Servicio de cabinas de internet / Número de locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "54",
+    "desc_q": "Municipalidad que brindó el servicio de cabinas de internet, 2017",
+    "col": "P54_2",
+    "desc_col": "Servicio de cabinas de internet / Número de computadoras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "54",
+    "desc_q": "Municipalidad que brindó el servicio de cabinas de internet, 2017",
+    "col": "P54_3",
+    "desc_col": "Servicio de cabinas de internet / Tipo de conexión a internet",
+    "values": "1: Banda ancha inalámbrica (Wi-fi); 2: Banda ancha móvil (Modem, USB); 3: Línea digital (ADSL, DSL); 4: Satelital; 5: Cable de fibra óptica",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "55",
+    "desc_q": "Biblioteca municipal, 2017",
+    "col": "VFI_P55",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "55",
+    "desc_q": "Biblioteca municipal, 2017",
+    "col": "P55",
+    "desc_col": "¿La municipalidad tiene biblioteca municipal?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "55",
+    "desc_q": "Biblioteca municipal, 2017",
+    "col": "P55_1",
+    "desc_col": "Biblioteca Municipal / Área total construida (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "55",
+    "desc_q": "Biblioteca municipal, 2017",
+    "col": "P55_2",
+    "desc_col": "Biblioteca municipal / Número total de asientos (solo puestos de lectura)",
+    "values": "",
+    "value_pos": null
+  }
+]

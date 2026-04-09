@@ -1,0 +1,197 @@
+[
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "VFI_P73",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P73_1",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Auto y/o camioneta",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P73_2",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Motocicleta",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P73_3",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / A pie",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P73_4",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Otra modalidad",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P73_4_O",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Otra modalidad / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "74",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "VFI_P74",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "74",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P74",
+    "desc_col": "Frecuencia del patrullaje integrado con la PNP",
+    "values": "1: Diaria\n2: Interdiaria\n3: Semanal\n4: Quincenal\n5: Mensual"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "75",
+    "desc_q": "Municipalidad que conformó el Comité Distrital de Seguridad Ciudadana, 2019",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "75",
+    "desc_q": "Municipalidad que conformó el Comité Distrital de Seguridad Ciudadana, 2019",
+    "col": "P75",
+    "desc_col": "¿La Municipalidad conformó el Comité Distrital de Seguridad Ciudadana?",
+    "values": "1: Sí\n2: No ha conformado"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "VFI_P76",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76_1",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Sesiones de Comité de Seguridad Ciudadana?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76A_1",
+    "desc_col": "Sesiones de Comité de Seguridad Ciudadana / Número",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76_2",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Consultas públicas?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76A_2",
+    "desc_col": "Consultas públicas / Número",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76_3",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Capacitación a los efectivos de serenazgo?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76A_3",
+    "desc_col": "Capacitaciones a efectivos de serenazgo / Número",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76_4",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía)?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76A_4",
+    "desc_col": "Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía) / Número",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76_5",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Capacitación en la elaboración del Mapa del Delito?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76A_5",
+    "desc_col": "Capacitaciones en la elaboración del Mapa del Delito / Número",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76_6",
+    "desc_col": "¿El Comité Distrital de seguridad ciudadana realizó Difusión de anuncios de seguridad ciudadana en la página web y/o redes sociales de la municipalidad?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "76",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2019",
+    "col": "P76_7",
+    "desc_col": "¿El Comité Distrital de seguridad ciudadana realizó Recuperación de espacios públicos?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  }
+]

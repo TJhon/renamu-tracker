@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P32_23",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Transporte",
+    "col": "P32_23",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Transporte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_24",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Cabinas públicas de Internet",
+    "col": "P32_24",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Cabinas públicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_25",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Colegios profesionales",
+    "col": "P32_25",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Colegios profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_26",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Otros",
+    "col": "P32_26",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "VFI_P33",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33",
+    "desc_q": "La municipalidad otorgó licencias para la construcción",
+    "col": "P33",
+    "desc_col": "La municipalidad otorgó licencias para la construcción",
+    "values": "1: Otorgó;0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_01",
+    "desc_q": "Número de licencias para la construcción / Terminal terrestre",
+    "col": "P33_01",
+    "desc_col": "Número de licencias para la construcción / Terminal terrestre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_02",
+    "desc_q": "Número de licencias para la construcción / Construcción de viviendas unifamiliares",
+    "col": "P33_02",
+    "desc_col": "Número de licencias para la construcción / Construcción de viviendas unifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_03",
+    "desc_q": "Número de licencias para la construcción / Construcción de viviendas multifamiliares",
+    "col": "P33_03",
+    "desc_col": "Número de licencias para la construcción / Construcción de viviendas multifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_04",
+    "desc_q": "Número de licencias para la construcción / Hoteles",
+    "col": "P33_04",
+    "desc_col": "Número de licencias para la construcción / Hoteles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_05",
+    "desc_q": "Número de licencias para la construcción / Restaurantes",
+    "col": "P33_05",
+    "desc_col": "Número de licencias para la construcción / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_06",
+    "desc_q": "Número de licencias para la construcción / Otros",
+    "col": "P33_06",
+    "desc_col": "Número de licencias para la construcción / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "VFI_P34",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34",
+    "desc_q": "La municipalidad dispone de terrenos para fines de vivienda",
+    "col": "P34",
+    "desc_col": "La municipalidad dispone de terrenos para fines de vivienda",
+    "values": "1: Dispone;0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34_01",
+    "desc_q": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con saneamiento físico y legal",
+    "col": "P34_01",
+    "desc_col": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con saneamiento físico y legal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34_02",
+    "desc_q": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con factibilidad de servicios de agua, desagüe y electricidad",
+    "col": "P34_02",
+    "desc_col": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con factibilidad de servicios de agua, desagüe y electricidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "VFI_P35",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P35",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": "P35",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35_01",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad.",
+    "col": "P35_01",
+    "desc_col": "Promedio diario de basura que recoge la municipalidad.",
+    "values": "1: Menos de 1 Tm.;2: De 1 a menos de 3 Tm.;3: De 3 a menos de 9 Tm.;4: De 9 a menos de 50 Tm.;5: De 50 a menos de 100 Tm.;6: De 100 a mas Tm.",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "P35",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": "P35",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "VFI_P36",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P36",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO27",
+    "n_q": "P36",
+    "desc_q": "Frecuencia de recojo de basura",
+    "col": "P36",
+    "desc_col": "Frecuencia de recojo de basura",
+    "values": "1: Diaria;2: Interdiaria;3:Tres veces por semana",
+    "value_pos": null
+  }
+]

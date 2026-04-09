@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P21_48",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_48_1",
+    "desc_col": "En elaboración",
+    "values": "1: En elaboración",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_48",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_48_2",
+    "desc_col": "Falta de aprobación por el Concejo Municipal",
+    "values": "2: Falta de aprobación por el Concejo Municipal",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_48",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_48_3",
+    "desc_col": "Falta de recursos para su elaboración",
+    "values": "3: Falta de recursos para su elaboración",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_48",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_48_4",
+    "desc_col": "Otro",
+    "values": "4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_49",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones",
+    "col": "p21_49",
+    "desc_col": "Manual de Organización y Funciones",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_50",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones/ Año de publicación",
+    "col": "p21_50",
+    "desc_col": "Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_51",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_51_1",
+    "desc_col": "En elaboración",
+    "values": "1: En elaboración",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_51",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_51_2",
+    "desc_col": "Falta de aprobación por el Concejo Municipal",
+    "values": "2: Falta de aprobación por el Concejo Municipal",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_51",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_51_3",
+    "desc_col": "Falta de recursos para su elaboración",
+    "values": "3: Falta de recursos para su elaboración",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_51",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Organización y Funciones/ Motivo por el que no tiene",
+    "col": "p21_51_4",
+    "desc_col": "Otro",
+    "values": "4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_52",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal",
+    "col": "p21_52",
+    "desc_col": "Cuadro de Asignación de Personal",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_53",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal/ Año de publicación",
+    "col": "p21_53",
+    "desc_col": "Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_54",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal/ Motivo por el que no tiene",
+    "col": "p21_54_1",
+    "desc_col": "En elaboración",
+    "values": "1: En elaboración",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_54",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal/ Motivo por el que no tiene",
+    "col": "p21_54_2",
+    "desc_col": "Falta de aprobación por el Concejo Municipal",
+    "values": "2: Falta de aprobación por el Concejo Municipal",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_54",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal/ Motivo por el que no tiene",
+    "col": "p21_54_3",
+    "desc_col": "Falta de recursos para su elaboración",
+    "values": "3: Falta de recursos para su elaboración",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_54",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Cuadro de Asignación de Personal/ Motivo por el que no tiene",
+    "col": "p21_54_4",
+    "desc_col": "Otro",
+    "values": "4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_55",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Procedimientos",
+    "col": "p21_55",
+    "desc_col": "Manual de Procedimientos",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P21_56",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Procedimientos/ Año de publicación",
+    "col": "p21_56",
+    "desc_col": "Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

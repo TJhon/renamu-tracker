@@ -1,0 +1,317 @@
+[
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "VFI_P21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "VFI_P21",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21",
+    "desc_col": "La municipalidad tiene instrumento de desarrollo urbano y/o rural",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_01",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_01",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de desarrollo concertado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_02",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_02",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de acondicionamiento territorial (de nivel provincial)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_03",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_03",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de Desarrollo Urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_04",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_04",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de Desarrollo Rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_05",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_05",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de Telecomunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_06",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_06",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan Operativo Institucional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_07",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_07",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de Desarrollo de Capacidades",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_08",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_08",
+    "desc_col": "Instrumento de gestión y desarrollo/ Presupuesto Participativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_09",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_09",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de Desarrollo Económico Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_10",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_10",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de Gestión Ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_11",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_11",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_12",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_12",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan Vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_13",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_13",
+    "desc_col": "Instrumento de gestión y desarrollo/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "P21_O",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2008",
+    "col": "P21_O",
+    "desc_col": "Instrumento de gestión y desarrollo/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "22"
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "VFI_P22",
+    "desc_q": "Catastro Distrital, 2008",
+    "col": "VFI_P22",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22",
+    "desc_q": "Catastro Distrital, 2008",
+    "col": "P22",
+    "desc_col": "Municipalidad que tiene catastro distrital",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_01",
+    "desc_q": "Catastro Distrital, 2008",
+    "col": "P22_01",
+    "desc_col": "Año del último catastro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "23"
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "VFI_P23",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23",
+    "desc_col": "En la municipalidad está conformado el Consejo de Coordinación Local",
+    "values": "1: Constituido; 0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_H_01",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_H_01",
+    "desc_col": "Miembros del CCL/ Concejo Municipal Provincial/ Distrital/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_H_02",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_H_02",
+    "desc_col": "Miembros del CCL/ Alcaldes Distritales/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_H_03",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_H_03",
+    "desc_col": "Miembros del CCL/ Alcaldes de Centros Poblados/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_H_04",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_H_04",
+    "desc_col": "Miembros del CCL/ Representante de la Sociedad Civil/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_M_01",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_M_01",
+    "desc_col": "Miembros del CCL/ Concejo Municipal Provincial/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_M_02",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_M_02",
+    "desc_col": "Miembros del CCL/ Alcaldes Distritales/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_M_03",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_M_03",
+    "desc_col": "Miembros del CCL/ Alcaldes de Centros Poblados/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_M_04",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2008",
+    "col": "P23_M_04",
+    "desc_col": "Miembros del CCL/ Representante de la Sociedad Civil/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "24"
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "VFI_P24",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2007",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2007",
+    "col": "P24",
+    "desc_col": "La municipalidad ejecutó actividades del Concejo de Coordinación Local",
+    "values": "1: Si ejecutó; 0: No ejecutó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2007",
+    "col": "P24_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Realizó sesiones de concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_N_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2007",
+    "col": "P24_N_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Numero de reuniones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_02",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2007",
+    "col": "P24_02",
+    "desc_col": "Actividades que ejecutó el Concejo de Coordinación",
+    "values": "",
+    "value_pos": null
+  }
+]

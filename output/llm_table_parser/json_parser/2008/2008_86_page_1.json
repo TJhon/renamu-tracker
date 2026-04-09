@@ -1,0 +1,179 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "CCDD",
+    "desc_col": "Código de Departamento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "DPTO_NOM",
+    "desc_col": "Nombre del Departamento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "CCPP",
+    "desc_col": "Código de Provincia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "PROV_NOM",
+    "desc_col": "Nombre de la Provincia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "CCDI",
+    "desc_col": "Código de Distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "DIST_NOM",
+    "desc_col": "Nombre del Distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "IdMunici",
+    "desc_col": "Código Único de Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "CatMuni",
+    "desc_col": "Categoría de la Municipalidad",
+    "values": "1: Provincial;2: Distrital;3: Centro Poblado",
+    "value_pos": null
+  },
+  {
+    "h2": "MÓDULO I"
+  },
+  {
+    "h2": "(DATOS GENERALES DE LA MUNICIPALIDAD)"
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "VFI",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Sí informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P03",
+    "desc_col": "Número de RUC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04",
+    "desc_col": "Agencias municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P05",
+    "desc_col": "Dirección de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P06",
+    "desc_col": "Fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "CC",
+    "desc_col": "Código de la ciudad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P07",
+    "desc_col": "Teléfonos de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P08",
+    "desc_col": "Teléfono de contacto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P09",
+    "desc_col": "Correo electrónico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10",
+    "desc_col": "Página Web",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C001",
+    "n_q": "1 - 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P11",
+    "desc_col": "Nombres y apellidos del Alcalde",
+    "values": "",
+    "value_pos": null
+  }
+]

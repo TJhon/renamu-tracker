@@ -1,0 +1,374 @@
+[
+  {
+    "h2": "Registro Nacional de Municipalidades"
+  },
+  {
+    "cuadro": null,
+    "n_q": "V113",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Tasas /De administración general",
+    "col": "tasas_admin_general",
+    "desc_col": "Tasas De administración general",
+    "values": "2004 (Nuevos Soles);PIA;Tasas;De administración general",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V114",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Tasas /De educación",
+    "col": "tasas_educacion",
+    "desc_col": "Tasas De educación",
+    "values": "2004 (Nuevos Soles);PIA;Tasas;De educación",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V115",
+    "desc_q": "200 (Nuevos Soles) / PIA / Tasas /De salud",
+    "col": "tasas_salud",
+    "desc_col": "Tasas De salud",
+    "values": "200 (Nuevos Soles);PIA;Tasas;De salud",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V116",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Tasas /De vivienda y construcción",
+    "col": "tasas_vivienda_construccion",
+    "desc_col": "Tasas De vivienda y construcción",
+    "values": "2004 (Nuevos Soles);PIA;Tasas;De vivienda y construcción",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V117",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Tasas /De agropecuarios y de recursos no minerales",
+    "col": "tasas_agropecuarios_recursos_no_minerales",
+    "desc_col": "Tasas De agropecuarios y de recursos no minerales",
+    "values": "2004 (Nuevos Soles);PIA;Tasas;De agropecuarios y de recursos no minerales",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V118",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Tasas /De industria, minería y comercio",
+    "col": "tasas_industria_mineria_comercio",
+    "desc_col": "Tasas De industria, minería y comercio",
+    "values": "2004 (Nuevos Soles);PIA;Tasas;De industria, minería y comercio",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V119",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Tasas /De transportes y comunicaciones",
+    "col": "tasas_transportes_comunicaciones",
+    "desc_col": "Tasas De transportes y comunicaciones",
+    "values": "2004 (Nuevos Soles);PIA;Tasas;De transportes y comunicaciones",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V120",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Tasas /Otros",
+    "col": "tasas_otros",
+    "desc_col": "Tasas Otros",
+    "values": "2004 (Nuevos Soles);PIA;Tasas;Otros",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V121",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Contribuciones",
+    "col": "contribuciones",
+    "desc_col": "Contribuciones",
+    "values": "2004 (Nuevos Soles);PIA;Contribuciones",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V122",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Contribuciones/ Para pensiones y obras públicas",
+    "col": "contribuciones_pensiones_obras_publicas",
+    "desc_col": "Contribuciones Para pensiones y obras públicas",
+    "values": "2004 (Nuevos Soles);PIA;Contribuciones;Para pensiones y obras públicas",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V123",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Ventas de bienes",
+    "col": "ventas_bienes",
+    "desc_col": "Ventas de bienes",
+    "values": "2004 (Nuevos Soles);PIA;Ventas de bienes",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V124",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Ventas de bienes /Agropecuarios y minerales",
+    "col": "ventas_bienes_agropecuarios_minerales",
+    "desc_col": "Ventas de bienes Agropecuarios y minerales",
+    "values": "2004 (Nuevos Soles);PIA;Ventas de bienes;Agropecuarios y minerales",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V125",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Ventas de bienes/De educación, recreación y cultura",
+    "col": "ventas_bienes_educacion_recreacion_cultura",
+    "desc_col": "Ventas de bienes De educación, recreación y cultura",
+    "values": "2004 (Nuevos Soles);PIA;Ventas de bienes;De educación, recreación y cultura",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V126",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Ventas de bienes /De salud",
+    "col": "ventas_bienes_salud",
+    "desc_col": "Ventas de bienes De salud",
+    "values": "2004 (Nuevos Soles);PIA;Ventas de bienes;De salud",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V127",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Prestación de servicios",
+    "col": "prestacion_servicios",
+    "desc_col": "Prestación de servicios",
+    "values": "2004 (Nuevos Soles);PIA;Prestación de servicios",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V128",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Prestación de servicios /De transportes, comunicaciones y almacenaje",
+    "col": "prestacion_servicios_transportes_comunicaciones_almacenaje",
+    "desc_col": "Prestación de servicios De transportes, comunicaciones y almacenaje",
+    "values": "2004 (Nuevos Soles);PIA;Prestación de servicios;De transportes, comunicaciones y almacenaje",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V129",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Prestación de servicios /De educación, recreación y cultura",
+    "col": "prestacion_servicios_educacion_recreacion_cultura",
+    "desc_col": "Prestación de servicios De educación, recreación y cultura",
+    "values": "2004 (Nuevos Soles);PIA;Prestación de servicios;De educación, recreación y cultura",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V130",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Prestación de servicios /De salud",
+    "col": "prestacion_servicios_salud",
+    "desc_col": "Prestación de servicios De salud",
+    "values": "2004 (Nuevos Soles);PIA;Prestación de servicios;De salud",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V131",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Prestación de servicios /Otros",
+    "col": "prestacion_servicios_otros",
+    "desc_col": "Prestación de servicios Otros",
+    "values": "2004 (Nuevos Soles);PIA;Prestación de servicios;Otros",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V132",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Renta de la propiedad",
+    "col": "renta_propiedad",
+    "desc_col": "Renta de la propiedad",
+    "values": "2004 (Nuevos Soles);PIA;Renta de la propiedad",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V133",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad real",
+    "col": "renta_propiedad_real",
+    "desc_col": "Renta de la propiedad Renta de la propiedad real",
+    "values": "2004 (Nuevos Soles);PIA;Renta de la propiedad;Renta de la propiedad real",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V134",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad real /Canon",
+    "col": "renta_propiedad_real_canon",
+    "desc_col": "Renta de la propiedad Renta de la propiedad real Canon",
+    "values": "2004 (Nuevos Soles);PIA;Renta de la propiedad;Renta de la propiedad real;Canon",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V135",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad real /Otras rentas",
+    "col": "renta_propiedad_real_otras_rentas",
+    "desc_col": "Renta de la propiedad Renta de la propiedad real Otras rentas",
+    "values": "2004 (Nuevos Soles);PIA;Renta de la propiedad;Renta de la propiedad real;Otras rentas",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V136",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Renta de la propiedad /Renta de la propiedad financiera",
+    "col": "renta_propiedad_financiera",
+    "desc_col": "Renta de la propiedad Renta de la propiedad financiera",
+    "values": "2004 (Nuevos Soles);PIA;Renta de la propiedad;Renta de la propiedad financiera",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V137",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Multas, sanciones y otros",
+    "col": "multas_sanciones",
+    "desc_col": "Multas, sanciones y otros",
+    "values": "2004 (Nuevos Soles);PIA;Multas, sanciones y otros",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V138",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Multas, sanciones y otros/ Multas y análogas",
+    "col": "multas_analogas",
+    "desc_col": "Multas, sanciones y otros Multas y análogas",
+    "values": "2004 (Nuevos Soles);PIA;Multas, sanciones y otros;Multas y análogas",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V139",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Multas, sanciones y otros /Sanciones",
+    "col": "sanciones",
+    "desc_col": "Multas, sanciones y otros Sanciones",
+    "values": "2004 (Nuevos Soles);PIA;Multas, sanciones y otros;Sanciones",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V140",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Multas, sanciones y otros /Otros",
+    "col": "multas_sanciones_otros",
+    "desc_col": "Multas, sanciones y otros Otros",
+    "values": "2004 (Nuevos Soles);PIA;Multas, sanciones y otros;Otros",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V141",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Otros ingresos corrientes",
+    "col": "otros_ingresos_corrientes",
+    "desc_col": "Otros ingresos corrientes",
+    "values": "2004 (Nuevos Soles);PIA;Otros ingresos corrientes",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V142",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Otros ingresos corrientes /Ingresos diversos",
+    "col": "ingresos_diversos",
+    "desc_col": "Otros ingresos corrientes Ingresos diversos",
+    "values": "2004 (Nuevos Soles);PIA;Otros ingresos corrientes;Ingresos diversos",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V143",
+    "desc_q": "2004 (Nuevos Soles) / PIA / II. INGRESO DE CAPITAL",
+    "col": "ingreso_de_capital",
+    "desc_col": "INGRESO DE CAPITAL",
+    "values": "2004 (Nuevos Soles);PIA;II. INGRESO DE CAPITAL",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V144",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Venta de activos",
+    "col": "venta_activos",
+    "desc_col": "Venta de activos",
+    "values": "2004 (Nuevos Soles);PIA;Venta de activos",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V145",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Venta de activos /Inmuebles (excepto terrenos)",
+    "col": "venta_activos_inmuebles",
+    "desc_col": "Venta de activos Inmuebles (excepto terrenos)",
+    "values": "2004 (Nuevos Soles);PIA;Venta de activos;Inmuebles (excepto terrenos)",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V146",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Venta de activos/ Terrenos urbanos y rurales",
+    "col": "venta_activos_terrenos",
+    "desc_col": "Venta de activos Terrenos urbanos y rurales",
+    "values": "2004 (Nuevos Soles);PIA;Venta de activos;Terrenos urbanos y rurales",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V147",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Venta de activos /Vehículos, equipos y maquinarias (usados)",
+    "col": "venta_activos_vehiculos_equipo_maquinaria",
+    "desc_col": "Venta de activos Vehículos, equipos y maquinarias (usados)",
+    "values": "2004 (Nuevos Soles);PIA;Venta de activos;Vehículos, equipos y maquinarias (usados)",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V148",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Venta de activos /Otros",
+    "col": "venta_activos_otros",
+    "desc_col": "Venta de activos Otros",
+    "values": "2004 (Nuevos Soles);PIA;Venta de activos;Otros",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V149",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Amortización por préstamos concedidos (Reembolso)",
+    "col": "amortizacion_prestamos_concedidos",
+    "desc_col": "Amortización por préstamos concedidos (Reembolso)",
+    "values": "2004 (Nuevos Soles);PIA;Amortización por préstamos concedidos (Reembolso)",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V150",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Otros ingresos de capital",
+    "col": "otros_ingresos_capital",
+    "desc_col": "Otros ingresos de capital",
+    "values": "2004 (Nuevos Soles);PIA;Otros ingresos de capital",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V151",
+    "desc_q": "2004 (Nuevos Soles) / PIA / III. TRANSFERENCIAS",
+    "col": "transferencias",
+    "desc_col": "TRANSFERENCIAS",
+    "values": "2004 (Nuevos Soles);PIA;III. TRANSFERENCIAS",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V152",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Internas del Sector No Público",
+    "col": "internas_sector_no_publico",
+    "desc_col": "Internas del Sector No Público",
+    "values": "2004 (Nuevos Soles);PIA;Internas del Sector No Público",
+    "value_pos": 0
+  },
+  {
+    "cuadro": null,
+    "n_q": "V153",
+    "desc_q": "2004 (Nuevos Soles) / PIA / Internas del Sector Público",
+    "col": "internas_sector_publico",
+    "desc_col": "Internas del Sector Público",
+    "values": "2004 (Nuevos Soles);PIA;Internas del Sector Público",
+    "value_pos": 0
+  }
+]

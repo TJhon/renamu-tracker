@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P67_09",
+    "desc_col": "Proyectos de infraestructura social y productiva / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P67_O",
+    "desc_col": "Proyectos de infraestructura social y productiva / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68",
+    "desc_col": "En el distrito existen problemas que afectan la seguridad",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_01",
+    "desc_col": "Problemas que afectan la seguridad / Robo en viviendas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_02",
+    "desc_col": "Problemas que afectan la seguridad / Robos en las calles ( al paso)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_03",
+    "desc_col": "Problemas que afectan la seguridad / Robo de Vehículos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_04",
+    "desc_col": "Problemas que afectan la seguridad /Robo de autopartes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_05",
+    "desc_col": "Problemas que afectan la seguridad /Robo de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_06",
+    "desc_col": "Problemas que afectan la seguridad / Asalto con arma de fuego",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_07",
+    "desc_col": "P68_03 Problemas que afectan la seguridad / Actos de vandalismo (Pandillaje, barras bravas)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_08",
+    "desc_col": "Problemas que afectan la seguridad / Drogadicción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_09",
+    "desc_col": "Problemas que afectan la seguridad / Alcoholismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_10",
+    "desc_col": "Problemas que afectan la seguridad/ Accidentes de Tránsito ( Atropellos, choques)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_11",
+    "desc_col": "Problemas que afectan la seguridad / Prostitución",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_12",
+    "desc_col": "Problemas que afectan la seguridad / Microcomercialización de drogas (PBC, cocaína, marihuana, etc.)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_13",
+    "desc_col": "Problemas que afectan la seguridad / Narcotráfico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_14",
+    "desc_col": "Problemas que afectan la seguridad / Terrorismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_15",
+    "desc_col": "Problemas que afectan la seguridad / Abigeato",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_16",
+    "desc_col": "Problemas que afectan la seguridad / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C059",
+    "n_q": "68",
+    "desc_q": "Problemas que afectan la seguridad en el distrito, 2011",
+    "col": "P68_O",
+    "desc_col": "Problemas que afectan la seguridad / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "69",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2011",
+    "col": "vfi_p69",
+    "desc_col": "Municipalidades informantes",
+    "values": "1: Informó; 0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "69",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2011",
+    "col": "p69",
+    "desc_col": "Municipalidades que realizaron acciones para prevenir el consumo de drogas y alcohol",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C060",
+    "n_q": "69",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol, 2011",
+    "col": "p69_01",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Conformación de un Comité Multisectorial de prevención",
+    "values": null,
+    "value_pos": null
+  }
+]

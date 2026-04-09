@@ -1,0 +1,164 @@
+[
+  {
+    "n_q": "39",
+    "desc_q": "Municipalidad que realizó obras en espacios públicos con Enfoque de Accesibilidad universal, 2021",
+    "col": "VFI_P39B",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "39",
+    "desc_q": "Municipalidad que realizó obras en espacios públicos con Enfoque de Accesibilidad universal, 2021",
+    "col": "P39B_1",
+    "desc_col": "¿La municipalidad realizó obras en espacios públicos con enfoque de accesibilidad universal tales como: / Paraderos Accesibles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "39",
+    "desc_q": "Municipalidad que realizó obras en espacios públicos con Enfoque de Accesibilidad universal, 2021",
+    "col": "P39B_2",
+    "desc_col": "¿La municipalidad realizó obras en espacios públicos con enfoque de accesibilidad universal tales como: / Plazas Accesibles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "39",
+    "desc_q": "Municipalidad que realizó obras en espacios públicos con Enfoque de Accesibilidad universal, 2021",
+    "col": "P39B_3",
+    "desc_col": "¿La municipalidad realizó obras en espacios públicos con enfoque de accesibilidad universal tales como: / Parques Accesibles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "MÓDULO V: SERVICIOS PÚBLICOS LOCALES"
+  },
+  {
+    "h2": "SANEAMIENTO AMBIENTAL Y SALUBRIDAD"
+  },
+  {
+    "n_q": "40",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2021",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "40",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2021",
+    "col": "P40_1",
+    "desc_col": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad",
+    "values": "1: Diaria; 2: Interdiaria; 3: Dos veces por semana; 4: Una vez por semana; 5: No realizó recojo"
+  },
+  {
+    "n_q": "41",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2021",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "41",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2021",
+    "col": "P41_1",
+    "desc_col": "Cantidad promedio diaria de residuos sólidos (basura) en kilogramos",
+    "values": ""
+  },
+  {
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) realizado por la municipalidad, 2021",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) realizado por la municipalidad, 2021",
+    "col": "P42_1",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos en el distrito",
+    "values": "1: Menos de 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%"
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_1",
+    "desc_col": "Instrumento de gestión / Plan Integral de Gestión Ambiental de Residuos Sólidos (PIGARS) - (Solo municipalidad provincial)",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_2",
+    "desc_col": "Instrumento de gestión / Plan de Manejo de Residuos Sólidos (PMRS) - (Solo municipalidad distrital)",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_3",
+    "desc_col": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_4",
+    "desc_col": "Instrumento de gestión / Programa de Transformación de Residuos Sólidos",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_5",
+    "desc_col": "Instrumento de gestión / Programa de Segregación en la Fuente y Recolección Selectiva de Residuos Sólidos",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_6",
+    "desc_col": "Instrumento de gestión / Plan de Valorización de Residuos Sólidos Orgánicos",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_7",
+    "desc_col": "Instrumento de gestión / Estudio de Caracterización de Residuos Sólidos",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_8",
+    "desc_col": "Instrumento de gestión / Otro",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2021",
+    "col": "P43_8_O",
+    "desc_col": "Instrumento de gestión / Otro / Especifique",
+    "values": ""
+  }
+]

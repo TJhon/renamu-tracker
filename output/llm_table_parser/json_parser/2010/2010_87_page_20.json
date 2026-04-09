@@ -1,0 +1,326 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": null,
+    "desc_col": "2: Desconoce cómo integrarse al SNIP",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": null,
+    "desc_col": "3: Desconoce la función del SNIP",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": null,
+    "desc_col": "4: Falta de presupuesto para implementarla",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": null,
+    "desc_col": "5: Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P78_O",
+    "desc_q": "Razón por la que no dispone de OPI la Municipalidad / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "SNIP : Sistema Nacional de Inversión Pública",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "VFI_P79",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79",
+    "desc_q": "El distrito tiene producción artesanal",
+    "col": "P79",
+    "desc_col": "El distrito tiene producción artesanal",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_01",
+    "desc_q": "Producción artesanal / Lácteos",
+    "col": "P79_01",
+    "desc_col": "Producción artesanal / Lácteos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_02",
+    "desc_q": "Producción artesanal / Miel de abeja",
+    "col": "P79_02",
+    "desc_col": "Producción artesanal / Miel de abeja",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_03",
+    "desc_q": "Producción artesanal / Textiles (tejidos de punto, tapiz)",
+    "col": "P79_03",
+    "desc_col": "Producción artesanal / Textiles (tejidos de punto, tapiz)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_04",
+    "desc_q": "Producción artesanal / Alfarería – cerámica",
+    "col": "P79_04",
+    "desc_col": "Producción artesanal / Alfarería – cerámica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_05",
+    "desc_q": "Producción artesanal / Joyería – orfebrería",
+    "col": "P79_05",
+    "desc_col": "Producción artesanal / Joyería – orfebrería",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_06",
+    "desc_q": "Producción artesanal / Fibras vegetales",
+    "col": "P79_06",
+    "desc_col": "Producción artesanal / Fibras vegetales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_07",
+    "desc_q": "Producción artesanal / Madera",
+    "col": "P79_07",
+    "desc_col": "Producción artesanal / Madera",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_08",
+    "desc_q": "Producción artesanal / Cuero, pieles",
+    "col": "P79_08",
+    "desc_col": "Producción artesanal / Cuero, pieles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_09",
+    "desc_q": "Producción artesanal / Bisutería",
+    "col": "P79_09",
+    "desc_col": "Producción artesanal / Bisutería",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_10",
+    "desc_q": "Producción artesanal / Mates burilados (repujados / tallado en calabaza)",
+    "col": "P79_10",
+    "desc_col": "Producción artesanal / Mates burilados (repujados / tallado en calabaza)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_11",
+    "desc_q": "Producción artesanal / Manualidades",
+    "col": "P79_11",
+    "desc_col": "Producción artesanal / Manualidades",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_12",
+    "desc_q": "Producción artesanal / Instrumentos musicales",
+    "col": "P79_12",
+    "desc_col": "Producción artesanal / Instrumentos musicales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_13",
+    "desc_q": "Producción artesanal / Imaginería (yeso, pasta de arroz)",
+    "col": "P79_13",
+    "desc_col": "Producción artesanal / Imaginería (yeso, pasta de arroz)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_14",
+    "desc_q": "Producción artesanal / Otro",
+    "col": "P79_14",
+    "desc_col": "Producción artesanal / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "79",
+    "n_q": "P79_O",
+    "desc_q": "Producción artesanal / Otro / Descripción",
+    "col": "P79_O",
+    "desc_col": "Producción artesanal / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "80",
+    "n_q": "VFI_P80",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "80",
+    "n_q": "P80",
+    "desc_q": "La municipalidad realizó acciones de fomento a la artesanía",
+    "col": "P80",
+    "desc_col": "La municipalidad realizó acciones de fomento a la artesanía",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "80",
+    "n_q": "P80_01",
+    "desc_q": "Acciones de fomento a la artesanía / Promoción y publicidad",
+    "col": "P80_01",
+    "desc_col": "Acciones de fomento a la artesanía / Promoción y publicidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "80",
+    "n_q": "P80_02",
+    "desc_q": "Acciones de fomento a la artesanía / Realización de ferias",
+    "col": "P80_02",
+    "desc_col": "Acciones de fomento a la artesanía / Realización de ferias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "80",
+    "n_q": "P80_03",
+    "desc_q": "Acciones de fomento a la artesanía / Apoyo a la comercialización de productos",
+    "col": "P80_03",
+    "desc_col": "Acciones de fomento a la artesanía / Apoyo a la comercialización de productos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "80",
+    "n_q": "P80_04",
+    "desc_q": "Acciones de fomento a la artesanía / Capacitación a artesanos",
+    "col": "P80_04",
+    "desc_col": "Acciones de fomento a la artesanía / Capacitación a artesanos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "80",
+    "n_q": "P80_05",
+    "desc_q": "Acciones de fomento a la artesanía / Otro",
+    "col": "P80_05",
+    "desc_col": "Acciones de fomento a la artesanía / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "80",
+    "n_q": "P80_O",
+    "desc_q": "Acciones de fomento a la artesanía / Otro / Descripción",
+    "col": "P80_O",
+    "desc_col": "Acciones de fomento a la artesanía / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "81",
+    "n_q": "VFI_P81",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P81",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "81",
+    "n_q": "P81",
+    "desc_q": "La municipalidad tiene establecimientos registrados",
+    "col": "P81",
+    "desc_col": "La municipalidad tiene establecimientos registrados",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "81",
+    "n_q": "P81_01",
+    "desc_q": "Número de establecimientos / Establecimiento de hospedaje (Hoteles, hostales y otros)",
+    "col": "P81_01",
+    "desc_col": "Número de establecimientos / Establecimiento de hospedaje (Hoteles, hostales y otros)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "81",
+    "n_q": "P81_02",
+    "desc_q": "Número de establecimientos / Restaurantes",
+    "col": "P81_02",
+    "desc_col": "Número de establecimientos / Restaurantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "81",
+    "n_q": "P81_03",
+    "desc_q": "Número de establecimientos / Agencias de viaje",
+    "col": "P81_03",
+    "desc_col": "Número de establecimientos / Agencias de viaje",
+    "values": null,
+    "value_pos": null
+  }
+]

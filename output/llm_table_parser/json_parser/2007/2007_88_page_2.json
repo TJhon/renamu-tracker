@@ -1,0 +1,230 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P84",
+    "desc_q": "Racionamiento de agua potable",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Menos de 6 horas;2: De 7 a 12 horas;3: De 13 a más horas;4: No hay racionamiento",
+    "value_pos": null
+  },
+  {
+    "h2": "85 CUADRO_C076 Institución u organismo que administra el agua potable y alcantarillado en el distrito, en el 2007"
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "VFI_P85",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P81_01",
+    "desc_q": "Número de empresas / Empresa Prestadora Municipal",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P81_02",
+    "desc_q": "Número de empresas / Empresa Prestadora privada",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P81_03",
+    "desc_q": "Número de empresas / Asociaciones o Comités de Agua",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P81_04",
+    "desc_q": "Número de empresas / Junta administradora de saneamiento",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P81_05",
+    "desc_q": "Número de empresas / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P81_O",
+    "desc_q": "Otros tipos de empresas / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "86 CUADRO_C077 Aguas Servidas generadas en el Distrito, 2007"
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "VFI_86",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86",
+    "desc_q": "Las aguas servidas reciben tratamiento",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_01",
+    "desc_q": "Tipo de tratamiento que reciben las aguas servidas",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Lagunas Facultativas;2: Lagunas Aereadas;3: Lagunas Anaerobias;4: Lodos Activados;5: Tanque Séptico;6: Tanque Imhoff;7: Filtro Biológico;8: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_O",
+    "desc_q": "Otros tipos de tratamiento / descripción de otros",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_02",
+    "desc_q": "No tiene sistema de desague",
+    "col": null,
+    "desc_col": null,
+    "values": "1: No tiene",
+    "value_pos": 1
+  },
+  {
+    "h2": "87 CUADRO_C078 El sistema de desagüe del distrito desemboca en: 2007"
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "VFI_87",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_01",
+    "desc_q": "El sistema de desagüe desemboca/ Río",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_02",
+    "desc_q": "El sistema de desagüe desemboca/ Mar",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_03",
+    "desc_q": "El sistema de desagüe desemboca/ Playa",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_04",
+    "desc_q": "El sistema de desagüe desemboca/ Lago",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_05",
+    "desc_q": "El sistema de desagüe desemboca/ Laguna de oxidación",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_06",
+    "desc_q": "El sistema de desagüe desemboca/ Otros",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_O",
+    "desc_q": "El sistema de desagüe desemboca/ Otros/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "P87_07",
+    "desc_q": "No tiene sistema de desague",
+    "col": null,
+    "desc_col": null,
+    "values": "1: No tiene",
+    "value_pos": 1
+  },
+  {
+    "h2": "88 CUADRO_C079 Vía principal y secundaria de acceso de la capital distrital a la capital provincial(Solo municipalidades distritales), 2007"
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "VFI_88",
+    "desc_q": "Municipalidades distritales que informaron a la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "P88_01",
+    "desc_q": "Vía principal",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Trocha o sendero;2:Camino de herradura;3: Vía fluvial / lacustre;4: Camino carrozable;5: Vía aérea;6: Ferrocarril;7: Carretera afirmada;8: Carretera asfaltada;9: Avenida",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "VFI_P90",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90",
+    "desc_col": "¿La Municipalidad tiene almacén local de bienes de ayuda humanitaria?",
+    "values": "1: Si;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_1",
+    "desc_col": "Bienes de ayuda humanitaria / Carpas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_2",
+    "desc_col": "Bienes de ayuda humanitaria / Alimentos no perecibles",
+    "values": "2: Si;0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_3",
+    "desc_col": "Bienes de ayuda humanitaria / Bidones de agua",
+    "values": "3: Si;0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_4",
+    "desc_col": "Bienes de ayuda humanitaria / Botiquines de emergencia",
+    "values": "4: Si;0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_5",
+    "desc_col": "Bienes de ayuda humanitaria / Abrigo",
+    "values": "5: Si;0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_6",
+    "desc_col": "Bienes de ayuda humanitaria / Camas plegables",
+    "values": "6: Si;0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_7",
+    "desc_col": "Bienes de ayuda humanitaria / Enseres (utensilios de cocina, productos de higiene y otros)",
+    "values": "7: Si;0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_8",
+    "desc_col": "Bienes de ayuda humanitaria / Herramientas (lampas, carretillas, picos y otros)",
+    "values": "8: Si;0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_9",
+    "desc_col": "Bienes de ayuda humanitaria / Otro tipo de bien",
+    "values": "9: Si;0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "90",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2018",
+    "col": "P90_9_O",
+    "desc_col": "Bienes de ayuda humanitaria / Otro tipo de bien / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "VFI_P91",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91",
+    "desc_col": "La Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil",
+    "values": "1: Si;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91_1",
+    "desc_col": "Medios de comunicación / Radiotransmisor",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91_2",
+    "desc_col": "Medios de comunicación/ Línea de telefonía fija",
+    "values": "2: Sí;0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91_3",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "3: Sí;0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91_4",
+    "desc_col": "Medios de comunicación / Acceso a internet",
+    "values": "4: Sí;0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91_5",
+    "desc_col": "Medios de comunicación / Otro",
+    "values": "5: Sí;0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91_5_O",
+    "desc_col": "Medios de comunicación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2018",
+    "col": "P91_6",
+    "desc_col": "Medios de comunicación / No Tiene medios de comunicación",
+    "values": "6: Si;0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "VFI_P92",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_1",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Cursos de capacitación en Gestión Reactiva del Riesgo",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_2",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Simulacros para probar el Plan de Operaciones de Emergencia",
+    "values": "2: Sí;0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92A_2",
+    "desc_col": "Número de simulacros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_3",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Identificación del nivel de riesgo existente en áreas de distrito",
+    "values": "3: Sí;0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "92",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de desastres u oficina de Defensa Civil?, 2017",
+    "col": "P92_4",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Supervisión del cumplimiento de las normas de seguridad en recintos con acceso al público",
+    "values": "4: Sí;0: No",
+    "value_pos": 4
+  }
+]

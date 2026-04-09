@@ -1,0 +1,131 @@
+[
+  {
+    "cuadro": "22",
+    "n_q": "P21_57",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Manual de Procedimientos/ Motivo por el que no tiene",
+    "col": null,
+    "desc_col": null,
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": "P21_58",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Otro",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "22",
+    "n_q": "P21_59",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Otro/ Año de publicación",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": "P21_o",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Miembros del Consejo de Coordinación Local, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "VFI_P22",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22",
+    "desc_q": "En la municipalidad está constituido el Consejo de Coordinación Local",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Constituido;0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_01",
+    "desc_q": "Miembros del CCL/ Concejo Municipal Provincial/ Distrital/ Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_02",
+    "desc_q": "Miembros del CCL/ Alcaldes Distritales/ Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_03",
+    "desc_q": "Miembros del CCL/ Alcaldes de Centros Poblados / Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_04",
+    "desc_q": "Miembros del CCL/ Representante de la Sociedad Civil/ Hombre",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_01",
+    "desc_q": "Miembros del CCL/ Concejo Municipal Provincial/ Distrital /Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_02",
+    "desc_q": "Miembros del CCL/ Alcaldes Distritales / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_03",
+    "desc_q": "Miembros del CCL/ Alcaldes de centros poblados / Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_04",
+    "desc_q": "Miembros del CCL/ Representante de la Sociedad Civil/ Mujer",
+    "col": null,
+    "desc_col": null,
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consecación de areas verdes en espacios públicos, 2019",
+    "col": "P51F",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en Alamedas?",
+    "values": "1: Si\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consecación de areas verdes en espacios públicos, 2019",
+    "col": "P51F_T",
+    "desc_col": "Total áreas verdes en espacios públicos del distrito (m²) / Alamedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 11",
+    "n_q": "51",
+    "desc_q": "Municipalidad realizó consecación de areas verdes en espacios públicos, 2019",
+    "col": "P51F_C",
+    "desc_col": "Áreas verdes conservadas en espacios públicos del distrito (m²) / Alamedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "EDUCACIÓN, CULTURA, DEPORTE Y RECREACIÓN"
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "52",
+    "desc_q": "Biblioteca municipal, 2018",
+    "col": "VFI_P52",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "52",
+    "desc_q": "Biblioteca municipal, 2018",
+    "col": "P52",
+    "desc_col": "¿La municipalidad contó con biblioteca municipal?",
+    "values": "1: Sí\n2: No contó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "52",
+    "desc_q": "Biblioteca municipal, 2018",
+    "col": "P52_1",
+    "desc_col": "Biblioteca Municipal / Número de locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "52",
+    "desc_q": "Biblioteca municipal, 2018",
+    "col": "P52_2",
+    "desc_col": "Biblioteca Municipal / Área total construida (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "52",
+    "desc_q": "Biblioteca municipal, 2018",
+    "col": "P52_3",
+    "desc_col": "Biblioteca municipal / Número total de asientos (solo puestos de lectura)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53A",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2018",
+    "col": "VFI_P53A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53A",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2018",
+    "col": "P53A",
+    "desc_col": "¿La municipalidad brindó servicio bibliotecario?",
+    "values": "1: Sí\n2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53A",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2018",
+    "col": "P53A_1",
+    "desc_col": "Servicio bibliotecario / Total de usuarios/visitantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53A",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2018",
+    "col": "P53A_2",
+    "desc_col": "Servicio bibliotecario / Total de usuarios del servicio de lectura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "VFI_P53B",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_1",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Lectura en sala",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_2",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Préstamo de libros a domicilio",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_3",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Biblioteca virtual",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_4",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Sala de revistas y periódicos (hemeroteca)",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_5",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Sala infantil",
+    "values": "5: Sí\n0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_6",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Biblioteca itinerante",
+    "values": "6: Sí\n0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_7",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Internet",
+    "values": "7: Sí\n0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_8",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Catálogo de acceso al público",
+    "values": "8: Sí\n0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "53B",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2018",
+    "col": "P53B_9",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Servicios culturales (exposiciones, conferencias, presentaciones de libros, promoción y fomento de la lectura y la escritura)",
+    "values": "9: Sí\n0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "54",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2018",
+    "col": "VFI_P54",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "54",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2018",
+    "col": "P54",
+    "desc_col": "¿La municipalidad contó con personal exclusivo de la biblioteca municipal?",
+    "values": "1: Sí\n2: No contó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "54",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2018",
+    "col": "P54_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "54",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2018",
+    "col": "P54_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "54",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2018",
+    "col": "P54_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "54",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2018",
+    "col": "P54_1_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Profesionales en Bibliotecología / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "54",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2018",
+    "col": "P54_1_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Profesionales en Bibliotecología / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V5",
+    "desc_col": "Producción artesanal / Alfarería – cerámica",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V6",
+    "desc_col": "Producción artesanal / Joyería – orfebrería",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V7",
+    "desc_col": "Producción artesanal / Fibras vegetales",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Producción artesanal / Madera",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Producción artesanal / Cuero, pieles",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Producción artesanal / Bisutería",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Producción artesanal / Mates burilados (repujados / tallado en calabaza)",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V12",
+    "desc_col": "Producción artesanal / Manualidades",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V13",
+    "desc_col": "Producción artesanal / Instrumentos musicales",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V14",
+    "desc_col": "Producción artesanal / Imagenería (yeso, pasta de arroz)",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V15",
+    "desc_col": "Producción artesanal / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "69"
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad realizó acciones de fomento a la artesanía",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, en el 2005",
+    "col": "V2",
+    "desc_col": "Acciones de fomento a la artesanía / Promoción y publicidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, en el 2005",
+    "col": "V3",
+    "desc_col": "Acciones de fomento a la artesanía / Realización de ferias",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, en el 2005",
+    "col": "V4",
+    "desc_col": "Acciones de fomento a la artesanía / Apoyo a la comercialización de productos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, en el 2005",
+    "col": "V5",
+    "desc_col": "Acciones de fomento a la artesanía / Capacitación a artesanos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0064",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad de fomento a la artesanía, en el 2005",
+    "col": "V6",
+    "desc_col": "Acciones de fomento a la artesanía / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "70"
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene establecimientos turísticos registrados",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V2",
+    "desc_col": "Número de establecimientos / Hoteles, hostales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V3",
+    "desc_col": "Número de establecimientos / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V4",
+    "desc_col": "Número de establecimientos / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V5",
+    "desc_col": "Número de establecimientos / Empresas de transporte turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V6",
+    "desc_col": "Número de establecimientos / Empresas de transporte interprovincial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V7",
+    "desc_col": "Número de establecimientos / Empresas de transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V8",
+    "desc_col": "Número de establecimientos / Empresas de transporte aéreo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V9",
+    "desc_col": "Número de establecimientos / Empresas de transporte acuático",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V10",
+    "desc_col": "Número de establecimientos / Empresas de alquiler de autos (Rent a Car)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V11",
+    "desc_col": "Número de establecimientos / Establecimientos de venta de artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V12",
+    "desc_col": "Número de establecimientos / Discotecas turísticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V13",
+    "desc_col": "Número de establecimientos / Peñas turísticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V14",
+    "desc_col": "Número de establecimientos / Juegos de casinos y máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0065",
+    "n_q": null,
+    "desc_q": "Establecimientos de servicios turísticos registrados en la municipalidad, al 2005",
+    "col": "V15",
+    "desc_col": "Número de establecimientos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "71"
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad realizó acciones para incentivar el turismo",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V2",
+    "desc_col": "Acciones para incentivar el turismo / Promoción y publicidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V3",
+    "desc_col": "Acciones para incentivar el turismo / Implementación de una oficina de turismo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V4",
+    "desc_col": "Acciones para incentivar el turismo / Instalación de áreas de información turística",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V5",
+    "desc_col": "Acciones para incentivar el turismo / Mejoramiento de la infraestructura de acceso",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V6",
+    "desc_col": "Acciones para incentivar el turismo / Construcción de nuevos atractivos turísticos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V7",
+    "desc_col": "Acciones para incentivar el turismo / Coordinación con la entidad competente para el mantenimiento de los atractivos turísticos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V8",
+    "desc_col": "Acciones para incentivar el turismo / Ordenanzas a favor del desarrollo turístico",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0066",
+    "n_q": null,
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2005",
+    "col": "V9",
+    "desc_col": "Acciones para incentivar el turismo / Realización de eventos y/o ferias turísticas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

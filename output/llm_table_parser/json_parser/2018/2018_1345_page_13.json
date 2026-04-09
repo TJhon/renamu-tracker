@@ -1,0 +1,266 @@
+[
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_26_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Organización No Gubernamental",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_27_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / La comunidad",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_28_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Iglesia",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_29_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Organismo internacional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_30_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Otro Privado",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_30_1_O",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Otro Privado / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "VFI_P67",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_1",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en agua y saneamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_1",
+    "desc_col": "Número de proyectos / Agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_2",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en electrificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_2",
+    "desc_col": "Número de proyectos / Electrificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_3",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en hospital?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_3",
+    "desc_col": "Número de proyectos / Hospital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_4",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Centro de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_4",
+    "desc_col": "Número de proyectos / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_5",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Puesto de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_5",
+    "desc_col": "Número de proyectos / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_6",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Aulas escolares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_6",
+    "desc_col": "Número de proyectos / Aulas escolares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_7",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Infraestructura vial?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_7",
+    "desc_col": "Número de proyectos / Infraestructura vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_8",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Sistemas de riego?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_8",
+    "desc_col": "Número de proyectos / Sistemas de riego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_9",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67A_9",
+    "desc_col": "Número de proyectos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "67",
+    "desc_q": "Municipalidad que ha recibido transferencias de proyectos de infraestructura social y productiva, 2017",
+    "col": "P67_9_O",
+    "desc_col": "La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SALUD"
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68",
+    "desc_col": "¿La municipalidad informó que administra establecimientos de salud?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_1",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Hospital / Clínica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

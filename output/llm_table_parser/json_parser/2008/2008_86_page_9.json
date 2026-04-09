@@ -1,0 +1,410 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P102_44",
+    "desc_q": "Multas, sanciones y otros / Multas y análogas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_45",
+    "desc_q": "Multas, sanciones y otros / Sanciones",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_46",
+    "desc_q": "Multas, sanciones y otros / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_47",
+    "desc_q": "Otros ingresos corrientes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_48",
+    "desc_q": "Otros ingresos corrientes / Ingresos diversos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_49",
+    "desc_q": "II. INGRESO DE CAPITAL",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_50",
+    "desc_q": "Venta de activos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_51",
+    "desc_q": "Venta de activos / Inmuebles (excepto terrenos)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_52",
+    "desc_q": "Venta de activos / Terrenos urbanos y rurales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_53",
+    "desc_q": "Venta de activos / Vehículos, equipos y maquinarias (usados)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_54",
+    "desc_q": "Venta de activos / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_55",
+    "desc_q": "Otros ingresos de capital",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_56",
+    "desc_q": "III. TRANSFERENCIAS",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_57",
+    "desc_q": "Internas del Sector No Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_58",
+    "desc_q": "Internas del Sector Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_59",
+    "desc_q": "Internas del Sector Público / De instancias descentralizadas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_60",
+    "desc_q": "Internas del Sector Público / Del gobierno nacional",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_61",
+    "desc_q": "Internas del Sector Público / Para proyectos de infraestructura social y productiva",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_62",
+    "desc_q": "Internas del Sector Público / Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_63",
+    "desc_q": "Internas del Sector Público / Para otras acciones nutricionales y de asistencia solidaria",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_64",
+    "desc_q": "Internas del Sector Público / Otras del Sector Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_65",
+    "desc_q": "Externas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_66",
+    "desc_q": "Fondo de Compensación Municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_67",
+    "desc_q": "Otras transferencias",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_68",
+    "desc_q": "IV. FINANCIAMIENTO",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_69",
+    "desc_q": "Operaciones oficiales de crédito externo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_70",
+    "desc_q": "Operaciones oficiales de crédito interno",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P102_71",
+    "desc_q": "Saldo del balance",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "CUADRO_C094 Gastos ejecutados por las municipalidades provinciales y distritales, 2008"
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "VFI_P103",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_01",
+    "desc_q": "GASTO TOTAL (I + II + III)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_02",
+    "desc_q": "I. GASTOS CORRIENTES",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_03",
+    "desc_q": "Personal y obligaciones sociales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_04",
+    "desc_q": "Obligaciones previsionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_05",
+    "desc_q": "Bienes y servicios",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_06",
+    "desc_q": "Otros gastos corrientes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_07",
+    "desc_q": "II. GASTOS DE CAPITAL",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_08",
+    "desc_q": "Inversiones",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_09",
+    "desc_q": "Inversiones financieras",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_10",
+    "desc_q": "Otros gastos de capital",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_11",
+    "desc_q": "III. SERVICIO DE LA DEUDA",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_12",
+    "desc_q": "Interna",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_13",
+    "desc_q": "Interna / Intereses y cargos de la deuda",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_14",
+    "desc_q": "Interna / Amortización de la deuda",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_15",
+    "desc_q": "Externa",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": "P103_16",
+    "desc_q": "Externa / Intereses y cargos de la deuda",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

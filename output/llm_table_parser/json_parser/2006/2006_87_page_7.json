@@ -1,0 +1,419 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V18",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V19",
+    "desc_col": "Población beneficiada / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V1",
+    "desc_col": "El distrito tiene locales de atención de salud",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V2",
+    "desc_col": "Número de establecimientos / Municipalidad / Hospital/Clinica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V3",
+    "desc_col": "Número de establecimientos / Municipalidad / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V4",
+    "desc_col": "Número de establecimientos / Municipalidad / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V5",
+    "desc_col": "Número de establecimientos / Municipalidad / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V6",
+    "desc_col": "Número de establecimientos / Municipalidad / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V7",
+    "desc_col": "Número de establecimientos / Municipalidad / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V8",
+    "desc_col": "Número de establecimientos / Municipalidad / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V9",
+    "desc_col": "Número de establecimientos / Municipalidad / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V10",
+    "desc_col": "Número de establecimientos / Municipalidad / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V11",
+    "desc_col": "Número de establecimientos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V12",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Hospital/Clinica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V13",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V14",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V15",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V16",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V17",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V18",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V19",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V20",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V21",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V22",
+    "desc_col": "Número de establecimientos / Privado / Hospital/Clinica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V23",
+    "desc_col": "Número de establecimientos / Privado / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V24",
+    "desc_col": "Número de establecimientos / Privado / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V25",
+    "desc_col": "Número de establecimientos / Privado / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V26",
+    "desc_col": "Número de establecimientos / Privado / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V27",
+    "desc_col": "Número de establecimientos / Privado / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V28",
+    "desc_col": "Número de establecimientos / Privado / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V29",
+    "desc_col": "Número de establecimientos / Privado / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V30",
+    "desc_col": "Número de establecimientos / Privado / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0041",
+    "n_q": "47",
+    "desc_q": "Locales de atención de salud existentes y en funcionamiento en el distrito, al 2005",
+    "col": "V31",
+    "desc_col": "Número de establecimientos / Privado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Programas de control y prevención de la salud implementados en el distrito, en el 2005"
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron sobre la realización de Programas de Control y Prevención en el Distrito",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V2",
+    "desc_col": "Programa implementado / Control del crecimiento y desarrollo del niño",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V3",
+    "desc_col": "Programa implementado / Control de infecciones respiratorias agudas",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V4",
+    "desc_col": "Programa implementado / Control de enfermedades diarreicas agudas",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V5",
+    "desc_col": "Programa implementado / Vacunas (Inmunización)",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V6",
+    "desc_col": "Programa implementado / Planificación familiar",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V7",
+    "desc_col": "Programa implementado / Control de tuberculosis",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V8",
+    "desc_col": "Programa implementado / Control de enfermedades de transmisión sexual y SIDA",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V9",
+    "desc_col": "Programa implementado / Campañas de fumigación",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0042",
+    "n_q": "48",
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, en el 2005",
+    "col": "V10",
+    "desc_col": "Programa implementado / Otro",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0043",
+    "n_q": "49",
+    "desc_q": "Organizaciones sociales que existen en el distrito a diciembre del 2005",
+    "col": "V1",
+    "desc_col": "Número de organizaciones / Club de madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0043",
+    "n_q": "49",
+    "desc_q": "Organizaciones sociales que existen en el distrito a diciembre del 2005",
+    "col": "V2",
+    "desc_col": "Número de beneficiarios / Club de Madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0043",
+    "n_q": "49",
+    "desc_q": "Organizaciones sociales que existen en el distrito a diciembre del 2005",
+    "col": "V3",
+    "desc_col": "Número de organizaciones / Comité del Programa de Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  }
+]

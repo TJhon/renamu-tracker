@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_6",
+    "desc_col": "Actividades / Coordinación con la entidad competente para el mantenimiento de los atractivos turísticos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_7",
+    "desc_col": "Actividades / Ordenanzas a favor del desarrollo turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_8",
+    "desc_col": "Actividades / Realización de eventos y/o ferias turísticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_9",
+    "desc_col": "Actividades / Capacitación a promotores de turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_10",
+    "desc_col": "Actividades / Programas de conciencia turística a la población",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_11",
+    "desc_col": "Actividades / Creación de club de turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_12",
+    "desc_col": "Actividades / Convenios institucionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_13",
+    "desc_col": "Actividades / Otra actividad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "100",
+    "desc_q": "Realizo la municipalidad para fomentar el turismo en el distrito, 2014",
+    "col": "P100_13_1",
+    "desc_col": "Actividades / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P101"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P101",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101",
+    "desc_col": "¿La municipalidad registró establecimientos de servicios y comercio?",
+    "values": "1: Si registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_1",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Hoteles, hostales y otros",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_1",
+    "desc_col": "Número de establecimientos de servicios / Hoteles, hostales y otros establecimientos de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_2",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Restaurantes?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_2",
+    "desc_col": "Número de establecimientos de servicios / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_3",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Agencias de viaje?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_3",
+    "desc_col": "Número de establecimientos de servicios / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_4",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte urbano?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_4",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_5",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte turístico?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_5",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_6",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_6",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte interprovincial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_7",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte aéreo?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_7",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte aéreo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_8",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte acuático?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

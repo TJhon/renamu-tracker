@@ -1,0 +1,237 @@
+[
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_10",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales (comités vecinales)",
+    "values": "0: No; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_11",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otra",
+    "values": "0: No; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_11_O",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otra / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_12",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / No participa",
+    "values": "0: No; 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "VFI_P101",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "P101_1",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Participativo Local de Educación",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "P101_2",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Local de Salud",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "P101_3",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Consultivo de Niñas, Niños y Adolescentes",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "P101_4",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Mesa de Concertación para la Lucha Contra la Pobreza",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "P101_5",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Otro",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "P101_5_O",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "96",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2025",
+    "col": "P101_6",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / No participa",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2025",
+    "col": "VFI_P102",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2025",
+    "col": "P102",
+    "desc_col": "¿La municipalidad tiene constituida la Junta de Delegados Vecinales?",
+    "values": "1: Sí; 2: No tiene constituida",
+    "value_pos": 1
+  },
+  {
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2025",
+    "col": "P102_1_T",
+    "desc_col": "Número de personas que conforman la Junta de Delegados Vecinales / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2025",
+    "col": "P102_1_M",
+    "desc_col": "Número de personas que conforman la Junta de Delegados Vecinales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2025",
+    "col": "P102_1_H",
+    "desc_col": "Número de personas que conforman la Junta de Delegados Vecinales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "97",
+    "desc_q": "Municipalidad que tiene constituida la Junta de Delegados Vecinales, 2025",
+    "col": "P102_2",
+    "desc_col": "¿La Junta de Delegados Vecinales se encuentra en actividad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "FINANZAS MUNICIPALES"
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "VFI_C96",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96",
+    "desc_col": "Total Ingresos (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1",
+    "desc_col": "I. Ingresos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1_1",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1_2",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1_3",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1_4",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / A los casinos de juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1_5",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1_6",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_1_1_7",
+    "desc_col": "Ingresos corrientes / Impuestos y contribuciones obligatorias / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  }
+]

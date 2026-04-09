@@ -1,0 +1,470 @@
+[
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P40",
+    "desc_q": "Personal de la biblioteca municipal, al 30 de junio del 2007",
+    "col": "P40",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43",
+    "desc_q": "Personal de la biblioteca municipal, al 30 de junio del 2007",
+    "col": "P43",
+    "desc_col": "La municipalidad tiene personal exclusivo de la biblioteca",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43_01",
+    "desc_q": "Personal de la biblioteca municipal, al 30 de junio del 2007",
+    "col": "P43_01",
+    "desc_col": "Número de personal de la biblioteca / Profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43_02",
+    "desc_q": "Personal de la biblioteca municipal, al 30 de junio del 2007",
+    "col": "P43_02",
+    "desc_col": "Número de personal de la biblioteca / Técnicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43_03",
+    "desc_q": "Personal de la biblioteca municipal, al 30 de junio del 2007",
+    "col": "P43_03",
+    "desc_col": "Número de personal de la biblioteca / Auxiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43_04",
+    "desc_q": "Personal de la biblioteca municipal, al 30 de junio del 2007",
+    "col": "P43_04",
+    "desc_col": "Número de personal de la biblioteca / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43_O",
+    "desc_q": "Personal de la biblioteca municipal, al 30 de junio del 2007",
+    "col": "P43_O",
+    "desc_col": "Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P40",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P40",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P44",
+    "desc_col": "La municipalidad tiene equipos de cómputo en la biblioteca",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44_01",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P44_01",
+    "desc_col": "Número de equipos de cómputo / PC 386",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44_02",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P44_02",
+    "desc_col": "Número de equipos de cómputo / PC 486",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44_03",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P44_03",
+    "desc_col": "Número de equipos de cómputo / Pentium I",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44_04",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P44_04",
+    "desc_col": "Número de equipos de cómputo / Pentium II",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44_05",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P44_05",
+    "desc_col": "Número de equipos de cómputo / Pentium III",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44_06",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2007",
+    "col": "P44_06",
+    "desc_col": "Número de equipos de cómputo / Pentium IV",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "VFI_P45",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "VFI_P45",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45",
+    "desc_col": "La municipalidad administra infraestructura deportiva",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_01",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_01",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Estadios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_02",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_02",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Complejos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_03",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_03",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Parques zonales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_04",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_04",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas multideportivas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_05",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_05",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de fulbito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_06",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_06",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de básquet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_07",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_07",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de voley",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_08",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_08",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de Piscinas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_09",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_09",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de Gimnasio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_10",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_10",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Coliseos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_11",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_11",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_O",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2007",
+    "col": "P45_O",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "VFI_P46",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "VFI_P46",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46",
+    "desc_col": "La municipalidad administra locales para uso recreacional y cultural",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_01",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_01",
+    "desc_col": "Número de locales / Teatros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_02",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_02",
+    "desc_col": "Número de locales / Teatrines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_03",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_03",
+    "desc_col": "Número de locales / Cine",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_04",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_04",
+    "desc_col": "Número de locales / Museo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_05",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_05",
+    "desc_col": "Número de locales / Bibliotecas Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_06",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_06",
+    "desc_col": "Número de locales / Casa de la cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_07",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_07",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_O",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, 2007",
+    "col": "P46_O",
+    "desc_col": "Otros tipos de locales / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "VFI_P47",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "VFI_P47",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47",
+    "desc_col": "La municipalidad administra locales para la protección del niño, adolescente, mujeres, discapacitados y adultodo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_01",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_01",
+    "desc_col": "Número de locales / Hogares de niños y niñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_02",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_02",
+    "desc_col": "Número de locales / Casa hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_03",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_03",
+    "desc_col": "Número de locales / Asilos y albergues",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_04",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_04",
+    "desc_col": "Número de locales / Centros de cuidado diurno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_05",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_05",
+    "desc_col": "Número de locales / Centros de cuidado comunal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_06",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_06",
+    "desc_col": "Número de locales / Casa de estancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_07",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_07",
+    "desc_col": "Número de locales / DEMUNA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_08",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_08",
+    "desc_col": "Número de locales / Casa de la mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_L_08",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_L_08",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_P_10",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_P_10",
+    "desc_col": "Población beneficiada / Hogares de niños y niñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_P_11",
+    "desc_q": "Locales para la protección del niño, adolescente, mujeres, discapacitados y adulto mayor, administrados por la municipalidad , de enero al 30 de junio del 2007",
+    "col": "P47_P_11",
+    "desc_col": "Población beneficiada / Casa hogar",
+    "values": "",
+    "value_pos": null
+  }
+]

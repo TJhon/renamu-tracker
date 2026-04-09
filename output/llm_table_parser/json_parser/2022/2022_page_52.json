@@ -1,0 +1,42 @@
+[
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2021",
+    "col": "C97_2_2_3_11",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Otras obras de infraestructura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2021",
+    "col": "C97_2_2_4",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Otros gastos por adquisición de activos no financieros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2021",
+    "col": "C97_2_3",
+    "desc_col": "Gastos de capital / Donaciones y transferencias de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2021",
+    "col": "C97_2_4",
+    "desc_col": "Gastos de capital / Otros gastos de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2021",
+    "col": "C97_3",
+    "desc_col": "III. Servicio de la deuda",
+    "values": null,
+    "value_pos": null
+  }
+]

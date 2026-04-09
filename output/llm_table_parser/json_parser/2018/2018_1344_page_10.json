@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_3_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 500 m² con ITSE de Detalle o Multidisciplinaria / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_4",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_4_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_4_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_4_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_4_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m2 / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_4_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_4_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_5",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_5_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_5_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_5_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "col": "V11",
+    "desc_col": "Número de equipos de computo y de oficina / Scanner"
+  },
+  {
+    "col": "V12",
+    "desc_col": "Número de equipos de computo y de oficina / Fotocopiadora"
+  },
+  {
+    "col": "V13",
+    "desc_col": "Número de equipos de computo y de oficina / Líneas telefónicas"
+  },
+  {
+    "col": "V14",
+    "desc_col": "Número de equipos de computo y de oficina / Líneas destinadas a Fax"
+  },
+  {
+    "col": "V15",
+    "desc_col": "Número de equipos de computo y de oficina / Otros"
+  },
+  {
+    "cuadro": "CUADRO_C0006",
+    "n_q": "14",
+    "desc_q": "Red Informática local en la Municipalidad",
+    "col": "V1",
+    "desc_col": "La Municipalidad tiene red informática local",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0006",
+    "n_q": "14",
+    "desc_q": "Red Informática local en la Municipalidad",
+    "col": "V2",
+    "desc_col": "Número de PC interconectadas a la red informática local"
+  },
+  {
+    "cuadro": "CUADRO_C0007",
+    "n_q": "15",
+    "desc_q": "Acceso a Internet en la Municipalidad",
+    "col": "V1",
+    "desc_col": "La Municipalidad tiene acceso a Internet",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0007",
+    "n_q": "15",
+    "desc_q": "Acceso a Internet en la Municipalidad",
+    "col": "V2",
+    "desc_col": "Número de PC que tienen acceso a Internet"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V1",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Nombrado / Hombre",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V2",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Nombrado / Mujer",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V3",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Contratado permanente / Hombre",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V4",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Contratado permanente / Mujer",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V5",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Contratado por servicios no personales / Hombre",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V6",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Contratado por servicios no personales / Mujer",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V7",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Contratado por service / Hombre",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V8",
+    "desc_col": "2003 / Funcionarios y/o Directivos / Contratado por service / Mujer",
+    "values": "1/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V9",
+    "desc_col": "2003 / Empleados / Profesionales / Nombrado / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V10",
+    "desc_col": "2003 / Empleados / Profesionales / Nombrado / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V11",
+    "desc_col": "2003 / Empleados / Profesionales / Contratado permanente / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V12",
+    "desc_col": "2003 / Empleados / Profesionales / Contratado permanente / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V13",
+    "desc_col": "2003/ Empleados / Profesionales / Contratado por servicios no personales / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V14",
+    "desc_col": "2003 / Empleados / Profesionales / Contratado por servicios no personales / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V15",
+    "desc_col": "2003 / Empleados / Profesionales / Contratado por service / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V16",
+    "desc_col": "2003 / Empleados / Profesionales / Contratado por service / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V17",
+    "desc_col": "2003 / Empleados / Técnicos / Nombrado / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V18",
+    "desc_col": "2003 / Empleados / Técnicos / Nombrado / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V19",
+    "desc_col": "2003 / Empleados / Técnicos / Contratado permanente / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V20",
+    "desc_col": "2003 / Empleados / Técnicos / Contratado permanente / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V21",
+    "desc_col": "2003 / Empleados / Técnicos / Contratado por servicios no personales / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V22",
+    "desc_col": "2003 / Empleados / Técnicos / Contratado por servicios no personales / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V23",
+    "desc_col": "2003 / Empleados / Técnicos / Contratado por service / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V24",
+    "desc_col": "2003 / Empleados / Técnicos / Contratado por service / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V25",
+    "desc_col": "2003 / Empleados / Auxiliares / Nombrado / Hombre",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V26",
+    "desc_col": "2003 / Empleados / Auxiliares / Nombrado / Mujer",
+    "values": "2/"
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16.A",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V27",
+    "desc_col": "2003 / Empleados / Auxiliares / Contratado permanente / Hombre",
+    "values": "2/"
+  }
+]

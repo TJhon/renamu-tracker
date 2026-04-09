@@ -1,0 +1,341 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V5",
+    "desc_q": "Núcleo urbano / Cuenta con servicios básicos / Agua potable / Si",
+    "col": "V5",
+    "desc_col": "Núcleo urbano / Cuenta con servicios básicos / Agua potable / Si",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V6",
+    "desc_q": "Núcleo urbano / Cuenta con servicios básicos / Agua potable / No",
+    "col": "V6",
+    "desc_col": "Núcleo urbano / Cuenta con servicios básicos / Agua potable / No",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V7",
+    "desc_q": "Núcleo urbano / Cuenta con servicios básicos / Alcantarillado / Si",
+    "col": "V7",
+    "desc_col": "Núcleo urbano / Cuenta con servicios básicos / Alcantarillado / Si",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V8",
+    "desc_q": "Núcleo urbano / Cuenta con servicios básicos / Alcantarillado / No",
+    "col": "V8",
+    "desc_col": "Núcleo urbano / Cuenta con servicios básicos / Alcantarillado / No",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V9",
+    "desc_q": "Núcleo urbano / Cuenta con servicios básicos/ Alumbrado público / Si",
+    "col": "V9",
+    "desc_col": "Núcleo urbano / Cuenta con servicios básicos/ Alumbrado público / Si",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V10",
+    "desc_q": "Núcleo urbano / Cuenta con servicios básicos / Alumbrado público / No",
+    "col": "V10",
+    "desc_col": "Núcleo urbano / Cuenta con servicios básicos / Alumbrado público / No",
+    "values": "1: Afirma;0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V11",
+    "desc_q": "Núcleo urbano / Nombre del distrito de procedencia de la población",
+    "col": "V11",
+    "desc_col": "Núcleo urbano / Nombre del distrito de procedencia de la población",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "33 CUADRO_C0028 Municipalidades de Centro Poblado creadas en el distrito, al 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "V1",
+    "desc_q": "Nombre de la Municipalidad de Centro Poblado",
+    "col": "V1",
+    "desc_col": "Nombre de la Municipalidad de Centro Poblado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "V2",
+    "desc_q": "Año de creación",
+    "col": "V2",
+    "desc_col": "Año de creación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "34 CUADRO_C0029 Licencias de obras de construcción otorgadas por la municipalidad, en el 2003 y 2004"
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V011",
+    "desc_q": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": "V011",
+    "desc_col": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V012",
+    "desc_q": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": "V012",
+    "desc_col": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V013",
+    "desc_q": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": "V013",
+    "desc_col": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V014",
+    "desc_q": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": "V014",
+    "desc_col": "Viviendas multifamiliares / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V015",
+    "desc_q": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": "V015",
+    "desc_col": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V016",
+    "desc_q": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": "V016",
+    "desc_col": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V017",
+    "desc_q": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": "V017",
+    "desc_col": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V018",
+    "desc_q": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": "V018",
+    "desc_col": "Viviendas multifamiliares / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V021",
+    "desc_q": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": "V021",
+    "desc_col": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V022",
+    "desc_q": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": "V022",
+    "desc_col": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V023",
+    "desc_q": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": "V023",
+    "desc_col": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V024",
+    "desc_q": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": "V024",
+    "desc_col": "Viviendas bifamiliares / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V025",
+    "desc_q": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": "V025",
+    "desc_col": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V026",
+    "desc_q": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": "V026",
+    "desc_col": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V027",
+    "desc_q": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": "V027",
+    "desc_col": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V028",
+    "desc_q": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": "V028",
+    "desc_col": "Viviendas bifamiliares / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V031",
+    "desc_q": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": "V031",
+    "desc_col": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V032",
+    "desc_q": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": "V032",
+    "desc_col": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V033",
+    "desc_q": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": "V033",
+    "desc_col": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V034",
+    "desc_q": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": "V034",
+    "desc_col": "Viviendas unifamiliares / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V035",
+    "desc_q": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": "V035",
+    "desc_col": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V036",
+    "desc_q": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": "V036",
+    "desc_col": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V037",
+    "desc_q": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": "V037",
+    "desc_col": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V038",
+    "desc_q": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": "V038",
+    "desc_col": "Viviendas unifamiliares / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V041",
+    "desc_q": "Comercio / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": "V041",
+    "desc_col": "Comercio / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V042",
+    "desc_q": "Comercio / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": "V042",
+    "desc_col": "Comercio / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V043",
+    "desc_q": "Comercio / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": "V043",
+    "desc_col": "Comercio / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "V044",
+    "desc_q": "Comercio / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": "V044",
+    "desc_col": "Comercio / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "values": "",
+    "value_pos": null
+  }
+]

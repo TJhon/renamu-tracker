@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "2008",
+    "col": "no_informo_2008",
+    "desc_col": "No informó en 2008",
+    "values": "0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P50",
+    "desc_q": "La municipalidad tiene personal exclusivo de la biblioteca",
+    "col": "p50",
+    "desc_col": "Municipalidad tiene personal exclusivo de biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P50_01",
+    "desc_q": "Número de personal de la biblioteca / Profesionales",
+    "col": "p50_01",
+    "desc_col": "Número de personal profesional de biblioteca",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P50_02",
+    "desc_q": "Número de personal de la biblioteca / Técnicos",
+    "col": "p50_02",
+    "desc_col": "Número de personal técnico de biblioteca",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P50_03",
+    "desc_q": "Número de personal de la biblioteca / Auxiliares",
+    "col": "p50_03",
+    "desc_col": "Número de personal auxiliar de biblioteca",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P50_04",
+    "desc_q": "Número de personal de la biblioteca / Otros",
+    "col": "p50_04",
+    "desc_col": "Número de otro personal de biblioteca",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P47",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - La municipalidad tiene biblioteca",
+    "col": "p47_c042",
+    "desc_col": "Municipalidad tiene biblioteca (Cuadro C042)",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "VFI_P51",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - Municipalidad informante",
+    "col": "vfi_p51",
+    "desc_col": "Municipalidad informante (P51)",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - Personal recibió capacitación",
+    "col": "p51",
+    "desc_col": "Personal recibió capacitación",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_01",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - Instituciones que brindaron capacitación/ Biblioteca Nacional del Perú",
+    "col": "p51_01",
+    "desc_col": "Capacitación por Biblioteca Nacional del Perú",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_02",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - Instituciones que brindaron capacitación/ Colegio de Bibliotecólogos",
+    "col": "p51_02",
+    "desc_col": "Capacitación por Colegio de Bibliotecólogos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_03",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - Instituciones que brindaron capacitación/ Universidad pública/privada",
+    "col": "p51_03",
+    "desc_col": "Capacitación por Universidad pública o privada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_04",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - Instituciones que brindaron capacitación/Instituto superior",
+    "col": "p51_04",
+    "desc_col": "Capacitación por Instituto superior",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_05",
+    "desc_q": "Instituciones que brindaron capacitación al personal de la biblioteca municipal, en el 2008 - Instituciones que brindaron capacitación/ONG",
+    "col": "p51_05",
+    "desc_col": "Capacitación por ONG",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P47",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - La municipalidad tiene biblioteca",
+    "col": "p47_c043",
+    "desc_col": "Municipalidad tiene biblioteca (Cuadro C043)",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "VFI_P52",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Municipalidad informante",
+    "col": "vfi_p52",
+    "desc_col": "Municipalidad informante (P52)",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - La municipalidad tiene equipos de cómputo en la biblioteca",
+    "col": "p52",
+    "desc_col": "Municipalidad tiene equipos de cómputo en biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_01",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Pentium I y II",
+    "col": "p52_01",
+    "desc_col": "Número de equipos Pentium I y II",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_02",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Pentium III y IV",
+    "col": "p52_02",
+    "desc_col": "Número de equipos Pentium III y IV",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_03",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Pentium D",
+    "col": "p52_03",
+    "desc_col": "Número de equipos Pentium D",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_04",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Celeron",
+    "col": "p52_04",
+    "desc_col": "Número de equipos Celeron",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_05",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Core Duo",
+    "col": "p52_05",
+    "desc_col": "Número de equipos Core Duo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_06",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Core 2 Duo",
+    "col": "p52_06",
+    "desc_col": "Número de equipos Core 2 Duo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_07",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Otros",
+    "col": "p52_07",
+    "desc_col": "Número de otros equipos de cómputo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_08",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / Total PC",
+    "col": "p52_08",
+    "desc_col": "Número total de PCs",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_09",
+    "desc_q": "Equipos de cómputo en la biblioteca municipal, 2009 - Número de equipos de cómputo / PC con acceso a Internet",
+    "col": "p52_09",
+    "desc_col": "Número de PCs con acceso a Internet",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "P47",
+    "desc_q": "Documentos de gestión municipal que contempla el funcionamiento de la biblioteca municipal, 2009 - La municipalidad tiene biblioteca",
+    "col": "p47_c044",
+    "desc_col": "Municipalidad tiene biblioteca (Cuadro C044)",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "VFI_P53",
+    "desc_q": "Documentos de gestión municipal que contempla el funcionamiento de la biblioteca municipal, 2009 - Municipalidad informante",
+    "col": "vfi_p53",
+    "desc_col": "Municipalidad informante (P53)",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "P53",
+    "desc_q": "Documentos de gestión municipal que contempla el funcionamiento de la biblioteca municipal, 2009 - La biblioteca esta contemplada en algún documento municipal",
+    "col": "p53",
+    "desc_col": "Biblioteca contemplada en documento municipal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "P53_01",
+    "desc_q": "Documentos de gestión municipal que contempla el funcionamiento de la biblioteca municipal, 2009 - Documentos que contempla el funcionamiento de la Biblioteca Municipal / Reglamento de Organizaciones y Funciones (ROF)",
+    "col": "p53_01",
+    "desc_col": "Funcionamiento contemplado en ROF",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "P53_02",
+    "desc_q": "Documentos de gestión municipal que contempla el funcionamiento de la biblioteca municipal, 2009 - Documentos que contempla el funcionamiento de la Biblioteca Municipal/Cuadro de Asignación de Personal (CAP)",
+    "col": "p53_02",
+    "desc_col": "Funcionamiento contemplado en CAP",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "P53_03",
+    "desc_q": "Documentos de gestión municipal que contempla el funcionamiento de la biblioteca municipal, 2009 - Documentos que contempla el funcionamiento de la Biblioteca Municipal/ Manual de Organizaciones y Funciones (MOF)",
+    "col": "p53_03",
+    "desc_col": "Funcionamiento contemplado en MOF",
+    "values": null,
+    "value_pos": null
+  }
+]

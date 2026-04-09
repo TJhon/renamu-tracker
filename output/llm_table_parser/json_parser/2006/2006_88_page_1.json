@@ -1,0 +1,272 @@
+[
+  {
+    "h2": "DICCCIONARIO DE DATOS"
+  },
+  {
+    "h2": "MODULO III"
+  },
+  {
+    "h2": "GESTION Y POLITICA DE DESARROLLO SOCIAL"
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V1",
+    "desc_col": "Principal actividad económica / Agricultura",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V2",
+    "desc_col": "Principal actividad económica / Ganadería",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V3",
+    "desc_col": "Principal actividad económica / Pesca",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V4",
+    "desc_col": "Principal actividad económica / Minería",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V5",
+    "desc_col": "Principal actividad económica / Industria",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V6",
+    "desc_col": "Principal actividad económica / Petróleo, electricidad y gas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V7",
+    "desc_col": "Principal actividad económica / Construcción",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V8",
+    "desc_col": "Principal actividad económica / Turismo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V9",
+    "desc_col": "Principal actividad económica / Artesanía",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V10",
+    "desc_col": "Principal actividad económica / Comercio, restaurantes y hoteles",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V11",
+    "desc_col": "Principal actividad económica / Transportes y comunicaciones",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V12",
+    "desc_col": "Principal actividad económica / Finanzas y seguros",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0074",
+    "n_q": "79",
+    "desc_q": "Principales actividad es económicas que se desarrollan en el distrito",
+    "col": "V13",
+    "desc_col": "Principal actividad económica / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "80",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2005",
+    "col": "V1",
+    "desc_col": "En el distrito existen servicios de comunicación",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "80",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2005",
+    "col": "V2",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Centros comunitarios telefónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "80",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2005",
+    "col": "V3",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Centrales telefónicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "80",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2005",
+    "col": "V4",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Oficina de correo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "80",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2005",
+    "col": "V5",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Antena parabólica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "80",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2005",
+    "col": "V6",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Cabinas públicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0075",
+    "n_q": "80",
+    "desc_q": "Servicios de comunicación que existen en el distrito, al 2005",
+    "col": "V7",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "81",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene registradas emisoras o estaciones de radio",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "81",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2005",
+    "col": "V2",
+    "desc_col": "Nombre de la emisora o estación de radio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0076",
+    "n_q": "81",
+    "desc_q": "Emisoras o estaciones locales de radio registradas en la municipalidad, al 2005",
+    "col": "V3",
+    "desc_col": "Régimen de Propiedad de la Emisora",
+    "values": "1: Privado; 0: Público",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0077",
+    "n_q": "82",
+    "desc_q": "Alumbrado Público en el distrito, al 2005",
+    "col": "V1",
+    "desc_col": "El Distrito tiene Alumbrado Público",
+    "values": "1: Si Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "83",
+    "desc_q": "Racionamiento de agua potable en el distrito",
+    "col": "V1",
+    "desc_col": "El distrito tiene racionamiento de agua potable",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "83",
+    "desc_q": "Racionamiento de agua potable en el distrito",
+    "col": "V2",
+    "desc_col": "Racionamiento de agua potable / Menos de 6 horas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "83",
+    "desc_q": "Racionamiento de agua potable en el distrito",
+    "col": "V3",
+    "desc_col": "Racionamiento de agua potable / De a 7 a 12 horas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0078",
+    "n_q": "83",
+    "desc_q": "Racionamiento de agua potable en el distrito",
+    "col": "V4",
+    "desc_col": "Racionamiento de agua potable / De 13 a más horas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0079",
+    "n_q": "84",
+    "desc_q": "Institución u",
+    "col": "V1",
+    "desc_col": "Número de empresas / Empresa Prestadora Municipal",
+    "values": "",
+    "value_pos": null
+  }
+]

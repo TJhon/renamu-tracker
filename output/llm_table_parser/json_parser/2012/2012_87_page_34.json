@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p69_02",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Promovió convenios de cooperación de prevención",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p69_03",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Charlas y/o talleres de prevención en instituciones educativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p69_04",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Charlas y/o talleres de prevención y fortalecimiento en familias (Comités vecinales, Club de madres y Comités de Vaso de Leche)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p69_05",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Campañas de concientización en ferias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p69_06",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Actividades recreativas, deportivas, culturales y de formación moral",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p69_07",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Recibió capacitación y asistencia técnica en aspectos de prevención por DEVIDA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p69_08",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol/ Recibió capacitación y asistencia técnica en aspectos de prevención por ONG, dedicada al tema",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "P70",
+    "desc_col": "La municipalidad registró organizaciones de seguridad vecinal y comunal",
+    "values": "1: Registró; 0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "P70_01",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "P70_02",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "P70_03",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Comité Vecinal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "P70_04",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Comité de Autodefensa",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "P70_05",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "70",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2011",
+    "col": "P70_O",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "71",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2011",
+    "col": "vfi_p71",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "71",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2011",
+    "col": "p71",
+    "desc_col": "Municipalidades que conformaron y realizaron actividades del Comité Distrital de Seguridad Ciudadana",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "71",
+    "desc_q": "Conformación y actividades del comité distrital de seguridad ciudadana, 2011",
+    "col": "p71_01",
+    "desc_col": "Conformó y juramentó su Comité Distrital de Seguridad Ciudadana",
+    "values": null,
+    "value_pos": null
+  }
+]

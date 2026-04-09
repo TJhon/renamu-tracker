@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_8_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de agropecuario / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96_9",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de industria?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_9_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de industria / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_9_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de industria / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_9_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de industria / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96_10",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de servicios?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_10_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de servicios / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_10_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de servicios / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96A_10_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de servicios / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96_11",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de otros productos?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_1",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_2",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_3",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P96_11_O",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Acciones que realizó la municipalidad para"
+  },
+  {
+    "cuadro": "CUADRO C91",
+    "n_q": "97",
+    "desc_q": "",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO C91",
+    "n_q": "P97",
+    "desc_q": "¿La municipalidad realizó acciones para incentivar a las micro y pequeñas empresas?",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO C91",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P97_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C91",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P97_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO C91",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P97_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "",
+    "value_pos": null
+  }
+]

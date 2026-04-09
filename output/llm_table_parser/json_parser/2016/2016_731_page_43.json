@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_1",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_1",
+    "desc_col": "Número de establecimientos de servicios / Hoteles, hostales y otros establecimientos de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_2",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Restaurantes?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_2",
+    "desc_col": "Número de establecimientos de servicios / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_3",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Agencias de viaje?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_3",
+    "desc_col": "Número de establecimientos de servicios / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_4",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte urbano?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_4",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_5",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte turístico?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_5",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_6",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte interprovincial?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_6",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte interprovincial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_7",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte aéreo?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_7",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte aéreo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_8",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de transporte acuático?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_8",
+    "desc_col": "Número de establecimientos de servicios / Empresas de transporte acuático",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_9",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Empresas de alquiler de autos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_9",
+    "desc_col": "Número de establecimientos de servicios / Empresas de alquiler de autos",
+    "values": "",
+    "value_pos": null
+  }
+]

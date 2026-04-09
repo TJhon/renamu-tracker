@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen instrumentos de gestión",
+    "values": "1: Si tienen, 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V2",
+    "desc_col": "Instrumento de Gestión/ Plan de desarrollo municipal concertado",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V3",
+    "desc_col": "Instrumento de Gestión/ Plan estratégico y de desarrollo económico local",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V4",
+    "desc_col": "Instrumento de Gestión/ Plan de desarrollo social",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V5",
+    "desc_col": "Instrumento de Gestión/ Plan de acondicionamiento territorial",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V6",
+    "desc_col": "Instrumento de Gestión/ Plan de desarrollo urbano o plan director",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V7",
+    "desc_col": "Instrumento de Gestión/ Esquema De zonificación de áreas urbanas",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V8",
+    "desc_col": "Instrumento de Gestión/ Plan de desarrollo rural",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V9",
+    "desc_col": "Instrumento de Gestión/ Plan vial",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V10",
+    "desc_col": "Instrumento de Gestión/ Plan de gestión ambiental",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V11",
+    "desc_col": "Instrumento de Gestión/ Plan de desarrollo AA.HH",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V12",
+    "desc_col": "Instrumento de Gestión/ Plan de desarrollo institucional",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V13",
+    "desc_col": "Instrumento de Gestión/ Programas de inversiones",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V14",
+    "desc_col": "Instrumento de Gestión/ Presupuesto participativo",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V15",
+    "desc_col": "Instrumento de Gestión/ Plan operativo",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "24",
+    "desc_q": "Instrumentos de Gestión y desarrollo urbano con que cuenta la Municipalidad",
+    "col": "V16",
+    "desc_col": "Instrumento de Gestión/ Otro",
+    "values": "1: Si disponen, 0: No disponen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "25",
+    "desc_q": "Conformación del consejo de coordinación local",
+    "col": "V1",
+    "desc_col": "Municipalidades que cuentan con consejo de coordinación local",
+    "values": "1: Si cuentan, 0: No cuentan",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "25",
+    "desc_q": "Conformación del consejo de coordinación local",
+    "col": "V2",
+    "desc_col": "Número d e miembros del consejo de coordinación local por sexo/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "25",
+    "desc_q": "Conformación del consejo de coordinación local",
+    "col": "V3",
+    "desc_col": "Número d e miembros del consejo de coordinación local por sexo/ Hombres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "25",
+    "desc_q": "Conformación del consejo de coordinación local",
+    "col": "V4",
+    "desc_col": "Número d e miembros del consejo de coordinación local por sexo/ Mujeres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "26",
+    "desc_q": "Asistencia técnica que requiere la Municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que requieren asistencia técnica",
+    "values": "1: Si requieren, 0:No requieren",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "26",
+    "desc_q": "Asistencia técnica que requiere la Municipalidad",
+    "col": "V2",
+    "desc_col": "Requerimientos de asistencia técnica/ Gestión Municipal",
+    "values": "1: Si requiere, 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "26",
+    "desc_q": "Asistencia técnica que requiere la Municipalidad",
+    "col": "V3",
+    "desc_col": "Requerimientos de asistencia técnica/ catastro urbano y rural",
+    "values": "1: Si requiere, 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "26",
+    "desc_q": "Asistencia técnica que requiere la Municipalidad",
+    "col": "V4",
+    "desc_col": "Requerimientos de asistencia técnica/ Planificación de desarrollo local",
+    "values": "1: Si requiere, 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "26",
+    "desc_q": "Asistencia técnica que requiere la Municipalidad",
+    "col": "V5",
+    "desc_col": "Requerimientos de asistencia técnica/ Contabilidad financiera",
+    "values": "1: Si requiere, 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "26",
+    "desc_q": "Asistencia técnica que requiere la Municipalidad",
+    "col": "V6",
+    "desc_col": "Requerimientos de asistencia técnica/ Formulación y ejecución de proyectos",
+    "values": "1: Si requiere, 0: No requiere",
+    "value_pos": 1
+  }
+]

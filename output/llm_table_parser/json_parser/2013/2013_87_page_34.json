@@ -1,0 +1,170 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "p69_02",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Promovió convenios de cooperación de prevención",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p69_03",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Charlas y/o talleres de prevención en instituciones educativas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p69_04",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Charlas y/o talleres de prevención y fortalecimiento en familias (Comités vecinales, Club de madres y Vaso de Leche",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p69_05",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Campañas de concientización en ferias",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p69_06",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Actividades recreativas, deportivas, culturales y de formación moral",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p69_07",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Recibió capacitación y asistencia técnica en aspectos de prevención por DEVIDA",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p69_08",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Recibió capacitación y asistencia técnica en aspectos de prevención por ONG, dedicada al tema",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p69_09",
+    "desc_q": "Acciones para prevenir el consumo de drogas y alcohol/ Otra acción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "70 CUADRO_C061 Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "VFI_P70",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1:Informó;0:No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "P70",
+    "desc_q": "La municipalidad registró organizaciones de seguridad vecinal y comunal",
+    "col": null,
+    "desc_col": null,
+    "values": "1:Registró;0:No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "P70_01",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "P70_02",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "P70_03",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Comité Vecinal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "P70_04",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Comité de Autodefensa",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "P70_05",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "71 CUADRO_C062 Conformación y actividades del comité distrital de seguridad ciudadana, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "vfi_p71",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1:Informó;0:No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "p71",
+    "desc_q": "Municipalidades que conformaron y realizaron actividades del Comité Distrital de Seguridad Ciudadana",
+    "col": null,
+    "desc_col": null,
+    "values": "1:Conformó;0:No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "p71_01",
+    "desc_q": "Conformó y juramentó su Comité Distrital de Seguridad Ciudadana",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

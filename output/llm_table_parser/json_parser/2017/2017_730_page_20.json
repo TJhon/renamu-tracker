@@ -1,0 +1,119 @@
+[
+  {
+    "cuadro": "P39A_2",
+    "n_q": "",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Restaurantes",
+    "col": "P39A_2",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_3",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para agencias de viaje?",
+    "col": "P39_3",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para agencias de viaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "P39A_3",
+    "n_q": "",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Agencias de viaje",
+    "col": "P39A_3",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_4",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de mensajerías / Courier",
+    "col": "P39_4",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de mensajerías / Courier",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "P39A_4",
+    "n_q": "",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Mensajerías / Courier",
+    "col": "P39A_4",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Mensajerías / Courier",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_5",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para Peluquerías y salones spa?",
+    "col": "P39_5",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para Peluquerías y salones spa?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "P39A_5",
+    "n_q": "",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Peluquerías y salones spa",
+    "col": "P39A_5",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Peluquerías y salones spa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_6",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para Entidades financieras y de seguros?",
+    "col": "P39_6",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para Entidades financieras y de seguros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "P39A_6",
+    "n_q": "",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Entidades financieras y de seguros",
+    "col": "P39A_6",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Entidades financieras y de seguros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_7",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de artes, entretenimiento y recreación?",
+    "col": "P39_7",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de artes, entretenimiento y recreación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "P39A_7",
+    "n_q": "",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Artes, entretenimiento y recreación",
+    "col": "P39A_7",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Artes, entretenimiento y recreación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P39_8",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para discotecas?",
+    "col": "P39_8",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para discotecas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "P39A_8",
+    "n_q": "",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Discotecas",
+    "col": "P39A_8",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Discotecas",
+    "values": "",
+    "value_pos": null
+  }
+]

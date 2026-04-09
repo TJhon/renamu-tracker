@@ -1,0 +1,176 @@
+[
+  {
+    "h2": "Entidades Financieras y de Seguros"
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_08",
+    "desc_q": "Número de licencias de apertura de establecimientos SERVICIOS/ Artes, entretenimiento y recreación",
+    "col": "P32_08",
+    "desc_col": "Número de licencias de apertura de establecimientos SERVICIOS/ Artes, entretenimiento y recreación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_09",
+    "desc_q": "Número de licencias de apertura de establecimientos SERVICIOS/ Otros",
+    "col": "P32_09",
+    "desc_col": "Número de licencias de apertura de establecimientos SERVICIOS/ Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_10",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Artesanías",
+    "col": "P32_10",
+    "desc_col": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Artesanías",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_11",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Fábricas",
+    "col": "P32_11",
+    "desc_col": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Fábricas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_12",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Otros",
+    "col": "P32_12",
+    "desc_col": "Número de licencias de apertura de establecimientos/ ARTESANIA Y MANUFACTURA/ Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_13",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Bodegas",
+    "col": "P32_13",
+    "desc_col": "Número de licencias de apertura de establecimientos/ COMERCIO/ Bodegas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_14",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Farmacias y boticas",
+    "col": "P32_14",
+    "desc_col": "Número de licencias de apertura de establecimientos/ COMERCIO/ Farmacias y boticas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_15",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Panaderías",
+    "col": "P32_15",
+    "desc_col": "Número de licencias de apertura de establecimientos/ COMERCIO/ Panaderías",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_16",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Ferreterías",
+    "col": "P32_16",
+    "desc_col": "Número de licencias de apertura de establecimientos/ COMERCIO/ Ferreterías",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_17",
+    "desc_q": "Número de licencias de apertura de establecimientos/ COMERCIO/ Otros",
+    "col": "P32_17",
+    "desc_col": "Número de licencias de apertura de establecimientos/ COMERCIO/ Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_18",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Empresas proveedoras de insumos",
+    "col": "P32_18",
+    "desc_col": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Empresas proveedoras de insumos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_19",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO / Plantas agroindustriales",
+    "col": "P32_19",
+    "desc_col": "Número de licencias de apertura de establecimientos/ AGROPECUARIO / Plantas agroindustriales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_20",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO / Curtiembres",
+    "col": "P32_20",
+    "desc_col": "Número de licencias de apertura de establecimientos/ AGROPECUARIO / Curtiembres",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_21",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Granjas avícolas",
+    "col": "P32_21",
+    "desc_col": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Granjas avícolas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_22",
+    "desc_q": "Número de licencias de apertura de establecimientos/AGROPECUARIO/ Establos lecheros",
+    "col": "P32_22",
+    "desc_col": "Número de licencias de apertura de establecimientos/AGROPECUARIO/ Establos lecheros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_23",
+    "desc_q": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Otros",
+    "col": "P32_23",
+    "desc_col": "Número de licencias de apertura de establecimientos/ AGROPECUARIO/ Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_24",
+    "desc_q": "Número de licencias de apertura de establecimientos/ ACTIVIDADES PROFESIONALES",
+    "col": "P32_24",
+    "desc_col": "Número de licencias de apertura de establecimientos/ ACTIVIDADES PROFESIONALES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_25",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Transporte",
+    "col": "P32_25",
+    "desc_col": "Número de licencias de apertura de establecimientos/ OTROS/ Transporte",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_26",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Cabinas",
+    "col": "P32_26",
+    "desc_col": "Número de licencias de apertura de establecimientos/ OTROS/ Cabinas",
+    "values": null,
+    "value_pos": null
+  }
+]

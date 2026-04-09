@@ -1,0 +1,101 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "organismo que administra el agua potable y alcantarillado en el distrito, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de empresas / Empresa Prestadora privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "organismo que administra el agua potable y alcantarillado en el distrito, en el 2005",
+    "col": "V3",
+    "desc_col": "Número de empresas / Asociaciones o Comités de Agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "organismo que administra el agua potable y alcantarillado en el distrito, en el 2005",
+    "col": "V4",
+    "desc_col": "Número de empresas / Junta administradora de saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "organismo que administra el agua potable y alcantarillado en el distrito, en el 2005",
+    "col": "V5",
+    "desc_col": "Número de empresas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0080",
+    "n_q": "85",
+    "desc_q": "Aguas Servidas generadas en el Distrito",
+    "col": "V1",
+    "desc_col": "Las aguas servidas reciben tratamiento",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0080",
+    "n_q": "85",
+    "desc_q": "Aguas Servidas generadas en el Distrito",
+    "col": "V2",
+    "desc_col": "Tipo de tratamiento que reciben las aguas servidas",
+    "values": "1: Lagunas Facultativas; 2: Lagunas Aereadas; 3: Lagunas Anaerobias; 4: Lodos Activados; 5: Tanque Séptico; 6: Tanque Imhoff; 7: Filtro Biológico; 8: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0081",
+    "n_q": "86",
+    "desc_q": "Vía principal y secundaria de acceso de la capital distrital a la capital provincial(Solo municipalidades distritales)",
+    "col": "V1",
+    "desc_col": "Vía principal",
+    "values": "1: Trocha o sendero; 2: Camino de herradura; 3: Vía fluvial / lacustre; 4: Camino carrozable; 5: Vía aérea; 6: Ferrocarril; 7: Carretera afirmada; 8: Carretera asfaltada; 9: Avenida; 10: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0081",
+    "n_q": "86",
+    "desc_q": "Vía principal y secundaria de acceso de la capital distrital a la capital provincial(Solo municipalidades distritales)",
+    "col": "V2",
+    "desc_col": "Vía secundaria",
+    "values": "1: Trocha o sendero; 2: Camino de herradura; 3: Vía fluvial / lacustre; 4: Camino carrozable; 5: Vía aérea; 6: Ferrocarril; 7: Carretera afirmada; 8: Carretera asfaltada; 9: Avenida; 10: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0082",
+    "n_q": "87",
+    "desc_q": "Distancia y tiempo que hay de la capital distrital a la capital provincial, usando la principal vía de acceso (Solo municipalidades distritales)",
+    "col": "V1",
+    "desc_col": "Distancia en Kilómetros de la capital distrital a la capital provincial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0082",
+    "n_q": "87",
+    "desc_q": "Distancia y tiempo que hay de la capital distrital a la capital provincial, usando la principal vía de acceso (Solo municipalidades distritales)",
+    "col": "V2",
+    "desc_col": "Tiempo que demora en recorrer de la capital distrital a la capital provincial en horas y/o minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0082",
+    "n_q": "87",
+    "desc_q": "Distancia y tiempo que hay de la capital distrital a la capital provincial, usando la principal vía de acceso (Solo municipalidades distritales)",
+    "col": "V3",
+    "desc_col": "Medio de transporte utilizada",
+    "values": "1: Ómnibus; 2: Camioneta Rural; 3: Camión; 4: Camioneta; 5: Automóvil; 6: Acémila; 7: Bote / lancha; 8: Otro",
+    "value_pos": null
+  }
+]

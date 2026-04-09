@@ -1,0 +1,254 @@
+[
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_3",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo de vehículos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_3",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo de vehículos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_4",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo de autopartes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_4",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo de autopartes / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_5",
+    "desc_col": "¿El serenazgo registró intervenciones por Robo a establecimientos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_5",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo a establecimientos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_6",
+    "desc_col": "¿El serenazgo registró intervenciones por Consumo de alcohol en vía pública?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_6",
+    "desc_col": "Intervenciones registradas por el serenazgo / Consumo de alcohol en vía pública / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_7",
+    "desc_col": "¿El serenazgo registró intervenciones por Consumo de drogas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_7",
+    "desc_col": "Intervenciones registradas por el serenazgo / Consumo de drogas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_8",
+    "desc_col": "¿El serenazgo registró intervenciones por Accidentes de tránsito?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_8",
+    "desc_col": "Intervenciones registradas por el serenazgo / Accidentes de tránsito / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_9",
+    "desc_col": "¿El serenazgo registró intervenciones por Comercio informal?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_9",
+    "desc_col": "Intervenciones registradas por el serenazgo / Comercio informal / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_10",
+    "desc_col": "¿El serenazgo registró intervenciones por Violencia familiar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_10",
+    "desc_col": "Intervenciones registradas por el serenazgo / Violencia familiar / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_11",
+    "desc_col": "¿El serenazgo registró intervenciones por Pandillaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_11",
+    "desc_col": "Intervenciones registradas por el serenazgo / Pandillaje / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71_12",
+    "desc_col": "¿El serenazgo registró intervenciones por Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_12",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "71",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2019",
+    "col": "P71A_12_O",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "72A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2020",
+    "col": "VFI_P72A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "72A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2020",
+    "col": "P72A",
+    "desc_col": "¿El distrito está sectorizado para actividades de patrullaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "72A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2020",
+    "col": "P72A_1",
+    "desc_col": "Sectores / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "72A",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2020",
+    "col": "P72A_2",
+    "desc_col": "Sectores patrullados / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "72B",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú (PNP), 2020",
+    "col": "VFI_P72B",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "72B",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P72B",
+    "desc_col": "¿El serenazgo realizó patrullaje integrado con la PNP?",
+    "values": "1: Sí; 2: No Realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "72B",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú (PNP), 2020",
+    "col": "P72B_1",
+    "desc_col": "Sectores con patrullaje integrado con la PNP / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

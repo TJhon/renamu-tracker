@@ -1,0 +1,157 @@
+[
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "85",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2020",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "85",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2020",
+    "col": "P85_1",
+    "desc_col": "¿La municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL)?",
+    "values": "1: Sí y el COEL se encuentra contemplado dentro de la estructura orgánica de la municipalidad, 2: Sí y el COEL no se encuentra contemplado dentro de la estructura orgánica de la municipalidad, 3: No ha conformado"
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "86",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2020",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "86",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2020",
+    "col": "P86_1",
+    "desc_col": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL)",
+    "values": "1: Funciona las 24 horas, 2: Funciona solo en horario de oficina, 3: Funciona solo cuando hay una emergencia"
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "VFI_P87",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "P87_1",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Personal con dedicación exclusiva?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "P87_2",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Computadora?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "P87_3",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Radio comunicador?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "P87_4",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Línea de telefonía fija?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "P87_5",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Línea de telefonía móvil?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "P87_6",
+    "desc_col": "¿El Centro de Operaciones de Emergencia Local tiene / Otro?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "87",
+    "desc_q": "Centro de Operaciones de Emergencia Local, 2020",
+    "col": "P87_6_O",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene / Otro / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "VFI_P88",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88",
+    "desc_col": "¿La Municipalidad tiene almacén local de Bienes de Ayuda Humanitaria?",
+    "values": "1: Sí, 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_1",
+    "desc_col": "Bienes de Ayuda Humanitaria / Techo (carpas, calaminas, planchas de triplay y otros)",
+    "values": "1: Sí, 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_2",
+    "desc_col": "Bienes de Ayuda Humanitaria / Alimentos no perecibles",
+    "values": "2: Sí, 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_3",
+    "desc_col": "Bienes de Ayuda Humanitaria / Bidones de agua",
+    "values": "3: Sí, 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "88",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2020",
+    "col": "P88_4",
+    "desc_col": "Bienes de Ayuda Humanitaria / Botiquines de emergencia",
+    "values": "4: Sí, 0: No",
+    "value_pos": 4
+  }
+]

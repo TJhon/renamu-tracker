@@ -1,0 +1,194 @@
+[
+  {
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Oficina o Unidad Ambiental, 2023",
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "91",
+    "desc_q": "Municipalidad que tiene Oficina o Unidad Ambiental, 2023",
+    "col": "P96",
+    "desc_col": "¿La municipalidad tiene oficina o unidad ambiental?",
+    "values": "1: Si; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_1",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "0: No; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_2",
+    "desc_col": "Elemento contaminante / Emisión de gases de vehículos motorizados",
+    "values": "0: No; 2: Si",
+    "value_pos": 2
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_3",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "0: No; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_4",
+    "desc_col": "Elemento contaminante / Ruidos con alta intensidad que dañan la salud",
+    "values": "0: No; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_5",
+    "desc_col": "Elemento contaminante / Aguas residuales",
+    "values": "0: No; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_6",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "0: No; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_7",
+    "desc_col": "Elemento contaminante / Deforestación y quema de bosques",
+    "values": "0: No; 7: Si",
+    "value_pos": 7
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_8",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "0: No; 8: Si",
+    "value_pos": 8
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_9",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "0: No; 9: Si",
+    "value_pos": 9
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_9_O",
+    "desc_col": "Elemento contaminante / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "92",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2023",
+    "col": "P97_10",
+    "desc_col": "Elemento contaminante / No existen elementos contaminantes",
+    "values": "0: No; 10: Si",
+    "value_pos": 10
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_1",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local (PAL)",
+    "values": "0: No; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_2",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental Local (DAL)",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_3",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local (PAAL)",
+    "values": "0: No; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_4",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local (AAL)",
+    "values": "0: No; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_5",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Anual de Evaluación y Fiscalización Ambiental (PLANEFA)",
+    "values": "0: No; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_6",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Nacional de Educación Ambiental (PLANEA)",
+    "values": "0: No; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_7",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción en Género y Cambio Climatológico (PAGCC)",
+    "values": "0: No; 7: Si",
+    "value_pos": 7
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_8",
+    "desc_col": "Instrumentos de gestión ambiental / Estrategia Nacional de Bosques y Cambio Climático",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2023",
+    "col": "P98_9",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Director de Áreas Naturales Protegidas",
+    "values": "0: No; 9: Si",
+    "value_pos": 9
+  }
+]

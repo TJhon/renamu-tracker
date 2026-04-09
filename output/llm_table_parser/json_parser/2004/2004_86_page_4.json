@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "20",
+    "n_q": null,
+    "desc_q": "Remuneración del Alcalde y dietas pagadas a los Regidores, en el 2004",
+    "col": "V1",
+    "desc_col": "Monto pagado por remuneración del alcalde",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "20",
+    "n_q": null,
+    "desc_q": "Remuneración del Alcalde y dietas pagadas a los Regidores, en el 2004",
+    "col": "V2",
+    "desc_col": "Monto pagado por dietas a los regidores",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "20",
+    "n_q": null,
+    "desc_q": "Remuneración del Alcalde y dietas pagadas a los Regidores, en el 2004",
+    "col": "V3",
+    "desc_col": "Monto unitario de la dieta del Regidor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "21",
+    "n_q": null,
+    "desc_q": "Sueldos y salarios que pago la Municipalidad, en el 2003",
+    "col": "V1",
+    "desc_col": "Numero de personas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "21",
+    "n_q": null,
+    "desc_q": "Sueldos y salarios que pago la Municipalidad, en el 2003",
+    "col": "V2",
+    "desc_col": "Total monto pagado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "21",
+    "n_q": null,
+    "desc_q": "Sueldos y salarios que pago la Municipalidad, en el 2003",
+    "col": "V3",
+    "desc_col": "Sueldo y salarios (Nuevos soles)/ Monto pagado a nombrados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "21",
+    "n_q": null,
+    "desc_q": "Sueldos y salarios que pago la Municipalidad, en el 2003",
+    "col": "V4",
+    "desc_col": "Sueldo y salarios (Nuevos soles)/ Monto pagado a contratados permanentes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "21",
+    "n_q": null,
+    "desc_q": "Sueldos y salarios que pago la Municipalidad, en el 2003",
+    "col": "V5",
+    "desc_col": "Sueldo y salarios (Nuevos soles)/ Monto pagado por servicios no personales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "21",
+    "n_q": null,
+    "desc_q": "Sueldos y salarios que pago la Municipalidad, en el 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Categoría de ocupación y pensionistas",
+    "values": "1 al 9 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": null,
+    "desc_q": "Ingresos de la Municipalidad en el 2002",
+    "col": "V1",
+    "desc_col": "2002 (Nuevos soles)/ PIA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": null,
+    "desc_q": "Ingresos de la Municipalidad en el 2002",
+    "col": "V2",
+    "desc_col": "2002 (Nuevos soles)/ Ejecución",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": null,
+    "desc_q": "Ingresos de la Municipalidad en el 2002",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Ingreso",
+    "values": "1 al 66 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": null,
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V1",
+    "desc_col": "2003 (Nuevos soles)/ PIA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": null,
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V2",
+    "desc_col": "2003 (Nuevos soles)/ Ejecución",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "22",
+    "n_q": null,
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Ingreso",
+    "values": "1 al 66 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Gastos de la Municipalidad en el 2002",
+    "col": "V1",
+    "desc_col": "2002 (Nuevos soles)/ PIA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Gastos de la Municipalidad en el 2002",
+    "col": "V2",
+    "desc_col": "2002 (Nuevos soles)/ Ejecución",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Gastos de la Municipalidad en el 2002",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Gasto",
+    "values": "1 al 17 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V1",
+    "desc_col": "2003 (Nuevos soles)/ PIA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V2",
+    "desc_col": "2003 (Nuevos soles)/ Ejecución",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": null,
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Gasto",
+    "values": "1 al 17 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_2_15",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de salud"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_2_16",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Servicios de transporte y comunicaciones"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_2_17",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Ingreso por alquileres"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_2_18",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros ingresos por prestación de servicios"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_2_19",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_3",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Total"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_3_1",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad real"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_3_2",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad financiera"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_4",
+    "desc_col": "Ingresos corrientes / Multas y sanciones no tributarias"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_1_5",
+    "desc_col": "Ingresos corrientes / Otros ingresos corrientes"
+  },
+  {
+    "h2": "II. Ingresos de capital"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_2_1",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de activos no producidos"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_2_2",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de otros activos no financieros"
+  },
+  {
+    "h2": "III. Transferencias"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Total"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Petrolero"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1_2",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Sobrecanon Petrolero"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1_3",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Minero"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1_4",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Gasífero"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1_5",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Hidroenergético"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1_6",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Pesquero"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_1_7",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Forestal"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_2",
+    "desc_col": "Transferencias / Regalías / Total"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_2_1",
+    "desc_col": "Transferencias / Regalías / Regalías FOCAM"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_2_2",
+    "desc_col": "Transferencias / Regalías / Regalías mineras"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_3",
+    "desc_col": "Transferencias / Fondo de Compensación Municipal"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_4",
+    "desc_col": "Transferencias / Participación por programa de incentivos a la mejora de la gestión municipal"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_3_5",
+    "desc_col": "Transferencias / Otros ingresos por transferencias"
+  },
+  {
+    "h2": "IV. Financiamiento"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_4_1",
+    "desc_col": "Financiamiento / Endeudamiento"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2019",
+    "col": "C96_4_2",
+    "desc_col": "Financiamiento / Saldos de balance"
+  }
+]

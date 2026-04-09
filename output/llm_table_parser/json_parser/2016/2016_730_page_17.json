@@ -1,0 +1,113 @@
+[
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "38",
+    "desc_q": "Sistema Informativo de Administración Tributaria implementado por la municipalidad, 2016",
+    "col": "P38_1_1",
+    "desc_col": "La municipalidad ha implementado un Sistema Informático de Administración Tributaria / Año de implementación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "38",
+    "desc_q": "Sistema Informativo de Administración Tributaria implementado por la municipalidad, 2016",
+    "col": "P38_1_2",
+    "desc_col": "La municipalidad ha implementado un Sistema Informático de Administración Tributaria / Lenguaje de programación",
+    "values": "1:Java;2: PHP;3: Visual Fox Pro;4: Fox Pro;5: Visual Basic.NET;6: Visual Studio;7: Power Builder;8: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "38",
+    "desc_q": "Sistema Informativo de Administración Tributaria implementado por la municipalidad, 2016",
+    "col": "P38_1_2_O",
+    "desc_col": "La municipalidad ha implementado un Sistema Informático de Administración Tributaria / Lenguaje de programación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "LICENCIAS OTORGADAS POR LA MUNICIPALIDAD"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P39",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39_1",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39A_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Hoteles, hostales y otros establecimientos de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39_2",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para restaurantes?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39A_2",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39_3",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para agencias de viaje?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39A_3",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39_4",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de mensajerías o Courier?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P39A_4",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Mensajerías o Courier",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "cuadro": "23",
+    "n_q": "CUADRO_C014",
+    "desc_q": "Texto único de procedimientos administrativos, 2007",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": "CUADRO_C014",
+    "desc_q": "Texto único de procedimientos administrativos, 2007",
+    "col": "P23",
+    "desc_col": "La municipalidad tiene texto de procedimientos administrativos",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "23",
+    "n_q": "CUADRO_C014",
+    "desc_q": "Texto único de procedimientos administrativos, 2007",
+    "col": "P23_01",
+    "desc_col": "Año de publicación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": "CUADRO_C014",
+    "desc_q": "Texto único de procedimientos administrativos, 2007",
+    "col": "P23_02",
+    "desc_col": "Razón por la que no tiene TUPA",
+    "values": "1: Esta incompleto; 2: Esta desactualizado; 3: En elaboración; 4: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "23",
+    "n_q": "CUADRO_C014",
+    "desc_q": "Texto único de procedimientos administrativos, 2007",
+    "col": "P23_O",
+    "desc_col": "No tiene/ otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "P23",
+    "desc_col": "La municipalidad tiene texto de procedimientos administrativos",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "P24_01",
+    "desc_col": "Lugar de publicación/ INDECOPI",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "P24_02",
+    "desc_col": "Lugar de publicación/ Diario oficial \"El Peruano\"",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "P24_03",
+    "desc_col": "Lugar de publicación/ Pizarra, vitrina de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "P24_04",
+    "desc_col": "Lugar de publicación/ Pagina web de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "P24_05",
+    "desc_col": "Lugar de publicación/ otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "24",
+    "n_q": "CUADRO_C015",
+    "desc_q": "Lugar de publicación del texto único de procedimientos administrativos, 2007",
+    "col": "P24_O",
+    "desc_col": "Lugar de publicación/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "P25_01",
+    "desc_col": "Nombre de la obra",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "P25_02",
+    "desc_col": "Sector Económico",
+    "values": "1: Educación; 2: salud; 3: Trasporte y comunicación; 4: Electricidad, agua y alcantarillado; 5:Turismo; 6: otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "P25_03",
+    "desc_col": "Costo total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "P25_04",
+    "desc_col": "Ingresos propios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "P25_05",
+    "desc_col": "Transferencia del sector publico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "P25_06",
+    "desc_col": "Transferencia del sector privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "25",
+    "n_q": "CUADRO_C016",
+    "desc_q": "Principales obras de construccion que ejecuto la municipalidad de enero al 30 de junio del 2007",
+    "col": "P25_07",
+    "desc_col": "Tiempo de ejecución",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "VFI_P26",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26",
+    "desc_col": "Municipalidad realizo Reparación y construcción de pistas, veredas y caminos rurales",
+    "values": "1: Si; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_M_01",
+    "desc_col": "Metro cuadrados/ Pistas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_M_02",
+    "desc_col": "Metro cuadrados/ Pistas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_M_03",
+    "desc_col": "Metro cuadrados/ Veredas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_M_04",
+    "desc_col": "Metro cuadrados/ Veredas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_M_05",
+    "desc_col": "Kilómetros/ Caminos rurales reparados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_M_06",
+    "desc_col": "Kilómetros/ Caminos rurales construidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_C_01",
+    "desc_col": "Costo Nuevos Soles/ Pistas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_C_02",
+    "desc_col": "Costo Nuevos Soles/ Pistas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_C_03",
+    "desc_col": "Costo Nuevos Soles/ Veredas reparadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_C_04",
+    "desc_col": "Costo Nuevos Soles/ Veredas construidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_C_05",
+    "desc_col": "Costo Nuevos Soles/ Caminos rurales reparados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "26",
+    "n_q": "CUADRO_C017",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales ejecutadas por la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P26_C_06",
+    "desc_col": "Costo Nuevos Soles/ Caminos rurales construidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "VFI_P27",
+    "desc_col": "Municipalidad que informo a la pregunta",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_27",
+    "desc_col": "La municipalidad otorgó licencias de apertura de establecimientos",
+    "values": "1: Si otorgó licencias; 0: No otorgó licencias",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_01",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Hoteles, hostales y otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_02",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_03",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_04",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Mensajerías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_05",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Courier",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_06",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Limpieza",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "27",
+    "n_q": "CUADRO_C018",
+    "desc_q": "Licencias de apertura de establecimientos y Licencias para la construcción otorgadas por la municipalidad, en el 2007",
+    "col": "P27_07",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Otros",
+    "values": "",
+    "value_pos": null
+  }
+]

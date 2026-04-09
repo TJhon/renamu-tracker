@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "VFI_P115",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "codtrabajador",
+    "desc_col": "Código del trabajador",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "P115_1",
+    "desc_col": "Roles cumplidos por el trabajador",
+    "values": "1: Sólo responsable; 2: Sólo empadronador (a); 3: Sólo digitador (a); 4: Todas las anteriores; 5: Empadronador y digitador",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "P115_2",
+    "desc_col": "¿Trabaja exclusivamente para la ULE o tiene labores adicionales en la municipalidad?",
+    "values": "1: Sólo para la ULE; 2: Labores adicionales",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "P115_3",
+    "desc_col": "Nivel de estudios alcanzado",
+    "values": "1: Primaria; 2: Secundaria; 3: Básica especial universitaria incompleta; 5: Superior no universitaria completa universitaria incompleta; 7: Superior universitaria completa; Doctorado",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "P115_4_1",
+    "desc_col": "¿Cuánto tiempo viene laborando en la ULE? / Años",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "P115_4_2",
+    "desc_col": "¿Cuánto tiempo viene laborando en la ULE? / Meses",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "P115_5",
+    "desc_col": "Régimen laboral del trabajador",
+    "values": "1: Decreto Legislativo N° 276 – Nombrado; 2: Decreto Legislativo N° 276 – Contratado; 3: Decreto Legislativo N° 728; 4: Contratación Administrativa de Servicios (CAS); 5: Contratación de Locación de Servicios",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C30",
+    "n_q": "115",
+    "desc_q": "Personal de la ULE al 31 de marzo del 2018",
+    "col": "P115_6",
+    "desc_col": "Salario bruto del trabajador (soles)",
+    "values": "1: Menos de 1 000; 2: De 1 001 a 1 500; 3: De 1 501 a 2 000; 4: De 2 001 a 2500; 5: Más de 2 500",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "116",
+    "desc_q": "Tiempo para trasladarse a la localidad más alejada de su jurisdicción",
+    "col": "VFI_P116",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "116",
+    "desc_q": "Tiempo para trasladarse a la localidad más alejada de su jurisdicción",
+    "col": "P116_H",
+    "desc_col": "¿Cuánto tiempo utiliza para trasladarse a la localidad más alejada de su jurisdicción? / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "116",
+    "desc_q": "Tiempo para trasladarse a la localidad más alejada de su jurisdicción",
+    "col": "P116_M",
+    "desc_col": "¿Cuánto tiempo utiliza para trasladarse a la localidad más alejada de su jurisdicción? / Minutos",
+    "values": "",
+    "value_pos": null
+  }
+]

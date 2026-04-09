@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "VFI_P100",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_1",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local (PAL)",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_2",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental Local (DAL)",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_3",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local (PAAL)",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_4",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local (AAL)",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_5",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Anual de Evaluación y Fiscalización Ambiental (PLANEFA)",
+    "values": "5: Sí\n0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_6",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Nacional de Educación Ambiental (PLANEA)",
+    "values": "6: Sí\n0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_7",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción en Género y Cambio Climatológico (PAGCC)",
+    "values": "7: Sí\n0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_8",
+    "desc_col": "Instrumentos de gestión ambiental / Estrategia Nacional de Bosques y Cambio Climático",
+    "values": "8: Sí\n0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_9",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Director de Áreas Naturales Protegidas",
+    "values": "9: Sí\n0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_10",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "10: Sí\n0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_10_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "100",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2019",
+    "col": "P100_11",
+    "desc_col": "Instrumentos de gestión ambiental / No tiene",
+    "values": "11: Sí\n0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "VFI_P101",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_1",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_2",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_3",
+    "desc_col": "Acciones realizadas / Ejecutó proyectos ambientales",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_4",
+    "desc_col": "Acciones realizadas / Dispone de Comisión Ambiental Municipal",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_5",
+    "desc_col": "Acciones realizadas / Apoyó en la formulación de proyectos sobre problemática ambiental",
+    "values": "5: Sí\n0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_6",
+    "desc_col": "Acciones realizadas / Convenios interinstitucionales",
+    "values": "6: Sí\n0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_7",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "7: Sí\n0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_8",
+    "desc_col": "Acciones realizadas / Atención y apoyo a denuncias ambientales por la población",
+    "values": "8: Sí\n0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_9",
+    "desc_col": "Acciones realizadas / Realizó mediciones acústicas con sonómetro",
+    "values": "9: Sí\n0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_10",
+    "desc_col": "Acciones realizadas / Otro",
+    "values": "10: Sí\n0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_10_O",
+    "desc_col": "Acciones realizadas / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "101",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2018",
+    "col": "P101_11",
+    "desc_col": "Acciones realizadas / No realizó",
+    "values": "11: Sí\n0: No",
+    "value_pos": 11
+  },
+  {
+    "h2": "PARTICIPACIÓN VECINAL"
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "102",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2019",
+    "col": "VFI_P102",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "102",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2019",
+    "col": "P102_1",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  }
+]

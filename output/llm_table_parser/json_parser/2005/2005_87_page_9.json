@@ -1,0 +1,389 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, 2003 y 2004",
+    "col": "V3",
+    "desc_col": "Número de ambulantes registrados en la Municipalidad / 2004",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "48",
+    "desc_q": "Baños públicos construidos por la municipalidad en el distrito, al 2004",
+    "col": "V1",
+    "desc_col": "La Municipalidad tiene construidos baños públicos",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "48",
+    "desc_q": "Baños públicos construidos por la municipalidad en el distrito, al 2004",
+    "col": "V2",
+    "desc_col": "Número de baños públicos construidos y en funcionamiento de la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V1",
+    "desc_col": "Número de locales por nivel educativo / Solo inicial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V2",
+    "desc_col": "Número de locales por nivel educativo / Inicial + primaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V3",
+    "desc_col": "Número de locales s por nivel educativo / Inicial + primaria + secundaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V4",
+    "desc_col": "Número de locales por nivel educativo / Solo Primaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V5",
+    "desc_col": "Número de locales por nivel educativo / Primaria + secundaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V6",
+    "desc_col": "Número de locales por nivel educativo / Solo secundaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V7",
+    "desc_col": "Número de locales por nivel educativo / Instituto superior pedagógico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V8",
+    "desc_col": "Número de locales por nivel educativo / Instituto tecnológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V9",
+    "desc_col": "Número de locales por nivel educativo / Educación artística",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V10",
+    "desc_col": "Número de locales por nivel educativo / Educación especial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V11",
+    "desc_col": "Número de locales por nivel educativo / Educación ocupacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "49",
+    "desc_q": "Locales escolares de la municipalidad en el 2004",
+    "col": "V12",
+    "desc_col": "La Municipalidad tiene locales educativos",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V1",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Estadios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V2",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Complejos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V3",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Parques zonales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V4",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas multideportivas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V5",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de fulbito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V6",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de básquet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V7",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de voley",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V8",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de Piscinas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V9",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Losas de Gimnasio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V10",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Coliseos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V11",
+    "desc_col": "Número de instalaciones de infraestructura deportiva / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "50",
+    "desc_q": "Infraestructura deportiva de la municipalidad en el distrito, al 2004",
+    "col": "V12",
+    "desc_col": "La Municipalidad tiene infraestructura deportiva",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a la educación implementados por la municipalidad en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "Número de beneficiarios por programa / Desayuno escolar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a la educación implementados por la municipalidad en el distrito, en el 2004",
+    "col": "V2",
+    "desc_col": "Número de beneficiarios por programa / Uniformes, buzos y calzado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a la educación implementados por la municipalidad en el distrito, en el 2004",
+    "col": "V3",
+    "desc_col": "Número de beneficiarios por programa / Textos y útiles escolares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a la educación implementados por la municipalidad en el distrito, en el 2004",
+    "col": "V4",
+    "desc_col": "Número de beneficiarios por programa / Capacitación laboral juvenil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a la educación implementados por la municipalidad en el distrito, en el 2004",
+    "col": "V5",
+    "desc_col": "Número de beneficiarios por programa / Alfabetización",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a la educación implementados por la municipalidad en el distrito, en el 2004",
+    "col": "V6",
+    "desc_col": "Número de beneficiarios por programa / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "51",
+    "desc_q": "Programas de apoyo a la educación implementados por la municipalidad en el distrito, en el 2004",
+    "col": "V7",
+    "desc_col": "La Municipalidad tiene programas de apoyo a la educación",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V1",
+    "desc_col": "Número de instalaciones de infraestructura recreacional y cultural / Teatros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V2",
+    "desc_col": "Número de instalaciones de infraestructura recreacional y cultural / Teatrines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V3",
+    "desc_col": "Número de instalaciones de infraestructura recreacional y cultural / Cines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V4",
+    "desc_col": "Número de instalaciones de infraestructura recreacional y cultural / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V5",
+    "desc_col": "Número de instalaciones de infraestructura recreacional y cultural / Bibliotecas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V6",
+    "desc_col": "Número de instalaciones de infraestructura recreacional y cultural / Casa de la Cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V7",
+    "desc_col": "Número de instalaciones de infraestructura recreacional y cultural / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "52",
+    "desc_q": "Locales para su uso recreacional y cultural de la municipalidad en el distrito, en el periodo 2003 - 2004",
+    "col": "V8",
+    "desc_col": "La Municipalidad tiene locales de uso recreacional y cultural",
+    "values": "1:Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0049",
+    "n_q": "53",
+    "desc_q": "Biblioteca Municipal en el",
+    "col": "V1",
+    "desc_col": "La Municipalidad tiene Biblioteca",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  }
+]

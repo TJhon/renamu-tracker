@@ -1,0 +1,335 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V045",
+    "desc_q": "Comercio / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V046",
+    "desc_q": "Comercio / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V047",
+    "desc_q": "Comercio / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V048",
+    "desc_q": "Comercio / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V051",
+    "desc_q": "Industria / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V052",
+    "desc_q": "Industria / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V053",
+    "desc_q": "Industria / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V054",
+    "desc_q": "Industria / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V055",
+    "desc_q": "Industria / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V056",
+    "desc_q": "Industria / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V057",
+    "desc_q": "Industria / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V058",
+    "desc_q": "Industria / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V061",
+    "desc_q": "Oficinas / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V062",
+    "desc_q": "Oficinas / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V063",
+    "desc_q": "Oficinas / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V064",
+    "desc_q": "Oficinas / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V065",
+    "desc_q": "Oficinas / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V066",
+    "desc_q": "Oficinas / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V067",
+    "desc_q": "Oficinas / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V068",
+    "desc_q": "Oficinas / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V071",
+    "desc_q": "Institucional / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V072",
+    "desc_q": "Institucional / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V073",
+    "desc_q": "Institucional / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V074",
+    "desc_q": "Institucional / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V075",
+    "desc_q": "Institucional / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V076",
+    "desc_q": "Institucional / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V077",
+    "desc_q": "Institucional / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V078",
+    "desc_q": "Institucional / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V081",
+    "desc_q": "Educación / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V082",
+    "desc_q": "Educación / 2003 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V083",
+    "desc_q": "Educación / 2003 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V084",
+    "desc_q": "Educación / 2003 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V085",
+    "desc_q": "Educación / 2004 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V086",
+    "desc_q": "Educación / 2004 / Número de licencias según monto de obra / De S/. 29000 a S/. 40000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V087",
+    "desc_q": "Educación / 2004 / Número de licencias según monto de obra / De S/. 41000 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V088",
+    "desc_q": "Educación / 2004 / Número de licencias según monto de obra / Área construida (m2)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V091",
+    "desc_q": "Salud / 2003 / Número de licencias según monto de obra / Hasta S/. 28000",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

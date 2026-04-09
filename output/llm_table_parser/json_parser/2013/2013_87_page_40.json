@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P80_E_02",
+    "desc_q": "Número de empresas registradas / Personas Jurídicas",
+    "col": "P80_E_02",
+    "desc_col": "Número de empresas registradas / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P80_V_01",
+    "desc_q": "Número de vehículos autorizados / Personas Naturales",
+    "col": "P80_V_01",
+    "desc_col": "Número de vehículos autorizados / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P80_V_02",
+    "desc_q": "Número de vehículos autorizados / Personas Jurídicas",
+    "col": "P80_V_02",
+    "desc_col": "Número de vehículos autorizados / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "81 CUADRO_C072 Vehículos menores autorizados por la municipalidad, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "VFI_P81",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P81",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "P81",
+    "desc_q": "La municipalidad registró vehículos menores",
+    "col": "P81",
+    "desc_col": "La municipalidad registró vehículos menores",
+    "values": "1: Registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "P81_E_01",
+    "desc_q": "Número de empresas / Vehículos motorizados",
+    "col": "P81_E_01",
+    "desc_col": "Número de empresas / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "P81_E_02",
+    "desc_q": "Número de empresas / Vehículos no motorizados",
+    "col": "P81_E_02",
+    "desc_col": "Número de empresas / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "P81_V_01",
+    "desc_q": "Número de vehículos / Vehículos motorizados",
+    "col": "P81_V_01",
+    "desc_col": "Número de vehículos / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "P81_V_02",
+    "desc_q": "Número de vehículos / Vehículos no motorizados",
+    "col": "P81_V_02",
+    "desc_col": "Número de vehículos / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "82 CUADRO_C073 Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "VFI_P82",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P82",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "P82_01",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad / Nombre del programa / Proyecto",
+    "col": "P82_01",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Nombre del programa / Proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "P82_02",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad / Costo del programa / Proyecto (nuevos soles)",
+    "col": "P82_02",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Costo del programa / Proyecto (nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "P82_03",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad / Entidad con la que suscribió el convenio",
+    "col": "P82_03",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "P82_04",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad / Tiempo de ejecución (en meses)",
+    "col": "P82_04",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Tiempo de ejecución (en meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "83 CUADRO_C074 Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2013"
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "VFI_P83",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P83",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "P83_N",
+    "desc_q": "Número de obras de inversión aprobadas por el presupuesto participativo",
+    "col": "P83_N",
+    "desc_col": "Número de obras de inversión aprobadas por el presupuesto participativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "P83_01",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo / Nombre de la obra",
+    "col": "P83_01",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto participativo / Nombre de la obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "P83_02",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo / Sector Económico",
+    "col": "P83_02",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto participativo / Sector Económico",
+    "values": "1: Educación;2: Salud;3: Transportes y comunicaciones;4: Electricidad, agua y alcantarillado",
+    "value_pos": null
+  }
+]

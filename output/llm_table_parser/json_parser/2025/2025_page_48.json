@@ -1,0 +1,213 @@
+[
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2025",
+    "col": "P98_10",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "0: No; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2025",
+    "col": "P98_10_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "93",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2025",
+    "col": "P98_11",
+    "desc_col": "Instrumentos de gestión ambiental / No tiene",
+    "values": "0: No; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_1",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_2",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_3",
+    "desc_col": "Acciones realizadas / Ejecutó proyectos ambientales",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_4",
+    "desc_col": "Acciones realizadas / Dispone de Comisión Ambiental Municipal",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_5",
+    "desc_col": "Acciones realizadas / Apoyó en la formulación de proyectos sobre problemática ambiental",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_6",
+    "desc_col": "Acciones realizadas / Convenios interinstitucionales",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_7",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_8",
+    "desc_col": "Acciones realizadas / Atención y apoyo a denuncias ambientales por la población",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_9",
+    "desc_col": "Acciones realizadas / Realizó mediciones acústicas con sonómetro",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_10",
+    "desc_col": "Acciones realizadas / Otro",
+    "values": "0: No; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_10_O",
+    "desc_col": "Acciones realizadas / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "94",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2024",
+    "col": "P99_11",
+    "desc_col": "Acciones realizadas / No realizó acciones",
+    "values": "0: No; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "h2": "PARTICIPACIÓN VECINAL"
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "VFI_P100",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_1",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertando el presupuesto municipal",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando y controlando los planes económicos locales",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En el presupuesto participativo",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En audiencias públicas para rendición de cuentas",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_8",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comités de gestión alimentaria",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "95",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2025",
+    "col": "P100_9",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comité de ejecución de obras",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  }
+]

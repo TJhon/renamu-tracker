@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "VFI_P16",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16",
+    "desc_col": "La municipalidad requiere capacitación",
+    "values": "1: Requiere;0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_01",
+    "desc_col": "Requerimiento de capacitación / Administración, contabilidad y finanzas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_02",
+    "desc_col": "Requerimiento de capacitación / Gestión de Recursos Humanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_03",
+    "desc_col": "Requerimiento de capacitación / Política y Gestión Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_04",
+    "desc_col": "Requerimiento de capacitación / Registro Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_05",
+    "desc_col": "Requerimiento de capacitación / Plan Estratégico y Planificación Operativa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_06",
+    "desc_col": "Requerimiento de capacitación / Gestión ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_07",
+    "desc_col": "Requerimiento de capacitación / Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_08",
+    "desc_col": "Requerimiento de capacitación / Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_09",
+    "desc_col": "Requerimiento de capacitación / Estadística e Indicadores Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_10",
+    "desc_col": "Requerimiento de capacitación / Tecnología de la Información y Comunicaciones (TIC)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_11",
+    "desc_col": "Requerimiento de capacitación / Informática",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_12",
+    "desc_col": "Requerimiento de capacitación / Organización y Gestión de Bibliotecas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_13",
+    "desc_col": "Requerimiento de capacitación / Presupuesto con Enfoque a Resultados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_14",
+    "desc_col": "Requerimiento de capacitación/ Simplificación Administrativa y Costeo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_15",
+    "desc_col": "Requerimiento de capacitación / Gobierno Electrónico Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_16",
+    "desc_col": "Requerimiento de capacitación / Turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_17",
+    "desc_col": "Requerimiento de capacitación / Derechos y Desarrollo Humano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_18",
+    "desc_col": "Requerimiento de capacitación/ Formulación y Ejecución de Proyectos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_19",
+    "desc_col": "Requerimiento de capacitación/ Licencias de Edificación (construcción)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_20",
+    "desc_col": "Requerimiento de capacitación/ Promoción y Desarrollo de las MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_21",
+    "desc_col": "Capacitación que requiere / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "16",
+    "desc_q": "Capacitación que requiere el personal de la municipalidad, 2014",
+    "col": "P16_O",
+    "desc_col": "Capacitación que requiere / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

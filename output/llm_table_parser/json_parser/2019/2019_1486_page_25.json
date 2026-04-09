@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_4_1",
+    "desc_col": "Deforestación y quema de bosques / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_4_2",
+    "desc_col": "Deforestación y quema de bosques / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_5",
+    "desc_col": "¿La municipalidad recepcionó y atendió y atendió denuncias ambientales por contaminación sonora?",
+    "values": "1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_5_1",
+    "desc_col": "Contaminación sonora / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_5_2",
+    "desc_col": "Contaminación sonora / Número de denuncias atendidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_6",
+    "desc_col": "¿La municipalidad recepcionó y atendió otro tipo de denuncias ambientales?",
+    "values": "1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_6_1",
+    "desc_col": "Otro / Número de denuncias recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_6_2",
+    "desc_col": "Otro / Número de denuncias atendidas /",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "98",
+    "desc_q": "Municipalidad que recepcionó y atendió denuncias ambientales, 2018",
+    "col": "P98_6_O",
+    "desc_col": "Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_1",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_2",
+    "desc_col": "Elemento contaminante / Emisión de gases de vehículos motorizados",
+    "values": "2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_3",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_4",
+    "desc_col": "Elemento contaminante / Ruidos con alta intensidad que dañan la salud",
+    "values": "4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_5",
+    "desc_col": "Elemento contaminante / Aguas residuales",
+    "values": "5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_6",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "6: Sí",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_7",
+    "desc_col": "Elemento contaminante / Deforestación y quema de bosques",
+    "values": "7: Sí",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_8",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "8: Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_9",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "9: Sí",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_9_O",
+    "desc_col": "Elemento contaminante / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "99",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2019",
+    "col": "P99_10",
+    "desc_col": "Elemento contaminante / No existen elementos contaminantes",
+    "values": "10: Sí",
+    "value_pos": 10
+  }
+]

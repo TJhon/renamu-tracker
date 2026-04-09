@@ -1,0 +1,115 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_1_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / Último año de publicación"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_1_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_1_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal;2: En elaboración;3: Falta de recursos para su elaboración;4: Otro"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_1_3_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / ¿Por qué no tiene? / Especifique"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_2_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / Último año de publicación"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_2_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_2_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal;2: En elaboración;3: Falta de recursos para su elaboración;4: Otro"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_2_3_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / ¿Por qué no tiene? / Especifique"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Económico Local",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_3_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Económico Local / Último año de publicación"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_3_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Económico Local / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal;2: En elaboración;3: Falta de recursos para su elaboración;4: Otro"
+  }
+]

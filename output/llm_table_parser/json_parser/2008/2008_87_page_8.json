@@ -1,0 +1,344 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "2008",
+    "col": "VFI_P49",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_01",
+    "desc_q": "Servicio brindado / Lectura en sala",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_02",
+    "desc_q": "Servicio brindado / Área o sala infantil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_03",
+    "desc_q": "Servicio brindado / Sala de hemeroteca (revistas)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_04",
+    "desc_q": "Servicio brindado / Préstamo a domicilio",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_05",
+    "desc_q": "Servicio brindado / Préstamo interbibliotecario",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_06",
+    "desc_q": "Servicio brindado / Formación de usuarios",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_07",
+    "desc_q": "Servicio brindado / Información y referencia",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_08",
+    "desc_q": "Servicio brindado / Actividades culturales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_09",
+    "desc_q": "Servicio brindado / Fomento del libro y la lectura",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_10",
+    "desc_q": "Servicio brindado / Cabinas públicas de Internet",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_11",
+    "desc_q": "Servicio brindado / Servicio de fotocopias",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P49_12",
+    "desc_q": "Servicio brindado / Catálogo de acceso al público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P47",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "VFI_P50",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50",
+    "desc_q": "La municipalidad tiene personal exclusivo de la biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50_01",
+    "desc_q": "Número de personal de la biblioteca / Profesionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50_02",
+    "desc_q": "Número de personal de la biblioteca / Técnicos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50_03",
+    "desc_q": "Número de personal de la biblioteca / Auxiliares",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "P50_04",
+    "desc_q": "Número de personal de la biblioteca / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P47",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "VFI_P51",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51",
+    "desc_q": "El personal de la Biblioteca recibió capacitación",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si recibió; 0: No recibió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_01",
+    "desc_q": "Instituciones que brindaron capacitación/ Biblioteca Nacional del Perú",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_02",
+    "desc_q": "Instituciones que brindaron capacitación/ Colegio de Bibliotecólogos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_03",
+    "desc_q": "Instituciones que brindaron capacitación/ Universidad Pública/Privada",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_04",
+    "desc_q": "Instituciones que brindaron capacitación/Instituto Superior",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "P51_05",
+    "desc_q": "Instituciones que brindaron capacitación/ONG",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P47",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "VFI_P52",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52",
+    "desc_q": "La municipalidad tiene equipos de cómputo en la biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_01",
+    "desc_q": "Número de equipos de cómputo / PC 386 y 486",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_02",
+    "desc_q": "Número de equipos de cómputo / Pentium I y II",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_03",
+    "desc_q": "Número de equipos de cómputo / Pentium III y IV",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_04",
+    "desc_q": "Número de equipos de cómputo / Pentium D",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_05",
+    "desc_q": "Número de equipos de cómputo / Celeron",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_06",
+    "desc_q": "Número de equipos de cómputo / Core Duo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "P52_07",
+    "desc_q": "Número de equipos de cómputo / Core 2 Duo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

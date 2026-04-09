@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "72",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2017",
+    "col": "VFL_P72",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_1",
+    "desc_q": "¿El serenazgo registró intervenciones por Robo a transeúntes?",
+    "col": "P72A_1",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo a transeúntes / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_2",
+    "desc_q": "¿El serenazgo registró intervenciones por Robo a domicilio?",
+    "col": "P72A_2",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo a domicilio / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_3",
+    "desc_q": "¿El serenazgo registró intervenciones por Robo de vehículos?",
+    "col": "P72A_3",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo de vehículos / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_4",
+    "desc_q": "¿El serenazgo registró intervenciones por Robo de autopartes?",
+    "col": "P72A_4",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo de autopartes / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_5",
+    "desc_q": "¿El serenazgo registró intervenciones por Robo a establecimientos?",
+    "col": "P72A_5",
+    "desc_col": "Intervenciones registradas por el serenazgo / Robo a establecimientos / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_6",
+    "desc_q": "¿El serenazgo registró intervenciones por Consumo de alcohol en vía pública?",
+    "col": "P72A_6",
+    "desc_col": "Intervenciones registradas por el serenazgo / Consumo de alcohol en vía pública / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_7",
+    "desc_q": "¿El serenazgo registró intervenciones por Consumo de drogas?",
+    "col": "P72A_7",
+    "desc_col": "Intervenciones registradas por el serenazgo / Consumo de drogas / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_8",
+    "desc_q": "¿El serenazgo registró intervenciones por Accidentes de tránsito?",
+    "col": "P72A_8",
+    "desc_col": "Intervenciones registradas por el serenazgo / Accidentes de tránsito / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_9",
+    "desc_q": "¿El serenazgo registró intervenciones por Comercio informal?",
+    "col": "P72A_9",
+    "desc_col": "Intervenciones registradas por el serenazgo / Comercio informal / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_10",
+    "desc_q": "¿El serenazgo registró intervenciones por Violencia familiar?",
+    "col": "P72A_10",
+    "desc_col": "Intervenciones registradas por el serenazgo / Violencia familiar / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_11",
+    "desc_q": "¿El serenazgo registró intervenciones por Pandillaje?",
+    "col": "P72A_11",
+    "desc_col": "Intervenciones registradas por el serenazgo / Pandillaje / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_12",
+    "desc_q": "¿El serenazgo registró intervenciones por Otro?",
+    "col": "P72A_12",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Número",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P72_12",
+    "desc_q": "¿El serenazgo registró intervenciones por Otro?",
+    "col": "P72A_12_O",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "VFL_P73",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "P73_1",
+    "desc_q": "¿La municipalidad dispone de unidades móviles como auto y/o camioneta para actividades de serenazgo?",
+    "col": "P73A_1_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / Total",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

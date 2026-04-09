@@ -1,0 +1,113 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P28_2_1",
+    "desc_col": "Año de la última actualización catastral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P28_3",
+    "desc_col": "¿La municipalidad realizó Mantenimiento catastral?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "VFI_P29",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29",
+    "desc_col": "¿La municipalidad implementa acciones en la Gestión del presupuesto por resultados?",
+    "values": "1: Implementa; 0: No implementa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_1",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los objetivos, indicadores y metas del PDMC concuerden con los objetivos, indicadores y metas del PDRC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_2",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los indicadores permitan verificar el cumplimiento de los objetivos y metas del PDMC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_3",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Tiene unidades responsables de la ejecución de cada meta del PDMC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_4",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que las metas del mediano plazo del PDMC se descompongan en metas anuales",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_5",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que exista correspondencia entre las partidas presupuestales y el PDMC",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_6",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Genera información estadística social, económica y ambiental de su competencia",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_7",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Genera información de reducción de brechas de género en la municipalidad y en la sociedad civil",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C21",
+    "n_q": "29",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2017",
+    "col": "P29_8",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los indicadores de resultado concretos sobre el ciudadano puedan medir los resultados del gasto",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

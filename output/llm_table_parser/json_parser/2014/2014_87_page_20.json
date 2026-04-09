@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38",
+    "desc_col": "La municipalidad realizó operativos de control",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_01",
+    "desc_col": "Operativos de control / Aseo, higiene y salubridad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_02",
+    "desc_col": "Operativos de control / Carné de sanidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_03",
+    "desc_col": "Operativos de control / Servicios higiénicos públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_04",
+    "desc_col": "Operativos de control / Fumigación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_05",
+    "desc_col": "Operativos de control / Anuncios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_06",
+    "desc_col": "Operativos de control / Pesas y medidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_07",
+    "desc_col": "Operativos de control / Alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_08",
+    "desc_col": "Operativos de control / Comercio ambulatorio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_09",
+    "desc_col": "Operativos de control / Transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_10",
+    "desc_col": "Operativos de control/ Tránsito vehicular en coordinación con la PNP",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_11",
+    "desc_col": "Operativos de control / Vigencia de licencia de construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_12",
+    "desc_col": "Operativos de control / Vigencia de licencia de funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_13",
+    "desc_col": "Operativos de control / Emisión de humos y gases tóxicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_14",
+    "desc_col": "Operativos de control / Ruidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_15",
+    "desc_col": "Operativos de control/ Certificado de seguridad en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "38",
+    "desc_q": "Operativos de control que realizó la municipalidad, 2013",
+    "col": "P38_16",
+    "desc_col": "Operativos de control / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "39",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2013",
+    "col": "VFI_P39",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "39",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2013",
+    "col": "P39",
+    "desc_col": "La Municipalidad expidió carné de sanidad",
+    "values": "1: Expedió;0: No expidió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "39",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2013",
+    "col": "P39_01",
+    "desc_col": "Número de carné / Para venta de alimentos en restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "39",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2013",
+    "col": "P39_02",
+    "desc_col": "Número de carné / Para venta ambulatoria de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "39",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2013",
+    "col": "P39_03",
+    "desc_col": "Número de carné / Para otros usos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "40",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, 2013",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "40",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, 2013",
+    "col": "P40",
+    "desc_col": "La municipalidad tiene vendedores ambulantes registrados",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "40",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, 2013",
+    "col": "P40_01",
+    "desc_col": "Número de vendedores ambulantes registrados en la Municipalidad",
+    "values": "",
+    "value_pos": null
+  }
+]

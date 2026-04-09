@@ -1,0 +1,290 @@
+[
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_2",
+    "desc_col": "II. Ingresos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_2_1",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de activos no producidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_2_2",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de otros activos no financieros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3",
+    "desc_col": "III. Transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Petrolero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1_2",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Sobrecanon Petrolero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1_3",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Minero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1_4",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Gasífero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1_5",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Hidroenergético",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1_6",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Pesquero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_1_7",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Forestal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_2",
+    "desc_col": "Transferencias / Regalías / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_2_1",
+    "desc_col": "Transferencias / Regalías / Regalías FOCAM (Fondo de Desarrollo Socioeconómico del proyecto Camisea)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_2_2",
+    "desc_col": "Transferencias / Regalías / Regalías mineras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_3",
+    "desc_col": "Transferencias / Fondo de Compensación Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_4",
+    "desc_col": "Transferencias / Participación por programa de incentivos a la mejora de la gestión municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_3_5",
+    "desc_col": "Transferencias / Otros ingresos por transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_4",
+    "desc_col": "IV. Financiamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_4_1",
+    "desc_col": "Financiamiento / Endeudamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2024",
+    "col": "C96_4_2",
+    "desc_col": "Financiamiento / Saldos de balance",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "VFI_C97",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97",
+    "desc_col": "Total gastos (I + II + III)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_1",
+    "desc_col": "I. Gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_1_1",
+    "desc_col": "Gastos corrientes / Personal y obligaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_1_2",
+    "desc_col": "Gastos corrientes / Pensiones y otras prestaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_1_3",
+    "desc_col": "Gastos corrientes / Bienes y servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_1_4",
+    "desc_col": "Gastos corrientes / Donaciones y transferencias corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_1_5",
+    "desc_col": "Gastos corrientes / Otros gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2",
+    "desc_col": "II. Gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_1",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Adquisición de edificios y estructuras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_2",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Adquisición de vehículos, maquinarias y otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_1",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_2",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones médicas",
+    "values": "",
+    "value_pos": null
+  }
+]

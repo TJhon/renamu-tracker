@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "VFI_C13",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M",
+    "desc_col": "El distrito tiene locales de atención de salud administrados por la municipalidad",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_01",
+    "desc_col": "Número de establecimientos / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_02",
+    "desc_col": "Número de establecimientos / Centro de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_03",
+    "desc_col": "Número de establecimientos / Puesto de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_04",
+    "desc_col": "Número de establecimientos / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_05",
+    "desc_col": "Número de establecimientos / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_06",
+    "desc_col": "Número de establecimientos / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_07",
+    "desc_col": "Número de establecimientos / Centro de rehabilitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_08",
+    "desc_col": "Número de establecimientos / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_09",
+    "desc_col": "Número de establecimientos / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_10",
+    "desc_col": "Número de establecimientos / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_M_11",
+    "desc_col": "Número de establecimientos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C051",
+    "n_q": "C13",
+    "desc_q": "Locales para atención de la salud en funcionamiento administrados por las municipalidades, según distrito, 2014",
+    "col": "C13_O",
+    "desc_col": "Numero de establecimientos / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "VFI_P51",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51",
+    "desc_col": "La municipalidad realizó actividades con el Ministerio de Salud",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_01",
+    "desc_col": "Actividades que realizó / Campañas de control de epidemias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_02",
+    "desc_col": "Actividades que realizó / Campañas de salud preventiva",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_03",
+    "desc_col": "Actividades que realizó / Campañas de primeros auxilios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_04",
+    "desc_col": "Actividades que realizó / Campañas de educación sanitaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_05",
+    "desc_col": "Actividades que realizó / Campañas de profilaxis local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_06",
+    "desc_col": "Actividades que realizó / Campañas de fumigación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_07",
+    "desc_col": "Actividades que realizó / Campañas de registro y certificación de canes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_08",
+    "desc_col": "Actividades que realizó / Campañas de salud mental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_09",
+    "desc_col": "Actividades que realizó / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C052",
+    "n_q": "51",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2013",
+    "col": "P51_O",
+    "desc_col": "Actividades que realizó / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

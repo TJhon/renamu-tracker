@@ -1,0 +1,338 @@
+[
+  {
+    "cuadro": "11",
+    "n_q": "V1",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v1",
+    "desc_col": "La Municipalidad tiene maquinaria y equipo",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V2",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v2",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Camionetas y autos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V3",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v3",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Volquetes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V4",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v4",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Camiones recolectores de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V5",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v5",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V6",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v6",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V7",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v7",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V8",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v8",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Tractor oruga",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V9",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v9",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V10",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v10",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V11",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v11",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Grupo electrógeno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V12",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v12",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Bote a motor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V13",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v13",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Camión cisterna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V14",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v14",
+    "desc_col": "Número de Maquinaria y equipo / Operativo / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V15",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v15",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Camionetas y autos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V16",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v16",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Volquetes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V17",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v17",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Camiones recolectores de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V18",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v18",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V19",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v19",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V20",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v20",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V21",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v21",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Tractor oruga",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V22",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v22",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V23",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v23",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V24",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v24",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Grupo electrógeno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V25",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v25",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Bote a motor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V26",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v26",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Camión cisterna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11",
+    "n_q": "V27",
+    "desc_q": "Maquinaria y equipo, al 31 de diciembre del 2005",
+    "col": "v27",
+    "desc_col": "Número de Maquinaria y equipo / No Operativo / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "12"
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V1",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v1",
+    "desc_col": "La municipalidad tiene equipos de cómputo y de oficina",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V2",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v2",
+    "desc_col": "Número de equipos de computo y de oficina / PC 386",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V3",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v3",
+    "desc_col": "Número de equipos de computo y de oficina / PC 486",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V4",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v4",
+    "desc_col": "Número de equipos de computo y de oficina / Pentium I",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V5",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v5",
+    "desc_col": "Número de equipos de computo y de oficina / Pentium II",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V6",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v6",
+    "desc_col": "Número de equipos de computo y de oficina / Pentium III",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V7",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v7",
+    "desc_col": "Número de equipos de computo y de oficina / Pentium IV",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V8",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v8",
+    "desc_col": "Número de equipos de computo y de oficina / Impresoras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V9",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v9",
+    "desc_col": "Número de equipos de computo y de oficina / Modems",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0004",
+    "n_q": "V10",
+    "desc_q": "Equipos de computo de Oficina, al 31 de diciembre del 2005",
+    "col": "v10",
+    "desc_col": "Número de equipos de computo y de oficina / Scanner",
+    "values": "",
+    "value_pos": null
+  }
+]

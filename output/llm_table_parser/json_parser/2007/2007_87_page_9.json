@@ -1,0 +1,395 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P53_S_12",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / La iglesia",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_S_13",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_S_14",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Otro Privado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I",
+    "desc_q": "La municipalidad recibe apoyo de instituciones en Obras de infraestructura",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si recibe;0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_01",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / PRONAA",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_02",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / FONCODES",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P52_I_03",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / INFES",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_04",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_05",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_06",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Gobierno Regional",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_07",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Municipio/Gobierno Local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_08",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Otro Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_09",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Privado / ONG",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_10",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Privado / Empresa privada",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_11",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Privado / La comunidad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_12",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Privado / La iglesia",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_13",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Privado / Organismo internacional",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_I_14",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Privado / Otro Privado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_08_O",
+    "desc_q": "Descripción de Otros Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P53_15_O",
+    "desc_q": "Descripción de Otros Privado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "54 CUADRO_C045 Proyectos de infraestructura social y productiva transferidos a la municipalidad, de enero al 30 de junio del 2007"
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "VFI_P54",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54",
+    "desc_q": "La municipalidad ha recibido transferencia de proyectos",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_01",
+    "desc_q": "Población beneficiada con proyectos de infraestructura social y productiva / Agua y saneamiento",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_02",
+    "desc_q": "Población beneficiada con proyectos de infraestructura social y productiva / Electrificación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_03",
+    "desc_q": "Población beneficiada con proyectos de infraestructura social y productiva / Puesto de salud",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_04",
+    "desc_q": "Población beneficiada con proyectos de infraestructura social y productiva / Aulas escolares",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_05",
+    "desc_q": "Población beneficiada con proyectos de infraestructura social y productiva / infraestructura vial",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_06",
+    "desc_q": "Población beneficiada con proyectos de infraestructura social y productiva / Pequeños sistemas de riego",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_07",
+    "desc_q": "Población beneficiada con proyectos de infraestructura social y productiva / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C045",
+    "n_q": "P54_O",
+    "desc_q": "Otros proyectos de infraestructura social y productiva / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "55 CUADRO_C046 Problemas que afectan al seguridad en el distrito, 2007"
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "VFI_P55",
+    "desc_q": "Municipalidad que informo sobre la pregunta",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55",
+    "desc_q": "El distrito tiene problemas que afectan la seguridad",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_01",
+    "desc_q": "Problemas que afectan la seguridad / Robo en viviendas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_02",
+    "desc_q": "Problemas que afectan la seguridad / Robos en las calles",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_03",
+    "desc_q": "Problemas que afectan la seguridad / Pandillaje",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_04",
+    "desc_q": "Problemas que afectan la seguridad / Drogadicción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_05",
+    "desc_q": "Problemas que afectan la seguridad / Alcoholismo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_06",
+    "desc_q": "Problemas que afectan la seguridad / Prostitución",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_07",
+    "desc_q": "Problemas que afectan la seguridad / Narcotráfico",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_08",
+    "desc_q": "Problemas que afectan la seguridad / Terrorismo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_09",
+    "desc_q": "Problemas que afectan la seguridad / Abigeato",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_10",
+    "desc_q": "Problemas que afectan la seguridad / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C046",
+    "n_q": "P55_O",
+    "desc_q": "Problemas que afectan la seguridad / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

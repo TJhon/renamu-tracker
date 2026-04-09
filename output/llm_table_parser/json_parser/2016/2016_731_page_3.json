@@ -1,0 +1,152 @@
+[
+  {
+    "cuadro": "CUADRO_C43",
+    "n_q": "51",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2015",
+    "col": "P51_2",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para venta ambulatoria de alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C43",
+    "n_q": "51",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2015",
+    "col": "P51A_2",
+    "desc_col": "Número de carné de sanidad / Para venta ambulatoria de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C43",
+    "n_q": "51",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2015",
+    "col": "P51_3",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C43",
+    "n_q": "51",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2015",
+    "col": "P51A_3",
+    "desc_col": "Número de carné de sanidad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C43",
+    "n_q": "51",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2015",
+    "col": "P51A_3_O",
+    "desc_col": "Número de carné de sanidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Operativos de"
+  },
+  {
+    "col": "VF1_P52",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "col": "P52_1",
+    "desc_col": "¿La municipalidad realizó operativos de control de aseo, higiene y salubridad de establecimientos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_1",
+    "desc_col": "Número de operativos / Aseo, higiene y salubridad de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P52_2",
+    "desc_col": "¿La municipalidad realizó operativos de control de carné de sanidad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_2",
+    "desc_col": "Número de operativos / Carné de sanidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P52_3",
+    "desc_col": "¿La municipalidad realizó operativos de control de servicios higiénicos públicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_3",
+    "desc_col": "Número de operativos /Servicios higiénicos públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P52_4",
+    "desc_col": "¿La municipalidad realizó operativos de control de fumigación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_4",
+    "desc_col": "Número de operativos / Fumigación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P52_5",
+    "desc_col": "¿La municipalidad realizó operativos de control de anuncios publicitarios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_5",
+    "desc_col": "Número de operativos / Anuncios publicitarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P52_6",
+    "desc_col": "¿La municipalidad realizó operativos de control de verificación de pesas y medidas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_6",
+    "desc_col": "Número de operativos / Verificación de pesas y medidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P52_7",
+    "desc_col": "¿La municipalidad realizó operativos de control de salubridad de alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_7",
+    "desc_col": "Número de operativos / Salubridad de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P52_8",
+    "desc_col": "¿La municipalidad realizó operativos de control de comercio ambulatorio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P52A_8",
+    "desc_col": "Número de operativos / Comercio ambulatorio",
+    "values": "",
+    "value_pos": null
+  }
+]

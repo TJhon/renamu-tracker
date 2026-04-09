@@ -1,0 +1,248 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_10",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Matrícula escolar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_10_1",
+    "desc_col": "Número de casos atendidos / Matrícula escolar",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_11",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Atentados contra la integridad sexual?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_11_1",
+    "desc_col": "Número de casos atendidos / Atentados contra la integridad sexual",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_12",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Casos sociales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_12_1",
+    "desc_col": "Número de casos atendidos / Casos sociales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_13",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Trabajo infantil?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_13_1",
+    "desc_col": "Número de casos atendidos / Trabajo infantil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_14",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Riesgo de desprotección familiar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_14_1",
+    "desc_col": "Número de casos atendidos / Riesgo de desprotección familiar",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_15",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Desprotección familiar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_15_1",
+    "desc_col": "Número de casos atendidos / Desprotección familiar",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_16",
+    "desc_col": "¿La Defensoría Municipal atendió caso de: Asesoría especializada psicológica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_16_1",
+    "desc_col": "Número de casos atendidos / Asesoría especializada psicológica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_17",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Asesoría especializada legal?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_17_1",
+    "desc_col": "Número de casos atendidos / Asesoría especializada legal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_18",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Otros casos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_18_1",
+    "desc_col": "Número de casos atendidos / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_18_O",
+    "desc_col": "Número de casos atendidos / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_19",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Niñas, niños y adolescentes cuya madre, padre o ambos hayan fallecido durante la emergencia sanitaria por el COVID-19?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2021",
+    "col": "P64_19_1",
+    "desc_col": "Número de casos atendidos / Niñas, niños y adolescentes cuya madre, padre o ambos hayan fallecido durante la emergencia sanitaria por el COVID-19",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "SALUD"
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_1",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Hospital / Clínica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_1_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Hospital / Clínica / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_2",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Centro de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_2_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Centro de salud / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "65",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2022",
+    "col": "P66_3",
+    "desc_col": "¿La Municipalidad administra establecimientos de salud: Puesto / Posta de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

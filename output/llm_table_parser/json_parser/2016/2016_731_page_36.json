@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "medios de comunicación, 2016",
+    "col": "P93_1_3",
+    "desc_col": "Medios de comunicación / Línea destinada a fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "medios de comunicación, 2016",
+    "col": "P93_1_4",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "medios de comunicación, 2016",
+    "col": "P93_1_5",
+    "desc_col": "Medios de comunicación / Acceso a internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "medios de comunicación, 2016",
+    "col": "P93_1_6",
+    "desc_col": "Medios de comunicación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "medios de comunicación, 2016",
+    "col": "P93_1_6_O",
+    "desc_col": "Medios de comunicación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "VFI_P94",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P93",
+    "desc_col": "¿La municipalidad tiene Oficina de Defensa Civil?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94",
+    "desc_col": "¿La Oficina de Defensa Civil de la municipalidad realizó acciones?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94_1",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Cursos de capacitación en Gestión Reactiva del Riesgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94_2",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Simulacros para probar el Plan de Operaciones de Emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94A_2",
+    "desc_col": "Número de simulacros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94_3",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Identificación del nivel de riesgo existente en áreas de distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94_4",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Supervisar el cumplimiento de las normas de seguridad en recintos con acceso al público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94_5",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C88",
+    "n_q": "94",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil, en el 2015",
+    "col": "P94_5_O",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  }
+]

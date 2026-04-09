@@ -1,0 +1,93 @@
+[
+  {
+    "n_q": "71",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2020",
+    "col": "P80_8",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por Organización No Gubernamental",
+    "values": "0: Pase; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "71",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2020",
+    "col": "P80_9",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción",
+    "values": "0: Pase; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "n_q": "71",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2020",
+    "col": "P80_9_O",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "71",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2020",
+    "col": "P80_10",
+    "desc_col": "La municipalidad no realizó acciones para prevenir el consumo de drogas y alcohol",
+    "values": "0: Pase; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "h2": "GESTIÓN DEL RIESGO DE DESASTRES"
+  },
+  {
+    "n_q": "72",
+    "desc_q": "Municipalidad que tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2021",
+    "col": "VFI_P84A",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "72",
+    "desc_q": "Municipalidad que tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2021",
+    "col": "P84A",
+    "desc_col": "¿La municipalidad tiene Implementado Brigadas para la Atencion Frente a Emergencias y a Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "72",
+    "desc_q": "Municipalidad que tiene implementado Brigadas para la Atención frente a Emergencias y Desastres vinculadas al Programa Presupuestal N° 068: Reducción de la Vulnerabilidad y Atención de Emergencias por Desastres, 2021",
+    "col": "P84A_1A",
+    "desc_col": "Número de Brigadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "73",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2021",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "73",
+    "desc_q": "La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL), 2021",
+    "col": "P85_1",
+    "desc_col": "¿La municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL)?",
+    "values": "1: Sí y el COEL se encuentra contemplado dentro de la estructura orgánica de la municipalidad; 2: Sí y el COEL no se encuentra contemplado dentro de la estructura orgánica de la municipalidad; 3: No ha conformado",
+    "value_pos": null
+  },
+  {
+    "n_q": "74",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2021",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "74",
+    "desc_q": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL), 2021",
+    "col": "P86_1",
+    "desc_col": "Funcionamiento del Centro de Operaciones de Emergencia Local (COEL)",
+    "values": "1: Funciona las 24 horas; 2: Funciona solo en horario de oficina; 3: Funciona solo cuando hay una emergencia",
+    "value_pos": null
+  }
+]

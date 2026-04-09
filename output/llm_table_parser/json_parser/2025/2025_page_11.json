@@ -1,0 +1,144 @@
+[
+  {
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C20",
+    "desc_col": "Capacitación que requiere / Presupuesto con Enfoque a Resultados y Enfoque de Género",
+    "values": "0: No; 20: Sí",
+    "value_pos": 20
+  },
+  {
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C21",
+    "desc_col": "Capacitación que requiere / Procedimientos Administrativos",
+    "values": "0: No; 21: Sí",
+    "value_pos": 21
+  },
+  {
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C22",
+    "desc_col": "Capacitación que requiere / Programa de Incentivos a la Mejora de la Gestión Municipal",
+    "values": "0: No; 22: Sí",
+    "value_pos": 22
+  },
+  {
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C23",
+    "desc_col": "Capacitación que requiere / Sistema de Focalización de Hogares",
+    "values": "0: No; 23: Sí",
+    "value_pos": 23
+  },
+  {
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C24",
+    "desc_col": "Capacitación que requiere / Otro",
+    "values": "0: No; 24: Sí",
+    "value_pos": 24
+  },
+  {
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2025",
+    "col": "P22_C24_O",
+    "desc_col": "Capacitación que requiere / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "MÓDULO IV: COMPETENCIAS Y FUNCIONES DE LA MUNICIPALIDAD"
+  },
+  {
+    "h2": "PLANIFICACIÓN MUNICIPAL"
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "VFL_P23",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / ¿Tiene?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_1_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_1_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_1_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_1_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_1_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Municipal Concertado / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / ¿Tiene?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_2_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_2_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2025",
+    "col": "P23_2_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Estratégico Institucional / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

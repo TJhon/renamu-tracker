@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "en el 2008",
+    "col": null,
+    "desc_col": "en el Registro Civil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P90_O_H_01",
+    "desc_q": null,
+    "col": "P90_O_H_01",
+    "desc_col": "Número de nacimientos / Ordinaria / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P90_O_M_01",
+    "desc_q": null,
+    "col": "P90_O_M_01",
+    "desc_col": "Número de nacimientos / Ordinaria / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P90_E_H_02",
+    "desc_q": null,
+    "col": "P90_E_H_02",
+    "desc_col": "Número de nacimientos / Extemporánea / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P90_E_M_02",
+    "desc_q": null,
+    "col": "P90_E_M_02",
+    "desc_col": "Número de nacimientos / Extemporánea / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "VFI_P91",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "VFI_P91",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "P91",
+    "desc_col": "La municipalidad realizó inscripciones de defunciones en el Registro Civil",
+    "values": "1: Realizó; 0: No realizó (función fue transferida a RENIEC)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_O_H_01",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "P91_O_H_01",
+    "desc_col": "Número de defunciones / Ordinaria / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_O_M_01",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "P91_O_M_01",
+    "desc_col": "Número de defunciones / Ordinaria / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_P_H_02",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "P91_P_H_02",
+    "desc_col": "Número de defunciones / Policial / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_P_M_02",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "P91_P_M_02",
+    "desc_col": "Número de defunciones / Policial / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_J_H_03",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "P91_J_H_03",
+    "desc_col": "Número de defunciones / Judicial / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_J_M_03",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, en el 2008",
+    "col": "P91_J_M_03",
+    "desc_col": "Número de defunciones / Judicial / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "VFI_P92",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, en el 2008",
+    "col": "VFI_P92",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "P92",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, en el 2008",
+    "col": "P92",
+    "desc_col": "La municipalidad realizó inscripciones de matrimonios en el Registro Civil",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "P92_01",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, en el 2008",
+    "col": "P92_01",
+    "desc_col": "Número de matrimonios / Ordinaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "P92_02",
+    "desc_q": "Inscripción de matrimonios en el Registro Civil de la municipalidad, en el 2008",
+    "col": "P92_02",
+    "desc_col": "Número de matrimonios / Masivo / comunitario",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "VFI_P93",
+    "desc_q": "Inscripción de divorcios en el Registro Civil de la municipalidad, en el 2008",
+    "col": "VFI_P93",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93",
+    "desc_q": "Inscripción de divorcios en el Registro Civil de la municipalidad, en el 2008",
+    "col": "P93",
+    "desc_col": "La municipalidad realizó inscripciones de divorcios en el Registro Civil",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "P93_01",
+    "desc_q": "Inscripción de divorcios en el Registro Civil de la municipalidad, en el 2008",
+    "col": "P93_01",
+    "desc_col": "Número de divorcios",
+    "values": null,
+    "value_pos": null
+  }
+]

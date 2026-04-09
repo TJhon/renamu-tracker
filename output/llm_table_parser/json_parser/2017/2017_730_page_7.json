@@ -1,0 +1,161 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P26_3_M",
+    "desc_col": "Miembros del CCL / Alcaldes de Centros Poblados / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P26_3_H",
+    "desc_col": "Miembros del CCL / Alcaldes de Centros Poblados / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P26_4_T",
+    "desc_col": "Miembros del CCL/ Representantes de la Sociedad Civil / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P26_4_M",
+    "desc_col": "Miembros del CCL/ Representantes de la Sociedad Civil / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P26_4_H",
+    "desc_col": "Miembros del CCL / Representante de la Sociedad Civil / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "27"
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P26",
+    "desc_col": "¿La municipalidad tiene constituido el Consejo de Coordinación Local (CCL)?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P27",
+    "desc_col": "¿La municipalidad ejecutó actividades del Consejo de Coordinación Local?",
+    "values": "1: Ejecutó; 0: No ejecutó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P27_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P27A_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo / Número de sesiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P27_2",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en la elaboración del Plan de Desarrollo Municipal Concertado",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P27_3",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en el Presupuesto Participativo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P27_4",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C19",
+    "n_q": "27",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2016",
+    "col": "P27_4_O",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "28"
+  },
+  {
+    "cuadro": "CUADRO_C20",
+    "n_q": "28",
+    "desc_q": "Catastro Distrital, 2017",
+    "col": "VFI_P28",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C20",
+    "n_q": "28",
+    "desc_q": "Catastro Distrital, 2017",
+    "col": "P28_1",
+    "desc_col": "¿La municipalidad realizó Levantamiento catastral?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C20",
+    "n_q": "28",
+    "desc_q": "Catastro Distrital, 2017",
+    "col": "P28_1_1",
+    "desc_col": "Año del último levantamiento catastral",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C20",
+    "n_q": "28",
+    "desc_q": "Catastro Distrital, 2017",
+    "col": "P28_2",
+    "desc_col": "¿La municipalidad realizó Actualización catastral?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

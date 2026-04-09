@@ -1,0 +1,197 @@
+[
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50B",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Parques?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50B_C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Parques? / Áreas verdes conservadas (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Parques zonales y zoológicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50C_C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Parques zonales y zoológicos? / Áreas verdes conservadas (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50D",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Jardines y óvalos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50D_C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Jardines y óvalos? / Áreas verdes conservadas (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50E",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Bermas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50E_C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Bermas? / Áreas verdes conservadas (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50F",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Alamedas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "50",
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50F_C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Alamedas? / Áreas verdes conservadas (m2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "EDUCACIÓN, CULTURA, DEPORTE Y RECREACIÓN"
+  },
+  {
+    "n_q": "51",
+    "desc_q": "Municipalidad que tuvo Bibliotecas Municipales, 2021",
+    "col": "VFI_P51",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "51",
+    "desc_q": "Municipalidad que tuvo Bibliotecas Municipales, 2021",
+    "col": "P51",
+    "desc_col": "¿La municipalidad tuvo Bibliotecas Municipales?",
+    "values": "1: Sí; 2: No tuvo",
+    "value_pos": 1
+  },
+  {
+    "n_q": "51",
+    "desc_q": "Municipalidad que tuvo Bibliotecas Municipales, 2021",
+    "col": "P51_1",
+    "desc_col": "Bibliotecas Municipales / Número de locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "51",
+    "desc_q": "Municipalidad que tuvo Bibliotecas Municipales, 2021",
+    "col": "P51_2",
+    "desc_col": "Biblioteca Municipal / Número de Visitantes / Usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "52",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2021",
+    "col": "VFI_P52",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "52",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2021",
+    "col": "P52",
+    "desc_col": "¿La municipalidad brindó servicio bibliotecario?",
+    "values": "1: Sí; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "VFI_P53",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "P53_1",
+    "desc_col": "Servicios que brindó la Biblioteca Municipal / Lectura en sala",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "P53A_1",
+    "desc_col": "Servicios que brindó la Biblioteca Municipal / Lectura en sala / Total de usuarios del servicio de lectura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "P53_2",
+    "desc_col": "Servicios que brindó la Biblioteca Municipal / Préstamo de libros a domicilio",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "P53_3",
+    "desc_col": "Servicios que brindó la Biblioteca Municipal / Biblioteca virtual",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "P53_4",
+    "desc_col": "Servicios que brindó la Biblioteca Municipal / Sala de revistas y periódicos (Hemeroteca)",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "P53_5",
+    "desc_col": "Servicios que brindó la Biblioteca Municipal / Sala infantil",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la Biblioteca Municipal, 2021",
+    "col": "P53_6",
+    "desc_col": "Servicios que brindó la Biblioteca Municipal / Biblioteca itinerante",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades informantes sobre distritos que tienen instituciones financieras",
+    "values": "1: Si tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V2",
+    "desc_col": "Número/Tipo de institución financiera/ Banca privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V3",
+    "desc_col": "Número/Tipo de institución financiera/ Banco de la Nación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V4",
+    "desc_col": "Número/Tipo de institución financiera/ Caja Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V5",
+    "desc_col": "Número/Tipo de institución financiera/ Caja Rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V6",
+    "desc_col": "Número/Tipo de institución financiera/ Empresa Financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V7",
+    "desc_col": "Número/Tipo de institución financiera/ Cooperativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0094",
+    "n_q": "97",
+    "desc_q": "Instituciones financieras que existen en el distrito, en el 2004",
+    "col": "V8",
+    "desc_col": "Número/Tipo de institución financiera/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades informantes sobre distritos que tienen comisarías",
+    "values": "1: Si tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2004",
+    "col": "V2",
+    "desc_col": "Número/Tipo de comisarías/ Comandancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2004",
+    "col": "V3",
+    "desc_col": "Número Tipo de comisarías/ Comisaría",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2004",
+    "col": "V4",
+    "desc_col": "Número/Tipo de comisarías/ Delegación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2004",
+    "col": "V5",
+    "desc_col": "Número /Tipo de comisarías/ Puestos policiales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0095",
+    "n_q": "98",
+    "desc_q": "Comisarías que existen en el distrito, en el 2004",
+    "col": "V6",
+    "desc_col": "Número/Tipo de comisarías/ Comisaría de mujeres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V11",
+    "desc_col": "Pistas/Material que predomina/ Cemento",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V12",
+    "desc_col": "Pistas/Material que predomina/ Asfalto",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V13",
+    "desc_col": "Pistas/Material que predomina/ Tierra afirmada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V14",
+    "desc_col": "Pistas/Material que predomina/ Enripiado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V15",
+    "desc_col": "Pistas/Material que predomina/ Empedrada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V16",
+    "desc_col": "Pistas/Material que predomina/ Otra",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V21",
+    "desc_col": "Caminos/Material que predomina/ Cemento",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V22",
+    "desc_col": "Caminos/Material que predomina/ Asfalto",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V23",
+    "desc_col": "Caminos/Material que predomina/ Tierra afirmada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V24",
+    "desc_col": "Caminos/Material que predomina/ Enripiado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V25",
+    "desc_col": "Caminos/Material que predomina/ Empedrada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0096",
+    "n_q": "99",
+    "desc_q": "Material que predomina en pistas y camino en el distrito, en el 2004",
+    "col": "V26",
+    "desc_col": "Caminos/Material que predomina/ Otra",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0097",
+    "n_q": "100",
+    "desc_q": "Alumbrado Publico en el distrito, al 2004",
+    "col": "V1",
+    "desc_col": "Alumbrado publico en el distrito",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0098",
+    "n_q": "101",
+    "desc_q": "Viviendas en el distrito que disponen energía eléctrica al 2004",
+    "col": "V1",
+    "desc_col": "% estimado de viviendas con Energía Eléctrica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2004",
+    "col": "V1",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2004",
+    "col": "V2",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Red pública/ Dentro de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2004",
+    "col": "V3",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Red pública/ Fuera de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2004",
+    "col": "V4",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Red pública/ Pilón de uso público o pileta publica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2004",
+    "col": "V5",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Otras fuentes/Camión cisterna o similar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2004",
+    "col": "V6",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Otras fuentes/Pozo, río, acequia, manantial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0099",
+    "n_q": "102",
+    "desc_q": "Abastecimiento de agua en las viviendas del distrito, al 2004",
+    "col": "V7",
+    "desc_col": "Tipo de abastecimiento de agua (%)/ Otras fuentes/Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicios higiénicos que disponen las viviendas del distrito, al 2004",
+    "col": "V1",
+    "desc_col": "Tipo de servicio higiénico (%)/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicios higiénicos que disponen las viviendas del distrito, al 2004",
+    "col": "V2",
+    "desc_col": "Tipo de servicios higiénicos (%)/ Red pública/Dentro de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicios higiénicos que disponen las viviendas del distrito, al 2004",
+    "col": "V3",
+    "desc_col": "Tipo de servicios higiénicos (%)/ Red pública/Fuera de la vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicios higiénicos que disponen las viviendas del distrito, al 2004",
+    "col": "V4",
+    "desc_col": "Tipo de servicios higiénicos (%)/ Otras formas/Pozo séptico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0100",
+    "n_q": "103",
+    "desc_q": "Servicios higiénicos que disponen las viviendas del distrito, al 2004",
+    "col": "V5",
+    "desc_col": "Tipo de servicios higiénicos (%)/ Otras formas/Pozo negro o ciego/ Letrina",
+    "values": "",
+    "value_pos": null
+  }
+]

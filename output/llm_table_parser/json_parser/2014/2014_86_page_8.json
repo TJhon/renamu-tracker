@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_CM_7",
+    "desc_col": "Decreto Legislativo N° 276 /Contratado / Personal de Vigilancia / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LH_1",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LH_2",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LH_3",
+    "desc_col": "Decreto Legislativo N° 728/ Empleados / Técnicos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LH_4",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LH_5",
+    "desc_col": "Decreto Legislativo N° 728/Obreros / De limpieza / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LH_6",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / Otros / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LH_7",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LM_1",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/ o Directivos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LM_2",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Profesionales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LM_3",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Técnicos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LM_4",
+    "desc_col": "Decreto Legislativo N° 728 / Empleados / Auxiliares / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LM_5",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / De limpieza / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LM_6",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / Otros / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_LM_7",
+    "desc_col": "Decreto Legislativo N° 728 / Personal de Vigilancia / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VH_1",
+    "desc_col": "Contrato administrativo de servicios (CAS)/ Funcionarios y/o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VH_2",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VH_3",
+    "desc_col": "Contrato administrativo de servicios (CAS)/ Empleados / Técnicos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VH_4",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Empleados / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VH_5",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Obreros / De limpieza / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VH_6",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Obreros / Otros / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VH_7",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Personal de Vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C009",
+    "n_q": "14",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre de 2014",
+    "col": "P14_VM_1",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Funcionarios y/o Directivos / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

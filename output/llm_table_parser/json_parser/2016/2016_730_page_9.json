@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "administrativo, 2016",
+    "col": "P30_1_2",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos Administrativos que contiene el TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "administrativo, 2016",
+    "col": "P30_1_3",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos a los que se les aplica el Silencio Administrativo Positivo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "31",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2016",
+    "col": "P30",
+    "desc_col": "¿La municipalidad tiene Texto Único de Procedimientos Administrativos (TUPA) según metodología de determinación de costos?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "31",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2016",
+    "col": "VFI_P31",
+    "desc_col": "Municipalidad Distrital",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "31",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2016",
+    "col": "P31",
+    "desc_col": "¿Ha sido ratificado el Texto Único de Procedimientos Administrativos (TUPA) por la Municipalidad provincial?",
+    "values": "1: Ratificado; 0: No Ratificado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C23",
+    "n_q": "31",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2016",
+    "col": "P31_1",
+    "desc_col": "TUPA / Fecha de ratificación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C24",
+    "n_q": "32",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA), 2016",
+    "col": "VFI_P32",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C24",
+    "n_q": "32",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA), 2016",
+    "col": "P32_1",
+    "desc_col": "¿Dónde se publica el TUPA vigente? / Diario Oficial “El Peruano”",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C24",
+    "n_q": "32",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA), 2016",
+    "col": "P32_2",
+    "desc_col": "¿Dónde se publica el TUPA vigente? / Diario Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C24",
+    "n_q": "32",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA), 2016",
+    "col": "P32_3",
+    "desc_col": "¿Dónde se publica el TUPA vigente? / Pizarra y/o vitrina de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C24",
+    "n_q": "32",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA), 2016",
+    "col": "P32_4",
+    "desc_col": "¿Dónde se publica el TUPA vigente? / Pagina Web de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C24",
+    "n_q": "32",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA), 2016",
+    "col": "P32_5",
+    "desc_col": "¿Dónde se publica el TUPA vigente? / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C24",
+    "n_q": "32",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA), 2016",
+    "col": "P32_5_O",
+    "desc_col": "¿Dónde se publica el TUPA vigente? / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33_1",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post?",
+    "values": "1:Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_1_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_1_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P33A_1_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  }
+]

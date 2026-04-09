@@ -1,0 +1,119 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "VF1_P25",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": "1"
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Municipal Concertado",
+    "values": "1: Sí; 3: No",
+    "value_pos": "1"
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_1_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Municipal Concertado / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_1_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Municipal Concertado / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_1_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Municipal Concertado / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Estratégico Institucional",
+    "values": "1: Sí; 3: No",
+    "value_pos": "1"
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_2_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Estratégico Institucional / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_2_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Estratégico Institucional / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3. Falta de recursos para su elaboración; 4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_2_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Estratégico Institucional /Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Económico Local",
+    "values": "1: Sí; 3: No",
+    "value_pos": "1"
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_3_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Económico Local / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_3_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3. Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_3_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Económico Local / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  }
+]

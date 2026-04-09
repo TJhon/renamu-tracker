@@ -1,0 +1,275 @@
+[
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "62",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad realizó acciones para incentivar a las MYPES",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "62",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2005",
+    "col": "V2",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "62",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2005",
+    "col": "V3",
+    "desc_col": "Acciones realizadas / Realización de ferias y concursos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "62",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2005",
+    "col": "V4",
+    "desc_col": "Acciones realizadas / Convenios con ONG, empresas privadas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "62",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2005",
+    "col": "V5",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "62",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2005",
+    "col": "V6",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0057",
+    "n_q": "62",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2005",
+    "col": "V7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "63",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad otorgó concesiones y autorizaciones para el servicio de transporte público urbano",
+    "values": "1: Si otorgó;0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "63",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, al 2005",
+    "col": "V2",
+    "desc_col": "Número de concesiones / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "63",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, al 2005",
+    "col": "V3",
+    "desc_col": "Número de empresas registradas / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "63",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, al 2005",
+    "col": "V4",
+    "desc_col": "Número de vehículos autorizados / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "63",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, al 2005",
+    "col": "V5",
+    "desc_col": "Número de concesiones / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "63",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, al 2005",
+    "col": "V6",
+    "desc_col": "Número de empresas registradas / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0058",
+    "n_q": "63",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, al 2005",
+    "col": "V7",
+    "desc_col": "Número de vehículos autorizados / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "64",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2005",
+    "col": "V1",
+    "desc_col": "Nombre del programa / proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "64",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2005",
+    "col": "V2",
+    "desc_col": "Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0059",
+    "n_q": "64",
+    "desc_q": "Programas y proyectos que ejecutó la municipalidad a través de convenios con otras entidades, en el 2005",
+    "col": "V3",
+    "desc_col": "Tiempo de duración",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0060",
+    "n_q": "65",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2006",
+    "col": "Cod_obra",
+    "desc_col": "Tipo de obra",
+    "values": "1: Educación;2: Salud;3: Transporte y comunicaciones;4: Electricidad, agua y alcantarillado;5: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0060",
+    "n_q": "65",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2006",
+    "col": "V1",
+    "desc_col": "Nombre de la obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0060",
+    "n_q": "65",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad, en el 2006",
+    "col": "V2",
+    "desc_col": "Monto de inversión previsto (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0061",
+    "n_q": "66",
+    "desc_q": "Obras de inversión no aprobadas por el presupuesto participativo, que demanda la población del distrito",
+    "col": "Cod_obra",
+    "desc_col": "Tipo de obra",
+    "values": "1: Educación;2: Salud;3: Transporte y comunicaciones;4: Electricidad, agua y alcantarillado;5: Turismo;6: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0061",
+    "n_q": "66",
+    "desc_q": "Obras de inversión no aprobadas por el presupuesto participativo, que demanda la población del distrito",
+    "col": "V1",
+    "desc_col": "Nombre de la Obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0061",
+    "n_q": "66",
+    "desc_q": "Obras de inversión no aprobadas por el presupuesto participativo, que demanda la población del distrito",
+    "col": "V2",
+    "desc_col": "Tiene estudios de factibilidad de proyectos ?",
+    "values": "1: Si tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0061",
+    "n_q": "66",
+    "desc_q": "Obras de inversión no aprobadas por el presupuesto participativo, que demanda la población del distrito",
+    "col": "V3",
+    "desc_col": "Monto de inversión previsto (Nuevos Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "67",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene Oficina de Programación de Inversiones (OPI)",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0062",
+    "n_q": "67",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad",
+    "col": "Codigo",
+    "desc_col": "La municipalidad no dispone de OPI",
+    "values": "1: No tiene personal especializado;2: Desconoce como integrarse al SNIP;3: Desconoce la función del SNIP;4: Falta de presupuesto para implementarla;5: Otro",
+    "value_pos": null
+  },
+  {
+    "h2": "SNIP : Sistema Nacional de Inversión Pública"
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "68",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V1",
+    "desc_col": "El distrito tiene producción artesanal",
+    "values": "1: Si tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "68",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V2",
+    "desc_col": "Producción artesanal / Lácteos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "68",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V3",
+    "desc_col": "Producción artesanal / Miel de abeja",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0063",
+    "n_q": "68",
+    "desc_q": "Producción artesanal en el distrito",
+    "col": "V4",
+    "desc_col": "Producción artesanal / Textiles (tejidos de punto, tapiz)",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

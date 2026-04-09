@@ -1,0 +1,158 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P84_O",
+    "desc_col": "Modalidad del patrullaje / Otra modalidad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P81",
+    "desc_col": "¿La Municipalidad tiene Serenazgo?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P83",
+    "desc_col": "El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú",
+    "values": "1 : Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P85_1",
+    "desc_col": "Frecuencia del patrullaje integrado / Diaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P85_2",
+    "desc_col": "Frecuencia del patrullaje integrado / Semanal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P85_3",
+    "desc_col": "Frecuencia del patrullaje integrado / Quincenal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P85_4",
+    "desc_col": "Frecuencia del patrullaje integrado / Mensual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P85_5",
+    "desc_col": "Frecuencia del patrullaje integrado / Otra frecuencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "85",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2015",
+    "col": "P85_O",
+    "desc_col": "Frecuencia del patrullaje integrado / Otra frecuencia / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DEL RIESGO DE DESASTRES"
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "86",
+    "desc_q": "Está constituido el grupo de trabajo de la Gestión del Riesgo de Desastres, 2015",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "86",
+    "desc_q": "Está constituido el grupo de trabajo de la Gestión del Riesgo de Desastres, 2015",
+    "col": "P86",
+    "desc_col": "La Municipalidad tiene constituido el grupo de trabajo de la Gestión del Riesgo de Desastres",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "86",
+    "desc_q": "Está constituido el grupo de trabajo de la Gestión del Riesgo de Desastres, 2015",
+    "col": "P85_1",
+    "desc_col": "El grupo de trabajo de la Gestión del Riesgo de Desastres/ Constituido con Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "86",
+    "desc_q": "Está constituido el grupo de trabajo de la Gestión del Riesgo de Desastres, 2015",
+    "col": "P85A_1",
+    "desc_col": "Numero de Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "86",
+    "desc_q": "Está constituido el grupo de trabajo de la Gestión del Riesgo de Desastres, 2015",
+    "col": "P85_2",
+    "desc_col": "El grupo de trabajo de la Gestión del Riesgo de Desastres / Constituido sin Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "86",
+    "desc_q": "Está constituido el grupo de trabajo de la Gestión del Riesgo de Desastres, 2015",
+    "col": "P85_3",
+    "desc_col": "El grupo de trabajo de la Gestión del Riesgo de Desastres / Tiene Reglamento Interno de Funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C079",
+    "n_q": "86",
+    "desc_q": "Está constituido el grupo de trabajo de la Gestión del Riesgo de Desastres, 2015",
+    "col": "P85_4",
+    "desc_col": "El grupo de trabajo de la Gestión del Riesgo de Desastres / Tiene Plan de Trabajo Anual",
+    "values": "",
+    "value_pos": null
+  }
+]

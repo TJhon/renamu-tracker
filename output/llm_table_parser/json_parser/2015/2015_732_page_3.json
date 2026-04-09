@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2015",
+    "col": "VFI_P116",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2015",
+    "col": "P116",
+    "desc_col": "¿La municipalidad supervisa organizaciones comunitarias de servicios de agua y saneamiento en el distrito?",
+    "values": "1: Supervisa;0: No supervisa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2015",
+    "col": "P116_1",
+    "desc_col": "Organizaciones comunitarias / Junta administradora de servicios de saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2015",
+    "col": "P116_2",
+    "desc_col": "Organizaciones comunitarias / Asociación de usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2015",
+    "col": "P116_3",
+    "desc_col": "Organizaciones comunitarias / Comité de agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2015",
+    "col": "P116_4",
+    "desc_col": "Organizaciones comunitarias / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C109",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2015",
+    "col": "P116_O",
+    "desc_col": "Organizaciones comunitarias / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015"
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "VFI_P117",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "P117",
+    "desc_col": "¿La municipalidad realizó actividades para apoyar a las organizaciones comunitarias de servicio de agua y saneamiento?",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "P117_1",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar asistencia técnica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "P117_2",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar capacitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "P117_3",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar mantenimiento del sistema de saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "P117_4",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar la ampliación y/o rehabilitación de los sistemas de saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "P117_5",
+    "desc_col": "Actividades que realiza la municipalidad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2015",
+    "col": "P117_O",
+    "desc_col": "Actividades que realiza la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

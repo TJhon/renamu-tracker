@@ -1,0 +1,137 @@
+[
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_15",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro (1)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_15_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro / Especifique 1",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (2)?",
+    "col": "P39_16",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (2)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_16",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro (2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_16_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro / Especifique 2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (3)?",
+    "col": "P39_17",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para otro establecimiento (3)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_17",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro (3)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_17_O",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Otro / Especifique 3",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de artesanías?",
+    "col": "P39_18",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de artesanías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_18",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / ARTESANÍA Y MANUFACTURA / Establecimientos de artesanías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para fábricas?",
+    "col": "P39_19",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para fábricas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_19",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / ARTESANÍA Y MANUFACTURA / Fábricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para bodegas?",
+    "col": "P39_20",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para bodegas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2016",
+    "col": "P39A_20",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Bodegas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C31",
+    "n_q": "39",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para farmacias y boticas?",
+    "col": "P39_21",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para farmacias y boticas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

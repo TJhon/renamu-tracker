@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "del Peru, 2016",
+    "col": "P79_2",
+    "desc_col": "Frecuencia del patrullaje integrado / Interdiaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "del Peru, 2016",
+    "col": "P79_3",
+    "desc_col": "Frecuencia del patrullaje integrado / Semanal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "del Peru, 2016",
+    "col": "P79_4",
+    "desc_col": "Frecuencia del patrullaje integrado / Quincenal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "del Peru, 2016",
+    "col": "P79_5",
+    "desc_col": "Frecuencia del patrullaje integrado / Mensual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "80",
+    "desc_q": "La municipalidad Conformó el Comité Provincial / Distrital de Seguridad Ciudadana, en el 2015",
+    "col": "VFI_P80",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "80",
+    "desc_q": "La municipalidad Conformó el Comité Provincial / Distrital de Seguridad Ciudadana, en el 2015",
+    "col": "P80",
+    "desc_col": "¿La Municipalidad conformó el Comité Provincial / Distrital de Seguridad Ciudadana?",
+    "values": "1: Conformó; 0: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "80",
+    "desc_q": "La municipalidad Conformó el Comité Provincial / Distrital de Seguridad Ciudadana, en el 2015",
+    "col": "P80_1",
+    "desc_col": "La municipalidad conformó el Comité / Sí y designó a su Secretario Técnico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C74",
+    "n_q": "80",
+    "desc_q": "La municipalidad Conformó el Comité Provincial / Distrital de Seguridad Ciudadana, en el 2015",
+    "col": "P80_2",
+    "desc_col": "La municipalidad conformó el Comité / Sí y no designó a su Secretario Técnico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015"
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "VFI_P81",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P80",
+    "desc_col": "¿La Municipalidad conformó el Comité Provincial / Distrital de Seguridad Ciudadana?",
+    "values": "1: Conformó; 0: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81_1",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Sesiones de Comité de Seguridad Ciudadana?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81A_1",
+    "desc_col": "Número de Sesiones de Comité de Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81_2",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Consultas ciudadanas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81A_2",
+    "desc_col": "Número de Consultas ciudadanas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81_3",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Audiencias públicas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81A_3",
+    "desc_col": "Número de Audiencias públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81_4",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Capacitación a los miembros del Comité?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81A_4",
+    "desc_col": "Número de Capacitación a los miembros del comité",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C75",
+    "n_q": "81",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2015",
+    "col": "P81_5",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Capacitación a conductores en prevención de accidentes y actos delincuenciales?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

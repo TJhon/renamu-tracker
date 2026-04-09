@@ -1,0 +1,34 @@
+[
+  {
+    "col": "C116_2_1_2_8",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Plazuelas, parques y jardines"
+  },
+  {
+    "col": "C116_2_1_2_9",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Otras estructuras diversas 1/"
+  },
+  {
+    "col": "C116_2_1_2_10",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Edificios administrativos"
+  },
+  {
+    "col": "C116_2_1_2_11",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Otras obras de infraestructura 2/"
+  },
+  {
+    "col": "C116_2_1_3",
+    "desc_col": "Adquisición de activos no financieros / Otros gastos por adquisición de activos no financieros"
+  },
+  {
+    "col": "C116_2_2",
+    "desc_col": "Donaciones y transferencias de capital"
+  },
+  {
+    "col": "C116_2_3",
+    "desc_col": "Otros gastos de capital"
+  },
+  {
+    "col": "C116_3",
+    "desc_col": "III. Servicio de la deuda"
+  }
+]

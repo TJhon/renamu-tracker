@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P64_B_04",
+    "desc_col": "Número de beneficiarios / Wawa Wasi",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P64_B_05",
+    "desc_col": "Número de beneficiarios / Club y Centro del Adulto Mayor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P64_B_06",
+    "desc_col": "Número de beneficiarios / Organizaciones Juveniles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P64_B_07",
+    "desc_col": "Número de beneficiarios / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P64_O",
+    "desc_col": "Organizaciones sociales / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_01",
+    "desc_col": "Total de Beneficiarios del PVL",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_02",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 6 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_03",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 6 años / Niños de 0 a 3 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_04",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 6 años / Niños de 4 a 5 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_05",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 6 años / Niños de 6 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_06",
+    "desc_col": "Número de beneficiarios / Niños de 7 a 13 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_07",
+    "desc_col": "Número de beneficiarios / Madres gestantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_08",
+    "desc_col": "Número de beneficiarios / Madres lactantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_09",
+    "desc_col": "Número de beneficiarios / Personas con TBC",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "65",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche en el 2011",
+    "col": "P66_10",
+    "desc_col": "Número de beneficiarios / Adulto mayor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "66",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2011",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "66",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2011",
+    "col": "P66_S",
+    "desc_col": "Organismos o instituciones financiaron Programas Sociales en el distrito",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "66",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2011",
+    "col": "P66_S_01",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / PRONAA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "66",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2011",
+    "col": "P66_S_02",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / FONCODES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "66",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2011",
+    "col": "P66_S_03",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "66",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2011",
+    "col": "P66_S_04",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "66",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2011",
+    "col": "P66_S_05",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Vivienda (Agua para todos)",
+    "values": null,
+    "value_pos": null
+  }
+]

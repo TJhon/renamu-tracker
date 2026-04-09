@@ -1,0 +1,362 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V4",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Programa de protección contra desbordes",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V5",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Programa de recuperación y limpieza de cauce",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V6",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Áreas inundables identificadas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V7",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Mapa de identificación de zonas de alto riesgo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Estadísticas de desastres más frecuentes",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Registro de inspectores técnicos en Defensa Civil",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "58",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil de la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene oficina de Defensa Civil",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "58",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil de la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Acciones que realizó la oficina de Defensa Civil / Dispone de medios de comunicación (radio, conexión telefónica, conexión a Internet, otros)",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "58",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil de la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Acciones que realizó la oficina de Defensa Civil / Está integrada al Sistema Nacional de Información para la Prevención y Atención de Desastres (SINPAD)",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "58",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil de la municipalidad, en el 2005",
+    "col": "V4",
+    "desc_col": "Acciones que realizó la oficina de Defensa Civil / Realiza cursos de capacitación en Defensa Civil",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "58",
+    "desc_q": "Acciones que realizó la oficina de Defensa Civil de la municipalidad, en el 2005",
+    "col": "V5",
+    "desc_col": "Acciones que realizó la oficina de Defensa Civil / Realiza simulacros para probar su plan de operaciones de emergencia",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V1",
+    "desc_col": "En el distrito existen fenómenos naturales",
+    "values": "1: Si existen;0: No existen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V2",
+    "desc_col": "Fenómenos naturales mas frecuentes / Sismos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V3",
+    "desc_col": "Fenómenos naturales mas frecuentes / Actividad Volcánica",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V4",
+    "desc_col": "Fenómenos naturales mas frecuentes / Desborde de ríos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V5",
+    "desc_col": "Fenómenos naturales mas frecuentes / Aluvión",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V6",
+    "desc_col": "Fenómenos naturales mas frecuentes / Deslizamiento de tierra",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V7",
+    "desc_col": "Fenómenos naturales mas frecuentes / Derrumbe de cerros",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V8",
+    "desc_col": "Fenómenos naturales mas frecuentes / Huayco",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V9",
+    "desc_col": "Fenómenos naturales mas frecuentes / Granizada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V10",
+    "desc_col": "Fenómenos naturales mas frecuentes / Helada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V11",
+    "desc_col": "Fenómenos naturales mas frecuentes / Nevada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V12",
+    "desc_col": "Fenómenos naturales mas frecuentes / Viento Fuerte",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V13",
+    "desc_col": "Fenómenos naturales mas frecuentes / Lluvia Intensa",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V14",
+    "desc_col": "Fenómenos naturales mas frecuentes / Inundación",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "59",
+    "desc_q": "Fenómenos naturales más frecuentes en el distrito",
+    "col": "V15",
+    "desc_col": "Fenómenos naturales mas frecuentes / Sequía",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "60",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, en el 2005",
+    "col": "V1",
+    "desc_col": "Número de nacimientos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "60",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de nacimientos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "60",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, en el 2005",
+    "col": "V3",
+    "desc_col": "Número de defunciones / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0054",
+    "n_q": "60",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de nacimientos y defunciones, en el 2005",
+    "col": "V4",
+    "desc_col": "Número de defunciones / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "60",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de matrimonios y divorcios, en el 2005",
+    "col": "V1",
+    "desc_col": "Número de matrimonios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0055",
+    "n_q": "60",
+    "desc_q": "Inscripción en el Registro Civil de la municipalidad de matrimonios y divorcios, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de divorcios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene registradas MYPES",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V2",
+    "desc_col": "Número de MYPES / Producen / Alimentos y bebidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V3",
+    "desc_col": "Número de MYPES / Producen / Cueros y calzados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V4",
+    "desc_col": "Número de MYPES / Producen / Artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V5",
+    "desc_col": "Número de MYPES / Producen / Textiles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V6",
+    "desc_col": "Número de MYPES / Producen / Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V7",
+    "desc_col": "Número de MYPES / Producen / Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0056",
+    "n_q": "61",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, al 2005",
+    "col": "V8",
+    "desc_col": "Número de MYPES / Producen / Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  }
+]

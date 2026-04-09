@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P102_TT_AV_02",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Avión / Minutos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P102_TN_O_03",
+    "desc_col": "Precio aproximado del pasaje (Nuevos soles) / Medio de transporte / Ómnibus",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P102_TN_M_03",
+    "desc_col": "Precio aproximado del pasaje (Nuevos soles) / Medio de transporte / Microbús",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P102_TN_CR_03",
+    "desc_col": "Precio aproximado del pasaje (Nuevos soles) / Medio de transporte / Camioneta rural (Combi)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P102_TN_C_03",
+    "desc_col": "Precio aproximado del pasaje (Nuevos soles) / Medio de transporte / Camión",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P102_TN_A_03",
+    "desc_col": "Precio aproximado del pasaje (Nuevos soles) / Medio de transporte / Auto",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P102_TN_AV_03",
+    "desc_col": "Precio aproximado del pasaje (Nuevos soles) / Medio de transporte / Avión",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "VFI_P103",
+    "desc_col": "Municipalidad informante",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_D_01",
+    "desc_col": "Departamental / Tipo de vía / Trocha o sendero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_D_02",
+    "desc_col": "Departamental / Tipo de vía / Camino de herradura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_D_03",
+    "desc_col": "Departamental / Tipo de vía / Camino carrozable",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_D_04",
+    "desc_col": "Departamental / Tipo de vía / Carretera afirmada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_D_05",
+    "desc_col": "Departamental / Tipo de vía / Carretera asfaltada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_D_06",
+    "desc_col": "Departamental / Tipo de vía / Vía fluvial / Lacustre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_D_07",
+    "desc_col": "Departamental / Tipo de vía / Vía férrea",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_P_01",
+    "desc_col": "Provincial / Tipo de vía / Trocha o sendero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_P_02",
+    "desc_col": "Provincial / Tipo de vía / Camino de herradura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_P_03",
+    "desc_col": "Provincial / Tipo de vía / Camino carrozable",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_P_04",
+    "desc_col": "Provincial / Tipo de vía / Carretera afirmada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_P_05",
+    "desc_col": "Provincial / Tipo de vía / Carretera asfaltada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_P_06",
+    "desc_col": "Provincial / Tipo de vía / Vía fluvial / Lacustre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "103",
+    "desc_q": "Principal Vía de Acceso que se utiliza para trasladarse de la Capital distrital a la Capital Departamental y Provincial, 2012",
+    "col": "P103_P_07",
+    "desc_col": "Provincial / Tipo de vía / Vía férrea",
+    "values": null,
+    "value_pos": null
+  }
+]

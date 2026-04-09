@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "VFI_P15",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15",
+    "desc_col": "La municipalidad requiere asistencia técnica",
+    "values": "1: Requiere;0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_01",
+    "desc_col": "Asistencia técnica que requiere / Planificación Estratégica Institucional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_02",
+    "desc_col": "Asistencia técnica que requiere /Presupuesto con Enfoque a Resultados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_03",
+    "desc_col": "Asistencia técnica que requiere / Optimización de Procesos y Simplificación Administrativa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_04",
+    "desc_col": "Asistencia técnica que requiere / Seguimiento y Evaluación de la Gestión Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_05",
+    "desc_col": "Asistencia técnica que requiere / Elaboración de Instrumentos de Gestión (MOF, ROF, CAP y otros)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_06",
+    "desc_col": "Asistencia técnica que requiere / Gobierno Electrónico Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_07",
+    "desc_col": "Asistencia técnica que requiere / Gestión de Recursos Humanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_08",
+    "desc_col": "Asistencia técnica que requiere / Catastro Urbano y Rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_09",
+    "desc_col": "Asistencia técnica que requiere / Planificación del Desarrollo Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_10",
+    "desc_col": "Asistencia técnica que requiere / Contabilidad Financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_11",
+    "desc_col": "Asistencia técnica que requiere / Formulación y Ejecución de Proyectos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_12",
+    "desc_col": "Asistencia técnica que requiere / Seguridad y Salud en la Actividad de Construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_13",
+    "desc_col": "Asistencia técnica que requiere / Desarrollo Local y Descentralizado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_14",
+    "desc_col": "Asistencia técnica que requiere / Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_15",
+    "desc_col": "Asistencia técnica que requiere / Gestión Ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_16",
+    "desc_col": "Asistencia técnica que requiere / Gestión de Riesgos de Desastres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_17",
+    "desc_col": "Asistencia técnica que requiere / Zonificación Ecológica Económica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_18",
+    "desc_col": "Asistencia técnica que requiere / Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_19",
+    "desc_col": "Asistencia técnica que requiere / Estadística",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_20",
+    "desc_col": "Asistencia técnica que requiere / Informática",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_21",
+    "desc_col": "Asistencia técnica que requiere / Turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_22",
+    "desc_col": "Asistencia técnica que requiere / Gestión Externa del Estado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_23",
+    "desc_col": "Asistencia técnica que requiere / Biblioteca",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_24",
+    "desc_col": "Asistencia técnica que requiere / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "15",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2014",
+    "col": "P15_O",
+    "desc_col": "Asistencia técnica que requiere / Otros / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

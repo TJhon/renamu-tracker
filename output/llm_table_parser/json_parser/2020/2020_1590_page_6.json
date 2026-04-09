@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_1_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_2_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_2_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_2_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_3_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_3_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_3_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_4_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_4_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_4_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local /Representantes de la Sociedad Civil / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "P25_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "P25_1_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo / Número de sesiones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "P25_2",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en la elaboración del Plan de Desarrollo Municipal Concertado",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "P25_3",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Participó en el Presupuesto Participativo",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "P25_4",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "P25_4_O",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2019",
+    "col": "P25_5",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / No ejecutó actividades",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "26A y 26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2020",
+    "col": "VFI_P26",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "26A y 26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2020",
+    "col": "P26",
+    "desc_col": "¿La municipalidad tiene Texto Único de Procedimientos Administrativos (TUPA) según Metodología de Determinación de Costos?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "26A y 26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2020",
+    "col": "P26_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Fecha de última actualización (dd/mm/aaaa)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "26A y 26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2020",
+    "col": "P26A_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos Administrativos que contiene el TUPA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "26A y 26B",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según Metodología de Determinación de Costos, 2020",
+    "col": "P26A_2",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos a los que se les aplica el Silencio Administrativo Positivo",
+    "values": null,
+    "value_pos": null
+  }
+]

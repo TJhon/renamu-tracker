@@ -1,0 +1,347 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V83",
+    "desc_col": "Monto pagado a contratados permanentes (Nuevos Soles) / Pensionistas / D.L. 19990",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V84",
+    "desc_col": "Monto pagado por servicios no personales (Nuevos Soles) / Pensionistas / D.L. 19990",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V91",
+    "desc_col": "Número de personas / Pensionistas / D.L. 20530",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V92",
+    "desc_col": "Monto pagado a nombrados (Nuevo Soles) / Pensionistas / D.L. 20530",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V93",
+    "desc_col": "Monto pagado a contratados permanentes (Nuevos Soles) / Pensionistas / D.L. 20530",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V94",
+    "desc_col": "Monto pagado por servicios no personales (Nuevos Soles) / Pensionistas / D.L. 20530",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "Ingresos de la Municipalidad en el 2003"
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V101",
+    "desc_col": "2003 (Nuevos Soles) / PIA / INGRESO TOTAL (I+II+III+IV)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V102",
+    "desc_col": "2003 (Nuevos Soles) / PIA / I. INGRESOS CORRIENTES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V103",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V104",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ Predial",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V105",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ De alcabala",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V106",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ Al patrimonio vehicular",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V107",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ Casino de juego",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V108",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ A las apuestas y a los juegos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V109",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ A los espectáculos públicos no deportivos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V110",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ A los juegos de máquinas tragamonedas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V111",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Impuestos/ Otros impuestos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V112",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V113",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /De administración general",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V114",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /De educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V115",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /De salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V116",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /De vivienda y construcción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V117",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /De agropecuarios y de recursos no minerales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V118",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /De industria, minería y comercio",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V119",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /De transportes y comunicaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V120",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Tasas /Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V121",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Contribuciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V122",
+    "desc_col": "2003 (Nuevos Soles) / PIA /Contribuciones/ Para pensiones y obras públicas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V123",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Ventas de bienes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V124",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Ventas de bienes /Agropecuarios y minerales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V125",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Ventas de bienes/De educación, recreación y cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V126",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Ventas de bienes /De salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V127",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Prestación de servicios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V128",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Prestación de servicios /De transportes, comunicaciones y almacenaje",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V129",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Prestación de servicios /De educación, recreación y cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V130",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Prestación de servicios /De salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V131",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Prestación de servicios /Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": "22",
+    "desc_q": "Ingresos de la Municipalidad en el 2003",
+    "col": "V132",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Renta de la propiedad",
+    "values": null,
+    "value_pos": null
+  }
+]

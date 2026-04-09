@@ -1,0 +1,197 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "originan la contaminación ambiental en el distrito",
+    "col": "problemas_de_contaminacion",
+    "desc_col": "problemas de contaminación",
+    "values": "0: No tienen",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V2",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Emanación de gases y partículas de fábricas o refinerías",
+    "col": "V2",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Emanación de gases y partículas de fábricas o refinerías",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V3",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Gases de vehículos motorizados",
+    "col": "V3",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Gases de vehículos motorizados",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V4",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Relaves mineros",
+    "col": "V4",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Relaves mineros",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V5",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Ruidos",
+    "col": "V5",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Ruidos",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V6",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Aguas servidas",
+    "col": "V6",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Aguas servidas",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V7",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Acumulación de basura",
+    "col": "V7",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Acumulación de basura",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V8",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Avería de Bosques",
+    "col": "V8",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Avería de Bosques",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "V9",
+    "desc_q": "Tipo de fuentes que originan la contaminación ambiental/ Otro",
+    "col": "V9",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental/ Otro",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "Total_Otro",
+    "desc_q": "N° de Tipo de fuentes que originan la contaminación ambiental/ Otro",
+    "col": "Total_Otro",
+    "desc_col": "N° de Tipo de fuentes que originan la contaminación ambiental/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "91 CUADRO_C0088"
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V1",
+    "desc_q": "Municipalidades que informaron sobre la existencia de participación de la población",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron sobre la existencia de participación de la población",
+    "values": "1: Existe 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V2",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ Concertación de los planes de desarrollo municipal",
+    "col": "V2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ Concertación de los planes de desarrollo municipal",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V3",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ Concertación del presupuesto municipal",
+    "col": "V3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ Concertación del presupuesto municipal",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V4",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ Formulación y control de planes económicos locales",
+    "col": "V4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ Formulación y control de planes económicos locales",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V5",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ En cabildo abierto",
+    "col": "V5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ En cabildo abierto",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V6",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ En acciones de seguridad en el distrito",
+    "col": "V6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ En acciones de seguridad en el distrito",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V7",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ Comité de gestión alimentaria",
+    "col": "V7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ Comité de gestión alimentaria",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V8",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ En juntas vecinales, comités de vecinos",
+    "col": "V8",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ En juntas vecinales, comités de vecinos",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "V9",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa/ Otro",
+    "col": "V9",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa/ Otro",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "92 CUADRO_C0089"
+  },
+  {
+    "cuadro": "CUADRO_C0089",
+    "n_q": "V1",
+    "desc_q": "Municipalidades que han constituido junta de delegados vecinales/ Constituido",
+    "col": "V1",
+    "desc_col": "Municipalidades que han constituido junta de delegados vecinales/ Constituido",
+    "values": "1: Sí 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0089",
+    "n_q": "V2",
+    "desc_q": "Municipalidades que han constituido junta de delegados vecinales/ Numero de miembros",
+    "col": "V2",
+    "desc_col": "Municipalidades que han constituido junta de delegados vecinales/ Numero de miembros",
+    "values": "",
+    "value_pos": null
+  }
+]

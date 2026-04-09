@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_18",
+    "desc_col": "Número de licencias de apertura de establecimientos / Agropecuario / Empresas proveedoras de insumos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_19",
+    "desc_col": "Número de licencias de apertura de establecimientos/ Agropecuario / Plantas agroindustriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_20",
+    "desc_col": "Número de licencias de apertura de establecimientos / Agropecuario / Curtiembres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_21",
+    "desc_col": "Número de licencias de apertura de establecimientos / Agropecuario / Granjas avícolas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_22",
+    "desc_col": "Número de licencias de apertura de establecimientos / Agropecuario / Establos lecheros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_23",
+    "desc_col": "Número de licencias de apertura de establecimientos / Agropecuario / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_24",
+    "desc_col": "Número de licencias de apertura de establecimientos/ Actividades Profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_25",
+    "desc_col": "Número de licencias de apertura de establecimientos / Otros / Transporte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_26",
+    "desc_col": "Número de licencias de apertura de establecimientos/ Otros / Cabinas públicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_27",
+    "desc_col": "Número de licencias de apertura de establecimientos / Otros / Colegios profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_28",
+    "desc_col": "Número de licencias de apertura de establecimientos / Otros / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "CUADRO_CO24"
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "VFI_C6",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6",
+    "desc_col": "La municipalidad otorgó licencias para la construcción",
+    "values": "1: Otorgó; 0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_01",
+    "desc_col": "Número de licencias para la construcción / Terminal para transporte terrestre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_02",
+    "desc_col": "Número de licencias para la construcción / Viviendas unifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_03",
+    "desc_col": "Número de licencias para la construcción / Viviendas multifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_04",
+    "desc_col": "Número de licencias para la construcción / Establecimientos de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_05",
+    "desc_col": "Número de licencias para la construcción / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "C6",
+    "desc_q": "Licencias para la construcción, 2013",
+    "col": "C6_06",
+    "desc_col": "Número de licencias para la construcción / Centros comerciales, galerías comerciales y galerías feriales",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P40_5_O",
+    "desc_col": "Número de licencias de habilitación urbana / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_1",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas unifamiliares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_1",
+    "desc_col": "Número de licencias de edificación / Viviendas unifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_2",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para Viviendas multifamiliares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_2",
+    "desc_col": "Número de licencias de edificación / Viviendas multifamiliares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_3",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para edificaciones de uso mixto con vivienda?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_3",
+    "desc_col": "Número de licencias de edificación / Edificaciones de uso mixto con vivienda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_4",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para restaurantes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_4",
+    "desc_col": "Número de licencias de edificación / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_5",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para centros comerciales o galerías comerciales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_5",
+    "desc_col": "Número de licencias de edificación / Centros comerciales o galerías comerciales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_6",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para campos feriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_6",
+    "desc_col": "Número de licencias de edificación / Campos feriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_7",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_7",
+    "desc_col": "Número de licencias de edificación / Hoteles, hostales y otros establecimientos de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_8",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para fábricas industriales",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_8",
+    "desc_col": "Número de licencias de edificación / Fábricas industriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_9",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para locales de instituciones del Estado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_9",
+    "desc_col": "Número de licencias de edificación / Locales de instituciones del Estado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_10",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para terminales de transporte terrestre?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41A_10",
+    "desc_col": "Número de licencias de edificación / Terminales de transporte terrestre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2015",
+    "col": "P41_11",
+    "desc_col": "¿La municipalidad otorgó otras licencias de edificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

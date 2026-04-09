@@ -1,0 +1,254 @@
+[
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_3_2",
+    "desc_col": "Regalías / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_3_2_1",
+    "desc_col": "Regalías / Regalías FOCAM",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_3_2_2",
+    "desc_col": "Regalías / Regalías mineras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_3_3",
+    "desc_col": "Fondo de Compensación Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_3_4",
+    "desc_col": "Participación por programa de incentivos a la mejora de la gestión municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_3_5",
+    "desc_col": "Otros ingresos por transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_4",
+    "desc_col": "IV. Financiamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_4_1",
+    "desc_col": "Endeudamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2018",
+    "col": "C100_4_2",
+    "desc_col": "Saldos de balance",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "VFI_C101",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101",
+    "desc_col": "Total gastos (I + II + III)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_1",
+    "desc_col": "I. Gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_1_1",
+    "desc_col": "Personal y obligaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_1_2",
+    "desc_col": "Pensiones y otras prestaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_1_3",
+    "desc_col": "Bienes y servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_1_4",
+    "desc_col": "Donaciones y transferencias corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_1_5",
+    "desc_col": "Otros gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2",
+    "desc_col": "II. Gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1",
+    "desc_col": "Adquisición de activos no financieros / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_1",
+    "desc_col": "Adquisición de activos no financieros / Adquisición de edificios y estructuras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_2",
+    "desc_col": "Adquisición de activos no financieros / Adquisición de vehículos, maquinarias y otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_3",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_3_1",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_3_2",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones médicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_3_3",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones sociales y culturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_3_4",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Sistema de agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_3_5",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura agrícola",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": null,
+    "desc_q": "Gastos ejecutados por las municipalidades, 2018",
+    "col": "C101_2_1_3_6",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura eléctrica",
+    "values": "",
+    "value_pos": null
+  }
+]

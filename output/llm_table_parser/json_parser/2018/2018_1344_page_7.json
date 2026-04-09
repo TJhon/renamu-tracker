@@ -1,0 +1,128 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_10",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los informes financieros presupuestales incluyan información completa sobre ingresos y gastos de proyectos financiados por donantes,",
+    "values": "10: Sí; 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_11",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que los sistemas de remuneración y de evaluación del personal incentiven la obtención de resultados organizacionales",
+    "values": "11: Sí; 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_12",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Que las estrategias permitan mejorar la calidad de los servicios públicos que brinda a la ciudadanía",
+    "values": "12: Sí; 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_13",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Utiliza mecanismos de consulta periódica a la ciudadanía para introducir mejoras en los servicios públicos",
+    "values": "13: Sí; 0: No",
+    "value_pos": 13
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_14",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / Tiene indicadores de eficiencia y eficacia sobre la cobertura de los servicios públicos",
+    "values": "14: Sí; 0: No",
+    "value_pos": 14
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "26",
+    "desc_q": "Acciones que implementa la municipalidad en la Gestión del presupuesto por resultados, 2018",
+    "col": "P26_15",
+    "desc_col": "Acciones que se implementan en la gestión del presupuesto por resultados / No implementa acciones",
+    "values": "15: Sí; 0: No",
+    "value_pos": 15
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "27 y 27A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2018",
+    "col": "VFI_P27",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "27 y 27A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2018",
+    "col": "P27",
+    "desc_col": "¿La municipalidad tiene Texto Único de Procedimientos Administrativos (TUPA) según metodología de determinación de costos?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "27 y 27A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2018",
+    "col": "P27_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Fecha de última actualización (dd/mm/aaaa)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "27 y 27A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2018",
+    "col": "P27A_1",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos Administrativos que contiene el TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "27 y 27A",
+    "desc_q": "Municipalidad que tiene Texto Único de Procedimientos Administrativos según metodología de determinación de costos, 2018",
+    "col": "P27A_2",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos / Número de Procedimientos a los que se les aplica el Silencio Administrativo Positivo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "28",
+    "desc_q": "Texto Único de Procedimientos Administrativos según metodología de determinación de costos que ha sido ratificado por la municipalidad provincial, 2018",
+    "col": "P28",
+    "desc_col": "¿Ha sido ratificado el Texto Único de Procedimientos Administrativos (TUPA) por la Municipalidad provincial?",
+    "values": "1: Sí; 2: No ha sido ratificado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "28",
+    "desc_q": "Texto Único de Procedimientos Administrativos según metodología de determinación de costos que ha sido ratificado por la municipalidad provincial, 2018",
+    "col": "P28_1",
+    "desc_col": "TUPA / Fecha de ratificación del TUPA (dd/mm/aa)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "29",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2018",
+    "col": "VFI_P29",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  }
+]

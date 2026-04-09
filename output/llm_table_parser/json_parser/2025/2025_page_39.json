@@ -1,0 +1,234 @@
+[
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_6_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Radio comunicador / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_7",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Cámara de videovigilancia para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_7_1",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_7_2",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_7_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_7_4",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Cámara de videovigilancia / N° de cámara de videovigilancia operativa integrada a la PNP",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_8",
+    "desc_col": "¿La municipalidad dispone de equipos de comunicación y videovigilancia como Otro para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_8_1",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_8_2",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_8_3",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_8_O",
+    "desc_col": "Equipo de comunicación y videovigilancia que dispone el serenazgo / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_9",
+    "desc_col": "¿El serenazgo dispone de infraestructura como Caseta, módulo y/o puesto de vigilancia para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_9_1",
+    "desc_col": "Infraestructura que dispone el serenazgo / Caseta, módulo y/o puesto de vigilancia / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_9_2",
+    "desc_col": "Infraestructura que dispone el serenazgo / Caseta, módulo y/o puesto de vigilancia / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_9_3",
+    "desc_col": "Infraestructura que dispone el serenazgo / Caseta, módulo y/o puesto de vigilancia / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_10",
+    "desc_col": "¿El serenazgo dispone de infraestructura como Central de control de videovigilancia para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_10_1",
+    "desc_col": "Infraestructura que dispone el serenazgo / Central de control de videovigilancia / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_10_2",
+    "desc_col": "Infraestructura que dispone el serenazgo / Central de control de videovigilancia / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_10_3",
+    "desc_col": "Infraestructura que dispone el serenazgo / Central de control de videovigilancia / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_11",
+    "desc_col": "¿El serenazgo dispone de infraestructura como Otro para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_11_1",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_11_2",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_11_3",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_11_O",
+    "desc_col": "Infraestructura que dispone el serenazgo / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_12",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Vara de ley (vara de goma) para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_12_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Vara de ley (vara de goma) / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_13",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Chaleco antibalas para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70A_13_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Chaleco antibalas / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "69",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2025",
+    "col": "P70_14",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Uniforme completo (comprende camisa o polo, pantalón y zapatos o botas) para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

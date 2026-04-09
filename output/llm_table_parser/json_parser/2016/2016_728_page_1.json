@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad por condición de tenencia, 2016",
+    "col": "VFI_P11",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad por condición de tenencia, 2016",
+    "col": "P11_1",
+    "desc_col": "¿La municipalidad cuenta con Locales propios?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad por condición de tenencia, 2016",
+    "col": "P11A_1",
+    "desc_col": "Número de locales / Propios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad por condición de tenencia, 2016",
+    "col": "P11_2",
+    "desc_col": "¿La municipalidad cuenta con Locales alquilados?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad por condición de tenencia, 2016",
+    "col": "P11A_2",
+    "desc_col": "Número de locales / Alquilados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad por condición de tenencia, 2016",
+    "col": "P11_3",
+    "desc_col": "¿La municipalidad cuenta con Locales Cedidos?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Locales de la municipalidad por condición de tenencia, 2016",
+    "col": "P11A_3",
+    "desc_col": "Número de locales / Cedidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "MÓDULO II: EQUIPAMIENTO Y TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES"
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "VFI_P12",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12_9",
+    "desc_col": "¿La municipalidad cuenta con excavadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_9_1",
+    "desc_col": "Número de bienes / Excavadoras / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_9_2",
+    "desc_col": "Número de bienes / Excavadoras / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12_10",
+    "desc_col": "¿La municipalidad cuenta con Retroexcavadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_10_1",
+    "desc_col": "Número de bienes / Retroexcavadora / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_10_2",
+    "desc_col": "Número de bienes / Retroexcavadora / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12_12",
+    "desc_col": "¿La municipalidad cuenta con motoniveladora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_12_1",
+    "desc_col": "Número de bienes / Motoniveladora / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_12_2",
+    "desc_col": "Número de bienes / Motoniveladora / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12_13",
+    "desc_col": "¿La municipalidad cuenta con cargador frontal?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_13_1",
+    "desc_col": "Número de bienes / Cargador frontal / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_13_2",
+    "desc_col": "Número de bienes / Cargador frontal / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12_14",
+    "desc_col": "¿La municipalidad cuenta con tractor oruga?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_14_1",
+    "desc_col": "Número de bienes / Tractor oruga / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes propios, 2016 (maquinaria pesada)",
+    "col": "P12A_14_2",
+    "desc_col": "Número de bienes / Tractor oruga / No operativos",
+    "values": "",
+    "value_pos": null
+  }
+]

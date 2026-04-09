@@ -1,0 +1,404 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Fábricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V12",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Bodegas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V13",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Farmacias y boticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V14",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Panaderías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V15",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Ferreterías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V16",
+    "desc_col": "Número de licencias de apertura de establecimientos / COMERCIO / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V17",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Empresas proveedoras de insumos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V18",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Plantas agroindustriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V19",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Curtiembres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V20",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Granjas avícolas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V21",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Establos lecheros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V22",
+    "desc_col": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V23",
+    "desc_col": "Número de licencias de apertura de establecimientos / ACTIVIDADES PROFESIONALES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V24",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Transporte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V25",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Cabinas públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V26",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Colegios profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V27",
+    "desc_col": "Número de licencias de apertura de establecimientos / OTROS / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "24"
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "24",
+    "desc_q": "Licencias para la construcción otorgadas por la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad otorgó licencias para la construcción",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "24",
+    "desc_q": "Licencias para la construcción otorgadas por la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de licencias para la construcción / Terminal terrestre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "24",
+    "desc_q": "Licencias para la construcción otorgadas por la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Número de licencias para la construcción / Construcción de viviendas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "24",
+    "desc_q": "Licencias para la construcción otorgadas por la municipalidad, en el 2005",
+    "col": "V4",
+    "desc_col": "Número de licencias para la construcción / Hoteles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "24",
+    "desc_q": "Licencias para la construcción otorgadas por la municipalidad, en el 2005",
+    "col": "V5",
+    "desc_col": "Número de licencias para la construcción / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "24",
+    "desc_q": "Licencias para la construcción otorgadas por la municipalidad, en el 2005",
+    "col": "V6",
+    "desc_col": "Número de licencias para la construcción / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "25"
+  },
+  {
+    "cuadro": "CUADRO_C0018",
+    "n_q": "25",
+    "desc_q": "Municipalidades de Centro Poblado creadas en el distrito, en el 2005",
+    "col": "V1",
+    "desc_col": "En el distrito se crearon municipalidades de centro poblado",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0018",
+    "n_q": "25",
+    "desc_q": "Municipalidades de Centro Poblado creadas en el distrito, en el 2005",
+    "col": "V2",
+    "desc_col": "Nombre de la Municipalidad de Centro Poblado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0018",
+    "n_q": "25",
+    "desc_q": "Municipalidades de Centro Poblado creadas en el distrito, en el 2005",
+    "col": "V3",
+    "desc_col": "Nombre y Apellidos del Alcalde de la Municipalidad de Centro Poblado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "26"
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad realizó reparación y construcción de pistas y veredas",
+    "values": "1: Sí realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Pistas reparadas / m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Pistas reparadas / Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V4",
+    "desc_col": "Pistas construidas / m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V5",
+    "desc_col": "Pistas construidas / Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V6",
+    "desc_col": "Veredas reparadas / m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V7",
+    "desc_col": "Veredas reparadas / Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V8",
+    "desc_col": "Veredas construidas / m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0019",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de pistas y veredas ejecutados por la municipalidad, en el 2005",
+    "col": "V9",
+    "desc_col": "Veredas construidas / Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "26"
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de caminos rurales ejecutados por la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad realizó reparación y construcción de caminos rurales",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de caminos rurales ejecutados por la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Caminos rurales reparados / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de caminos rurales ejecutados por la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Caminos rurales reparados / Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de caminos rurales ejecutados por la municipalidad, en el 2005",
+    "col": "V4",
+    "desc_col": "Caminos rurales construidos / Km",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0020",
+    "n_q": "26",
+    "desc_q": "Reparación y construcción de caminos rurales ejecutados por la municipalidad, en el 2005",
+    "col": "V5",
+    "desc_col": "Caminos rurales construidos / Costo (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "27"
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "27",
+    "desc_q": "Principales obras de construcción que ejecutó la municipalidad en el 2005",
+    "col": "Cod_Obra",
+    "desc_col": "Tipo de obra",
+    "values": "1: Educación; 2: Salud; 3: Trasporte y comunicaciones; 4: Electricidad, agua y alcantarillado; 5: Turismo; 6: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0021",
+    "n_q": "27",
+    "desc_q": "Principales obras de construcción que ejecutó la municipalidad en el 2005",
+    "col": "V1",
+    "desc_col": "Nombre de la Obra",
+    "values": "",
+    "value_pos": null
+  }
+]

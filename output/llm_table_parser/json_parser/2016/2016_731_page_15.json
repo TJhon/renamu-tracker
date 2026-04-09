@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_4_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Madres en periodo de lactancia / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_5",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Personas afectadas con tuberculosis?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_5_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas afectadas con tuberculosis / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_5_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas afectadas con tuberculosis / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_6",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Adulto Mayor?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_6_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Adulto Mayor / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_6_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Adulto Mayor / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_7",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Personas con alguna discapacidad?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_7_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas con alguna discapacidad / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_7_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas con alguna discapacidad / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_8",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / ¿Otros casos sociales?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_8_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Otros casos sociales / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_8_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Otros casos sociales / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_T_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Total de beneficiarios / Número de beneficiarios al 31 de diciembre 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "67",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2015 y 30 de Junio 2016",
+    "col": "P67_T_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Total de beneficiarios / Número de beneficiarios al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P68"
+  },
+  {
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 2: No informó",
+    "value_pos": 1
+  }
+]

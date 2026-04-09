@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_14_2",
+    "desc_col": "Número de bienes / Cargador frontal / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12_15",
+    "desc_col": "¿La municipalidad cuenta con tractor oruga?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_15_1",
+    "desc_col": "Número de bienes / Tractor oruga / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_15_2",
+    "desc_col": "Número de bienes / Tractor oruga / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12_16",
+    "desc_col": "¿La municipalidad cuenta con tractor agrícola?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_16_1",
+    "desc_col": "Número de bienes / Tractor agricola / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_16_2",
+    "desc_col": "Número de bienes / Tractor agrícola / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12_17",
+    "desc_col": "¿La municipalidad cuenta con rodillo liso vibratorio y/o neumático?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_17_1",
+    "desc_col": "Número de bienes / Rodillo liso vibratorio y/o neumático / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_17_2",
+    "desc_col": "Número de bienes / Rodillo liso vibratorio y/o neumático / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12_18",
+    "desc_col": "¿La municipalidad cuenta con compactadora de suelo?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_18_1",
+    "desc_col": "Número de bienes / Compactadora de suelo / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_18_2",
+    "desc_col": "Número de bienes / Compactadora de suelo / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12_21",
+    "desc_col": "¿La municipalidad cuenta con otra maquinaria pesada?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_21_1",
+    "desc_col": "Número de bienes / Otra maquinaria pesada / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_21_2",
+    "desc_col": "Número de bienes / Otra maquinaria pesada / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2017",
+    "col": "P12B_21_O",
+    "desc_col": "¿La municipalidad cuenta con otra maquinaria pesada? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P13"
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": "13",
+    "desc_q": "Municipalidad cuenta con servicio telefónico, 2017",
+    "col": "VFI_P13",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": "13",
+    "desc_q": "Municipalidad cuenta con servicio telefónico, 2017",
+    "col": "P13_1",
+    "desc_col": "¿La municipalidad cuenta con línea de telefonía fija (no incluye anexos) ?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": "13",
+    "desc_q": "Municipalidad cuenta con servicio telefónico, 2017",
+    "col": "P13A_1",
+    "desc_col": "Número de líneas de telefonía fija",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": "13",
+    "desc_q": "Municipalidad cuenta con servicio telefónico, 2017",
+    "col": "P13_2",
+    "desc_col": "¿La municipalidad cuenta con línea de telefonía móvil (RPC, RPM y otros) ?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

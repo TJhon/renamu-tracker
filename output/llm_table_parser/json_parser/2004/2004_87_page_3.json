@@ -1,0 +1,344 @@
+[
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V11",
+    "desc_col": "Nombre del presidente Coordinador",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V1",
+    "desc_col": "Total Núcleos Urbanos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V2",
+    "desc_col": "Nombre del núcleo urbano",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V3",
+    "desc_col": "Categoría de núcleo urbano",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V4",
+    "desc_col": "Número estimado de manzanas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V5",
+    "desc_col": "Numero estimado de viviendas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V6",
+    "desc_col": "Cuenta con servicios básicos/ Agua/ Si",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V7",
+    "desc_col": "Cuenta con servicios básicos/ Agua/ No",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V8",
+    "desc_col": "Cuenta con servicios básicos/ Alcantarillado/ Si",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V9",
+    "desc_col": "Cuenta con servicios básicos/ Alcantarillado/ No",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V10",
+    "desc_col": "Cuenta con servicios básicos/ Alumbrado publico/ Si",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V11",
+    "desc_col": "Cuenta con servicios básicos/ Alumbrado publico/ No",
+    "values": "1: Afirma 0: No afirma",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "32",
+    "desc_q": "Núcleos urbanos creados en el distrito, en el 2003",
+    "col": "V12",
+    "desc_col": "Nombre del distrito de procedencia de población del núcleo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "33",
+    "desc_q": "Municipalidades d centro poblado creadas en el distrito, al 2003",
+    "col": "V1",
+    "desc_col": "Total de Municipalidades de Centro Poblado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "33",
+    "desc_q": "Municipalidades d centro poblado creadas en el distrito, al 2003",
+    "col": "V2",
+    "desc_col": "Nombre de la Municipalidad de Centro Poblado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "33",
+    "desc_q": "Municipalidades d centro poblado creadas en el distrito, al 2003",
+    "col": "V3",
+    "desc_col": "Año de creación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V1",
+    "desc_col": "2002/ Nº de licencias según monto de obra/ Hasta S/ 28000",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V2",
+    "desc_col": "2002/ Nº de licencias según monto de obra/ De S/ 29000 a S/ 40000",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V3",
+    "desc_col": "2002/ Nº de licencias según monto de obra/ De S/ 41000 a más",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V4",
+    "desc_col": "2002/ Nº de licencias según monto de obra/ Área construida (m2)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V5",
+    "desc_col": "2003/ Nº de licencias según monto de obra/ Hasta S/ 28000",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V6",
+    "desc_col": "2003/ Nº de licencias según monto de obra/ De S/ 29000 a S/ 40000",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V7",
+    "desc_col": "2003/ Nº de licencias según monto de obra/ De S/ 41000 a más",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "V8",
+    "desc_col": "2003/ Nº de licencias según monto de obra/ Área construida (m2)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "34",
+    "desc_q": "Licencias de obras de construcción otorgadas por la municipalidad, en el 2002 y 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Obra",
+    "values": "1 al 10 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "35",
+    "desc_q": "Licencias comerciales, industriales y de actividades profesionales otorgadas por la Municipalidad, en el 2002 y 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que otorgaron licencias",
+    "values": "1: Si otorgaron 0: No otorgaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "35",
+    "desc_q": "Licencias comerciales, industriales y de actividades profesionales otorgadas por la Municipalidad, en el 2002 y 2003",
+    "col": "V2",
+    "desc_col": "Licencias/ 2002",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "35",
+    "desc_q": "Licencias comerciales, industriales y de actividades profesionales otorgadas por la Municipalidad, en el 2002 y 2003",
+    "col": "V3",
+    "desc_col": "Licencias/ 2003",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "35",
+    "desc_q": "Licencias comerciales, industriales y de actividades profesionales otorgadas por la Municipalidad, en el 2002 y 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de establecimiento",
+    "values": "1 al 25 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V1",
+    "desc_col": "2002/ Municipalidad/ m2",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V2",
+    "desc_col": "2002/ Municipalidad/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V3",
+    "desc_col": "2002/ Otras instituciones/ m2",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V4",
+    "desc_col": "2002/ Otras instituciones/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V5",
+    "desc_col": "2003/ Municipalidad/ m2",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V6",
+    "desc_col": "2003/ Municipalidad/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V7",
+    "desc_col": "2003/ Otras instituciones/ m2",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V8",
+    "desc_col": "2003/ Otras instituciones/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Obra",
+    "values": "1 al 4 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  }
+]

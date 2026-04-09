@@ -1,0 +1,158 @@
+[
+  {
+    "h2": "Pregunta N° 21"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_5_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / De limpieza / Hombre",
+    "values": "Obreros;De limpieza;Hombre",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_5_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Obreros / De limpieza / Mujer",
+    "values": "Obreros;De limpieza;Mujer",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_5_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Obreros / De limpieza / Hombre",
+    "values": "Obreros;De limpieza;Hombre",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_5_SM",
+    "desc_col": "Locación de Servicios / Obreros / De limpieza / Mujer",
+    "values": "Obreros;De limpieza;Mujer",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_5_SH",
+    "desc_col": "Locación de Servicios / Obreros / De limpieza / Hombre",
+    "values": "Obreros;De limpieza;Hombre",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_T",
+    "desc_col": "Total personal / Obreros / Otros",
+    "values": "Obreros;Otros",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Obreros / Otros / Mujer",
+    "values": "Nombrado;Obreros;Otros;Mujer",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Obreros / Otros / Hombre",
+    "values": "Nombrado;Obreros;Otros;Hombre",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Obreros / Otros / Mujer",
+    "values": "Contratado;Obreros;Otros;Mujer",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Obreros / Otros / Hombre",
+    "values": "Contratado;Obreros;Otros;Hombre",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / Otros / Mujer",
+    "values": "Obreros;Otros;Mujer",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Obreros / Otros / Hombre",
+    "values": "Obreros;Otros;Hombre",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Obreros / Otros / Mujer",
+    "values": "Obreros;Otros;Mujer",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Obreros / Otros / Hombre",
+    "values": "Obreros;Otros;Hombre",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_SM",
+    "desc_col": "Locación de Servicios / Obreros / Otros / Mujer",
+    "values": "Obreros;Otros;Mujer",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_6_SH",
+    "desc_col": "Locación de Servicios / Obreros / Otros / Hombre",
+    "values": "Obreros;Otros;Hombre",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_7_T",
+    "desc_col": "Total personal / Personal de Vigilancia",
+    "values": "Personal de Vigilancia",
+    "value_pos": 1
+  }
+]

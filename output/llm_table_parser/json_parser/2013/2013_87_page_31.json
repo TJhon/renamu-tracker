@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P66_S_05",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Transportes y Comunicaciones (Provías Nacional)",
+    "col": "P66_S_05",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Transportes y Comunicaciones (Provías Nacional)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_06",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Público / Gobierno Regional",
+    "col": "P66_S_06",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Gobierno Regional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_07",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Público / Municipio / Gobierno Local",
+    "col": "P66_S_07",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Municipio / Gobierno Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_08",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Público / Otro Público",
+    "col": "P66_S_08",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_9",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / ONG",
+    "col": "P66_S_9",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / ONG",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_10",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / Empresa privada",
+    "col": "P66_S_10",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Empresa privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_11",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / La comunidad",
+    "col": "P66_S_11",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La comunidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_12",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / La iglesia",
+    "col": "P66_S_12",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La iglesia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_13",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "col": "P66_S_13",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_S_14",
+    "desc_q": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado",
+    "col": "P66_S_14",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_I",
+    "desc_q": "La municipalidad tiene apoyo en obras de infraestructura",
+    "col": "P66_I",
+    "desc_col": "La municipalidad tiene apoyo en obras de infraestructura",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_I_01",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / FONCODES",
+    "col": "P66_I_01",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / FONCODES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_I_02",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "col": "P66_I_02",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_I_03",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "col": "P66_I_03",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_I_04",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Vivienda (Agua para todos)",
+    "col": "P66_I_04",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Vivienda (Agua para todos)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_I_05",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Transportes y Comunicaciones (Provías Nacional)",
+    "col": "P66_I_05",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Transportes y Comunicaciones (Provías Nacional)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P66_I_06",
+    "desc_q": "Organismos o instituciones / Obras de infraestructura / Público / Gobierno Regional",
+    "col": "P66_I_06",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Gobierno Regional",
+    "values": "",
+    "value_pos": null
+  }
+]

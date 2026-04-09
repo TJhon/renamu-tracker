@@ -1,0 +1,50 @@
+[
+  {
+    "h2": "PARTICIPACIÓN VECINAL"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P110",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110",
+    "desc_q": "¿La poblacion participa en la gestión administrativa de la municipalidad?",
+    "col": "P110",
+    "desc_col": "¿La poblacion participa en la gestión administrativa de la municipalidad?",
+    "values": "1: Participa; 0: No participa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110_1",
+    "desc_q": "",
+    "col": "P110_1",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110_2",
+    "desc_q": "",
+    "col": "P110_2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertando el presupuesto municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P110_3",
+    "desc_q": "",
+    "col": "P110_3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando y controlando los planes económicos locales",
+    "values": "",
+    "value_pos": null
+  }
+]

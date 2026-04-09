@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_12",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_12_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_12_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_12_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_12_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Manual de Procedimientos / ¿Por qué no tiene? / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_13",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_13_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_13_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_13_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_13_4_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / ¿Por qué no tiene? / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_14",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_14_1_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Especifique (Nombre del instrumento)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_14_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_14_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / N° Resolución de Alcaldía u otra norma que aprueba el instrumento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2020",
+    "col": "P23_14_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24",
+    "desc_col": "¿La municipalidad tiene conformado el Consejo de Coordinación Local (CCL)?",
+    "values": "1: Sí; 2: No tiene conformado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_1_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, al 31 de diciembre 2019",
+    "col": "P24_1_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital / Mujer",
+    "values": null,
+    "value_pos": null
+  }
+]

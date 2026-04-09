@@ -1,0 +1,231 @@
+[
+  {
+    "n_q": "56",
+    "desc_q": "Biblioteca Municipal contó con computadoras operativas, 2021",
+    "col": "VFI_P56",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó"
+  },
+  {
+    "n_q": "56",
+    "desc_q": "Biblioteca Municipal contó con computadoras operativas, 2021",
+    "col": "P56",
+    "desc_col": "¿La Biblioteca Municipal contó con computadoras operativas?",
+    "values": "1: Sí; 2: No contó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "56",
+    "desc_q": "Biblioteca Municipal contó con computadoras operativas, 2021",
+    "col": "P56_T",
+    "desc_col": "Total de computadoras operativas",
+    "values": ""
+  },
+  {
+    "n_q": "56",
+    "desc_q": "Biblioteca Municipal contó con computadoras operativas, 2021",
+    "col": "P56_A",
+    "desc_col": "Número de computadoras operativas con acceso a Internet",
+    "values": ""
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "VFI_P57",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó"
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_1",
+    "desc_col": "¿La Biblioteca Municipal contó con equipos operativos / Fotocopiadora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_1_1",
+    "desc_col": "La Biblioteca Municipal contó con equipos operativos / Número de equipos operativos / Fotocopiadora",
+    "values": ""
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_2",
+    "desc_col": "¿La Biblioteca Municipal contó con equipos operativos / Impresora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_2_1",
+    "desc_col": "La Biblioteca Municipal contó con equipos operativos / Número de equipos operativos / Impresora",
+    "values": ""
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_3",
+    "desc_col": "¿La Biblioteca Municipal contó con equipos operativos / Proyector multimedia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_3_1",
+    "desc_col": "La Biblioteca Municipal contó con equipos operativos / Número de equipos operativos / Proyector multimedia",
+    "values": ""
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_4",
+    "desc_col": "¿La Biblioteca Municipal contó con equipos operativos / Televisor (TV)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_4_1",
+    "desc_col": "La Biblioteca Municipal contó con equipos operativos / Número de equipos operativos / Televisor (TV)",
+    "values": ""
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_5",
+    "desc_col": "¿La Biblioteca Municipal contó con equipos operativos / DVD y/o Blue-ray?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_5_1",
+    "desc_col": "La Biblioteca Municipal contó con equipos operativos / Número de equipos operativos / DVD y/o Blue-ray",
+    "values": ""
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_6",
+    "desc_col": "¿La Biblioteca Municipal contó con equipos operativos / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_6_1",
+    "desc_col": "La Biblioteca Municipal contó con equipos operativos / Número de equipos operativos / Otro",
+    "values": ""
+  },
+  {
+    "n_q": "57",
+    "desc_q": "Biblioteca Municipal contó con equipos operativos, 2021",
+    "col": "P57_6_O",
+    "desc_col": "La Biblioteca Municipal contó con equipos operativos / Otro / Especifique",
+    "values": ""
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "VFI_P58",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó"
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_1",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Casas de la Cultura?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_1_1",
+    "desc_col": "Número de locales / Casas de la Cultura",
+    "values": ""
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_2",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Teatros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_2_1",
+    "desc_col": "Número de locales / Teatros",
+    "values": ""
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_3",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Museos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_3_1",
+    "desc_col": "Número de locales / Museos",
+    "values": ""
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_4",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_4_1",
+    "desc_col": "Número de locales / Otro",
+    "values": ""
+  },
+  {
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2021",
+    "col": "P58_4_O",
+    "desc_col": "La municipalidad administró locales para uso recreacional y cultural / Otro / Especifique",
+    "values": ""
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2022",
+    "col": "VFI_P59",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó"
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2022",
+    "col": "P59_1",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Estadios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2022",
+    "col": "P59_1_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Estadios",
+    "values": ""
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "VFI_P30",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "P30_1",
+    "desc_col": "Canales de atención al ciudadano / Atención en ventanilla y/o mesa de partes",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "P30_2",
+    "desc_col": "Canales de atención al ciudadano / Línea de telefonía fija y/o móvil",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "P30_3",
+    "desc_col": "Canales de atención al ciudadano / Correo electrónico",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "P30_4",
+    "desc_col": "Canales de atención al ciudadano / Buzón de Sugerencias",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "P30_5",
+    "desc_col": "Canales de atención al ciudadano / Libro de Reclamaciones",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "P30_6",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "30",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2020",
+    "col": "P30_6_O",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2020",
+    "col": "VFI_P31",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2020",
+    "col": "P31_1",
+    "desc_col": "Modalidades de pago para el cobro de tributos y/o servicios / En ventanilla de la municipalidad con efectivo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2020",
+    "col": "P31_2",
+    "desc_col": "Modalidades de pago para el cobro de tributos y/o servicios / En ventanilla de la municipalidad con tarjeta de crédito o débito",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2020",
+    "col": "P31_3",
+    "desc_col": "Modalidades de pago para el cobro de tributos y/o servicios / Página Web de la municipalidad (Pago en línea)",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2020",
+    "col": "P31_4",
+    "desc_col": "Modalidades de pago para el cobro de tributos y/o servicios / Instituciones financieras (Bancos y agentes, cajas municipales, entre otros)",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2020",
+    "col": "P31_5",
+    "desc_col": "Modalidades de pago para el cobro de tributos y/o servicios / Otra modalidad de pago",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "31",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2020",
+    "col": "P31_5_O",
+    "desc_col": "Modalidades de pago para el cobro de tributos y/o servicios / Otra modalidad de pago / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DE ADMINISTRACIÓN TRIBUTARIA"
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "VFI_P32",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "P32",
+    "desc_col": "¿La Municipalidad tiene personal exclusivo del área de administracion tributaria?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "P32_1_T",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2019 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "P32_1_M",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2019 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "P32_1_H",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2019 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "P32_2_T",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2020 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "P32_2_M",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2020 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administración tributaria al 31 de diciembre 2019 y 31 de marzo 2020",
+    "col": "P32_2_H",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2020 / Hombre",
+    "values": "",
+    "value_pos": null
+  }
+]

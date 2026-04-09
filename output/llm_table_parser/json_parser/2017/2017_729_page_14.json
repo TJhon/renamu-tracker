@@ -1,0 +1,197 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3",
+    "desc_col": "III. Transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1",
+    "desc_col": "Canon y Sobrecanon /Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1_1",
+    "desc_col": "Canon y Sobrecanon / Canon Forestal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1_2",
+    "desc_col": "Canon y Sobrecanon / Canon Gasifero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1_3",
+    "desc_col": "Canon y Sobrecanon / Canon Hidroenergetico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1_4",
+    "desc_col": "Canon y Sobrecanon / Canon Minero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1_5",
+    "desc_col": "Canon y Sobrecanon / Canon Pesquero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1_6",
+    "desc_col": "Canon y Sobrecanon / Canon Petrolero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_1_7",
+    "desc_col": "Canon y Sobrecanon / Sobrecanon Petrolero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_2",
+    "desc_col": "Regalías / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_2_1",
+    "desc_col": "Regalías / Regalías FOCAM",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_2_2",
+    "desc_col": "Regalías / Regalías mineras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_3",
+    "desc_col": "Fondo de Compensación Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_3_4",
+    "desc_col": "Otros ingresos por transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "IV. Financiamiento"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_4",
+    "desc_col": "IV. Financiamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_4_1",
+    "desc_col": "Endeudamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C115_4_2",
+    "desc_col": "Saldos de balance",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_C116",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C116",
+    "desc_col": "Total gastos (I + II + III)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "I. Gastos corrientes"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C116_1",
+    "desc_col": "I. Gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "C116_1_1",
+    "desc_col": "Personal y obligaciones sociales",
+    "values": "",
+    "value_pos": null
+  }
+]

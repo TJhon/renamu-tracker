@@ -1,0 +1,137 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_5_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_5_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_5_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_6",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de nacimiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_6_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_6_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_6_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_6_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_6_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_6_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_7",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de defunción?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_7_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_7_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_7_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_7_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  }
+]

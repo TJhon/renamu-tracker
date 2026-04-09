@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V52",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Venta de activos/ Terrenos urbanos y rurales",
+    "col": "v52",
+    "desc_col": "Venta de activos/ Terrenos urbanos y rurales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V53",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Venta de activos / Vehículos, equipos y maquinarias (usados)",
+    "col": "v53",
+    "desc_col": "Venta de activos / Vehículos, equipos y maquinarias (usados)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V54",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Venta de activos / Otros",
+    "col": "v54",
+    "desc_col": "Venta de activos / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V55",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Amortización por préstamos concedidos (Reembolso)",
+    "col": "v55",
+    "desc_col": "Amortización por préstamos concedidos (Reembolso)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V56",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Otros ingresos de capital",
+    "col": "v56",
+    "desc_col": "Otros ingresos de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V57",
+    "desc_q": "2005 (Nuevos Soles) / PIA / III. TRANSFERENCIAS",
+    "col": "v57",
+    "desc_col": "III. TRANSFERENCIAS",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V58",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector No Público",
+    "col": "v58",
+    "desc_col": "Internas del Sector No Público",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V59",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público",
+    "col": "v59",
+    "desc_col": "Internas del Sector Público",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V60",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público / Programa del Vaso de Leche",
+    "col": "v60",
+    "desc_col": "Internas del Sector Público / Programa del Vaso de Leche",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V61",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público/ De instancias descentralizadas",
+    "col": "v61",
+    "desc_col": "Internas del Sector Público/ De instancias descentralizadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V62",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público / Del gobierno nacional",
+    "col": "v62",
+    "desc_col": "Internas del Sector Público / Del gobierno nacional",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V63",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público / Para proyectos de infraestructura social y productiva",
+    "col": "v63",
+    "desc_col": "Internas del Sector Público / Para proyectos de infraestructura social y productiva",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V64",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público / Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "col": "v64",
+    "desc_col": "Internas del Sector Público / Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V65",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público / Para otras acciones nutricionales y de asistencia solidaria",
+    "col": "v65",
+    "desc_col": "Internas del Sector Público / Para otras acciones nutricionales y de asistencia solidaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V66",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Internas del Sector Público / Otras del Sector Público",
+    "col": "v66",
+    "desc_col": "Internas del Sector Público / Otras del Sector Público",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V67",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Externas",
+    "col": "v67",
+    "desc_col": "Externas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V68",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Fondo de Compensación Municipal",
+    "col": "v68",
+    "desc_col": "Fondo de Compensación Municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V69",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Otras transferencias",
+    "col": "v69",
+    "desc_col": "Otras transferencias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V70",
+    "desc_q": "2005 (Nuevos Soles) / PIA / IV. FINANCIAMIENTO",
+    "col": "v70",
+    "desc_col": "IV. FINANCIAMIENTO",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V71",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Operaciones oficiales de crédito externo",
+    "col": "v71",
+    "desc_col": "Operaciones oficiales de crédito externo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V72",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Operaciones oficiales de crédito interno",
+    "col": "v72",
+    "desc_col": "Operaciones oficiales de crédito interno",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V73",
+    "desc_q": "2005 (Nuevos Soles) / PIA / Saldo del balance",
+    "col": "v73",
+    "desc_col": "Saldo del balance",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V74",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / INGRESO TOTAL (I+II+III+IV)",
+    "col": "v74",
+    "desc_col": "Ejecución / INGRESO TOTAL (I+II+III+IV)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V75",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / I. INGRESOS CORRIENTES",
+    "col": "v75",
+    "desc_col": "Ejecución / I. INGRESOS CORRIENTES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V76",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos",
+    "col": "v76",
+    "desc_col": "Ejecución / Impuestos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V77",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos / Predial",
+    "col": "v77",
+    "desc_col": "Ejecución / Impuestos / Predial",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V78",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos / De alcabala",
+    "col": "v78",
+    "desc_col": "Ejecución / Impuestos / De alcabala",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V79",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos / Al patrimonio vehicular",
+    "col": "v79",
+    "desc_col": "Ejecución / Impuestos / Al patrimonio vehicular",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V80",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos / Casino de juego",
+    "col": "v80",
+    "desc_col": "Ejecución / Impuestos / Casino de juego",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V81",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos/ A las apuestas y a los juegos",
+    "col": "v81",
+    "desc_col": "Ejecución / Impuestos/ A las apuestas y a los juegos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V82",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos / A los espectáculos públicos no deportivos",
+    "col": "v82",
+    "desc_col": "Ejecución / Impuestos / A los espectáculos públicos no deportivos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V83",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos / A los juegos de máquinas tragamonedas",
+    "col": "v83",
+    "desc_col": "Ejecución / Impuestos / A los juegos de máquinas tragamonedas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V84",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Impuestos / Otros impuestos",
+    "col": "v84",
+    "desc_col": "Ejecución / Impuestos / Otros impuestos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V85",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas",
+    "col": "v85",
+    "desc_col": "Ejecución / Tasas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V86",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / De administración general",
+    "col": "v86",
+    "desc_col": "Ejecución / Tasas / De administración general",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V87",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / De educación",
+    "col": "v87",
+    "desc_col": "Ejecución / Tasas / De educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V88",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / De salud",
+    "col": "v88",
+    "desc_col": "Ejecución / Tasas / De salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V89",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / De vivienda y construcción",
+    "col": "v89",
+    "desc_col": "Ejecución / Tasas / De vivienda y construcción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V90",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Tasas / De agropecuarios y de recursos no minerales",
+    "col": "v90",
+    "desc_col": "Ejecución / Tasas / De agropecuarios y de recursos no minerales",
+    "values": null,
+    "value_pos": null
+  }
+]

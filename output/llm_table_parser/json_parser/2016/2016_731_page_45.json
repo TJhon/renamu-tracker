@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_18",
+    "desc_col": "Número de establecimientos de servicios / Oficinas administrativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_19",
+    "desc_col": "¿La municipalidad tiene otros establecimientos de servicios?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_19",
+    "desc_col": "Número de establecimientos de servicios / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_19_O",
+    "desc_col": "La municipalidad tiene otros establecimientos de servicios / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_20",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Bodegas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_20",
+    "desc_col": "Número de establecimientos de comercio / Bodegas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_21",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Panaderías?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_21",
+    "desc_col": "Número de establecimientos de comercio / Panaderías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_22",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Ferreterías?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_22",
+    "desc_col": "Número de establecimientos de comercio / Ferreterías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_23",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Venta de prendas de vestir?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_23",
+    "desc_col": "Número de establecimientos de comercio / Venta de prendas de vestir",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_24",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Venta de calzado?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_24",
+    "desc_col": "Número de establecimientos de comercio / Venta de calzado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_25",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Mercados de abastos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101A_25",
+    "desc_col": "Número de establecimientos de comercio / Mercados de abastos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101_26",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Centros comerciales o galerías comerciales?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

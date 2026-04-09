@@ -1,0 +1,158 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P68_15",
+    "desc_col": "¿La municipalidad atendió asesoría especializada psicológica?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P68A_15",
+    "desc_col": "Número de casos atendidos / Asesoría especializada psicológica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P68_16",
+    "desc_col": "¿La municipalidad atendió casos de Asesoría especializada legal?",
+    "values": "1:Si;2:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P68A_16",
+    "desc_col": "Número de casos atendidos / Asesoría especializada legal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P68_17",
+    "desc_col": "¿La municipalidad atendió otros casos?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P68A_17",
+    "desc_col": "Número de casos atendidos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P68A_17_O",
+    "desc_col": "Número de casos atendidos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P69"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P69",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69",
+    "desc_col": "¿La municipalidad recibió financiamiento para obras de infraestructura y/o programas sociales?",
+    "values": "1: Recibió;0: No recibió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_1_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Desarrollo e Inclusión Social (Fondo de Cooperación para el Desarrollo Social)",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_2_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Educación",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_3_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Salud",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_4_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Urbano)",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_5_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Rural)",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_6_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Transportes y Comunicaciones - Provías Nacional",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_7_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Gobierno Regional",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_8_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Gobierno Local",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  }
+]

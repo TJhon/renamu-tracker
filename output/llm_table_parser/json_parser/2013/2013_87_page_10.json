@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P26_12",
+    "desc_q": "Acciones que se implementa en la gestión para resultados / Utiliza mecanismos de consulta periódica a la ciudadanía para introducir mejoras en los servicios públicos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P26_13",
+    "desc_q": "Acciones implementadas / Tiene indicadores de eficiencia sobre la cobertura de los servicios públicos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "27"
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "VFI_P27",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27",
+    "desc_q": "La municipalidad tiene Texto Único de Procedimientos Administrativos.",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_01",
+    "desc_q": "La municipalidad tiene Texto Único de Procedimientos Administrativos actualizado",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_02",
+    "desc_q": "Fecha de última publicación del TUPA",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_03",
+    "desc_q": "Municipalidades que tienen TUPA desactualizado / incompleto",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_04",
+    "desc_q": "Municipalidades que tienen TUPA desactualizado / incompleto / Fecha de última publicación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_05",
+    "desc_q": "Municipalidades que no tienen TUPA",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_06",
+    "desc_q": "Razón por la que no tiene TUPA",
+    "col": null,
+    "desc_col": null,
+    "values": "1: En elaboración;2: Falta aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_O",
+    "desc_q": "Razón por la que no tiene TUPA / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "28"
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P27",
+    "desc_q": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "VFI_P28",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28",
+    "desc_q": "Municipalidades que tiene ratificado el TUPA",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_01",
+    "desc_q": "Fecha de ratificación del TUPA",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "29"
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "P27",
+    "desc_q": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "VFI_P29",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "P29_01",
+    "desc_q": "Lugar de publicación/ INDECOPI",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

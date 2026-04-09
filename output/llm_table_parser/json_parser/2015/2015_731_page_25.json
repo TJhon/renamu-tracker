@@ -1,0 +1,158 @@
+[
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P77",
+    "desc_col": "¿La Municipalidad conformó el Comité Provincial / Distrital de Seguridad Ciudadana?",
+    "values": "1: Realizaron;0: No realizaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_1",
+    "desc_col": "¿El comité Provincial/ Distrital de Seguridad Ciudadana realizó Sesiones de Comité de Seguridad Ciudadana?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78A_1",
+    "desc_col": "Número de Sesiones de Comité de Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_2",
+    "desc_col": "¿El comité Provincial/ Distrital de Seguridad Ciudadana realizó Consultas ciudadanas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78A_2",
+    "desc_col": "Número de Consultas ciudadanas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_3",
+    "desc_col": "¿El comité Provincial/ Distrital de Seguridad Ciudadana realizó Audiencias públicas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78A_3",
+    "desc_col": "Número de Audiencias públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_4",
+    "desc_col": "¿El comité Provincial/ Distrital de Seguridad Ciudadana realizó Capacitación a los miembros del comité?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78A_4",
+    "desc_col": "Número de Capacitación a los miembros del comité",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_5",
+    "desc_col": "¿El comité Provincial/ Distrital de Seguridad Ciudadana realizó Capacitación a conductores en prevención de accidentes y actos delincuenciales",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78A_5",
+    "desc_col": "Número de Capacitación a conductores en prevención de accidentes y actos delincuenciales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_6",
+    "desc_col": "El comité Provincial/ Distrital de seguridad ciudadana realizó/ Capacitación a escolares en prevención de delitos y trata de personas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78A_6",
+    "desc_col": "Número de Capacitación a escolares en prevención de delitos y trata de personas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_7",
+    "desc_col": "El comité Provincial/ Distrital de seguridad ciudadana realizó Operaciones de prevención de delitos y faltas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78A_7",
+    "desc_col": "Número de Operaciones de prevención de delitos y faltas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "P78_8",
+    "desc_col": "El comité Provincial/ Distrital de seguridad ciudadana realizó Recuperación de espacios públicos?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "VFI_P79"
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "78",
+    "desc_q": "El Comité Provincial/Distrital de Seguridad Ciudadana realizó actividades, en el 2014",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_2",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "2: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_3",
+    "desc_col": "Acciones realizadas / Ejecutó proyectos ambientales",
+    "values": "3: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_4",
+    "desc_col": "Acciones realizadas / Dispone de Comisión Ambiental Municipal",
+    "values": "4: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_5",
+    "desc_col": "Acciones realizadas / Apoyo en la formulación de proyectos sobre problemática ambiental",
+    "values": "5: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_6",
+    "desc_col": "Acciones realizadas / Convenios interinstitucionales",
+    "values": "6: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_7",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "7: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_8",
+    "desc_col": "Acciones realizadas / Atención y apoyo a denuncias ambientales por la población",
+    "values": "8: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_9",
+    "desc_col": "Acciones realizadas / Realizó mediciones acústicas con sonómetro propio",
+    "values": "9: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_10",
+    "desc_col": "Acciones realizadas / Otro",
+    "values": "10: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_10_O",
+    "desc_col": "Acciones realizadas / Otro / Especifique",
+    "values": "11: Sí",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C_23",
+    "n_q": "105",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2017",
+    "col": "P105_11",
+    "desc_col": "Acciones realizadas / No realizó",
+    "values": "0: No",
+    "value_pos": null
+  },
+  {
+    "h2": "PARTICIPACIÓN VECINAL"
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "VFL_P106",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_1",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando el Plan de Desarrollo Municipal Concertado",
+    "values": "1: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertando el presupuesto municipal",
+    "values": "2: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_3",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulando y controlando los planes económicos locales",
+    "values": "3: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_4",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En el presupuesto participativo",
+    "values": "4: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_5",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": "5: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_6",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En audiencias públicas para rendición de cuentas",
+    "values": "6: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_7",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": "7: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_8",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comités de gestión alimentaria",
+    "values": "8: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_9",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En comité de ejecución de obras",
+    "values": "9: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_10",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales (comités vecinales)",
+    "values": "10: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_11",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otra",
+    "values": "0: No",
+    "value_pos": null
+  }
+]

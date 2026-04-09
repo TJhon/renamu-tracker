@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_7",
+    "desc_col": "¿El serenazgo dispone de equipamiento de seguridad / Vara de ley (Vara de goma)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_7_1",
+    "desc_col": "Serenazgo dispone de equipamiento de seguridad / Vara de ley (Vara de goma) / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_8",
+    "desc_col": "¿El serenazgo dispone de equipamiento de seguridad / Chaleco antibalas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_8_1",
+    "desc_col": "Serenazgo dispone de equipamiento de seguridad / Chaleco antibalas / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_9",
+    "desc_col": "¿El serenazgo dispone de equipamiento de seguridad / Uniforme completo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_9_1",
+    "desc_col": "Serenazgo dispone de equipamiento de seguridad / Uniforme completo / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_10",
+    "desc_col": "¿El serenazgo dispone de equipamiento de seguridad / Canes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_10_1",
+    "desc_col": "Serenazgo dispone de equipamiento de seguridad / Canes / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_11",
+    "desc_col": "¿El serenazgo dispone de equipamiento de seguridad / Otros equipos de seguridad?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_11_1",
+    "desc_col": "Serenazgo dispone de equipamiento de seguridad / Otros equipos de seguridad / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_11_O",
+    "desc_col": "Serenazgo dispone de equipamiento de seguridad / Otros equipos de seguridad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_12",
+    "desc_col": "¿El serenazgo dispone de equipos de comunicación y videovigilancia / Radio comunicador?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76A_12_1",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Radio comunicador / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76A_12_2",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Radio comunicador / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76A_12_3",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Radio comunicador / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76_13",
+    "desc_col": "¿El serenazgo dispone de equipos de comunicación y videovigilancia / Cámara de videovigilancia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76A_13_1",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Cámara de videovigilancia / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76A_13_2",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Cámara de video vigilancia / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "76",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2017",
+    "col": "P76A_13_3",
+    "desc_col": "Serenazgo dispone de equipos de comunicación y videovigilancia / Cámara de video vigilancia / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  }
+]

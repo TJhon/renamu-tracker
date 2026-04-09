@@ -1,0 +1,9 @@
+{
+  "python.REPL.enableREPLSmartSend": false,
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "terminal.integrated.env.windows": {
+    "PYTHONPATH": "${workspaceFolder}"
+  },
+
+  "python.analysis.autoImportCompletions": true
+}

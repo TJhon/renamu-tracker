@@ -1,0 +1,308 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P88",
+    "desc_q": "En la gestión administrativa de la municipalidad existe participación vecinal",
+    "col": "P88",
+    "desc_col": "En la gestión administrativa de la municipalidad existe participación vecinal",
+    "values": "1: Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_01",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación de los planes de desarrollo municipal",
+    "col": "P88_01",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertación de los planes de desarrollo municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_02",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación del presupuesto municipal",
+    "col": "P88_02",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertación del presupuesto municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_03",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Formulación y control de planes económicos locales",
+    "col": "P88_03",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Formulación y control de planes económicos locales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_04",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "col": "P88_04",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_05",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "col": "P88_05",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_06",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "col": "P88_06",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_07",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "col": "P88_07",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_08",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "col": "P88_08",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P88_O",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro/ Descripción",
+    "col": "P88_O",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "VFI_P89",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P89",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "P89",
+    "desc_q": "La municipalidad ha constituido Junta de Delegados Vecinales",
+    "col": "P89",
+    "desc_col": "La municipalidad ha constituido Junta de Delegados Vecinales",
+    "values": "1: Si esta constituido; 0: No esta constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "P89_H_01",
+    "desc_q": "Número de miembros de la Junta de Delegados Vecinales/ Hombre",
+    "col": "P89_H_01",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales/ Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "P89_M_01",
+    "desc_q": "Número de miembros de la Junta de Delegados Vecinales/ Mujer",
+    "col": "P89_M_01",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales/ Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "P89_02",
+    "desc_q": "Se encuentra en funcionamiento",
+    "col": "P89_02",
+    "desc_col": "Se encuentra en funcionamiento",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "VFI_P90",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P90",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "P90",
+    "desc_q": "La municipalidad realizó inscripciones de nacimientos en el Registro Civil",
+    "col": "P90",
+    "desc_col": "La municipalidad realizó inscripciones de nacimientos en el Registro Civil",
+    "values": "1: Si realizó; 0: No realizó (función fue transferida al RENIEC)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "P90_O_H_01",
+    "desc_q": "Número de nacimientos / Ordinaria / Hombre",
+    "col": "P90_O_H_01",
+    "desc_col": "Número de nacimientos / Ordinaria / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "P90_O_M_01",
+    "desc_q": "Número de nacimientos / Ordinaria / Mujer",
+    "col": "P90_O_M_01",
+    "desc_col": "Número de nacimientos / Ordinaria / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "P90_E_H_02",
+    "desc_q": "Número de nacimientos / Extemporánea / Hombre",
+    "col": "P90_E_H_02",
+    "desc_col": "Número de nacimientos / Extemporánea / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "P90_E_M_02",
+    "desc_q": "Número de nacimientos / Extemporánea / Mujer",
+    "col": "P90_E_M_02",
+    "desc_col": "Número de nacimientos / Extemporánea / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "VFI_P91",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P91",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91",
+    "desc_q": "La municipalidad realizó inscripciones de defunciones en el Registro Civil",
+    "col": "P91",
+    "desc_col": "La municipalidad realizó inscripciones de defunciones en el Registro Civil",
+    "values": "1: Si realizó; 0: No realizó (función fue transferida al RENIEC)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_O_H_01",
+    "desc_q": "Número de defunciones / Ordinaria/ Hombre",
+    "col": "P91_O_H_01",
+    "desc_col": "Número de defunciones / Ordinaria/ Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_O_M_01",
+    "desc_q": "Número de defunciones / Ordinaria / Mujer",
+    "col": "P91_O_M_01",
+    "desc_col": "Número de defunciones / Ordinaria / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_P_H_02",
+    "desc_q": "Número de defunciones / Policial / Hombre",
+    "col": "P91_P_H_02",
+    "desc_col": "Número de defunciones / Policial / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_P_M_02",
+    "desc_q": "Número de defunciones / Policial / Mujer",
+    "col": "P91_P_M_02",
+    "desc_col": "Número de defunciones / Policial / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_J_H_03",
+    "desc_q": "Número de defunciones / Judicial / Hombre",
+    "col": "P91_J_H_03",
+    "desc_col": "Número de defunciones / Judicial / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "P91_J_M_03",
+    "desc_q": "Número de defunciones / Judicial / Mujer",
+    "col": "P91_J_M_03",
+    "desc_col": "Número de defunciones / Judicial / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "VFI_P92",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P92",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "P92",
+    "desc_q": "La municipalidad realizó inscripciones de matrimonios y divorcios en el Registro Civil",
+    "col": "P92",
+    "desc_col": "La municipalidad realizó inscripciones de matrimonios y divorcios en el Registro Civil",
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "P92_01",
+    "desc_q": "Número de matrimonios / Ordinaria",
+    "col": "P92_01",
+    "desc_col": "Número de matrimonios / Ordinaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "P92_02",
+    "desc_q": "Número de matrimonios / Masivo/comunitario",
+    "col": "P92_02",
+    "desc_col": "Número de matrimonios / Masivo/comunitario",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "P92_03",
+    "desc_q": "Número de divorcios",
+    "col": "P92_03",
+    "desc_col": "Número de divorcios",
+    "values": null,
+    "value_pos": null
+  }
+]

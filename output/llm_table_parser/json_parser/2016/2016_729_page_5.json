@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "VFI_P22",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "P22",
+    "desc_col": "¿La Municipalidad tiene pensionistas?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "P22_1_T",
+    "desc_col": "Decreto Ley N°19990 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "P22_1_M",
+    "desc_col": "Decreto Ley N°19990 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "P22_1_H",
+    "desc_col": "Decreto Ley N°19990 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "P22_2_T",
+    "desc_col": "Decreto Ley N°20530 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "P22_2_M",
+    "desc_col": "Decreto Ley N°20530 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2015",
+    "col": "P22_2_H",
+    "desc_col": "Decreto Ley N°20530 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 30 de junio 2016",
+    "col": "P22_1_T_16",
+    "desc_col": "Decreto Ley N°19990 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 30 de junio 2016",
+    "col": "P22_2_T_16",
+    "desc_col": "Decreto Ley N°20530 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_1",
+    "desc_col": "Asistencia técnica que requiere / Planificación Estratégica Institucional con Enfoque de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_2",
+    "desc_col": "Asistencia técnica que requiere / Presupuesto con Enfoque a Resultados y Enfoque de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_3",
+    "desc_col": "Asistencia técnica que requiere / Formulación e Implementación de Estrategias para la Protección de Poblaciones Vulnerables",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_4",
+    "desc_col": "Asistencia técnica que requiere / Administración Tributaria Municipal",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_5",
+    "desc_col": "Asistencia técnica que requiere / Acondicionamiento Territorial y Desarrollo Urbano",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_6",
+    "desc_col": "Asistencia técnica que requiere / Licencias de Habilitación Urbana y Edificación",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_7",
+    "desc_col": "Asistencia técnica que requiere / Control Gubernamental (Atención de Auditorías, Control Interno)",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_8",
+    "desc_col": "Asistencia técnica que requiere / Estadística e Indicadores Municipales con Enfoque de Género",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_9",
+    "desc_col": "Asistencia técnica que requiere / Organización y Gestión de Bibliotecas",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_10",
+    "desc_col": "Asistencia técnica que requiere / Formulación y Evaluación de Proyectos Públicos",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_11",
+    "desc_col": "Asistencia técnica que requiere / Programa de Incentivos a la Mejora de la Gestión Municipal",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_12",
+    "desc_col": "Asistencia técnica que requiere / Gestión de Atención Primaria de Salud",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_13",
+    "desc_col": "Asistencia técnica que requiere / Gestión Descentralizada del Programa de Complementación Alimentaria",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2016",
+    "col": "P23_14",
+    "desc_col": "Asistencia técnica que requiere / Política de Desarrollo e",
+    "values": "1: Si",
+    "value_pos": 1
+  }
+]

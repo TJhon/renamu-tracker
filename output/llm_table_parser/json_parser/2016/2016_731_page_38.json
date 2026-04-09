@@ -1,0 +1,140 @@
+[
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96",
+    "desc_q": "¿La municipalidad registró Micro y Pequeñas Empresas",
+    "col": "P96",
+    "desc_col": "",
+    "values": "1: Registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96_1",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de alimentos y bebidas?",
+    "col": "P96_1",
+    "desc_col": "",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_1_1",
+    "desc_q": "Número de MYPES dedicadas a la producción de alimentos y bebidas / Total MYPES",
+    "col": "P96A_1_1",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_1_2",
+    "desc_q": "Número de Micro Empresas dedicadas a la producción de alimentos y bebidas / Micro empresa",
+    "col": "P96A_1_2",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_1_3",
+    "desc_q": "Número de Pequeña Empresa dedicadas a la producción de alimentos y bebidas / Pequeña empresa",
+    "col": "P96A_1_3",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96_2",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de cueros y calzado?",
+    "col": "P96_2",
+    "desc_col": "",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_2_1",
+    "desc_q": "Número de MYPES dedicadas a la producción de cueros y calzado / Total MYPES",
+    "col": "P96A_2_1",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_2_2",
+    "desc_q": "Número de Micro Empresas dedicadas a la producción de cueros y calzado / Micro empresa",
+    "col": "P96A_2_2",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_2_3",
+    "desc_q": "Número de Pequeña Empresa dedicadas a la producción de cueros y calzado / Pequeña empresa",
+    "col": "P96A_2_3",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96_3",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de artesanía?",
+    "col": "P96_3",
+    "desc_col": "",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_3_1",
+    "desc_q": "Número de MYPES dedicadas a la producción de artesanía / Total MYPES",
+    "col": "P96A_3_1",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_3_2",
+    "desc_q": "Número de Micro Empresas dedicadas a la producción de artesanía / Micro empresa",
+    "col": "P96A_3_2",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96A_3_3",
+    "desc_q": "Número de Pequeña Empresa dedicadas a la producción de artesanía / Pequeña empresa",
+    "col": "P96A_3_3",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P96_4",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de textiles?",
+    "col": "P96_4",
+    "desc_col": "",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

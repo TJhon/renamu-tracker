@@ -1,0 +1,245 @@
+[
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "VFI_P90",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_1",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Cursos de capacitación en Gestión Reactiva del Riesgo",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_2",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Simulacros para evaluar el Plan de Operaciones de Emergencia Local",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90A_2",
+    "desc_col": "Número de Simulacros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_3",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Identificación del nivel de riesgo existente en áreas del distrito",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_4",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Supervisión del cumplimiento de las normas de seguridad en recintos con acceso al público",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_5",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Señalización de zonas de seguridad en áreas de alto riesgo",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_6",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_6_O",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2024",
+    "col": "P90_7",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / No realizó acciones",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "VFI_P94",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_4",
+    "desc_col": "Acciones realizadas / Capacitación presencial y/o semipresencial para mejorar la producción y venta",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_9",
+    "desc_col": "Acciones realizadas / Capacitación Virtual para mejorar la producción y venta",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "89",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2024",
+    "col": "P94_8",
+    "desc_col": "No realizó acciones",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_1",
+    "desc_col": "Actividades realizadas / Promoción y publicidad",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_2",
+    "desc_col": "Actividades realizadas / Ferias",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_3",
+    "desc_col": "Actividades realizadas / Apoyo a comercialización directa de productos",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_4",
+    "desc_col": "Actividades realizadas / Capacitación presencial y/o semipresencial para artesanos",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_7",
+    "desc_col": "Actividades realizadas / Capacitación virtual para artesanos",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_5",
+    "desc_col": "Actividades realizadas / Otra actividad",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_5_O",
+    "desc_col": "Actividades realizadas / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "90",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2024",
+    "col": "P95_6",
+    "desc_col": "No realizó actividades",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  }
+]

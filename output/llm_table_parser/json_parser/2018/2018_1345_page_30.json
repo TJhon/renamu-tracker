@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_12",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Discotecas?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_12",
+    "desc_col": "Número de establecimientos de servicios / Discotecas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_13",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Peñas?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_13",
+    "desc_col": "Número de establecimientos de servicios / Peñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_14",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Juegos de casino y máquinas tragamonedas?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_14",
+    "desc_col": "Número de establecimientos de servicios / Juegos de casino y máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_15",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Peluquerías y salones spa?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_15",
+    "desc_col": "Número de establecimientos de servicios / Peluquerías y salones spa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_16",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Gimnasios?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_16",
+    "desc_col": "Número de establecimientos de servicios / Gimnasios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_17",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Actividades profesionales?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_17",
+    "desc_col": "Número de establecimientos de servicios / Actividades profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_18",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Oficinas administrativas?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_18",
+    "desc_col": "Número de establecimientos de servicios / Oficinas administrativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_19",
+    "desc_col": "¿La municipalidad tiene establecimientos de servicios de Cementerios municipales?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_19",
+    "desc_col": "Número de establecimientos de servicios / Cementerios municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_20",
+    "desc_col": "¿La municipalidad tiene otros establecimientos de servicios?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_20",
+    "desc_col": "Número de establecimientos de servicios / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_21",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Bodegas?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_21",
+    "desc_col": "Número de establecimientos de comercio / Bodegas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_22",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Panaderías?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_22",
+    "desc_col": "Número de establecimientos de comercio / Panaderías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_23",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Ferreterías?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_23",
+    "desc_col": "Número de establecimientos de comercio / Ferreterías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_24",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Venta de prendas de vestir?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_24",
+    "desc_col": "Número de establecimientos de comercio / Venta de prendas de vestir",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_25",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de calzado?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_25",
+    "desc_col": "Número de establecimientos de comercio / Venta de calzado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100_26",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Mercados de abastos?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "100",
+    "desc_q": "Establecimientos de servicios y comercio en funcionamiento registrados en la municipalidad, al 31 de diciembre 2017",
+    "col": "P100A_26",
+    "desc_col": "Número de establecimientos de comercio / Mercados de abastos",
+    "values": "",
+    "value_pos": null
+  }
+]

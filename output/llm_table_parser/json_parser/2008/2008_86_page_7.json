@@ -1,0 +1,119 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P20_06",
+    "desc_q": "Capacitación que requiere / Gestión ambiental",
+    "col": "P20_06",
+    "desc_col": "Capacitación que requiere / Gestión ambiental",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_07",
+    "desc_q": "Capacitación que requiere / Defensa Civil",
+    "col": "P20_07",
+    "desc_col": "Capacitación que requiere / Defensa Civil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_08",
+    "desc_q": "Capacitación que requiere / Seguridad Ciudadana",
+    "col": "P20_08",
+    "desc_col": "Capacitación que requiere / Seguridad Ciudadana",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_09",
+    "desc_q": "Capacitación que requiere / Estadística e indicadores municipales",
+    "col": "P20_09",
+    "desc_col": "Capacitación que requiere / Estadística e indicadores municipales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_10",
+    "desc_q": "Capacitación que requiere / Gestión externa del Estado",
+    "col": "P20_10",
+    "desc_col": "Capacitación que requiere / Gestión externa del Estado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_11",
+    "desc_q": "Capacitación que requiere / Informática",
+    "col": "P20_11",
+    "desc_col": "Capacitación que requiere / Informática",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_12",
+    "desc_q": "Capacitación que requiere / Organización y gestión de bibliotecas",
+    "col": "P20_12",
+    "desc_col": "Capacitación que requiere / Organización y gestión de bibliotecas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_13",
+    "desc_q": "Capacitación que requiere / Turismo",
+    "col": "P20_13",
+    "desc_col": "Capacitación que requiere / Turismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_14",
+    "desc_q": "Capacitación que requiere / Derechos y desarrollo humano",
+    "col": "P20_14",
+    "desc_col": "Capacitación que requiere / Derechos y desarrollo humano",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_15",
+    "desc_q": "Capacitación que requiere / Formulación y ejecución de proyectos",
+    "col": "P20_15",
+    "desc_col": "Capacitación que requiere / Formulación y ejecución de proyectos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_16",
+    "desc_q": "Capacitación que requiere / Promoción y desarrollo de la MYPES",
+    "col": "P20_16",
+    "desc_col": "Capacitación que requiere / Promoción y desarrollo de la MYPES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_17",
+    "desc_q": "Capacitación que requiere/ Otro",
+    "col": "P20_17",
+    "desc_col": "Capacitación que requiere/ Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_O",
+    "desc_q": "Capacitación que requiere/ Otro/ Descripción",
+    "col": "P20_O",
+    "desc_col": "Capacitación que requiere/ Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  }
+]

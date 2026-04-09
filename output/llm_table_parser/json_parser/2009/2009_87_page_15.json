@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_01",
+    "desc_col": "Proyectos de infraestructura social y productiva / Agua y saneamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_02",
+    "desc_col": "Proyectos de infraestructura social y productiva / Electrificación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_03",
+    "desc_col": "Proyectos de infraestructura social y productiva / Establecimiento de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_04",
+    "desc_col": "Proyectos de infraestructura social y productiva / Aulas escolares",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_05",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Infraestructura vial",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_06",
+    "desc_col": "Proyectos de infraestructura social y productiva / Pequeños sistemas de riego",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_07",
+    "desc_col": "Proyectos de infraestructura social y productiva / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "municipalidad, en el 2008",
+    "col": "P63_O",
+    "desc_col": "Proyectos de infraestructura social y productiva / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "VFI_P64",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P64",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64",
+    "desc_q": "El distrito tiene problemas que afectan la seguridad",
+    "col": "P64",
+    "desc_col": "El distrito tiene problemas que afectan la seguridad",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_01",
+    "desc_q": "Problemas que afectan la seguridad / Robo en viviendas",
+    "col": "P64_01",
+    "desc_col": "Problemas que afectan la seguridad / Robo en viviendas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_02",
+    "desc_q": "Problemas que afectan la seguridad / Robos en las calles",
+    "col": "P64_02",
+    "desc_col": "Problemas que afectan la seguridad / Robos en las calles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_03",
+    "desc_q": "Problemas que afectan la seguridad / Violencia juvenil (Pandillaje, barras bravas)",
+    "col": "P64_03",
+    "desc_col": "Problemas que afectan la seguridad / Violencia juvenil (Pandillaje, barras bravas)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_04",
+    "desc_q": "Problemas que afectan la seguridad / Drogadicción",
+    "col": "P64_04",
+    "desc_col": "Problemas que afectan la seguridad / Drogadicción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_05",
+    "desc_q": "Problemas que afectan la seguridad / Alcoholismo",
+    "col": "P64_05",
+    "desc_col": "Problemas que afectan la seguridad / Alcoholismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_06",
+    "desc_q": "Problemas que afectan la seguridad / Prostitución",
+    "col": "P64_06",
+    "desc_col": "Problemas que afectan la seguridad / Prostitución",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_07",
+    "desc_q": "Problemas que afectan la seguridad / Microcomercialización de drogas (PBC, cocaína, marihuana, etc.)",
+    "col": "P64_07",
+    "desc_col": "Problemas que afectan la seguridad / Microcomercialización de drogas (PBC, cocaína, marihuana, etc.)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_08",
+    "desc_q": "Problemas que afectan la seguridad / Narcotráfico",
+    "col": "P64_08",
+    "desc_col": "Problemas que afectan la seguridad / Narcotráfico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_09",
+    "desc_q": "Problemas que afectan la seguridad / Terrorismo",
+    "col": "P64_09",
+    "desc_col": "Problemas que afectan la seguridad / Terrorismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_10",
+    "desc_q": "Problemas que afectan la seguridad / Abigeato",
+    "col": "P64_10",
+    "desc_col": "Problemas que afectan la seguridad / Abigeato",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_11",
+    "desc_q": "Problemas que afectan la seguridad / Otro",
+    "col": "P64_11",
+    "desc_col": "Problemas que afectan la seguridad / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C055",
+    "n_q": "P64_O",
+    "desc_q": "Problemas que afectan la seguridad / Otro / Descripción",
+    "col": "P64_O",
+    "desc_col": "Problemas que afectan la seguridad / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "VFI_P65",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P65",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65",
+    "desc_q": "La municipalidad tiene registrada organizaciones de seguridad vecinal y comunal",
+    "col": "P65",
+    "desc_col": "La municipalidad tiene registrada organizaciones de seguridad vecinal y comunal",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_01",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana",
+    "col": "P65_01",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_02",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina",
+    "col": "P65_02",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_03",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Comité Vecinal",
+    "col": "P65_03",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Comité Vecinal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_04",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Comité de Autodefensa",
+    "col": "P65_04",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Comité de Autodefensa",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_05",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Otro",
+    "col": "P65_05",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "P65_O",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal / Otro/ Descripción",
+    "col": "P65_O",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "VFI_P66",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C057",
+    "n_q": "P66",
+    "desc_q": "La municipalidad tiene Serenazgo",
+    "col": "P66",
+    "desc_col": "La municipalidad tiene Serenazgo",
+    "values": "1: Tiene",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_2",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Preparación",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_3",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Operaciones de Emergencia",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_4",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Educación Comunitaria",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_5",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Rehabilitación",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_6",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Contingencia",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_7",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Zonificación Ecológica y Económica (ZEE)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_8",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Estudios Especializados (EE)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_9",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Diagnóstico Integrado del Territorio (DIT)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_10",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Plan de Ordenamiento Territorial (POT)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_11",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Sistema de Alerta Temprana",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_12",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Programa de Recuperación y Limpieza de Cauce",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_13",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Áreas inundables identificadas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_14",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Mapa de Identificación de Zonas de Alto Riesgo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_15",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Estadísticas de desastres más frecuentes",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_16",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Registro de Brigadistas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_17",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C83",
+    "n_q": "87",
+    "desc_q": "Instrumentos de la Gestión del Riesgo de Desastres que tiene la municipalidad, 2017",
+    "col": "P87_17_O",
+    "desc_col": "La municipalidad tiene instrumentos de Gestión del Riesgo de Desastres / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

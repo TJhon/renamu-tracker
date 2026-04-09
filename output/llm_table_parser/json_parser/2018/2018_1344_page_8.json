@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "29",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2018",
+    "col": "P29_1",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Diario Oficial “El Peruano”",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "29",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2018",
+    "col": "P29_2",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Diario Local",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "29",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2018",
+    "col": "P29_3",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Pizarra y/o vitrina de la municipalidad",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "29",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2018",
+    "col": "P29_4",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Pagina Web de la municipalidad",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "29",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2018",
+    "col": "P29_5",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Otro",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "29",
+    "desc_q": "Publicación del Texto Único de Procedimientos Administrativos (TUPA) vigente, 2018",
+    "col": "P29_5_O",
+    "desc_col": "¿Dónde se publicó el TUPA vigente? / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "VFI_P30",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_1",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_1_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_1_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_1_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_1_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_1_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_1_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área de hasta 100 m² con ITSE Básica Ex Post / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_2",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para establecimientos con área mayor a 100 m² y hasta 500 m² con ITSE Básica Ex Ante?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_2_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de funcionamiento para establecimientos con área mayor a 100 m² y hasta 500 m² con ITSE Básica Ex Ante / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  }
+]

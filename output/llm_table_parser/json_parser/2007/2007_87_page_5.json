@@ -1,0 +1,461 @@
+[
+  {
+    "cuadro": "CUADRO_C026",
+    "n_q": "35",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad de enero al 30 de juniodel 2007",
+    "col": "VFI_P35",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C026",
+    "n_q": "35",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad de enero al 30 de juniodel 2007",
+    "col": "P35",
+    "desc_col": "La Municipalidad emitió carné de sanidad",
+    "values": "1: Si expidió;0: No expidió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C026",
+    "n_q": "35",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad de enero al 30 de juniodel 2007",
+    "col": "P35_01",
+    "desc_col": "Número de carné / Para venta de alimentos en restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C026",
+    "n_q": "35",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad de enero al 30 de juniodel 2007",
+    "col": "P35_02",
+    "desc_col": "Número de carné / Para venta ambulatoria de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C026",
+    "n_q": "35",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad de enero al 30 de juniodel 2007",
+    "col": "P35_03",
+    "desc_col": "Número de carné / Para otros usos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C027",
+    "n_q": "36",
+    "desc_q": "Ambulantes registrados en la municipalidad, de enero al 30 de junio del 2007",
+    "col": "VFI_P36",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C027",
+    "n_q": "36",
+    "desc_q": "Ambulantes registrados en la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P36",
+    "desc_col": "La municipalidad tiene ambulantes registrados",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C027",
+    "n_q": "36",
+    "desc_q": "Ambulantes registrados en la municipalidad, de enero al 30 de junio del 2007",
+    "col": "P36_01",
+    "desc_col": "Número de ambulantes registrados en la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C028",
+    "n_q": "37",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, al 30 de junio del 2007",
+    "col": "VFI_P37",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C028",
+    "n_q": "37",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, al 30 de junio del 2007",
+    "col": "P37",
+    "desc_col": "La municipalidad tiene instalados baños de uso público en el distrito",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C028",
+    "n_q": "37",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, al 30 de junio del 2007",
+    "col": "P37_01",
+    "desc_col": "Número de baños públicos instalados y en funcionamiento de la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "38",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, al 30 de junio del 2007",
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "38",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, al 30 de junio del 2007",
+    "col": "P38",
+    "desc_col": "La municipalidad tiene áreas verdes en el distrito",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "38",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, al 30 de junio del 2007",
+    "col": "P38_01",
+    "desc_col": "Áreas verdes / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "38",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, al 30 de junio del 2007",
+    "col": "P38_02",
+    "desc_col": "Áreas verdes / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "38",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, al 30 de junio del 2007",
+    "col": "P38_03",
+    "desc_col": "Áreas verdes / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "38",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, al 30 de junio del 2007",
+    "col": "P38_04",
+    "desc_col": "Áreas verdes / Bermas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "39",
+    "desc_q": "Servicio de cabinas de Internet que brinda la municipalidad, 2007",
+    "col": "VFI_P39",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "39",
+    "desc_q": "Servicio de cabinas de Internet que brinda la municipalidad, 2007",
+    "col": "P39",
+    "desc_col": "La municipalidad brinda servicios de cabinas públicas de Internet",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "39",
+    "desc_q": "Servicio de cabinas de Internet que brinda la municipalidad, 2007",
+    "col": "P39_01",
+    "desc_col": "Cabina pública / número de locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "39",
+    "desc_q": "Servicio de cabinas de Internet que brinda la municipalidad, 2007",
+    "col": "P39_02",
+    "desc_col": "Cabina pública / número de PCs",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "40",
+    "desc_q": "Biblioteca municipal en el distrito, 2007",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa;0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "40",
+    "desc_q": "Biblioteca municipal en el distrito, 2007",
+    "col": "P40",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "40",
+    "desc_q": "Biblioteca municipal en el distrito, 2007",
+    "col": "P40_01",
+    "desc_col": "Biblioteca municipal / Área m²",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "40",
+    "desc_q": "Biblioteca municipal en el distrito, 2007",
+    "col": "P40_02",
+    "desc_col": "Biblioteca municipal / Promedio mensual de usuarios atendidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P40",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_T_01",
+    "desc_col": "Número de títulos / Folletos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_T_02",
+    "desc_col": "Número de títulos / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_T_03",
+    "desc_col": "Número de títulos / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_T_04",
+    "desc_col": "Número de títulos / Materiales audio visuales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_T_05",
+    "desc_col": "Número de títulos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_V_01",
+    "desc_col": "Número de volúmenes / Folletos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_V_02",
+    "desc_col": "Número de volúmenes / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_V_03",
+    "desc_col": "Número de volúmenes / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_V_04",
+    "desc_col": "Número de volúmenes / Materiales audio visuales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_V_05",
+    "desc_col": "Numero de volúmenes / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C032",
+    "n_q": "41",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, 2007",
+    "col": "P41_O",
+    "desc_col": "Otro / descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P40",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_01",
+    "desc_col": "Servicio brindado / Lectura en sala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_02",
+    "desc_col": "Servicio brindado / Área o sala infantil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_03",
+    "desc_col": "Servicio brindado / Sala de hemeroteca (revistas)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_04",
+    "desc_col": "Servicio brindado / Préstamo a domicilio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_05",
+    "desc_col": "Servicio brindado / Préstamo interbibliotecario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_06",
+    "desc_col": "Servicio brindado / Formación de usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_07",
+    "desc_col": "Servicio brindado / Información y referencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_08",
+    "desc_col": "Servicio brindado / Extensión cultural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_09",
+    "desc_col": "Servicio brindado / Promoción y fomento de la lectura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_10",
+    "desc_col": "Servicio brindado / Cabinas públicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_11",
+    "desc_col": "Servicio brindado / Servicio de fotocopias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_12",
+    "desc_col": "Servicio brindado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C033",
+    "n_q": "42",
+    "desc_q": "Servicios que brinda la biblioteca municipal, de enero al 30 de junio del 2007",
+    "col": "P42_O",
+    "desc_col": "Servicio brindado / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

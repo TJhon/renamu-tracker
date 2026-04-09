@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23_06",
+    "desc_col": "Razón por la que no tiene TUPA",
+    "values": "2: Falta aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23_O",
+    "desc_col": "Razón por la que no tiene TUPA / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "24",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales, 2014",
+    "col": "P23",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "24",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales, 2014",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "24",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales, 2014",
+    "col": "P24",
+    "desc_col": "Municipalidades que tiene ratificado el TUPA",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "24",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativas por las municipalidades provinciales, 2014",
+    "col": "P24_01",
+    "desc_col": "Fecha de ratificación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "P23",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "P25_01",
+    "desc_col": "Lugar de publicación / INDECOPI",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "P25_02",
+    "desc_col": "Lugar de publicación / Diario Oficial \"El Peruano\"",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "P25_03",
+    "desc_col": "Lugar de publicación / Diario Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "P25_04",
+    "desc_col": "Lugar de publicación / Pizarra, vitrina de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "P25_05",
+    "desc_col": "Lugar de publicación / Pagina Web de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "25",
+    "desc_q": "Institución o Medios a través de los cuales se publica el Texto Único de Procedimientos Administrativos, 2014",
+    "col": "P25_06",
+    "desc_col": "Lugar de publicación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "VFI_P26",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "P26",
+    "desc_col": "Municipalidades que disponen de personal y medios de comunicación para atender consultas, reclamos y sugerencias del",
+    "values": "1: Dispone;0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "P26_01",
+    "desc_col": "Personal y Medios de Comunicación / Personal con dedicación exclusiva para atención al ciudadano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "P26_02",
+    "desc_col": "Personal y Medios de Comunicación / Buzón de Sugerencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "P26_03",
+    "desc_col": "Personal y Medios de Comunicación / Correo electrónico para consultas , reclamos y sugerencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "P26_04",
+    "desc_col": "Personal y Medios de Comunicación / Línea de telefonía fija y/o móvil de atención al ciudadano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "P26_05",
+    "desc_col": "Personal y Medios de Comunicación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "26",
+    "desc_q": "Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2014",
+    "col": "P26_06",
+    "desc_col": "Personal y Medios de Comunicación / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P27",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  }
+]

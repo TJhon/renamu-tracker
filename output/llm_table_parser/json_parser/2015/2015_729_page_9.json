@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "VFI_P119",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119",
+    "desc_col": "TOTAL GASTOS (I + II + III)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_1",
+    "desc_col": "I. GASTOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_1_1",
+    "desc_col": "Personal y obligaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_1_2",
+    "desc_col": "Pensiones y otras prestaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_1_3",
+    "desc_col": "Bienes y servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_1_4",
+    "desc_col": "Donaciones y transferencias corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_1_5",
+    "desc_col": "Otros gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2",
+    "desc_col": "II. GASTOS DE CAPITAL",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_1",
+    "desc_col": "Adquisición de activos financieros / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2",
+    "desc_col": "Adquisición de activos no financieros / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_1",
+    "desc_col": "Adquisición de activos no financieros / Adquisición de vehículos, maquinaria, equipos, mobiliario y otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_1",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones educativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_2",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones médicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_3",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones sociales y culturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_4",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Sistema de agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_5",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura agrícola",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_6",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura eléctrica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_7",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_8",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Plazuelas, parques y jardines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_2_9",
+    "desc_col": "Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Otros gastos por construcción de edificios y estructuras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_2_3",
+    "desc_col": "Adquisición de activos no financieros / Otros gastos por adquisición de activos no financieros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_3",
+    "desc_col": "Donaciones y transferencias de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_2_4",
+    "desc_col": "Otros gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C112",
+    "n_q": "119",
+    "desc_q": "Gastos ejecutados por las municipalidades, según distrito, 2015",
+    "col": "P119_3",
+    "desc_col": "III. SERVICIO DE LA DEUDA",
+    "values": "",
+    "value_pos": null
+  }
+]

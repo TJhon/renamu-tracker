@@ -1,0 +1,251 @@
+[
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_05",
+    "desc_col": "Medios de comunicación / Acceso a Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_06",
+    "desc_col": "Acciones que realizó la oficina / Realiza cursos de capacitación en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_07",
+    "desc_col": "Acciones que realizó la oficina / Realiza simulacros para probar el Plan de Operaciones de Emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "63",
+    "desc_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2013",
+    "col": "P63_08",
+    "desc_col": "Acciones que realizó la oficina/ Número de simulacros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "VFI_P64",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64",
+    "desc_col": "La municipalidad registró fenómenos naturales u ocasionados por el hombre",
+    "values": "1: Registró;1: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_01",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_02",
+    "desc_col": "Fenómenos naturales registrados / Aluvión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_03",
+    "desc_col": "Fenómenos naturales registrados / Deslizamiento de tierra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_04",
+    "desc_col": "Fenómenos naturales registrados / Derrumbe de cerros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_05",
+    "desc_col": "Fenómenos naturales registrados / Huayco",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_06",
+    "desc_col": "Fenómenos naturales registrados / Granizada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_07",
+    "desc_col": "Fenómenos naturales registrados / Helada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_08",
+    "desc_col": "Fenómenos naturales registrados / Nevada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_09",
+    "desc_col": "Fenómenos naturales registrados / Lluvia intensa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_10",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_11",
+    "desc_col": "Fenómenos naturales registrados / Inundación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_12",
+    "desc_col": "Fenómenos naturales registrados / Sequía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_13",
+    "desc_col": "Fenómenos naturales registrados / Viento fuerte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_14",
+    "desc_col": "Fenómenos naturales registrados / Incendio forestal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "64",
+    "desc_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2013",
+    "col": "P64_15",
+    "desc_col": "Fenómenos naturales registrados / Incendio urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "VFI_C7",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7",
+    "desc_col": "La municipalidad tiene registradas MYPES",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_01",
+    "desc_col": "Número de MYPES / Producen / Alimentos y bebidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_02",
+    "desc_col": "Número de MYPES / Producen / Cueros y calzados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_03",
+    "desc_col": "Número de MYPES / Producen / Artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_04",
+    "desc_col": "Número de MYPES / Producen / Textiles",
+    "values": "",
+    "value_pos": null
+  }
+]

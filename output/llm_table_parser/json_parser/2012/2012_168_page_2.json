@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": "102",
+    "n_q": null,
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "p101_DI_06",
+    "desc_col": "Distrital / Precio aproximado del pasaje (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "VFI_P102",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "VFI_P102",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_O_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_O_01",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Ómnibus / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_O_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_O_02",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Ómnibus / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_M_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_M_01",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Microbús / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_M_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_M_02",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Microbús / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_CR_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_CR_01",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Camioneta rural (Combi) / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_CR_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_CR_02",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Camioneta rural (Combi) / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_C_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_C_01",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Camión / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_C_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_C_02",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Camión / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_A_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_A_01",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Auto / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_A_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_A_02",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Auto / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_AV_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_AV_01",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Avión / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TN_AV_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TN_AV_02",
+    "desc_col": "Tiempo neto 1 / Medio de transporte / Avión / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_O_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_O_01",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Ómnibus / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_O_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_O_02",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Ómnibus / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_M_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_M_01",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Microbús / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_M_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_M_02",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Microbús / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_CR_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_CR_01",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Camioneta rural (Combi) / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_CR_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_CR_02",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Camioneta rural (Combi) / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_C_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_C_01",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Camión / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_C_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_C_02",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Camión / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_A_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_A_01",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Auto / Horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_A_02",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_A_02",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Auto / Minutos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_TT_AV_01",
+    "desc_q": "CUADRO_C102 Tiempo que hay de la capital , a la cuidad de Lima , utilizando el medio de transporte más frecuente, 2012",
+    "col": "P102_TT_AV_01",
+    "desc_col": "Tiempo total 2 / Medio de transporte / Avión / Horas",
+    "values": "",
+    "value_pos": null
+  }
+]

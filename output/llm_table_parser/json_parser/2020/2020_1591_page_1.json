@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "40",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2019",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "40",
+    "desc_q": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad en el distrito, 2019",
+    "col": "P40_1",
+    "desc_col": "Frecuencia de recojo de residuos sólidos (basura) que realizó la municipalidad",
+    "values": "1: Diaria; 2: Interdiaria; 3: Dos veces por semana; 4: Una vez por semana; 5: No realizó recojo"
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "41",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2019",
+    "col": "VFI_P41",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "41",
+    "desc_q": "Cantidad promedio diaria de residuos sólidos (basura) que recogió la municipalidad, 2019",
+    "col": "P41_1",
+    "desc_col": "Cantidad promedio diaria de residuos sólidos (basura) en kilogramos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) realizado por la municipalidad, 2019",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de residuos sólidos (basura) realizado por la municipalidad, 2019",
+    "col": "P42_1",
+    "desc_col": "Cobertura del servicio de recojo de residuos sólidos en el distrito",
+    "values": "1: Menos de 25%; 2: De 25% a 49%; 3: De 50% a 74%; 4: De 75% a 100%"
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_1",
+    "desc_col": "Instrumento de gestión / Plan Integral de Gestión Ambiental de Residuos Sólidos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_2",
+    "desc_col": "Instrumento de gestión / Plan de Manejo de Residuos Sólidos",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_3",
+    "desc_col": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_4",
+    "desc_col": "Instrumento de gestión / Programa de Transformación de Residuos Sólidos",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_5",
+    "desc_col": "Instrumento de gestión / Programa de Segregación en la Fuente y Recolección Selectiva de Residuos Sólidos",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_6",
+    "desc_col": "Instrumento de gestión / Plan de Valorización de Residuos Sólidos Orgánicos",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_7",
+    "desc_col": "Instrumento de gestión / Estudio de Caracterización de Residuos Sólidos",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_8",
+    "desc_col": "Instrumento de gestión / Otro",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_8_O",
+    "desc_col": "Instrumento de gestión / Otro / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "43",
+    "desc_q": "Instrumentos de gestión de residuos sólidos de la municipalidad, 2019",
+    "col": "P43_9",
+    "desc_col": "Instrumento de gestión / No contó con instrumentos de gestión de residuos sólidos",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2019",
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2019",
+    "col": "P44_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Relleno sanitario",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2019",
+    "col": "P44_1_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Relleno sanitario",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2019",
+    "col": "P44_2",
+    "desc_col": "Destino final de los residuos sólidos recolectados / Botadero",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "44",
+    "desc_q": "Destino final de los residuos sólidos (basura) recolectados por la municipalidad, 2019",
+    "col": "P44_2_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Botadero",
+    "values": ""
+  }
+]

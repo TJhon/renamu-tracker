@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "62",
+    "n_q": null,
+    "desc_q": "Intervenciones registradas por el serenazgo, 2020",
+    "col": "P71A_8",
+    "desc_col": "Intervenciones registradas por el serenazgo / Accidentes de tránsito / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P71_9",
+    "desc_q": "¿El serenazgo registró intervenciones por Comercio informal?",
+    "col": "P71_9",
+    "desc_col": "Intervenciones registradas por el serenazgo / Comercio informal / Número",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P71_10",
+    "desc_q": "¿El serenazgo registró intervenciones por Violencia familiar?",
+    "col": "P71_10",
+    "desc_col": "Intervenciones registradas por el serenazgo / Violencia familiar / Número",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P71_11",
+    "desc_q": "¿El serenazgo registró intervenciones por Pandillaje (incluye pandillaje pernicioso)?",
+    "col": "P71_11",
+    "desc_col": "Intervenciones registradas por el serenazgo / Pandillaje / Número",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P71_12",
+    "desc_q": "¿El serenazgo registró intervenciones por Otro?",
+    "col": "P71_12",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Número",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "62",
+    "n_q": null,
+    "desc_q": "Intervenciones registradas por el serenazgo / Otro / Especifique",
+    "col": "P71A_12_O",
+    "desc_col": "Intervenciones registradas por el serenazgo / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63A",
+    "n_q": null,
+    "desc_q": "Distrito sectorizado para actividades de patrullaje, 2021",
+    "col": "VFI_P72A",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó\n1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "63A",
+    "n_q": "P72A",
+    "desc_q": "¿El distrito está sectorizado para actividades de patrullaje?",
+    "col": "P72A",
+    "desc_col": "Número de Sectores / Total",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "63A",
+    "n_q": null,
+    "desc_q": "Sectores patrullados por el serenazgo / Número",
+    "col": "P72A_2",
+    "desc_col": "Sectores patrullados por el serenazgo / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63B",
+    "n_q": null,
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú (PNP), 2021",
+    "col": "VFI_P72B",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó\n1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "63B",
+    "n_q": "P72B",
+    "desc_q": "¿El serenazgo realizó patrullaje integrado con la PNP?",
+    "col": "P72B",
+    "desc_col": "Sectores con patrullaje integrado con la PNP / Número",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2021",
+    "col": "VFI_P73",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó\n1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "64",
+    "n_q": "P73_1",
+    "desc_q": "Modalidad del patrullaje integrado con la PNP / Auto y/o camioneta",
+    "col": "P73_1",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Auto y/o camioneta",
+    "values": "0: Pase\n1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "64",
+    "n_q": "P73_2",
+    "desc_q": "Modalidad del patrullaje integrado con la PNP / Motocicleta",
+    "col": "P73_2",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Motocicleta",
+    "values": "0: Pase\n2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "64",
+    "n_q": "P73_3",
+    "desc_q": "Modalidad del patrullaje integrado con la PNP / A pie",
+    "col": "P73_3",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / A pie",
+    "values": "0: Pase\n3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "64",
+    "n_q": "P73_4",
+    "desc_q": "Modalidad del patrullaje integrado con la PNP / Otra modalidad",
+    "col": "P73_4",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Otra modalidad",
+    "values": "0: Pase\n4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Modalidad del patrullaje integrado con la PNP / Otra modalidad / Especifique",
+    "col": "P73_4_O",
+    "desc_col": "Modalidad del patrullaje integrado con la PNP / Otra modalidad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": null,
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú (PNP), 2021",
+    "col": "VFI_P74",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó\n1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": "P74",
+    "desc_q": "Frecuencia del patrullaje integrado con la PNP",
+    "col": "P74",
+    "desc_col": "Frecuencia del patrullaje integrado con la PNP",
+    "values": "1: Diaria\n2: Interdiaria\n3: Semanal\n4: Quincenal\n5: Mensual",
+    "value_pos": null
+  },
+  {
+    "cuadro": "66",
+    "n_q": null,
+    "desc_q": "Municipalidad que conformó el Comité Distrital de Seguridad Ciudadana, 2020",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó\n1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "P75",
+    "desc_q": "¿La Municipalidad conformó el Comité Distrital de Seguridad Ciudadana?",
+    "col": "P75",
+    "desc_col": "¿La Municipalidad conformó el Comité Distrital de Seguridad Ciudadana?",
+    "values": "1: Sí\n2: No",
+    "value_pos": 1
+  }
+]

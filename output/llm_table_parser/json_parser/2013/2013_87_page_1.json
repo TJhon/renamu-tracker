@@ -1,0 +1,92 @@
+[
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "VFI_P21",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21",
+    "desc_col": "La municipalidad tiene instrumentos de desarrollo urbano y/o rural",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_01",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Presupuesto Participativo",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_02",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Presupuesto Participativo/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_03",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Presupuesto Participativo/ Motivo por el que no tiene",
+    "values": "1.En elaboración;2.Falta de aprobación por el Concejo Municipal;3.Falta de recursos para su elaboración;4.Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_04",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_05",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_06",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Municipal Concertado/ Motivo por el que no tiene",
+    "values": "1.En elaboración;2.Falta de aprobación por el Concejo Municipal;3.Falta de recursos para su elaboración;4.Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_07",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de nivel provincial",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2013",
+    "col": "P21_08",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de nivel provincial/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

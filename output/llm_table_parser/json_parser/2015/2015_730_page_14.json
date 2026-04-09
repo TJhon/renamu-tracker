@@ -1,0 +1,128 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_8_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_8_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_8_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_8_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Costo del procedimiento (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_8_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_8_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P33A_9",
+    "desc_q": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio",
+    "col": "P33A_9",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio",
+    "values": "1:Si;2:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_9_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_9_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_9_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_9_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Costo del procedimiento (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_9_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_9_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P33A_10",
+    "desc_q": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple)",
+    "col": "P33A_10",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple)",
+    "values": "1:Si;2:No",
+    "value_pos": 1
+  }
+]

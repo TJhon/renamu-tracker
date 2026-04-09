@@ -1,0 +1,380 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_1_2_19",
+    "desc_col": "Ingresos corrientes / Venta de bienes y servicios y derechos administrativos / Otros ingresos por venta de bienes y servicios y derechos administrativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_1_3",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_1_3_1",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad real",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_1_3_2",
+    "desc_col": "Ingresos corrientes / Rentas de la propiedad / Rentas de la propiedad financiera",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_1_4",
+    "desc_col": "Ingresos corrientes / Multas y sanciones no tributarias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_1_5",
+    "desc_col": "Ingresos corrientes / Otros ingresos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_2",
+    "desc_col": "II. Ingresos de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_2_1",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de activos no producidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_2_2",
+    "desc_col": "Ingresos de capital / Venta de activos no financieros / Venta de otros activos no financieros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3",
+    "desc_col": "III. Transferencias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1_1",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Petrolero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1_2",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Sobrecanon Petrolero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1_3",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Minero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1_4",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Gasífero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1_5",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Hidroenergético",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1_6",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Pesquero",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_1_7",
+    "desc_col": "Transferencias / Canon y Sobrecanon / Canon Forestal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_2",
+    "desc_col": "Transferencias / Regalías / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_2_1",
+    "desc_col": "Transferencias / Regalías / Regalías FOCAM",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_2_2",
+    "desc_col": "Transferencias / Regalías / Regalías mineras",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_3",
+    "desc_col": "Transferencias / Fondo de Compensación Municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_4",
+    "desc_col": "Transferencias / Participación por programa de incentivos a la mejora de la gestión municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_3_5",
+    "desc_col": "Transferencias / Otros ingresos por transferencias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_4",
+    "desc_col": "IV. Financiamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_4_1",
+    "desc_col": "Financiamiento / Endeudamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C96",
+    "desc_q": "Ingresos recaudados por las municipalidades, 2020",
+    "col": "C96_4_2",
+    "desc_col": "Financiamiento / Saldos de balance",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "VFI_C97",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97",
+    "desc_col": "Total gastos (I + II + III)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_1",
+    "desc_col": "I. Gastos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_1_1",
+    "desc_col": "Gastos corrientes / Personal y obligaciones sociales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_1_2",
+    "desc_col": "Gastos corrientes / Pensiones y otras prestaciones sociales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_1_3",
+    "desc_col": "Gastos corrientes / Bienes y servicios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_1_4",
+    "desc_col": "Gastos corrientes / Donaciones y transferencias corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_1_5",
+    "desc_col": "Gastos corrientes / Otros gastos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_2",
+    "desc_col": "II. Gastos de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_2_1",
+    "desc_col": "Gastos de capital / Adquisición de activos financieros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_2_2",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_2_2_1",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Adquisición de edificios y estructuras",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_2_2_2",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Adquisición de vehículos maquinarias y otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_2_2_3",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2020",
+    "col": "C97_2_2_3_1",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones educativas",
+    "values": null,
+    "value_pos": null
+  }
+]

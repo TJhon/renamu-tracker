@@ -1,0 +1,263 @@
+[
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "VFL_P12",
+    "desc_q": "Municipalidad informante",
+    "col": "VFL_P12",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12",
+    "desc_q": "La municipalidad tiene vehículos, maquinaria y equipos",
+    "col": "P12",
+    "desc_col": "La municipalidad tiene vehículos, maquinaria y equipos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_01",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Camioneta y auto",
+    "col": "P12_O_01",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camioneta y auto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_02",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Volquete",
+    "col": "P12_O_02",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Volquete",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_03",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Camión recolector de basura",
+    "col": "P12_O_03",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camión recolector de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_04",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Camión",
+    "col": "P12_O_04",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_05",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Excavadora",
+    "col": "P12_O_05",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Excavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_06",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Retroexcavadora",
+    "col": "P12_O_06",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Retroexcavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_07",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Cargador frontal",
+    "col": "P12_O_07",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_08",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Compactadora",
+    "col": "P12_O_08",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_09",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Tractor",
+    "col": "P12_O_09",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Tractor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_10",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Motoniveladora",
+    "col": "P12_O_10",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_11",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Motocicleta",
+    "col": "P12_O_11",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_12",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Grupo electrógeno",
+    "col": "P12_O_12",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Grupo electrógeno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_13",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Rodillo",
+    "col": "P12_O_13",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Rodillo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_14",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Camión cisterna",
+    "col": "P12_O_14",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Camión cisterna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_O_15",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / Operativo / Otro",
+    "col": "P12_O_15",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / Operativo / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_01",
+    "desc_q": "Número de Vehículos, maquinaria y equipos / No Operativo / Camioneta y auto",
+    "col": "P12_N_01",
+    "desc_col": "Número de Vehículos, maquinaria y equipos / No Operativo / Camioneta y auto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_02",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Volquete",
+    "col": "P12_N_02",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Volquete",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_03",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Camión recolector de basura",
+    "col": "P12_N_03",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Camión recolector de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_04",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Camión",
+    "col": "P12_N_04",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_05",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Excavadora",
+    "col": "P12_N_05",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Excavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_06",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Retroexcavadora",
+    "col": "P12_N_06",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Retroexcavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_07",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Cargador frontal",
+    "col": "P12_N_07",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_08",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Compactadora",
+    "col": "P12_N_08",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_09",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo /Tractor",
+    "col": "P12_N_09",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo /Tractor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_10",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Motoniveladora",
+    "col": "P12_N_10",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_11",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Motocicleta",
+    "col": "P12_N_11",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "P12_N_12",
+    "desc_q": "Número de Vehículos, maquinarias y equipos / No Operativo / Grupo electrógeno",
+    "col": "P12_N_12",
+    "desc_col": "Número de Vehículos, maquinarias y equipos / No Operativo / Grupo electrógeno",
+    "values": "",
+    "value_pos": null
+  }
+]

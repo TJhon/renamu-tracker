@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_4",
+    "desc_col": "Número de licencias de edificación / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_5",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para centros comerciales, galerías comerciales y campos feriales?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_5",
+    "desc_col": "Número de licencias de edificación / Centros comerciales, galerías comerciales y campos feriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_6",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_6",
+    "desc_col": "Número de licencias de edificación / Hoteles, hostales y otros establecimientos de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_7",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para fábricas industriales",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_7",
+    "desc_col": "Número de licencias de edificación / Fábricas industriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_8",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para locales de instituciones del Estado?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_8",
+    "desc_col": "Número de licencias de edificación / Locales de instituciones del Estado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_9",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para terminales de transporte terrestre?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_9",
+    "desc_col": "Número de licencias de edificación / Terminales de transporte terrestre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_10",
+    "desc_col": "¿La municipalidad otorgó otras licencias de edificación?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_10",
+    "desc_col": "Número de licencias de edificación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_11",
+    "desc_col": "¿La municipalidad otorgó otras licencias de edificación?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_11_1",
+    "desc_col": "Número de licencias de edificación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41_12",
+    "desc_col": "¿La municipalidad otorgó otras licencias de edificación?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C33",
+    "n_q": "41",
+    "desc_q": "Licencias de edificación otorgadas por la municipalidad, 2014",
+    "col": "P41A_12_1",
+    "desc_col": "Número de licencias de edificación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2014",
+    "col": "VFI_P42",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2014",
+    "col": "P42",
+    "desc_col": "¿La municipalidad realizó verificaciones técnicas a las obras con licencia de edificación?",
+    "values": "1: Si;2: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2014",
+    "col": "P42_1",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Total de obras con licencias de edificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2014",
+    "col": "P42_2",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Obras con verificación técnica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C34",
+    "n_q": "42",
+    "desc_q": "Verificaciones técnicas que realizó la municipalidad a las obras con licencia de edificación, 2014",
+    "col": "P42_3",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Total de verificaciones técnicas realizadas a las obras",
+    "values": "",
+    "value_pos": null
+  }
+]

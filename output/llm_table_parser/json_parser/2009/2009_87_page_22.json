@@ -1,0 +1,299 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "registradas en la municipalidad, en el 2008",
+    "col": "P84",
+    "desc_col": "La municipalidad registró denuncias ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_A_01",
+    "desc_q": null,
+    "col": "P84_A_01",
+    "desc_col": "Número de denuncias atendidas / Contaminación del agua",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_A_02",
+    "desc_q": null,
+    "col": "P84_A_02",
+    "desc_col": "Número de denuncias atendidas / Contaminación del suelo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_A_03",
+    "desc_q": null,
+    "col": "P84_A_03",
+    "desc_col": "Número de denuncias atendidas / Contaminación del aire",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_A_04",
+    "desc_q": null,
+    "col": "P84_A_04",
+    "desc_col": "Número de denuncias atendidas / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_R_01",
+    "desc_q": null,
+    "col": "P84_R_01",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del agua",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_R_02",
+    "desc_q": null,
+    "col": "P84_R_02",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del suelo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_R_03",
+    "desc_q": null,
+    "col": "P84_R_03",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del aire",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P84_R_04",
+    "desc_q": null,
+    "col": "P84_R_04",
+    "desc_col": "Número de denuncias recepcionadas / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "VFI_P85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "VFI_P85",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85",
+    "desc_col": "En el distrito existen fuentes de contaminación",
+    "values": "1: Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_01",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_01",
+    "desc_col": "Fuente contaminante / Emanación de gases y partículas de fábrica o refinerías",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_02",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_02",
+    "desc_col": "Fuente contaminante / Gases de vehículos motorizados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_03",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_03",
+    "desc_col": "Fuente contaminante / Relaves mineros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_04",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_04",
+    "desc_col": "Fuente contaminante / Ruidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_05",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_05",
+    "desc_col": "Fuente contaminante / Aguas servidas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_06",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_06",
+    "desc_col": "Fuente contaminante / Acumulación y quema clandestina de basura y restrojos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_07",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_07",
+    "desc_col": "Fuente contaminante / Deforestación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_08",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_08",
+    "desc_col": "Fuente contaminante / Crianza de animales domésticos sin control",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_09",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_09",
+    "desc_col": "Fuente contaminante / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C076",
+    "n_q": "P85_O",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, 2009",
+    "col": "P85_O",
+    "desc_col": "Fuente contaminante/ Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "VFI_P86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "VFI_P86",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86",
+    "desc_col": "La municipalidad tiene instrumentos de gestión ambiental",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_01",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_01",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental local",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_02",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_02",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_03",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_03",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_04",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_04",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_05",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_05",
+    "desc_col": "Instrumentos de gestión ambiental / Sistema Local de Gestión Ambiental",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_06",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_06",
+    "desc_col": "Instrumentos de gestión ambiental / Evaluaciones ambientales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_07",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_07",
+    "desc_col": "Instrumentos de gestión ambiental / Fiscalizaciones ambientales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_08",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_08",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C077",
+    "n_q": "P86_O",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2009",
+    "col": "P86_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C078",
+    "n_q": "VFI_P87",
+    "desc_q": "Acciones que realiza la",
+    "col": "VFI_P87",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  }
+]

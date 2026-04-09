@@ -1,0 +1,362 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V2",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Costo total (V3+V4+V5)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V3",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Ingresos propios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V4",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Transferencia sector público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V5",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Transferencia sector privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V6",
+    "desc_col": "Tiempo que demoró la ejecución (En meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad",
+    "col": "V1",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Si realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad",
+    "col": "V2",
+    "desc_col": "Menos de 1,000 Kg.",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad",
+    "col": "V3",
+    "desc_col": "De 1,000 Kg. a 2,999 Kg.",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad",
+    "col": "V4",
+    "desc_col": "De 3,000 Kg. a 9,999 Kg.",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad",
+    "col": "V5",
+    "desc_col": "De 10, 000 Kg. a 49,999 Kg.",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad",
+    "col": "V6",
+    "desc_col": "De 50,000 Kg. a 99,999 Kg.",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0022",
+    "n_q": "28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad",
+    "col": "V7",
+    "desc_col": "De 100,000 Kg. a más",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0023",
+    "n_q": "29",
+    "desc_q": "Frecuencia de recojo de basura por la municipalidad",
+    "col": "V1",
+    "desc_col": "Frecuencia de recojo de basura / Diaria",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0023",
+    "n_q": "29",
+    "desc_q": "Frecuencia de recojo de basura por la municipalidad",
+    "col": "V2",
+    "desc_col": "Frecuencia de recojo de basura / Interdiaria",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0023",
+    "n_q": "29",
+    "desc_q": "Frecuencia de recojo de basura por la municipalidad",
+    "col": "V3",
+    "desc_col": "Frecuencia de recojo de basura / Semanal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V1",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Capital del distrito / Menos de 25%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V2",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Capital del distrito / De 25% a 49%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V3",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Capital del distrito / De 50% a 74%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V4",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Capital del distrito / De 75% a 100%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V5",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Resto del distrito / Menos de 25%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V6",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Resto del distrito / De 25% a 49%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V7",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Resto del distrito / De 50% a 74%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0024",
+    "n_q": "30",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad, en el distrito",
+    "col": "V8",
+    "desc_col": "Cobertura del servicio de recojo de Basura / Resto del distrito / De 75% a 100%",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "31",
+    "desc_q": "Instrumentos de planificación para el recojo de residuos sólidos que dispone la municipalidad",
+    "col": "V1",
+    "desc_col": "La municipalidad dispone de instrumentos de planificación para el recojo de residuos sólidos",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "31",
+    "desc_q": "Instrumentos de planificación para el recojo de residuos sólidos que dispone la municipalidad",
+    "col": "V2",
+    "desc_col": "Instrumento de planificación / Plan de gestión integral de residuos sólidos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "31",
+    "desc_q": "Instrumentos de planificación para el recojo de residuos sólidos que dispone la municipalidad",
+    "col": "V3",
+    "desc_col": "Instrumento de planificación / Plan municipal de residuos sólidos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "31",
+    "desc_q": "Instrumentos de planificación para el recojo de residuos sólidos que dispone la municipalidad",
+    "col": "V4",
+    "desc_col": "Instrumento de planificación / Sistema de recojo de residuos sólidos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0025",
+    "n_q": "31",
+    "desc_q": "Instrumentos de planificación para el recojo de residuos sólidos que dispone la municipalidad",
+    "col": "V5",
+    "desc_col": "Instrumento de planificación / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "32",
+    "desc_q": "Destino final de la basura recolectada por la municipalidad",
+    "col": "V1",
+    "desc_col": "Destino final de la basura recolectada (%) / Relleno sanitario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "32",
+    "desc_q": "Destino final de la basura recolectada por la municipalidad",
+    "col": "V2",
+    "desc_col": "Destino final de la basura recolectada (%) / Botadero a cielo abierto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "32",
+    "desc_q": "Destino final de la basura recolectada por la municipalidad",
+    "col": "V3",
+    "desc_col": "Destino final de la basura recolectada (%) / Vertidos en el río, laguna o el mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "32",
+    "desc_q": "Destino final de la basura recolectada por la municipalidad",
+    "col": "V4",
+    "desc_col": "Destino final de la basura recolectada (%) / Reciclaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "32",
+    "desc_q": "Destino final de la basura recolectada por la municipalidad",
+    "col": "V5",
+    "desc_col": "Destino final de la basura recolectada (%) / Quemada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0026",
+    "n_q": "32",
+    "desc_q": "Destino final de la basura recolectada por la municipalidad",
+    "col": "V6",
+    "desc_col": "Destino final de la basura recolectada (%) / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "33",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad realizó operativos de control",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "33",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Operativos de Control / Aseo, higiene y salubridad",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "33",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Operativos de Control / Carné de sanidad",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "33",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2005",
+    "col": "V4",
+    "desc_col": "Operativos de Control / Servicios higiénicos públicos",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "33",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2005",
+    "col": "V5",
+    "desc_col": "Operativos de Control / Fumigación",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0027",
+    "n_q": "33",
+    "desc_q": "Operativos de control que realizo la municipalidad, en el 2005",
+    "col": "V6",
+    "desc_col": "Operativos de Control / Anuncios",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  }
+]

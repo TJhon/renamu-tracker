@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Hospital / Clínica / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_2",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_2",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Centro de salud / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_3",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Puesto de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_3",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Puesto de salud / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_4",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio médico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_4",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Consultorio médico / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_5",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio odontológico?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_5",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Consultorio odontológico / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_6",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Casa de reposo / Asilo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_6",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Casa de reposo / Asilo / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_7",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de rehabilitación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_7",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Centro de rehabilitación / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_8",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Farmacia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_8",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Farmacia / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_9",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_9",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botica / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68_10",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Botiquín comunal?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "68",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2018",
+    "col": "P68A_10",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botiquín comunal / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "VFI_P69",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_1",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud preventiva",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_2",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de vacunación",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_3",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de educación sanitaria",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_4",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de primeros auxilios",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_5",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de control de epidemias",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_6",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de profilaxis local",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C_19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_7",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de fumigación",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  }
+]

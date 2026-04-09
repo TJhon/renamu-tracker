@@ -1,0 +1,197 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P75_8",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por Organización No Gubernamental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P75_9",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P75_9_O",
+    "desc_col": "Acciones para prevenir el consumo de drogas y alcohol / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "76"
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "VFI_P76",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76_1",
+    "desc_col": "¿La municipalidad registró organizaciones de seguridad vecinal y comunal / Ronda Urbana?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76A_1",
+    "desc_col": "Número de organizaciones que registró la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76_2",
+    "desc_col": "¿La municipalidad registró organizaciones de seguridad vecinal y comunal / Ronda Campesina?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76A_2",
+    "desc_col": "Número de organizaciones que registró la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76_3",
+    "desc_col": "¿La municipalidad registró organizaciones de seguridad vecinal y comunal / Comité Vecinal?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76A_3",
+    "desc_col": "Número de organizaciones que registró la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76_4",
+    "desc_col": "¿La municipalidad registró organizaciones de seguridad vecinal y comunal / Comité de Autodefensa?",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76A_4",
+    "desc_col": "Número de organizaciones que registró la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76_5",
+    "desc_col": "¿La municipalidad registró organizaciones de seguridad vecinal y comunal / Otro?",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76_O",
+    "desc_col": "Número de organizaciones que registró la municipalidad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "76",
+    "desc_q": "Organizaciones de seguridad vecinal y comunal registradas en la municipalidad, 2015",
+    "col": "P76A_O",
+    "desc_col": "Número de organizaciones que registró la municipalidad/ Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "77"
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "77",
+    "desc_q": "La municipalidad Conformó el Comité Provincial/Distrital de Seguridad Ciudadana, en el 2014",
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "77",
+    "desc_q": "La municipalidad Conformó el Comité Provincial/Distrital de Seguridad Ciudadana, en el 2014",
+    "col": "P77",
+    "desc_col": "¿La Municipalidad conformó el Comité Provincial/Distrital de Seguridad Ciudadana?",
+    "values": "1: Conformó;0: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "77",
+    "desc_q": "La municipalidad Conformó el Comité Provincial/Distrital de Seguridad Ciudadana, en el 2014",
+    "col": "P77_1",
+    "desc_col": "La municipalidad conformó el Comité/ Sí y designó a su Secretario Técnico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "77",
+    "desc_q": "La municipalidad Conformó el Comité Provincial/Distrital de Seguridad Ciudadana, en el 2014",
+    "col": "P77_2",
+    "desc_col": "La municipalidad conformó el Comité/ Sí y no designó a su Secretario Técnico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P78",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P77",
+    "desc_col": "¿La Municipalidad conformó el Comité",
+    "values": "1: Conformó",
+    "value_pos": 1
+  }
+]

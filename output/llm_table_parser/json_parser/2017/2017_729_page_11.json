@@ -1,0 +1,97 @@
+[
+  {
+    "col": "P24_15",
+    "desc_col": "Requerimiento de capacitación / Gobierno Electrónico Municipal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_16",
+    "desc_col": "Requerimiento de capacitación / Metodología de Simplificación Administrativa Pública",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_17",
+    "desc_col": "Requerimiento de capacitación / Metodología de Implementación de Portal de Transparencia Estándar",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_18",
+    "desc_col": "Requerimiento de capacitación / Aplicación de las Normas Contables en la Gestión Municipal con incidencia en la Norma Internacional de Contabilidad del Sector Público (NICSP)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_19",
+    "desc_col": "Requerimiento de capacitación / Indicadores de Gestión Municipal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_20",
+    "desc_col": "Requerimiento de capacitación / Sistema de Registro Nacional del Artesano",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_21",
+    "desc_col": "Requerimiento de capacitación / Evaluación del Riesgo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_22",
+    "desc_col": "Requerimiento de capacitación / Estrategia de Gestión Financiera del Riesgo de Desastres",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_23",
+    "desc_col": "Requerimiento de capacitación / Plan de Reasentamiento Poblacional",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_24",
+    "desc_col": "Requerimiento de capacitación / Plan Integral de Reconstrucción",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_25",
+    "desc_col": "Requerimiento de capacitación / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P24_25_O",
+    "desc_col": "Requerimiento de capacitación / Otro / Especifique"
+  },
+  {
+    "h2": "VFI_C115"
+  },
+  {
+    "col": "VFI_C115",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "col": "C115",
+    "desc_col": "Total Ingresos (I+II+III+IV)"
+  },
+  {
+    "col": "C115_1",
+    "desc_col": "I. Ingresos corrientes"
+  },
+  {
+    "col": "C115_1_1",
+    "desc_col": "Impuestos y contribuciones obligatorias / Total"
+  },
+  {
+    "col": "C115_1_1_1",
+    "desc_col": "Impuestos y contribuciones obligatorias / Predial"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_N_08",
+    "desc_col": "Procedimiento administrativo / Acceso a la información pública (Copia fotostática simple) / Número de requerimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_01",
+    "desc_col": "Procedimiento administrativo / Licencia de funcionamiento con ITSDC Básica Ex Post (establecimientos con área de hasta 100 m²) / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_02",
+    "desc_col": "Procedimiento administrativo / Licencia de edificación (Modalidad B) / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_03",
+    "desc_col": "Procedimiento administrativo / Carné de sanidad para venta de alimentos / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_04",
+    "desc_col": "Procedimiento administrativo / Autorización para interferir temporalmente el tránsito en la vía pública / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_05",
+    "desc_col": "Procedimiento administrativo / Copia certificada de partida de nacimiento / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_06",
+    "desc_col": "Procedimiento administrativo / Copia certificada de partida de defunción / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_07",
+    "desc_col": "Procedimiento administrativo / Copia certificada de partida de matrimonio / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "27",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad en el 2013",
+    "col": "P27_P_08",
+    "desc_col": "Procedimiento administrativo / Acceso a la información pública (Copia fotostática simple) / Plazo de atención",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V28",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / La iglesia",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V29",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Organismo internacional",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V30",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Otro Privado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad ha recibido transferencia de proyectos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Electrificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V4",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V5",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Aulas escolares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V6",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / infraestructura vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V7",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Pequeños sistemas de riego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0046",
+    "n_q": "52",
+    "desc_q": "Proyectos de infraestructura social y productiva transferidos a la municipalidad, en el 2005",
+    "col": "V8",
+    "desc_col": "Población beneficiada con proyectos de infraestructura social y productiva / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V1",
+    "desc_col": "El distrito tiene problemas que afectan la seguridad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V2",
+    "desc_col": "Problemas que afectan la seguridad / Robo en viviendas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V3",
+    "desc_col": "Problemas que afectan la seguridad / Robos en las calles",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V4",
+    "desc_col": "Problemas que afectan la seguridad / Pandillaje",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V5",
+    "desc_col": "Problemas que afectan la seguridad / Drogadicción",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V6",
+    "desc_col": "Problemas que afectan la seguridad / Alcoholismo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V7",
+    "desc_col": "Problemas que afectan la seguridad / Prostitución",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V8",
+    "desc_col": "Problemas que afectan la seguridad / Narcotráfico",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V9",
+    "desc_col": "Problemas que afectan la seguridad / Terrorismo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V10",
+    "desc_col": "Problemas que afectan la seguridad / Abigeato",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0047",
+    "n_q": "53",
+    "desc_q": "Problemas que afectan al seguridad en el distrito",
+    "col": "V11",
+    "desc_col": "Problemas que afectan la seguridad / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "54",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene registradas organizaciones de seguridad vecinal",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "54",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2005",
+    "col": "V2",
+    "desc_col": "Organizaciones de seguridad vecinal / Ronda Urbana",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "54",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2005",
+    "col": "V3",
+    "desc_col": "Organizaciones de seguridad vecinal / Ronda Campesina",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "54",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2005",
+    "col": "V4",
+    "desc_col": "Organizaciones de seguridad vecinal / Comité Vecinal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "54",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2005",
+    "col": "V5",
+    "desc_col": "Organizaciones de seguridad vecinal / Comité de Autodefensa",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0048",
+    "n_q": "54",
+    "desc_q": "Organizaciones de seguridad vecinal registradas en la municipalidad, al 2005",
+    "col": "V6",
+    "desc_col": "Organizaciones de seguridad vecinal / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0049",
+    "n_q": "55",
+    "desc_q": "Serenazgo de la municipalidad, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene serenazgo",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0049",
+    "n_q": "55",
+    "desc_q": "Serenazgo de la municipalidad, al 2005",
+    "col": "V2",
+    "desc_col": "Número de efectivos / Serenazgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0049",
+    "n_q": "55",
+    "desc_q": "Serenazgo de la municipalidad, al 2005",
+    "col": "V3",
+    "desc_col": "Número de Puestos de Vigilancia / Serenazgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "56",
+    "desc_q": "Conformación y funcionamiento del comité de Defensa Civil en la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "Comité de Defensa Civil / Constituido y se reúne periódicamente",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "56",
+    "desc_q": "Conformación y funcionamiento del comité de Defensa Civil en la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Comité de Defensa Civil / Funciona solo cuando hay una emergencia",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "56",
+    "desc_q": "Conformación y funcionamiento del comité de Defensa Civil en la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Comité de Defensa Civil / No se ha constituido",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "57",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad",
+    "col": "V1",
+    "desc_col": "La municipalidad dispone instrumentos técnicos de Defensa Civil",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "57",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad",
+    "col": "V2",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Plan de prevención y atención de desastres",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "57",
+    "desc_q": "Instrumentos técnicos de Defensa Civil que dispone la municipalidad",
+    "col": "V3",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Sistema de alerta temprana",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

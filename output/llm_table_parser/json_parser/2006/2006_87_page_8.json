@@ -1,0 +1,398 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V4",
+    "desc_col": "Número de beneficiarios / Comité del Programa de Vaso de Leche",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V5",
+    "desc_col": "Número de organizaciones / Comedor Popular",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V6",
+    "desc_col": "Número de beneficiarios / Comedor Popular",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V7",
+    "desc_col": "Número de organizaciones / Wawa Wasi",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Número de beneficiarios / Wawa Wasi",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Número de organizaciones / Club de Tercera Edad (Adulto Mayor)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Número de beneficiarios / Club de Tercera Edad (Adulto Mayor)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Número de organizaciones / Organizaciones Juveniles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V12",
+    "desc_col": "Número de beneficiarios / Organizaciones Juveniles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V13",
+    "desc_col": "Número de organizaciones / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V14",
+    "desc_col": "Número de beneficiarios / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "50",
+    "desc_q": "Beneficiarios del programa del vaso de leche, en el 2005",
+    "col": "V1",
+    "desc_col": "Número de beneficiarios / Niños de 0 a 6 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "50",
+    "desc_q": "Beneficiarios del programa del vaso de leche, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de beneficiarios / Niños de 7 a 13 años",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "50",
+    "desc_q": "Beneficiarios del programa del vaso de leche, en el 2005",
+    "col": "V3",
+    "desc_col": "Número de beneficiarios / Madres gestantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "50",
+    "desc_q": "Beneficiarios del programa del vaso de leche, en el 2005",
+    "col": "V4",
+    "desc_col": "Número de beneficiarios / Madres lactantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "50",
+    "desc_q": "Beneficiarios del programa del vaso de leche, en el 2005",
+    "col": "V5",
+    "desc_col": "Número de beneficiarios / Personas con TBC",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0044",
+    "n_q": "50",
+    "desc_q": "Beneficiarios del programa del vaso de leche, en el 2005",
+    "col": "V6",
+    "desc_col": "Número de beneficiarios / Adulto mayor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad recibe apoyo de instituciones en Programas Sociales",
+    "values": "1: Si recibe;0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / PRONAA",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V3",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / FONCODES",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V4",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / INFES",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V5",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Educación",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V6",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Salud",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V7",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Gobierno Regional",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V8",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Municipio/Gobierno Local",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V9",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V10",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / ONG",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V11",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Empresa privada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V12",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La comunidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V13",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La iglesia",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V14",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V15",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V16",
+    "desc_col": "La municipalidad recibe apoyo de instituciones en Obras de infraestructura",
+    "values": "1: Si recibe;0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V17",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / PRONAA",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V18",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / FONCODES",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V19",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / INFES",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V20",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V21",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V22",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Gobierno Regional",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V23",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Municipio/Gobierno Local",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V24",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Otro Público",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V25",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / ONG",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V26",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Empresa privada",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0045",
+    "n_q": "51",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, en el 2005",
+    "col": "V27",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / La comunidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

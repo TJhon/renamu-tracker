@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "VFI_P32",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "P32",
+    "desc_col": "¿La Municipalidad tiene personal exclusivo del área de administracion tributaria?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "P32_1_T",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2018 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "P32_1_M",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2018 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "P32_1_H",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2018 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "P32_2_T",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2019 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "P32_2_M",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2019 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "32",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2018 y 31 de marzo 2019",
+    "col": "P32_2_H",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2019 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2019",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2019",
+    "col": "P33_1",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y depende del Área de Administración Tributaria",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2019",
+    "col": "P33_2",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y no depende del Área de Administración Tributaria",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2019",
+    "col": "P33_3",
+    "desc_col": "No tiene área de ejecución coactiva",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "h2": "LICENCIAS OTORGADAS POR LA MUNICIPALIDAD"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34_1",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: SÍ; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34A_1",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Hoteles, hostales y otros establecimientos de hospedaje / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34_2",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Restaurantes y otros establecimientos de comidas y bebidas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34A_2",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Restaurantes y otros establecimientos de comidas y bebidas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34_3",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Agencias de viaje y de turismo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34A_3",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Agencias de viaje y de turismo/ Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34_4",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Peluquería y otros establecimientos de belleza?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2018",
+    "col": "P34A_4",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Peluquería y otros establecimientos de belleza / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P12_N_02",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Volquete",
+    "col": "P12_N_02",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Volquete",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_03",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Camión recolector de basura",
+    "col": "P12_N_03",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Camión recolector de basura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_04",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Camión",
+    "col": "P12_N_04",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Camión",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_05",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Excavadora",
+    "col": "P12_N_05",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Excavadora",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_06",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Retroexcavadora",
+    "col": "P12_N_06",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Retroexcavadora",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_07",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Cargador frontal",
+    "col": "P12_N_07",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Cargador frontal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_08",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Compactadora",
+    "col": "P12_N_08",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Compactadora",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_09",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Tractor",
+    "col": "P12_N_09",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Tractor",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_10",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Motoniveladora",
+    "col": "P12_N_10",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Motoniveladora",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_11",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Motocicleta",
+    "col": "P12_N_11",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Motocicleta",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_12",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Grupo electrógeno",
+    "col": "P12_N_12",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Grupo electrógeno",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_13",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Rodillo",
+    "col": "P12_N_13",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Rodillo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_14",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Camión cisterna",
+    "col": "P12_N_14",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Camión cisterna",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_15",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Ambulacia",
+    "col": "P12_N_15",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Ambulacia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_16",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Bote",
+    "col": "P12_N_16",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Bote",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_N_17",
+    "desc_q": "Número de vehículos, maquinarias y equipos / No operativo / Otro",
+    "col": "P12_N_17",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P12_O",
+    "desc_q": "Número de Vehículos, maquinarias y equipos /Otros/ Descripción",
+    "col": "P12_O",
+    "desc_col": "Número de Vehículos, maquinarias y equipos /Otros/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "VFI_P13",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P13",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13",
+    "desc_q": "La municipalidad tiene sistemas informáticos",
+    "col": "P13",
+    "desc_col": "La municipalidad tiene sistemas informáticos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_01",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Abastecimiento",
+    "col": "P13_01",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Abastecimiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_02",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Contabilidad",
+    "col": "P13_02",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Contabilidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_03",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Tesorería",
+    "col": "P13_03",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Tesorería",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C008",
+    "n_q": "P13_04",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Catastro",
+    "col": "P13_04",
+    "desc_col": "Sistemas informáticos que dispone la municipalidad / Catastro",
+    "values": null,
+    "value_pos": null
+  }
+]

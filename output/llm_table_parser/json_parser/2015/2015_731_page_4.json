@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_8",
+    "desc_col": "Número de operativos / Comercio ambulatorio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_9",
+    "desc_col": "¿La municipalidad realizó operativos de control de transporte urbano?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_9",
+    "desc_col": "Número de operativos / Transporte urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_10",
+    "desc_col": "¿La municipalidad realizó operativos de control de tránsito vehicular en coordinación con la PNP?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_10",
+    "desc_col": "Número de operativos / Tránsito vehicular en coordinación con la PNP",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_11",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de edificación?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_11",
+    "desc_col": "Número de operativos / Vigencia de licencia de edificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_12",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de funcionamiento?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_12",
+    "desc_col": "Número de operativos / Vigencia de licencia de funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_13",
+    "desc_col": "¿La municipalidad realizó operativos de control de emisión de humos y gases tóxicos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_13",
+    "desc_col": "Número de operativos / Emisión de humos y gases tóxicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_14",
+    "desc_col": "¿La municipalidad realizó operativos de control de ruidos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_14",
+    "desc_col": "Número de operativos / Ruidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_15",
+    "desc_col": "¿La municipalidad realizó operativos de control de certificado de inspección técnica de seguridad en edificaciones?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_15",
+    "desc_col": "Número de operativos / Certificado de inspección técnica de seguridad en edificaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52_16",
+    "desc_col": "¿La municipalidad realizó otros tipos de operativos de control?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_16",
+    "desc_col": "Número de operativos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C44",
+    "n_q": "52",
+    "desc_q": "Operativos de control que realizó la municipalidad, en el 2014",
+    "col": "P52A_16_O",
+    "desc_col": "Número de operativos / Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C45",
+    "n_q": "53",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, en el 2014",
+    "col": "VFI_P53",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C45",
+    "n_q": "53",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, en el 2014",
+    "col": "P53",
+    "desc_col": "¿La municipalidad registró vendedores ambulantes?",
+    "values": "1: Registró;2: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C45",
+    "n_q": "53",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, en el 2014",
+    "col": "P53_1_T",
+    "desc_col": "Número de vendedores ambulantes registrados en la Municipalidad / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C45",
+    "n_q": "53",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, en el 2014",
+    "col": "P53_1_M",
+    "desc_col": "Número de vendedores ambulantes registrados en la Municipalidad / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

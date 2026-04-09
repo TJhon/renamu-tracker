@@ -1,0 +1,338 @@
+[
+  {
+    "h2": "Registro Nacional de Municipalidades"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V206",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Impuestos /Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V207",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Impuestos /Casino de juego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V208",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Impuestos/ A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V209",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Impuestos /A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V210",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Impuestos /A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V211",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Impuestos /Otros impuestos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V212",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V213",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas /De administración general",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V214",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas /De educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V215",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas/ De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V216",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas /De vivienda y construcción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V217",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas /De agropecuarios y de recursos no minerales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V218",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas /De industria, minería y comercio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V219",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas/ De transportes y comunicaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V220",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Tasas/ Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V221",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Contribuciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V222",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Contribuciones /Para pensiones y obras públicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V223",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Ventas de bienes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V224",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Ventas de bienes Agropecuarios y minerales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V225",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Ventas de bienes De educación, recreación y cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V226",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Ventas de bienes De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V227",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Prestación de servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V228",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Prestación de servicios/ De transportes, comunicaciones y almacenaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V229",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Prestación de servicios/ De educación, recreación y cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V230",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Prestación de servicios/ De salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V231",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Prestación de servicios /Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V232",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Renta de la propiedad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V233",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad real",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V234",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad real /Canon",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V235",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad real /Otras rentas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V236",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Renta de la propiedad /Renta de la propiedad financiera",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V237",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Multas, sanciones y otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V238",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Multas, sanciones y otros/ Multas y análogas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V239",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Multas, sanciones y otros /Sanciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V240",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Multas, sanciones y otros /Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V241",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Otros ingresos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V242",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Otros ingresos corrientes Ingresos diversos",
+    "values": "",
+    "value_pos": null
+  }
+]

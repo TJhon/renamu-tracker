@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "VFI_P93",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93",
+    "desc_col": "En el distrito existen servicios de comunicación",
+    "values": "1: Si existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_01",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Centros comunitarios telefónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_02",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Centrales telefónicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_03",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Oficinas de correo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_04",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Antena parabólica con servicios de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_05",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Antena parabólica con servicios de voz (Telefonía, radio)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_06",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Cabinas públicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_07",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "93",
+    "desc_q": "Servicios de comunicación que existen en el distrito, 2008",
+    "col": "P93_O",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "94",
+    "desc_q": "Alumbrado público interconectado a la red pública en el distrito, 2008",
+    "col": "VFI_94",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "94",
+    "desc_q": "Alumbrado público interconectado a la red pública en el distrito, 2008",
+    "col": "P94",
+    "desc_col": "El distrito tiene alumbrado público",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "94",
+    "desc_q": "Alumbrado público interconectado a la red pública en el distrito, 2008",
+    "col": "P94_01",
+    "desc_col": "Cobertura del servicio de alumbrado público / Capital del distrito",
+    "values": "1: Total; 2: Parcial; 3: No tiene",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "94",
+    "desc_q": "Alumbrado público interconectado a la red pública en el distrito, 2008",
+    "col": "P94_02",
+    "desc_col": "Cobertura del servicio de alumbrado público / Resto del distrito",
+    "values": "1: Total; 2: Parcial; 3: No tiene",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "95",
+    "desc_q": "Red de agua potable en el distrito, 2008",
+    "col": "VFI_95",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "95",
+    "desc_q": "Red de agua potable en el distrito, 2008",
+    "col": "P95",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "96",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2008",
+    "col": "P95",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "96",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2008",
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "96",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2008",
+    "col": "P96",
+    "desc_col": "En el distrito la autoridad de salud realiza frecuencia de vigilancia y control de agua potable",
+    "values": "1: Si realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "96",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2008",
+    "col": "P96_01",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable/ Semanal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "96",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2008",
+    "col": "P96_02",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable/ Mensual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "96",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable que realiza la autoridad en salud, en el distrito, 2008",
+    "col": "P96_03",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable/ Trimestral",
+    "values": "",
+    "value_pos": null
+  }
+]

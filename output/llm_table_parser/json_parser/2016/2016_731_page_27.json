@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P76A_7_1",
+    "desc_col": "Serenazgo dispone de equipamiento / Canes / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P76_8",
+    "desc_col": "¿El serenazgo dispone de equipamiento / Otros",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P76_8_1",
+    "desc_col": "Serenazgo dispone de equipamiento / Otros / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P76_8_2",
+    "desc_col": "Serenazgo dispone de equipamiento / Otros / Número Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P76_8_3",
+    "desc_col": "Serenazgo dispone de equipamiento / Otros / Número No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P76_8_O",
+    "desc_col": "Serenazgo dispone de equipamiento / Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "77",
+    "desc_q": "El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú, 2016",
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "77",
+    "desc_q": "El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú, 2016",
+    "col": "P74",
+    "desc_col": "¿La Municipalidad brinda el servicio de Serenazgo?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C71",
+    "n_q": "77",
+    "desc_q": "El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú, 2016",
+    "col": "P77",
+    "desc_col": "¿El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú?",
+    "values": "1: Realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "VFI_P78",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P74",
+    "desc_col": "¿La Municipalidad brinda el servicio de Serenazgo?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P77",
+    "desc_col": "¿El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú?",
+    "values": "1: Realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P78_1",
+    "desc_col": "Modalidad del patrullaje / Auto y/o camioneta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P78_2",
+    "desc_col": "Modalidad del patrullaje / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P78_3",
+    "desc_col": "Modalidad del patrullaje / A pie",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P78_4",
+    "desc_col": "Modalidad del patrullaje / Otra modalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C72",
+    "n_q": "78",
+    "desc_q": "Modalidad del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P78_4_O",
+    "desc_col": "Modalidad del patrullaje / Otra modalidad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C73",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C73",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P74",
+    "desc_col": "¿La Municipalidad brinda el servicio de Serenazgo?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C73",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P77",
+    "desc_col": "El serenazgo realiza patrullaje integrado con la Policía Nacional del Perú",
+    "values": "1: Realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C73",
+    "n_q": "79",
+    "desc_q": "Frecuencia del patrullaje integrado del serenazgo con la Policía Nacional del Perú, 2016",
+    "col": "P79_1",
+    "desc_col": "Frecuencia del patrullaje integrado / Diaria",
+    "values": "",
+    "value_pos": null
+  }
+]

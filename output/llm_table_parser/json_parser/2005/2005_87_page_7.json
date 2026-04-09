@@ -1,0 +1,443 @@
+[
+  {
+    "cuadro": "37",
+    "n_q": null,
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2003 y 2004",
+    "col": "tipo_obra",
+    "desc_col": "Tipo de obra",
+    "values": "1: Educación;2: Salud;3: Trasporte y comunicaciones;4: Electricidad, agua y alcantarillado;5: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": "V1",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2003 y 2004",
+    "col": "v1",
+    "desc_col": "Nombre de la Obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": "V2",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2003 y 2004",
+    "col": "v2",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Costo total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": "V3",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2003 y 2004",
+    "col": "v3",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Ingresos propios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": "V4",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2003 y 2004",
+    "col": "v4",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Transferencia sector público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": "V5",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2003 y 2004",
+    "col": "v5",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Transferencia sector privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "37",
+    "n_q": "V6",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2003 y 2004",
+    "col": "v6",
+    "desc_col": "Costo de la obra según fuente de financiamiento (Nuevos soles) / Tiempo de duración (En meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": null,
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v1",
+    "desc_col": "El distrito tiene locales",
+    "values": "1: Si tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V21",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v21",
+    "desc_col": "Número de locales / Municipal / Hogares de Niños y Niñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V22",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v22",
+    "desc_col": "Número de locales / Otra entidad pública / Hogares de Niños y Niñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V23",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v23",
+    "desc_col": "Número de locales / Sector privado / Hogares de Niños y Niñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V24",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v24",
+    "desc_col": "Población beneficiaria estimada / Hogares de Niños y Niñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V31",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v31",
+    "desc_col": "Número de locales / Municipal / Casa Hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V32",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v32",
+    "desc_col": "Número de locales / Otra entidad pública / Casa Hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V33",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v33",
+    "desc_col": "Número de locales / Sector privado / Casa Hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V34",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v34",
+    "desc_col": "Población beneficiaria estimada / Casa Hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V41",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v41",
+    "desc_col": "Número de locales / Municipal / Asilos y Albergues",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V42",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v42",
+    "desc_col": "Número de locales / Otra entidad pública / Asilos y Albergues",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V43",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v43",
+    "desc_col": "Número de locales / Sector privado / Asilos y Albergues",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V44",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v44",
+    "desc_col": "Población beneficiaria estimada / Asilos y Albergues",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V51",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v51",
+    "desc_col": "Número de locales / Municipal / Centros de Cuidado Diurno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V52",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v52",
+    "desc_col": "Número de locales / Otra entidad pública / Centros de Cuidado Diurno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V53",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v53",
+    "desc_col": "Número de locales / Sector privado / Centros de Cuidado Diurno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V54",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v54",
+    "desc_col": "Población beneficiaria estimada / Centros de Cuidado Diurno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V61",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v61",
+    "desc_col": "Número de locales / Municipal / Centros de Cuidado Comunal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V62",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v62",
+    "desc_col": "Número de locales / Otra entidad pública / Centros de Cuidado Comunal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V63",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v63",
+    "desc_col": "Número de locales / Sector privado / Centros de Cuidado Comunal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V64",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v64",
+    "desc_col": "Población beneficiaria estimada / Centros de Cuidado Comunal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V71",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v71",
+    "desc_col": "Número de locales / Municipal / Casas de Estancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V72",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v72",
+    "desc_col": "Número de locales / Otra entidad pública / Casas de Estancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V73",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v73",
+    "desc_col": "Número de locales / Sector privado / Casas de Estancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V74",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v74",
+    "desc_col": "Población beneficiaria estimada / Casas de Estancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V81",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v81",
+    "desc_col": "Número de locales / Municipal / DEMUNA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V82",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v82",
+    "desc_col": "Número de locales / Otra entidad pública / DEMUNA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V83",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v83",
+    "desc_col": "Número de locales / Sector privado / DEMUNA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V84",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v84",
+    "desc_col": "Población beneficiaria estimada / DEMUNA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V91",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v91",
+    "desc_col": "Número de locales / Municipal / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V92",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v92",
+    "desc_col": "Número de locales / Otra entidad pública / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V93",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v93",
+    "desc_col": "Número de locales / Sector privado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "38",
+    "n_q": "V94",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2004",
+    "col": "v94",
+    "desc_col": "Población beneficiaria estimada / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "39",
+    "n_q": null,
+    "desc_q": "Mercado de abastos construidos en el distrito, en el período 2003 - 2004",
+    "col": "v1",
+    "desc_col": "Nombre del mercado de abastos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "39",
+    "n_q": "V2",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el período 2003 - 2004",
+    "col": "v2",
+    "desc_col": "Número de puestos / Fijos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "39",
+    "n_q": "V3",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el período 2003 - 2004",
+    "col": "v3",
+    "desc_col": "Número de puestos / En actividad u operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "39",
+    "n_q": "V4",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el período 2003 - 2004",
+    "col": "v4",
+    "desc_col": "Número de comerciantes registrados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "39",
+    "n_q": "V5",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el período 2003 - 2004",
+    "col": "v5",
+    "desc_col": "Condición de propiedad / Municipal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "39",
+    "n_q": "V6",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el período 2003 - 2004",
+    "col": "v6",
+    "desc_col": "Condición de propiedad / Privado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "40",
+    "n_q": null,
+    "desc_q": "Recojo de basura por la municipalidad",
+    "col": "v1",
+    "desc_col": "La Municipalidad realiza recojo de basura",
+    "values": "1: Si realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "40",
+    "n_q": "V2",
+    "desc_q": "Recojo de basura por la municipalidad",
+    "col": "v2",
+    "desc_col": "Cantidad promedio diario de basura recolectada ( En Kilogramos)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "41",
+    "n_q": null,
+    "desc_q": "Frecuencia de recojo de basura",
+    "col": "v1",
+    "desc_col": "Frecuencia de recojo de basura / Diaria",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

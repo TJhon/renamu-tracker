@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68",
+    "desc_col": "¿La municipalidad brindó el servicio de DEMUNA?",
+    "values": "1: Brindó;2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_1",
+    "desc_col": "¿La municipalidad atendió casos por alimentos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_1",
+    "desc_col": "Número de casos atendidos / Alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_2",
+    "desc_col": "¿La municipalidad atendió casos por tenencia de hijas o hijos?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_2",
+    "desc_col": "Número de casos atendidos / Tenencia de hijas o hijos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_3",
+    "desc_col": "¿La municipalidad atendió casos por régimen de visitas?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_3",
+    "desc_col": "Número de casos atendidos / Régimen de visitas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_4",
+    "desc_col": "¿La municipalidad atendió casos por normas de comportamiento?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_4",
+    "desc_col": "Número de casos atendidos / Normas de comportamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_5",
+    "desc_col": "¿La municipalidad atendió casos de reconocimiento voluntario de la filiación?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_5",
+    "desc_col": "Número de casos atendidos / Reconocimiento voluntario de la filiación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_6",
+    "desc_col": "¿La municipalidad atendió casos de violencia hacia niñas, niños y adolescentes en el hogar?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_6",
+    "desc_col": "Número de casos atendidos / Violencia hacia niñas, niños y adolescentes en el hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_7",
+    "desc_col": "¿La municipalidad atendió casos de violencia hacia niñas, niños o adolescentes en la Institución educativa por otra(o) niña, niño o adolescente (bullying)?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_7",
+    "desc_col": "Número de casos atendidos / Violencia hacia niñas, niños o adolescentes en la Institución educativa por otra(o) niña, niño o adolescente (bullying)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_8",
+    "desc_col": "¿La municipalidad atendió casos de violencia hacia niñas, niños y adolescentes fuera del hogar?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_8",
+    "desc_col": "Número de casos atendidos / Violencia hacia niñas, niños y adolescentes fuera del hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68_9",
+    "desc_col": "¿La municipalidad atendió casos relacionados al nombre e identidad?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C60",
+    "n_q": "68",
+    "desc_q": "Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) que brinda por la municipalidad y casos atendidos, en el 2014",
+    "col": "P68A_9",
+    "desc_col": "Número de casos atendidos / Relacionados al nombre e identidad",
+    "values": "",
+    "value_pos": null
+  }
+]

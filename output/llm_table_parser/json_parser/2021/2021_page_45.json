@@ -1,0 +1,226 @@
+[
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_9_O",
+    "desc_col": "Elemento contaminante / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "83",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2021",
+    "col": "P97_10",
+    "desc_col": "Elemento contaminante / No existen elementos contaminantes",
+    "values": "0: Pase; 10: Si",
+    "value_pos": 10
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_1",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local (PAL)",
+    "values": "0: Pase; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_2",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental Local (DAL)",
+    "values": "0: Pase; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_3",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local (PAAL)",
+    "values": "0: Pase; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_4",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local (AAL)",
+    "values": "0: Pase; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_5",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Anual de Evaluación y Fiscalización Ambiental (PLANEFA)",
+    "values": "0: Pase; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_6",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Nacional de Educación Ambiental (PLANEA)",
+    "values": "0: Pase; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_7",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción en Género y Cambio Climatológico (PAGCC)",
+    "values": "0: Pase; 7: Si",
+    "value_pos": 7
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_8",
+    "desc_col": "Instrumentos de gestión ambiental / Estrategia Nacional de Bosques y Cambio Climático",
+    "values": "0: Pase; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_9",
+    "desc_col": "Instrumentos de gestión ambiental / Plan Director de Áreas Naturales Protegidas",
+    "values": "0: Pase; 9: Si",
+    "value_pos": 9
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_10",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "0: Pase; 10: Si",
+    "value_pos": 10
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_10_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "84",
+    "desc_q": "Municipalidad que tiene implementado instrumentos de gestión ambiental, 2021",
+    "col": "P98_11",
+    "desc_col": "Instrumentos de gestión ambiental / No tiene",
+    "values": "0: Pase; 11: Si",
+    "value_pos": 11
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_1",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "0: Pase; 1: Si",
+    "value_pos": 1
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_2",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "0: Pase; 2: Si",
+    "value_pos": 2
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_3",
+    "desc_col": "Acciones realizadas / Ejecutó proyectos ambientales",
+    "values": "0: Pase; 3: Si",
+    "value_pos": 3
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_4",
+    "desc_col": "Acciones realizadas / Dispone de Comisión Ambiental Municipal",
+    "values": "0: Pase; 4: Si",
+    "value_pos": 4
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_5",
+    "desc_col": "Acciones realizadas / Apoyó en la formulación de proyectos sobre problemática ambiental",
+    "values": "0: Pase; 5: Si",
+    "value_pos": 5
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_6",
+    "desc_col": "Acciones realizadas / Convenios interinstitucionales",
+    "values": "0: Pase; 6: Si",
+    "value_pos": 6
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_7",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "0: Pase; 7: Si",
+    "value_pos": 7
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_8",
+    "desc_col": "Acciones realizadas / Atención y apoyo a denuncias ambientales por la población",
+    "values": "0: Pase; 8: Si",
+    "value_pos": 8
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_9",
+    "desc_col": "Acciones realizadas / Realizó mediciones acústicas con sonómetro",
+    "values": "0: Pase; 9: Si",
+    "value_pos": 9
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_10",
+    "desc_col": "Acciones realizadas / Otro",
+    "values": "0: Pase; 10: Si",
+    "value_pos": 10
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_10_O",
+    "desc_col": "Acciones realizadas / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "85",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2020",
+    "col": "P99_11",
+    "desc_col": "Acciones realizadas / No realizó",
+    "values": "0: Pase; 11: Si",
+    "value_pos": 11
+  }
+]

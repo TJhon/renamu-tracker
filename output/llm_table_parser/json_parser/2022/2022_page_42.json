@@ -1,0 +1,218 @@
+[
+  {
+    "n_q": "77",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2021",
+    "col": "P77_3",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial / Distrital de Seguridad Ciudadana ha sido / Derivado al Comité Reginal / Provincial para su evaluación",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "77",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2021",
+    "col": "P77_4",
+    "desc_col": "No tiene Plan de Seguridad Ciudadana",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "78",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2021",
+    "col": "VFI_P78",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "78",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2021",
+    "col": "P78_1",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa del Delito",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "78",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2021",
+    "col": "P78_2",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa de Riesgo",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "78",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2021",
+    "col": "P78_3",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Plan de Patrullaje Integrado del Serenazgo con la Policía Nacional del Perú",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "78",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2021",
+    "col": "P78_4",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "78",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2021",
+    "col": "P78_4_O",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "78",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2021",
+    "col": "P78_5",
+    "desc_col": "El Plan de Seguridad Ciudadana no tiene instrumentos técnicos",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79_1",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Ronda Urbana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_1_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana / Registradas en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_1_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana / No registradas en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79_2",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Ronda Campesina?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_2_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina / Registradas en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_2_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Campesina / No registradas en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79_3",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Asociaciones vecinales de seguridad ciudadana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_3_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Registradas en la municipalidad / Asociaciones vecinales de seguridad ciudadana/ Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_3_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Asociaciones vecinales de seguridad ciudadana/ Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79_4",
+    "desc_col": "¿Existe en el distrito organizaciones de seguridad vecinal y comunal / Comité de Autodefensa?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_4_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Registradas en la municipalidad / Comité de Autodefensa / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_4_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Comité de Autodefensa / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79_5",
+    "desc_col": "¿Existe en el distrito organizaciones de seguridad vecinal y comunal / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_5_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Registradas en la municipalidad / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_5_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79A_5_O",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Otro /Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "79",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2022",
+    "col": "P79_6",
+    "desc_col": "¿Existe en el distrito organizaciones de seguridad vecinal y comunal / Juntas Vecinales de Seguridad Ciudadana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

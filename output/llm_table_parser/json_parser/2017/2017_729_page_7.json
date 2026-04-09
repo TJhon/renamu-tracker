@@ -1,0 +1,161 @@
+[
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "21A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P21A_1_M",
+    "desc_col": "Personal con discapacidad / Mujer / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "21A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P21A_1_H",
+    "desc_col": "Personal con discapacidad / Hombre / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "21A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P21A_2_T",
+    "desc_col": "Personal con discapacidad / Total / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "21A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P21A_2_M",
+    "desc_col": "Personal con discapacidad / Mujer / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "21A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P21A_2_H",
+    "desc_col": "Personal con discapacidad / Hombre / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P22"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "VFI_P22",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "h2": "P22"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "¿La Municipalidad tiene pensionistas?",
+    "col": "P22",
+    "desc_col": "¿La Municipalidad tiene pensionistas?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_1_T",
+    "desc_col": "Decreto Ley N°19990 / Total / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_1_M",
+    "desc_col": "Decreto Ley N°19990 / Mujer / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_1_H",
+    "desc_col": "Decreto Ley N°19990 / Hombre / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_1_T_17",
+    "desc_col": "Decreto Ley N°19990 / Total / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_1_M_17",
+    "desc_col": "Decreto Ley N°19990 / Mujer / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_1_H_17",
+    "desc_col": "Decreto Ley N°19990 / Hombre / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_2_T",
+    "desc_col": "Decreto Ley N°20530 / Total / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_2_M",
+    "desc_col": "Decreto Ley N°20530 / Mujer / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_2_H",
+    "desc_col": "Decreto Ley N°20530 / Hombre / diciembre 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "22",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2016 y al 31 de marzo 2017",
+    "col": "P22_2_T_17",
+    "desc_col": "Decreto Ley N°20530 / Total / marzo 2017",
+    "values": "",
+    "value_pos": null
+  }
+]

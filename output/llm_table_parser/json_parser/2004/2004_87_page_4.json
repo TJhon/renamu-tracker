@@ -1,0 +1,380 @@
+[
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V1",
+    "desc_col": "2002/ Municipalidad/ Km.",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V2",
+    "desc_col": "2002/ Municipalidad/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V3",
+    "desc_col": "2002/ Otras instituciones/ Km.",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V4",
+    "desc_col": "2002/ Otras instituciones/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V5",
+    "desc_col": "2003/ Municipalidad/ Km.",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V6",
+    "desc_col": "2003/ Municipalidad/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V7",
+    "desc_col": "2003/ Otras instituciones/ Km.",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "V8",
+    "desc_col": "2003/ Otras instituciones/ Costo (Nuevos soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "36",
+    "desc_q": "Reparación y construcción de pistas, veredas y caminos rurales realizadas en distrito, en el 2 002 y 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Obra",
+    "values": "1 al 2 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "V1",
+    "desc_col": "Total Obras",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "V2",
+    "desc_col": "Nombre de la Obra",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "V3",
+    "desc_col": "Costo de la obra fuente de financiamiento (Nuevos soles)/ Costo total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "V4",
+    "desc_col": "Costo de la obra fuente de financiamiento (Nuevos soles)/ Ingresos propios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "V5",
+    "desc_col": "Costo de la obra fuente de financiamiento (Nuevos soles)/ Transferencia sector publico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "V6",
+    "desc_col": "Costo de la obra fuente de financiamiento (Nuevos soles)/ Transferencia sector privado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "V7",
+    "desc_col": "Costo de la obra fuente de financiamiento (Nuevos soles)/ Tiempo de duración (En meses)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "37",
+    "desc_q": "Principales obras de construcción ejecutadas por la municipalidad en el distrito, 2002 y 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de Obra",
+    "values": "1 al 50 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "38",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen locales",
+    "values": "1: Si tienen\n0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "38",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2003",
+    "col": "V2",
+    "desc_col": "Total Locales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "38",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2003",
+    "col": "V3",
+    "desc_col": "Locales por entidad administradora/ Municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "38",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2003",
+    "col": "V4",
+    "desc_col": "Locales por entidad administradora/ Otra entidad publica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "38",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2003",
+    "col": "V5",
+    "desc_col": "Locales por entidad administradora/ Sector privado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "38",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2003",
+    "col": "V6",
+    "desc_col": "Población beneficiaria estimada",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "38",
+    "desc_q": "Locales para la protección del niño, adolescente y adulto mayor, al 2003",
+    "col": "Cod_Categroia",
+    "desc_col": "Tipo de local",
+    "values": "1 al 8 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "39",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el 2002 y 2003",
+    "col": "V1",
+    "desc_col": "Total mercado de abastos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "39",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el 2002 y 2003",
+    "col": "V2",
+    "desc_col": "Nombre del mercado de abastos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "39",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el 2002 y 2003",
+    "col": "V3",
+    "desc_col": "Puestos del mercado de abastos/ Fijos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "39",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el 2002 y 2003",
+    "col": "V4",
+    "desc_col": "Puestos del mercado de abastos/ En actividad u operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "39",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el 2002 y 2003",
+    "col": "V5",
+    "desc_col": "Comerciantes registrados",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "39",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el 2002 y 2003",
+    "col": "V6",
+    "desc_col": "Condición de propiedad/ Municipal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "39",
+    "desc_q": "Mercado de abastos construidos en el distrito, en el 2002 y 2003",
+    "col": "V7",
+    "desc_col": "Condición de propiedad/ Privado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0036",
+    "n_q": "40",
+    "desc_q": "Recojo de basura por la Municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que realizaron recojo de basura",
+    "values": "1: Si realizaron\n0: No realizaron",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0036",
+    "n_q": "40",
+    "desc_q": "Recojo de basura por la Municipalidad",
+    "col": "V2",
+    "desc_col": "Cantidad promedio diario de basura recolectada ( En Kilogramos)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0037",
+    "n_q": "41",
+    "desc_q": "Frecuencia de recojo de basura por la Municipalidad",
+    "col": "V1",
+    "desc_col": "Frecuencia de recojo de basura/ Diaria",
+    "values": "1: Si\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0037",
+    "n_q": "41",
+    "desc_q": "Frecuencia de recojo de basura por la Municipalidad",
+    "col": "V2",
+    "desc_col": "Frecuencia de recojo de basura/ Interdiaria",
+    "values": "1: Si\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0037",
+    "n_q": "41",
+    "desc_q": "Frecuencia de recojo de basura por la Municipalidad",
+    "col": "V3",
+    "desc_col": "Frecuencia de recojo de basura/ Semanal",
+    "values": "1: Si\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad",
+    "col": "V1",
+    "desc_col": "Cobertura del servicio de recojo de Basura/ Menos de 25%",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad",
+    "col": "V2",
+    "desc_col": "Cobertura del servicio de recojo de Basura/ De 25% a 49%",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad",
+    "col": "V3",
+    "desc_col": "Cobertura del servicio de recojo de Basura/ De 50% a 74%",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0038",
+    "n_q": "42",
+    "desc_q": "Cobertura del servicio de recojo de basura por la municipalidad",
+    "col": "V4",
+    "desc_col": "Cobertura del servicio de recojo de Basura/ De 75% a 100%",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0039",
+    "n_q": "43",
+    "desc_q": "Financiamiento para el recojo de Basura",
+    "col": "V1",
+    "desc_col": "Financiamiento para el recojo de Basura /Autofinanciamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0039",
+    "n_q": "43",
+    "desc_q": "Financiamiento para el recojo de Basura",
+    "col": "V2",
+    "desc_col": "Financiamiento para el recojo de Basura/ Apoyo de otras instituciones",
+    "values": null,
+    "value_pos": null
+  }
+]

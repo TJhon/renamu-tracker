@@ -1,0 +1,293 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P20_01",
+    "desc_q": "Capacitación que requiere / Administración, contabilidad y finanzas",
+    "col": "P20_01",
+    "desc_col": "Capacitación que requiere / Administración, contabilidad y finanzas",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_02",
+    "desc_q": "Capacitación que requiere / Política y gestión municipal",
+    "col": "P20_02",
+    "desc_col": "Capacitación que requiere / Política y gestión municipal",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_03",
+    "desc_q": "Capacitación que requiere / Legislación municipal",
+    "col": "P20_03",
+    "desc_col": "Capacitación que requiere / Legislación municipal",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_04",
+    "desc_q": "Capacitación que requiere / Registro Civil",
+    "col": "P20_04",
+    "desc_col": "Capacitación que requiere / Registro Civil",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_05",
+    "desc_q": "Capacitación que requiere / Plan Estratégico y planificación operativa",
+    "col": "P20_05",
+    "desc_col": "Capacitación que requiere / Plan Estratégico y planificación operativa",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_06",
+    "desc_q": "Capacitación que requiere / Gestión ambiental",
+    "col": "P20_06",
+    "desc_col": "Capacitación que requiere / Gestión ambiental",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_07",
+    "desc_q": "Capacitación que requiere / Defensa Civil",
+    "col": "P20_07",
+    "desc_col": "Capacitación que requiere / Defensa Civil",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_08",
+    "desc_q": "Capacitación que requiere / Seguridad Ciudadana",
+    "col": "P20_08",
+    "desc_col": "Capacitación que requiere / Seguridad Ciudadana",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_09",
+    "desc_q": "Capacitación que requiere / Estadística e indicadores municipales",
+    "col": "P20_09",
+    "desc_col": "Capacitación que requiere / Estadística e indicadores municipales",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_10",
+    "desc_q": "Capacitación que requiere / Tecnología de la Información y Comunicaciones (TIC)",
+    "col": "P20_10",
+    "desc_col": "Capacitación que requiere / Tecnología de la Información y Comunicaciones (TIC)",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_11",
+    "desc_q": "Capacitación que requiere / Informática",
+    "col": "P20_11",
+    "desc_col": "Capacitación que requiere / Informática",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_12",
+    "desc_q": "Capacitación que requiere / Organización y gestión de bibliotecas",
+    "col": "P20_12",
+    "desc_col": "Capacitación que requiere / Organización y gestión de bibliotecas",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_13",
+    "desc_q": "Capacitación que requiere / Turismo",
+    "col": "P20_13",
+    "desc_col": "Capacitación que requiere / Turismo",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_14",
+    "desc_q": "Capacitación que requiere / Derechos y desarrollo humano",
+    "col": "P20_14",
+    "desc_col": "Capacitación que requiere / Derechos y desarrollo humano",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_15",
+    "desc_q": "Capacitación que requiere / Formulación y ejecución de proyectos",
+    "col": "P20_15",
+    "desc_col": "Capacitación que requiere / Formulación y ejecución de proyectos",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_16",
+    "desc_q": "Capacitación que requiere / Promoción y desarrollo de la MYPES",
+    "col": "P20_16",
+    "desc_col": "Capacitación que requiere / Promoción y desarrollo de la MYPES",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_17",
+    "desc_q": "Capacitación que requiere / Otro",
+    "col": "P20_17",
+    "desc_col": "Capacitación que requiere / Otro",
+    "values": "0: No requiere; 1: Requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P20_O",
+    "desc_q": "Capacitación que requiere / Otro / Descripción",
+    "col": "P20_O",
+    "desc_col": "Capacitación que requiere / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "INGRESOS Y GASTOS DE LA MUNICIPALIDAD"
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "VFL_P103",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_01",
+    "desc_col": "TOTAL INGRESOS (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_02",
+    "desc_col": "I. INGRESOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_03",
+    "desc_col": "Impuestos y contribuciones obligatorias y contribuciones obligatorias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_04",
+    "desc_col": "Impuestos y contribuciones obligatorias / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_05",
+    "desc_col": "Impuestos y contribuciones obligatorias / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_06",
+    "desc_col": "Impuestos y contribuciones obligatorias / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_07",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los casinos de juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_08",
+    "desc_col": "Impuestos y contribuciones obligatorias / A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_09",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_10",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_11",
+    "desc_col": "Impuestos y contribuciones obligatorias / Otros impuestos y contribuciones obligatorias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_12",
+    "desc_col": "Contribuciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C094",
+    "n_q": null,
+    "desc_q": "Ingresos ejecutados por las municipalidades provinciales y distritales, 2011",
+    "col": "P103_13",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_7_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_7_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_8",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de matrimonio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_8_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_8_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_8_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_8_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_8_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_8_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_9",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Acceso a la información pública?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_9_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_9_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_9_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_9_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_9_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "30",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2017",
+    "col": "P30_9_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Acceso a la información pública (Copia fotostática simple) / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "VFI_P31",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "P31_1",
+    "desc_col": "Canales de atención al ciudadano / Atención en ventanilla y/o mesa de partes",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "P31_2",
+    "desc_col": "Canales de atención al ciudadano / Línea de telefonía fija y/o móvil",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "P31_3",
+    "desc_col": "Canales de atención al ciudadano / Correo electrónico",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "P31_4",
+    "desc_col": "Canales de atención al ciudadano / Buzón de Sugerencias",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  }
+]

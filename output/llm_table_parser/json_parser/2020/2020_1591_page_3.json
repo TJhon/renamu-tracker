@@ -1,0 +1,284 @@
+[
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_5",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de edificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_5",
+    "desc_col": "Operativos de control de vigencia de licencia de edificación / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_6",
+    "desc_col": "¿La municipalidad realizó operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_6",
+    "desc_col": "Operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_7",
+    "desc_col": "¿La municipalidad realizó operativos de control de anuncios publicitarios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_7",
+    "desc_col": "Operativos de control de anuncios publicitarios / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_8",
+    "desc_col": "¿La municipalidad realizó operativos de control de transporte urbano?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_8",
+    "desc_col": "Operativos de control de transporte urbano / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_9",
+    "desc_col": "¿La municipalidad realizó operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_9",
+    "desc_col": "Operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_10",
+    "desc_col": "¿La municipalidad realizó operativos de control de emisión de humos y gases tóxicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_10",
+    "desc_col": "Operativos de control de emisión de humos y gases tóxicos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_11",
+    "desc_col": "¿La municipalidad realizó operativos de control de ruidos molestos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_11",
+    "desc_col": "Operativos de control de ruidos molestos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_12",
+    "desc_col": "¿La municipalidad realizó otro tipo de operativos de control?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48A_12",
+    "desc_col": "Operativos de control / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "48",
+    "desc_q": "Municipalidad que realizó operativos de control, 2019",
+    "col": "P48_12_O",
+    "desc_col": "Operativos de control / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "49",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2020",
+    "col": "VFI_P49",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "49",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2020",
+    "col": "P49",
+    "desc_col": "¿La municipalidad tiene baños de uso público instalados en el distrito?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "49",
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2020",
+    "col": "P49_1",
+    "desc_col": "Número de baños de uso público en funcionamiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "EDUCACIÓN, CULTURA, DEPORTE Y RECREACIÓN"
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal, 2019",
+    "col": "VFI_P51",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal, 2019",
+    "col": "P51",
+    "desc_col": "¿La municipalidad tuvo biblioteca municipal?",
+    "values": "1: Sí; 2: No tuvo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal, 2019",
+    "col": "P51_1",
+    "desc_col": "Biblioteca Municipal / Número de locales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal, 2019",
+    "col": "P51_2",
+    "desc_col": "Biblioteca municipal / Número de Visitantes / Usuarios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "52",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2019",
+    "col": "VFI_P52",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "52",
+    "desc_q": "Municipalidad que brindó servicio bibliotecario, 2019",
+    "col": "P52",
+    "desc_col": "¿La municipalidad brindó servicio bibliotecario?",
+    "values": "1: Sí; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2019",
+    "col": "VFI_P53",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2019",
+    "col": "P53_1",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Lectura en sala",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2019",
+    "col": "P53A_1",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Lectura en sala / Total de usuarios del servicio de lectura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2019",
+    "col": "P53_2",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Préstamo de libros a domicilio",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "53",
+    "desc_q": "Servicios que brindó la biblioteca municipal, 2019",
+    "col": "P53_3",
+    "desc_col": "Servicios que brindó la biblioteca municipal / Biblioteca virtual",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  }
+]

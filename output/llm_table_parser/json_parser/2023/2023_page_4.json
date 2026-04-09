@@ -1,0 +1,281 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13_5",
+    "desc_col": "¿La Municipalidad cuenta con computadoras con procesador: Core i3 ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13A_5",
+    "desc_col": "Core i3 / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13_6",
+    "desc_col": "¿La Municipalidad cuenta con computadoras con procesador: Core i5 ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13A_6",
+    "desc_col": "Core i5 / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13_7",
+    "desc_col": "¿La Municipalidad cuenta con computadoras con procesador: Core i7 ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13A_7",
+    "desc_col": "Core i7 / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13_10",
+    "desc_col": "¿La Municipalidad cuenta con computadoras con procesador: Core i9 ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13A_10",
+    "desc_col": "Core i9 / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13_8",
+    "desc_col": "¿La Municipalidad cuenta con computadoras con procesador: AMD (Advanced Micro Device) ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13A_8",
+    "desc_col": "AMD (Advanced Micro Device) / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13_9",
+    "desc_col": "¿La Municipalidad cuenta con computadores con procesador: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13A_9",
+    "desc_col": "Otro / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2023",
+    "col": "P13A_9_O",
+    "desc_col": "Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2023",
+    "col": "VFI_P14",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2023",
+    "col": "P14",
+    "desc_col": "¿La municipalidad cuenta con servicio de internet?",
+    "values": "1: Sí; 2: . No cuenta con servicio de internet",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2023",
+    "col": "P14A_1",
+    "desc_col": "Número de computadoras con acceso a internet",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2023",
+    "col": "P14A_2",
+    "desc_col": "Tipo de conexión a internet",
+    "values": "1: Banda ancha inalámbrica (Wi-fi); 2: Banda ancha móvil (Modem, USB); 3: Línea digital (ADSL,DSL); 4: Satelital; 5: Cable de fibra óptica",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "VFI_P15",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15_1",
+    "desc_col": "¿La municipalidad cuenta con fotocopiadora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15A_1",
+    "desc_col": "Fotocopiadoras / Número de equipos operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15_2",
+    "desc_col": "¿La municipalidad cuenta con escáner?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15A_2",
+    "desc_col": "Escáner / Número de equipos operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15_3",
+    "desc_col": "¿La municipalidad cuenta con impresora básica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15A_3",
+    "desc_col": "Impresora básica / Número de equipos operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15_4",
+    "desc_col": "¿La municipalidad cuenta con impresora multifuncional?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15A_4",
+    "desc_col": "Impresora multifuncional / Número de equipos operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15_5",
+    "desc_col": "¿La municipalidad cuenta con proyector multimedia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15A_5",
+    "desc_col": "Proyector multimedia / Número de equipos operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15_6",
+    "desc_col": "¿La municipalidad cuenta con otro equipo de oficina?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15A_6",
+    "desc_col": "Otro / Número de equipos operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2023",
+    "col": "P15A_6_O",
+    "desc_col": "Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "VFI_P19",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19",
+    "desc_col": "La municipalidad tiene instrumento de desarrollo urbano y rural",
+    "values": "1: Si; 0: Ninguno",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_01",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de desarrollo municipal concertado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_02",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan estratégico y de desarrollo estratégico económico local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_03",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de desarrollo social",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_04",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de acondicionamiento territorial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_05",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de desarrollo urbano o plan director",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_06",
+    "desc_col": "Instrumento de gestión y desarrollo/ Esquema de zonificación de áreas urbanas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_07",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de desarrollo rural",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_08",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_09",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de gestión ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_10",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de desarrollo de asentamientos humanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_11",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de desarrollo institucional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_12",
+    "desc_col": "Instrumento de gestión y desarrollo/ Programa de inversiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_13",
+    "desc_col": "Instrumento de gestión y desarrollo/ Presupuesto participativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_14",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan operativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_15",
+    "desc_col": "Instrumento de gestión y desarrollo/ Zonificación económica, ecológica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_16",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de igualdad de oportunidades y/ o de genero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_17",
+    "desc_col": "Instrumento de gestión y desarrollo/ Plan de seguridad ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_18",
+    "desc_col": "Instrumento de gestión y desarrollo/ otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C010",
+    "n_q": "19",
+    "desc_q": "Instrumento de desarrollo y desarrollo urbano y/ o rural que dispone la Municipalidad, 2007",
+    "col": "P19_O",
+    "desc_col": "Instrumento de gestión y desarrollo/ otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "20",
+    "desc_q": "Conformación del consejo de coordinación local, 2007",
+    "col": "VFI_P20",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "20",
+    "desc_q": "Conformación del consejo de coordinación local, 2007",
+    "col": "P20",
+    "desc_col": "En la municipalidad esta conformado el consejo de coordinación local",
+    "values": "1: Si; 0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "20",
+    "desc_q": "Conformación del consejo de coordinación local, 2007",
+    "col": "P20_H_01",
+    "desc_col": "Actualmente constituido/ hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "20",
+    "desc_q": "Conformación del consejo de coordinación local, 2007",
+    "col": "P20_M_01",
+    "desc_col": "Actualmente constituido/ mujeres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Actividades que ejecutó el consejo de coordinación local, de enero al 30 de junio del 2007",
+    "col": "VFI_P21",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Actividades que ejecutó el consejo de coordinación local, de enero al 30 de junio del 2007",
+    "col": "P21",
+    "desc_col": "La municipalidad ejecuto actividades del consejo de coordinación local",
+    "values": "1: Si; 0: Ninguno",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Actividades que ejecutó el consejo de coordinación local, de enero al 30 de junio del 2007",
+    "col": "P21_01",
+    "desc_col": "Actividades que ejecutó el consejo de coordinación local/ Realizó sesiones de consejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Actividades que ejecutó el consejo de coordinación local, de enero al 30 de junio del 2007",
+    "col": "P21_02",
+    "desc_col": "Actividades que ejecutó el consejo de coordinación local/ Participa en los planes de desarrollo municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Actividades que ejecutó el consejo de coordinación local, de enero al 30 de junio del 2007",
+    "col": "P21_03",
+    "desc_col": "Actividades que ejecutó el consejo de coordinación local/ Participa en los presupuestos participativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Actividades que ejecutó el consejo de coordinación local, de enero al 30 de junio del 2007",
+    "col": "P21_04",
+    "desc_col": "Actividades que ejecutó el consejo de coordinación local/ Informa de su gestión a la sociedad civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Actividades que ejecutó el consejo de coordinación local, de enero al 30 de junio del 2007",
+    "col": "P21_05",
+    "desc_col": "Actividades que ejecutó el consejo de coordinación local/ Hace cumplir los acuerdos concertados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "VFI_P22",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "P21",
+    "desc_col": "La municipalidad emitió normas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "P21_01",
+    "desc_col": "Normas emitidas/ Ordenanza municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "P21_02",
+    "desc_col": "Normas emitidas/ Acuerdo de consejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "P21_03",
+    "desc_col": "Normas emitidas/ Decreto de alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "P21_04",
+    "desc_col": "Normas emitidas/ Resolución de consejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "P21_05",
+    "desc_col": "Normas emitidas/ Resolución de alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "22",
+    "desc_q": "Normas emitidas por las municipalidades, de enero al 30 de junio del 2007",
+    "col": "P21_06",
+    "desc_col": "Normas emitidas/ Otras",
+    "values": "",
+    "value_pos": null
+  }
+]

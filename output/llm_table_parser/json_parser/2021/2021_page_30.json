@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_7",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas solo para básquet?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_7_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas solo para básquet",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_8",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Parques zonales?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_8_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Parques zonales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_9",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Piscinas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_9_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Piscinas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_10",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Gimnasios?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_10_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Gimnasios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_11",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Otro?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_11_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "51",
+    "n_q": null,
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2021",
+    "col": "P59_11_O",
+    "desc_col": "La municipalidad administra infraestructura deportiva y/o recreativa / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "SERVICIOS SOCIALES"
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "VFI_P60A",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_1",
+    "desc_col": "¿La municipalidad informó que tiene Comité del Programa del Vaso de Leche?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_1_1",
+    "desc_col": "Comité del Programa del Vaso de Leche / Número de organizaciones al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_1_2",
+    "desc_col": "Comité del Programa del Vaso de Leche / Total de beneficiarios y/o afiliados al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_2",
+    "desc_col": "¿La municipalidad informó que tiene Comedor Popular?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_2_1",
+    "desc_col": "Comedor Popular / Número de organizaciones al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_2_2",
+    "desc_col": "Comedor Popular / Total de beneficiarios y/o afiliados al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_3",
+    "desc_col": "¿La municipalidad informó que tiene Club de Madres?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_3_1",
+    "desc_col": "Club de Madres / Número de organizaciones al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_3_2",
+    "desc_col": "Club de Madres / Total de beneficiarios y/o afiliados al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_4",
+    "desc_col": "¿La municipalidad informó que tiene Organizaciones Juveniles?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_4_1",
+    "desc_col": "Organizaciones Juveniles / Número de organizaciones al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_4_2",
+    "desc_col": "Organizaciones Juveniles / Total de beneficiarios y/o afiliados al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_5",
+    "desc_col": "¿La municipalidad informó que tiene Otras Organizaciones Sociales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_5_1",
+    "desc_col": "Otras Organizaciones Sociales / Número de organizaciones al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_5_2",
+    "desc_col": "Otras Organizaciones Sociales / Total de beneficiarios y/o afiliados al 31 de diciembre 2020",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "52A",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, al 31 de diciembre 2020",
+    "col": "P60A_5_O",
+    "desc_col": "Otras Organizaciones Sociales / Especifique",
+    "values": null,
+    "value_pos": null
+  }
+]

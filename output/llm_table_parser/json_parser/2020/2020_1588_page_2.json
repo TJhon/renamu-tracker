@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_13",
+    "desc_col": "¿La municipalidad cuenta con motoniveladora?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_13_1",
+    "desc_col": "Número de bienes / Motoniveladora / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_13_2",
+    "desc_col": "Número de bienes / Motoniveladora / No operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_14",
+    "desc_col": "¿La municipalidad cuenta con cargador frontal?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_14_1",
+    "desc_col": "Número de bienes / Cargador frontal / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_14_2",
+    "desc_col": "Número de bienes / Cargador frontal / No operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_15",
+    "desc_col": "¿La municipalidad cuenta con tractor oruga?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_15_1",
+    "desc_col": "Número de bienes / Tractor oruga / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_15_2",
+    "desc_col": "Número de bienes / Tractor oruga / No operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_16",
+    "desc_col": "¿La municipalidad cuenta con tractor agrícola?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_16_1",
+    "desc_col": "Número de bienes / Tractor agrícola / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_16_2",
+    "desc_col": "Número de bienes / Tractor agrícola / No operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_17",
+    "desc_col": "¿La municipalidad cuenta con compactadora de suelo con rodillo liso vibratorio y/o neumático?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_17_1",
+    "desc_col": "Número de bienes / Compactadora de suelo con rodillo liso vibratorio y/o neumático / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_17_2",
+    "desc_col": "Número de bienes / Compactadora de suelo con rodillo liso vibratorio y/o neumático / No Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_18",
+    "desc_col": "¿La municipalidad cuenta con otra maquinaria pesada?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_18_1",
+    "desc_col": "Número de bienes / Otra maquinaria pesada / Operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_18_2",
+    "desc_col": "Número de bienes / Otra maquinaria pesada / No operativos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11B",
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2020",
+    "col": "P11B_18_O",
+    "desc_col": "¿La municipalidad cuenta con otra maquinaria pesada? / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con líneas de telefonía instaladas y en servicio, 2020",
+    "col": "VFI_P12",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con líneas de telefonía instaladas y en servicio, 2020",
+    "col": "P12_1",
+    "desc_col": "¿La municipalidad cuenta con línea de telefonía fija instalada y en servicio (no incluye anexos) ?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con líneas de telefonía instaladas y en servicio, 2020",
+    "col": "P12A_1",
+    "desc_col": "Número de líneas de telefonía fija",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con líneas de telefonía instaladas y en servicio, 2020",
+    "col": "P12_2",
+    "desc_col": "¿La municipalidad cuenta con línea de telefonía móvil instalada y en servicio (telefonía celular) ?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "12",
+    "desc_q": "Municipalidad cuenta con líneas de telefonía instaladas y en servicio, 2020",
+    "col": "P12A_2",
+    "desc_col": "Número de líneas de telefonía móviles",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "VFI_P13",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_1",
+    "desc_col": "Pentium (I, II, III y IV) / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_2",
+    "desc_col": "Pentium D y/o Celeron / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_3",
+    "desc_col": "Core Duo y/o Core 2 Duo / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_4",
+    "desc_col": "Core 2 Quad / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_5",
+    "desc_col": "Core i3 / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_6",
+    "desc_col": "Core i5 / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_7",
+    "desc_col": "Core i7 / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_8",
+    "desc_col": "ADM (Advanced Micro Device) / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_9",
+    "desc_col": "Otro / Número de computadoras operativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "13",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2020",
+    "col": "P13A_9_O",
+    "desc_col": "Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2020",
+    "col": "VFI_P14",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó, 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2020",
+    "col": "P14",
+    "desc_col": "¿La municipalidad cuenta con servicio de internet ?",
+    "values": "1: Cuenta, 2: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2020",
+    "col": "P14A_1",
+    "desc_col": "Número de computadoras con acceso a internet",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "14",
+    "desc_q": "Servicio de internet en la municipalidad, 2020",
+    "col": "P14A_2",
+    "desc_col": "Tipo de conexión a internet",
+    "values": "1: Banda ancha inalámbrica (Wi-fi)",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "col": "P18_NH_2",
+    "desc_col": "Nombrado / Empleados / Profesionales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NH_3",
+    "desc_col": "Nombrado / Empleados / Técnicos / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NH_4",
+    "desc_col": "Nombrado / Empleados / Auxiliares / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NH_5",
+    "desc_col": "Nombrado / Obreros / De limpieza / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NH_6",
+    "desc_col": "Nombrado / Obreros / Otros / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NH_7",
+    "desc_col": "Nombrado / Personal de vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NM_1",
+    "desc_col": "Nombrado / Funcionarios y/o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_NM_2",
+    "desc_col": "Nombrado / Empleados / Profesionales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NM_3",
+    "desc_col": "Nombrado / Empleados / Técnicos / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NM_4",
+    "desc_col": "Nombrado / Empleados / Auxiliares / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NM_5",
+    "desc_col": "Nombrado / Obreros / De limpieza / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NM_6",
+    "desc_col": "Nombrado / Obreros / Otros / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_NM_7",
+    "desc_col": "Nombrado / Personal de Vigilancia / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CH_1",
+    "desc_col": "Contratado permanente / Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_CH_2",
+    "desc_col": "Contratado permanente / Empleados / Profesionales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CH_3",
+    "desc_col": "Contratado permanente / Empleados / Técnicos / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CH_4",
+    "desc_col": "Contratado permanente / Empleados / Auxiliares / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CH_5",
+    "desc_col": "Contratado permanente / Obreros / De limpieza / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CH_6",
+    "desc_col": "Contratado permanente / Obreros / Otros / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CH_7",
+    "desc_col": "Contratado permanente / Personal de vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CM_1",
+    "desc_col": "Contratado permanente / Funcionarios y/ o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_CM_2",
+    "desc_col": "Contratado permanente / Empleados / Profesionales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CM_3",
+    "desc_col": "Contratado permanente / Empleados / Técnicos / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CM_4",
+    "desc_col": "Contratado permanente / Empleados / Auxiliares / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CM_5",
+    "desc_col": "Contratado permanente / Obreros / De limpieza / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CM_6",
+    "desc_col": "Contratado permanente / Obreros / Otros / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CM_7",
+    "desc_col": "Contratado permanente / Personal de Vigilancia / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CAH_1",
+    "desc_col": "Contrato Administrativo de Servicios (CAS)/ Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_CAH_2",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Empleados / Profesionales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CAH_3",
+    "desc_col": "Contrato Administrativo de Servicios (CAS)/ Empleados / Técnicos / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CAH_4",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Empleados / Auxiliares / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CAH_5",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Obreros / De limpieza / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CAH_6",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Obreros / Otros / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CAH_7",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Personal de vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P18_CAM_1",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Funcionarios y/o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": 1
+  },
+  {
+    "col": "P18_CAM_2",
+    "desc_col": "Contrato Administrativo de Servicios (CAS)/ Empleados / Profesionales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  }
+]

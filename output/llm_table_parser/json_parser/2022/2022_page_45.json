@@ -1,0 +1,220 @@
+[
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "VFI_P88",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó"
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88",
+    "desc_col": "¿La Municipalidad tiene almacén local de Bienes de Ayuda Humanitaria?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_1",
+    "desc_col": "Bienes de Ayuda Humanitaria / Techo (carpas, calaminas, planchas de triplay y otros)",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_2",
+    "desc_col": "Bienes de Ayuda Humanitaria / Alimentos no perecibles",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_3",
+    "desc_col": "Bienes de Ayuda Humanitaria / Bidones de agua",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_4",
+    "desc_col": "Bienes de Ayuda Humanitaria / Botiquines de emergencia",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_5",
+    "desc_col": "Bienes de Ayuda Humanitaria / Abrigo (ropas, camas plegables, colchas, colchones, frazadas y otros)",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_6",
+    "desc_col": "Bienes de Ayuda Humanitaria / Enseres (utensilios de cocina, productos de higiene y otros)",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_7",
+    "desc_col": "Bienes de Ayuda Humanitaria / Herramientas (lampas, carretillas, picos y otros)",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_8",
+    "desc_col": "Bienes de Ayuda Humanitaria / Otro tipo de bien",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_8_O",
+    "desc_col": "Bienes de Ayuda Humanitaria / Otro tipo de bien / Especifique",
+    "values": ""
+  },
+  {
+    "n_q": "86",
+    "desc_q": "Almacén local de Bienes de Ayuda Humanitaria de la municipalidad, 2022",
+    "col": "P88_9",
+    "desc_col": "No Dispone de Bienes de Ayuda Humanitaria",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "VFI_P89",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó"
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89",
+    "desc_col": "¿La Municipalidad contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil?",
+    "values": "1: Sí; 2: No contó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89_1",
+    "desc_col": "Medios de comunicación / Radiotransmisor",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89_2",
+    "desc_col": "Medios de comunicación / Línea de telefonía fija",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89_3",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89_4",
+    "desc_col": "Medios de comunicación / Acceso a internet",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89_5",
+    "desc_col": "Medios de comunicación / Otro",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89_5_O",
+    "desc_col": "Medios de comunicación / Otro / Especifique",
+    "values": ""
+  },
+  {
+    "n_q": "87",
+    "desc_q": "Municipalidad que contó con Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P89_6",
+    "desc_col": "Medios de comunicación / No tiene medios de comunicación",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "VFI_P90",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó"
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_1",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Cursos de capacitación en Gestión Reactiva del Riesgo",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_2",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Simulacros para evaluar el Plan de Operaciones de Emergencia Local",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90A_2",
+    "desc_col": "Número de Simulacros",
+    "values": ""
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_3",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Identificación del nivel de riesgo existente en áreas de distrito",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_4",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Supervisión del cumplimiento de las normas de seguridad en recintos con acceso al público",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "88",
+    "desc_q": "Acciones que realizó la Unidad de Gestión del Riesgo de Desastres u Oficina de Defensa Civil, 2021",
+    "col": "P90_5",
+    "desc_col": "Acciones que realizó la Oficina de Defensa Civil / Señalización de zonas de seguridad en áreas de alto riesgo",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  }
+]

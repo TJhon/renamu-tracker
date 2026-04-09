@@ -1,0 +1,92 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P25_3_2",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local / Motivo por el que no tiene",
+    "col": "P25_3_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Económico Local / Motivo por el que no tiene",
+    "values": "2:En elaboración;3:Falta de recursos para su elaboración;4:Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_4",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Maestro de Centro Histórico",
+    "col": "P25_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Maestro de Centro Histórico",
+    "values": "1:Tiene;2:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_4_1",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Maestro de Centro Histórico / Año de publicación",
+    "col": "P25_4_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Maestro de Centro Histórico / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_4_2",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan Maestro de Centro Histórico / Motivo por el que no tiene",
+    "col": "P25_4_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Maestro de Centro Histórico / Motivo por el que no tiene",
+    "values": "1:Falta de aprobación por el Concejo Municipal;2:En elaboración;3:Falta de recursos para su elaboración;4:Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_5",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de Nivel Provincial",
+    "col": "P25_5",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de Nivel Provincial",
+    "values": "1:Tiene;2:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_5_1",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de Nivel Provincial/ Año de publicación",
+    "col": "P25_5_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de Nivel Provincial/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_5_2",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de Nivel Provincial / Motivo por el que no tiene",
+    "col": "P25_5_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Acondicionamiento Territorial de Nivel Provincial / Motivo por el que no tiene",
+    "values": "1:Falta de aprobación por el Concejo Municipal;2:En elaboración;3:Falta de recursos para su elaboración;4:Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_6",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano",
+    "col": "P25_6",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano",
+    "values": "1:Tiene;2:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_6_1",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano / Año de publicación",
+    "col": "P25_6_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P25_6_2",
+    "desc_q": "Instrumento de gestión y desarrollo que dispone /Plan de Desarrollo Urbano / Motivo por el que no tiene",
+    "col": "P25_6_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone /Plan de Desarrollo Urbano / Motivo por el que no tiene",
+    "values": "1:Falta de aprobación por el Concejo Municipal;2:En elaboración;3:Falta de recursos para su elaboración;4:Otro",
+    "value_pos": null
+  }
+]

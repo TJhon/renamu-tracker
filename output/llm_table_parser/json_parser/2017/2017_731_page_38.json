@@ -1,0 +1,170 @@
+[
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_1",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_2",
+    "desc_col": "Fenómenos naturales registrados / Aluviones",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_3",
+    "desc_col": "Fenómenos naturales registrados / Deslizamientos de tierra",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_4",
+    "desc_col": "Fenómenos naturales registrados / Derrumbes de cerros",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_5",
+    "desc_col": "Fenómenos naturales registrados / Huaycos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_6",
+    "desc_col": "Fenómenos naturales registrados / Granizadas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_7",
+    "desc_col": "Fenómenos naturales registrados / Heladas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_8",
+    "desc_col": "Fenómenos naturales registrados / Nevadas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_9",
+    "desc_col": "Fenómenos naturales registrados / Lluvias intensas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_10",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_11",
+    "desc_col": "Fenómenos naturales registrados / Inundaciones",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_12",
+    "desc_col": "Fenómenos naturales registrados / Sequías",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_13",
+    "desc_col": "Fenómenos naturales registrados / Vientos fuertes",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_14",
+    "desc_col": "Fenómenos naturales registrados / Incendios forestales",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C91",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2016",
+    "col": "P95_15",
+    "desc_col": "Fenómenos naturales registrados / Incendios urbanos",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P96",
+    "desc_q": "¿La municipalidad registró Micro y Pequeñas Empresas?",
+    "col": "P96",
+    "desc_col": "¿La municipalidad registró Micro y Pequeñas Empresas?",
+    "values": "1: Registró; 0: No registró",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P96_1",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de alimentos y bebidas?",
+    "col": "P96_1",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de alimentos y bebidas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "P96A_1_1",
+    "desc_q": "Número de MYPES dedicadas a la producción de alimentos y bebidas / Total MYPE",
+    "col": "P96A_1_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de alimentos y bebidas / Total MYPE",
+    "values": "",
+    "value_pos": null
+  }
+]

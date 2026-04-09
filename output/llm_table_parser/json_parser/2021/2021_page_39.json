@@ -1,0 +1,254 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "VFI_P76",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76_1",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Sesiones de Comité de Seguridad Ciudadana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76A_1",
+    "desc_col": "Sesiones de Comité de Seguridad Ciudadana / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76_2",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Consultas públicas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76A_2",
+    "desc_col": "Consultas públicas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76_3",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Capacitación a los efectivos de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76A_3",
+    "desc_col": "Capacitaciones a efectivos de serenazgo / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76_4",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76A_4",
+    "desc_col": "Operativos conjuntos de prevención de delitos y faltas (Municipio, PNP, Fiscalía) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76_5",
+    "desc_col": "¿El Comité Distrital de Seguridad Ciudadana realizó Capacitación en la elaboración del Mapa del Delito?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76A_5",
+    "desc_col": "Capacitaciones en la elaboración del Mapa del Delito / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76_6",
+    "desc_col": "¿El Comité Distrital de seguridad ciudadana realizó Difusión de anuncios de seguridad ciudadana en la página web y/o redes sociales de la municipalidad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "67",
+    "desc_q": "El Comité Distrital de Seguridad Ciudadana realizó actividades, 2020",
+    "col": "P76_7",
+    "desc_col": "¿El Comité Distrital de seguridad ciudadana realizó Recuperación de espacios públicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2020",
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2020",
+    "col": "P77_1",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana ha sido / Ratificado mediante Ordenanza Municipal",
+    "values": "0: Pase; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2020",
+    "col": "P77_2",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana ha sido / Articulado al Plan Operativo Institucional",
+    "values": "0: Pase; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2020",
+    "col": "P77_3",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana ha sido / Derivado al Comité Provincial para su evaluación",
+    "values": "0: Pase; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "68",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Distrital de Seguridad Ciudadana, 2020",
+    "col": "P77_4",
+    "desc_col": "No tiene Plan de Seguridad Ciudadana",
+    "values": "0: Pase; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2020",
+    "col": "VFI_P78",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2020",
+    "col": "P78_1",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa del Delito",
+    "values": "0: Pase; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2020",
+    "col": "P78_2",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Mapa de Riesgo",
+    "values": "0: Pase; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2020",
+    "col": "P78_3",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Plan de Patrullaje Integrado del Serenazgo con la Policía Nacional del Perú",
+    "values": "0: Pase; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2020",
+    "col": "P78_4",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro",
+    "values": "0: Pase; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2020",
+    "col": "P78_4_O",
+    "desc_col": "Instrumento técnico que contiene el Plan de Seguridad Ciudadana / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "69",
+    "desc_q": "Instrumentos técnicos que contiene el Plan de Seguridad Ciudadana, 2020",
+    "col": "P78_5",
+    "desc_col": "El Plan de Seguridad Ciudadana no tiene instrumentos técnicos",
+    "values": "0: Pase; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2021",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2021",
+    "col": "P79_1",
+    "desc_col": "¿Existen en el distrito organizaciones de seguridad vecinal y comunal / Ronda Urbana?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "70",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2021",
+    "col": "P79A_1_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Ronda Urbana / Registradas en la municipalidad / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

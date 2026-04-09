@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_6_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_6_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_6_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_6_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_7",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de nacimiento?",
+    "values": "1:Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_7_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_7_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_7_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_7_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_7_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_7_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_8",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de defunción?",
+    "values": "1:Si;2: No",
+    "value_pos": 1
+  }
+]

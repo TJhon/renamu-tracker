@@ -1,0 +1,167 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P73_O",
+    "desc_col": "Programa de Control y Prevención de la salud / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SEGURIDAD CIUDADANA"
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "VFI_P74",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74",
+    "desc_col": "¿En el distrito existen problemas que afectan la Seguridad Ciudadana?",
+    "values": "1: Existen;0: No existen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_1",
+    "desc_col": "Problemas que afectan la seguridad / Robo en viviendas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_2",
+    "desc_col": "Problemas que afectan la seguridad / Robos en las calles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_3",
+    "desc_col": "Problemas que afectan la seguridad / Robo de vehículos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_4",
+    "desc_col": "Problemas que afectan la seguridad / Robo de autopartes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_5",
+    "desc_col": "Problemas que afectan la seguridad / Robo de establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_6",
+    "desc_col": "Problemas que afectan la seguridad / Asalto con arma de fuego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_7",
+    "desc_col": "Problemas que afectan la seguridad / Actos de vandalismo (Pandillaje, barras bravas)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_8",
+    "desc_col": "Problemas que afectan la seguridad / Drogadicción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_9",
+    "desc_col": "Problemas que afectan la seguridad / Alcoholismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_10",
+    "desc_col": "Problemas que afectan la seguridad / Prostitución",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_11",
+    "desc_col": "Problemas que afectan la seguridad / Narcotráfico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_12",
+    "desc_col": "Problemas que afectan la seguridad / Microcomercialización de drogas (PBC, cocaína, marihuana, etc.)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_13",
+    "desc_col": "Problemas que afectan la seguridad / Violación sexual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_14",
+    "desc_col": "Problemas que afectan la seguridad / Acoso y/o actos contra el pudor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "74",
+    "desc_q": "Principales problemas que afectan la Seguridad Ciudadana en el distrito, 2015",
+    "col": "P74_15",
+    "desc_col": "Problemas que afectan la seguridad / Secuestro",
+    "values": "",
+    "value_pos": null
+  }
+]

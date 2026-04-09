@@ -1,0 +1,284 @@
+[
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37_2",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para comercio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37A_2",
+    "desc_col": "Licencias de habilitación urbana para Comercio / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37_3",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para servicio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37A_3",
+    "desc_col": "Licencias de habilitación urbana para Servicio / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37_4",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para industria?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37A_4",
+    "desc_col": "Licencias de habilitación urbana para Industria / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37_5",
+    "desc_col": "¿La municipalidad otorgó licencias de habilitación urbana (tierras por urbanizar) para otro ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37A_5",
+    "desc_col": "Licencias de habilitación urbana / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "37",
+    "desc_q": "Municipalidad que otorgó licencias de habilitación urbana (tierras por urbanizar), 2017",
+    "col": "P37_5_O",
+    "desc_col": "Licencias de habilitación urbana / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad informante"
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_1",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas unifamiliares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_1",
+    "desc_col": "Licencias de edificación para viviendas unifamiliares / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_2",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas multifamiliares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_2",
+    "desc_col": "Licencias de edificación para viviendas multifamiliares / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_3",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para edificaciones de uso mixto con vivienda?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_3",
+    "desc_col": "Licencias de edificación para edificaciones de uso mixto con vivienda / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_4",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para restaurantes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_4",
+    "desc_col": "Licencias de edificación para restaurantes / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_5",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para centros comerciales o galerías comerciales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_5",
+    "desc_col": "Licencias de edificación para centros comerciales o galerías comerciales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_6",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para campos feriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_6",
+    "desc_col": "Licencias de edificación para campos feriales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_7",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_7",
+    "desc_col": "Licencias de edificación para hoteles, hostales y otros establecimientos de hospedaje / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_8",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para fábricas industriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_8",
+    "desc_col": "Licencias de edificación para fábricas industriales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_9",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para locales de instituciones del Estado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_9",
+    "desc_col": "Licencias de edificación para locales de instituciones del Estado / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_10",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para terminales de transporte terrestre?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38A_10",
+    "desc_col": "Licencias de edificación para terminales de transporte terrestre / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "38",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2017",
+    "col": "P38_11",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para otro?",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

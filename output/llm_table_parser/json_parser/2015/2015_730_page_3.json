@@ -1,0 +1,101 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_7",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Esquema de Ordenamiento Urbano",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_7_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone Esquema de Ordenamiento Urbano / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_7_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Esquema de Ordenamiento Urbano / Motivo por el que no tiene",
+    "values": "1. Falta de aprobación por el Concejo Municipal;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_8",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_8_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_8_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural / Motivo por el que no tiene",
+    "values": "1. Falta de aprobación por el Concejo Municipal;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_9",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia Social",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_9_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Anual de Seguridad Ciudadana y Convivencia Social / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_9_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone Plan Anual de Seguridad Ciudadana y Convivencia Social/ Motivo por el que no tiene",
+    "values": "1. Falta de aprobación por el Concejo Municipal;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_10",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2015",
+    "col": "P25_10_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone Plan de Gestión de Riesgos de Desastres / Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

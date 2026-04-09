@@ -1,0 +1,230 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P45_06",
+    "desc_q": "Operativos de control / Pesas y medidas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_07",
+    "desc_q": "Operativos de control / Alimentos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_08",
+    "desc_q": "Operativos de control / Comercio ambulatorio",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_09",
+    "desc_q": "Operativos de control / Transporte urbano",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_10",
+    "desc_q": "Operativos de control/ Tránsito vehicular en coordinación con la PNP",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_11",
+    "desc_q": "Operativos de control / Vigencia de licencia de construcción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_12",
+    "desc_q": "Operativos de control / Vigencia de licencia de funcionamiento",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_13",
+    "desc_q": "Operativos de control / Emisión de humos y gases tóxicos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_14",
+    "desc_q": "Operativos de control / Ruidos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_15",
+    "desc_q": "Operativos de control/ Certificado de seguridad en Defensa Civil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P45_16",
+    "desc_q": "Operativos de control / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "46"
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "VFI_P46",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2012",
+    "col": null,
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2012",
+    "col": null,
+    "desc_col": "La Municipalidad expidió carné de sanidad",
+    "values": "1: Expedió; 0: No expidió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_01",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2012",
+    "col": null,
+    "desc_col": "Número de carné / Para venta de alimentos en restaurantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_02",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2012",
+    "col": null,
+    "desc_col": "Número de carné / Para venta ambulatoria de alimentos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_03",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad, en el 2012",
+    "col": null,
+    "desc_col": "Número de carné / Para otros usos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "47"
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "VFI_P47",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, 2012",
+    "col": null,
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, 2012",
+    "col": null,
+    "desc_col": "La municipalidad tiene vendedores ambulantes registrados",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_01",
+    "desc_q": "Vendedores ambulantes registrados en la municipalidad, 2012",
+    "col": null,
+    "desc_col": "Número de vendedores ambulantes registrados en la Municipalidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "48"
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "VFI_P48",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2012",
+    "col": null,
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2012",
+    "col": null,
+    "desc_col": "La municipalidad tiene instalados baños de uso público en el distrito",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_01",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2012",
+    "col": null,
+    "desc_col": "Número de baños públicos instalados y en funcionamiento de la Municipalidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "49"
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "VFI_P49",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2012",
+    "col": null,
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "P49",
+    "desc_q": "Conservación de áreas verdes a cargo de la municipalidad, 2012",
+    "col": null,
+    "desc_col": "La municipalidad conserva áreas verdes en el distrito",
+    "values": "1: Conserva; 0: No conserva",
+    "value_pos": 1
+  }
+]

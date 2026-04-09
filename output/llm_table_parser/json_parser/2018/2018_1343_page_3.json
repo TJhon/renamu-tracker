@@ -1,0 +1,392 @@
+[
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_NH",
+    "desc_col": "Personal de Vigilancia / Decreto Legislativo N° 276 / Nombrado/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_CM",
+    "desc_col": "Personal de Vigilancia / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_CH",
+    "desc_col": "Personal de Vigilancia / Decreto Legislativo N° 276 / Contratado/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_LM",
+    "desc_col": "Personal de Vigilancia / Decreto Legislativo N° 728 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_LH",
+    "desc_col": "Personal de Vigilancia / Decreto Legislativo N° 728 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_VM",
+    "desc_col": "Personal de Vigilancia / Contrato Administrativo de Servicios(CAS) / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_VH",
+    "desc_col": "Personal de Vigilancia / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_SM",
+    "desc_col": "Personal de Vigilancia / Locación de Servicios / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2017",
+    "col": "P20_7_SH",
+    "desc_col": "Personal de Vigilancia / Locación de Servicios / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_T",
+    "desc_col": "Total personal / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Mujer / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Hombre / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Mujer / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Hombre / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Mujer / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Hombre / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Mujer / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Hombre / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_SM",
+    "desc_col": "Locación de Servicios / Mujer / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2018",
+    "col": "P20M_SH",
+    "desc_col": "Locación de Servicios / Hombre / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P20A"
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "VFI_P20A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "h2": "P20A"
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P20A",
+    "desc_col": "¿La Municipalidad tiene personal con discapacidad?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P20A_1_T",
+    "desc_col": "Personal con discapacidad / Total / 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P20A_1_M",
+    "desc_col": "Personal con discapacidad / Mujer / 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P20A_1_H",
+    "desc_col": "Personal con discapacidad / Hombre / 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P20A_2_T",
+    "desc_col": "Personal con discapacidad / Total / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P20A_2_M",
+    "desc_col": "Personal con discapacidad / Mujer / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "20A",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P20A_2_H",
+    "desc_col": "Personal con discapacidad / Hombre / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P21"
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "VFI_P21",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "h2": "P21"
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21",
+    "desc_col": "¿La Municipalidad tiene pensionistas?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_1_T",
+    "desc_col": "Decreto Ley N°19990 / Total / 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_1_M",
+    "desc_col": "Decreto Ley N°19990 / Mujer/ 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_1_H",
+    "desc_col": "Decreto Ley N°19990 / Hombre/ 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_1_T_18",
+    "desc_col": "Decreto Ley N°19990 / Total / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_1_M_18",
+    "desc_col": "Decreto Ley N°19990 / Mujer/ 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_1_H_18",
+    "desc_col": "Decreto Ley N°19990 / Hombre/ 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_2_T",
+    "desc_col": "Decreto Ley N°20530 / Total/ 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_2_M",
+    "desc_col": "Decreto Ley N°20530 / Mujer/ 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_2_H",
+    "desc_col": "Decreto Ley N°20530 / Hombre/ 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_2_T_18",
+    "desc_col": "Decreto Ley N°20530 / Total/ 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_2_M_18",
+    "desc_col": "Decreto Ley N°20530 / Mujer/ 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "21",
+    "desc_q": "Pensionistas de la municipalidad, al 31 de diciembre 2017 y al 31 de marzo 2018",
+    "col": "P21_2_H_18",
+    "desc_col": "Decreto Ley N°20530 / Hombre / 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  }
+]

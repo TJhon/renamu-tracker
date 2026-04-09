@@ -1,0 +1,187 @@
+[
+  {
+    "n_q": "71",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "VFI_P72A_1",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "71",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P72A_1",
+    "desc_col": "¿El distrito está sectorizado para actividades de patrullaje municipal (serenazgo / integrado con la PNP)?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "71",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P72A_1_1",
+    "desc_col": "Número de Sectores / Total",
+    "values": ""
+  },
+  {
+    "n_q": "71",
+    "desc_q": "Distrito sectorizado para actividades de patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P72A_2_1",
+    "desc_col": "Sectores patrullados solo por el serenazgo / Número",
+    "values": ""
+  },
+  {
+    "n_q": "72",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú (PNP), 2023",
+    "col": "VFI_P72B",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "72",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú (PNP), 2023",
+    "col": "P72B",
+    "desc_col": "¿El serenazgo realizó patrullaje integrado con la PNP?",
+    "values": "1: Sí, 2: No realiza",
+    "value_pos": 1
+  },
+  {
+    "n_q": "72",
+    "desc_q": "Serenazgo que realiza patrullaje integrado con la Policía Nacional del Perú (PNP), 2023",
+    "col": "P72B_1",
+    "desc_col": "Sectores con patrullaje integrado con la PNP / Número",
+    "values": ""
+  },
+  {
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "VFI_P73_1",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P73_1_1",
+    "desc_col": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP)? / Auto y/o camioneta",
+    "values": "0: No, 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P73_2_1",
+    "desc_col": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP)? / Motocicleta",
+    "values": "0: No, 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P73_3_1",
+    "desc_col": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP)? / A pie",
+    "values": "0: No, 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P73_4_1",
+    "desc_col": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP)? / Otra modalidad",
+    "values": "0: No, 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "n_q": "73",
+    "desc_q": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P73_4_O_1",
+    "desc_col": "Modalidad del patrullaje municipal (serenazgo / integrado con la PNP)? / Otra modalidad / Especifique",
+    "values": ""
+  },
+  {
+    "n_q": "74",
+    "desc_q": "Frecuencia del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "VFI_P74_1",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "74",
+    "desc_q": "Frecuencia del patrullaje municipal (serenazgo / integrado con la PNP), 2023",
+    "col": "P74_1",
+    "desc_col": "Frecuencia del patrullaje municipal (serenazgo / integrado con la PNP)?",
+    "values": "1: Diaria, 2: Interdiaria, 3: Semanal, 4: Quincenal, 5: Mensual"
+  },
+  {
+    "n_q": "75",
+    "desc_q": "Municipalidad que conformó el Comité Provincial / Distrital de Seguridad Ciudadana, 2022",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "75",
+    "desc_q": "Municipalidad que conformó el Comité Provincial / Distrital de Seguridad Ciudadana, 2022",
+    "col": "P75",
+    "desc_col": "¿La Municipalidad conformó el Comité Provincial / Distrital de Seguridad Ciudadana?",
+    "values": "1: Sí, 2: No ha conformado",
+    "value_pos": 1
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "VFI_P76",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó"
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "P76_1",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Sesiones de Comité de Seguridad Ciudadana?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "P76A_1",
+    "desc_col": "Sesiones de Comité de Seguridad Ciudadana / Número",
+    "values": ""
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "P76_2",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Consultas públicas?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "P76A_2",
+    "desc_col": "Consultas públicas / Número",
+    "values": ""
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "P76A_2_1",
+    "desc_col": "Consultas públicas / N° de consultas públicas sobre rendición de cuentas o informe de resultados",
+    "values": ""
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "P76_3",
+    "desc_col": "¿El Comité Provincial / Distrital de Seguridad Ciudadana realizó Capacitación a los efectivos de serenazgo?",
+    "values": "1: Sí, 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "76",
+    "desc_q": "El Comité Provincial / Distrital de Seguridad Ciudadana realizó actividades, 2022",
+    "col": "P76A_3",
+    "desc_col": "Capacitaciones a efectivos de serenazgo / Número",
+    "values": ""
+  }
+]

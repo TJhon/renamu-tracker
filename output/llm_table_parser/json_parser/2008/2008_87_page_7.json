@@ -1,0 +1,299 @@
+[
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P42_03",
+    "desc_q": "Número de carné / Para otros usos",
+    "col": "P42_03",
+    "desc_col": "Número de carné / Para otros usos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "VFI_P43",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43",
+    "desc_q": "La municipalidad tiene ambulantes registrados",
+    "col": "P43",
+    "desc_col": "La municipalidad tiene ambulantes registrados",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C034",
+    "n_q": "P43_01",
+    "desc_q": "Número de ambulantes registrados en la municipalidad",
+    "col": "P43_01",
+    "desc_col": "Número de ambulantes registrados en la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "VFI_P44",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44",
+    "desc_q": "La municipalidad tiene instalados baños de uso público en el distrito",
+    "col": "P44",
+    "desc_col": "La municipalidad tiene instalados baños de uso público en el distrito",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C035",
+    "n_q": "P44_01",
+    "desc_q": "Número de baños públicos instalados y en funcionamiento de la municipalidad",
+    "col": "P44_01",
+    "desc_col": "Número de baños públicos instalados y en funcionamiento de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "VFI_P45",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P45",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45",
+    "desc_q": "La municipalidad conserva áreas verdes en el distrito",
+    "col": "P45",
+    "desc_col": "La municipalidad conserva áreas verdes en el distrito",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_01",
+    "desc_q": "Áreas verdes (m²) / Plazas",
+    "col": "P45_01",
+    "desc_col": "Áreas verdes (m²) / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_02",
+    "desc_q": "Áreas verdes (m²) / Parques",
+    "col": "P45_02",
+    "desc_col": "Áreas verdes (m²) / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_03",
+    "desc_q": "Áreas verdes (m²) / Jardines y óvalos",
+    "col": "P45_03",
+    "desc_col": "Áreas verdes (m²) / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C036",
+    "n_q": "P45_04",
+    "desc_q": "Áreas verdes (m²) / Bermas",
+    "col": "P45_04",
+    "desc_col": "Áreas verdes (m²) / Bermas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "VFI_P46",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P46",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46",
+    "desc_q": "La municipalidad brinda servicios de cabinas públicas de Internet",
+    "col": "P46",
+    "desc_col": "La municipalidad brinda servicios de cabinas públicas de Internet",
+    "values": "1: Si brinda; 0: No brinda",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_01",
+    "desc_q": "Cabina pública de Internet/ Número de locales",
+    "col": "P46_01",
+    "desc_col": "Cabina pública de Internet/ Número de locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_02",
+    "desc_q": "Cabina pública de Internet / Número de PC",
+    "col": "P46_02",
+    "desc_col": "Cabina pública de Internet / Número de PC",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C037",
+    "n_q": "P46_03",
+    "desc_q": "Tipo de conexión a Internet",
+    "col": "P46_03",
+    "desc_col": "Tipo de conexión a Internet",
+    "values": "1: Módem analógico; 2: ADSL; 3: Fibra óptica; 4: Satelital; 5: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": "P47",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "VFI_P47",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P47",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_01",
+    "desc_q": "Biblioteca Municipal / Área (m²)",
+    "col": "P47_01",
+    "desc_col": "Biblioteca Municipal / Área (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_02",
+    "desc_q": "Biblioteca Municipal / Promedio mensual de usuarios atendidos",
+    "col": "P47_02",
+    "desc_col": "Biblioteca Municipal / Promedio mensual de usuarios atendidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C038",
+    "n_q": "P47_03",
+    "desc_q": "Biblioteca municipal / Número de asientos",
+    "col": "P47_03",
+    "desc_col": "Biblioteca municipal / Número de asientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P47",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": "P47",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "VFI_P48",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P48",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_01",
+    "desc_q": "Número de volúmenes / Folletos",
+    "col": "P48_01",
+    "desc_col": "Número de volúmenes / Folletos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_02",
+    "desc_q": "Número de volúmenes / Libros",
+    "col": "P48_02",
+    "desc_col": "Número de volúmenes / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_03",
+    "desc_q": "Número de volúmenes / Libros electrónicos",
+    "col": "P48_03",
+    "desc_col": "Número de volúmenes / Libros electrónicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_04",
+    "desc_q": "Número de volúmenes / Publicaciones periódicas",
+    "col": "P48_04",
+    "desc_col": "Número de volúmenes / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_05",
+    "desc_q": "Número de volúmenes / Material audiovisual",
+    "col": "P48_05",
+    "desc_col": "Número de volúmenes / Material audiovisual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_06",
+    "desc_q": "Número de volúmenes / Material en braille",
+    "col": "P48_06",
+    "desc_col": "Número de volúmenes / Material en braille",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C039",
+    "n_q": "P48_07",
+    "desc_q": "Numero de volúmenes / Otros (CD, diskettes, afiches)",
+    "col": "P48_07",
+    "desc_col": "Numero de volúmenes / Otros (CD, diskettes, afiches)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C040",
+    "n_q": "P47",
+    "desc_q": "La municipalidad tiene biblioteca",
+    "col": "P47",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  }
+]

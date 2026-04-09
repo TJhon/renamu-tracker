@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P108_11",
+    "desc_col": "Instrumentos de gestión ambiental / Normativa de Control Acústica",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P108_12",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P108_12_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "VFI_P109",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109",
+    "desc_col": "¿La municipalidad realizó acciones para incentivar la conservación ambiental?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_1",
+    "desc_col": "Acciones realizadas / Campañas de concientización ambiental",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_2",
+    "desc_col": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_3",
+    "desc_col": "Acciones realizadas / Ejecutó proyectos ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_4",
+    "desc_col": "Acciones realizadas / Dispone de Comisión Ambiental Municipal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_5",
+    "desc_col": "Acciones realizadas / Apoyó en la formulación de proyectos sobre problemática ambiental",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_6",
+    "desc_col": "Acciones realizadas / Convenios interinstitucionales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_7",
+    "desc_col": "Acciones realizadas / Charlas educativas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_8",
+    "desc_col": "Acciones realizadas / Atención y apoyo a denuncias ambientales por la población",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_9",
+    "desc_col": "Acciones realizadas / Realizó mediciones acústicas con sonómetro propio",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_10",
+    "desc_col": "Acciones realizadas / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C105",
+    "n_q": "109",
+    "desc_q": "Municipalidad que realizó acciones para incentivar la conservación ambiental, 2016",
+    "col": "P109_10_O",
+    "desc_col": "Acciones realizadas / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

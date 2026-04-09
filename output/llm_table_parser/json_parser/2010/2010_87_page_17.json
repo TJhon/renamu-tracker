@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "P69_10",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Directorio de Comité de Defensa Civil",
+    "col": "P69_10",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Directorio de Comité de Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "La municipalidad tiene Oficina de Defensa Civil",
+    "col": "P70",
+    "desc_col": "La municipalidad tiene Oficina de Defensa Civil",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "Medios de comunicación / Radiotransmisor",
+    "col": "P70_01",
+    "desc_col": "Medios de comunicación / Radiotransmisor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "MedioS de comunicación / Línea de telefonía fija",
+    "col": "P70_02",
+    "desc_col": "MedioS de comunicación / Línea de telefonía fija",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "Medios de comunicación / Línea destinada a fax",
+    "col": "P70_03",
+    "desc_col": "Medios de comunicación / Línea destinada a fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "Medios de comunicación / Línea de telefonía móvil",
+    "col": "P70_04",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "Medios de comunicación / Conexión de Internet",
+    "col": "P70_05",
+    "desc_col": "Medios de comunicación / Conexión de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "Acciones que realizó la oficina / Realiza cursos de capacitación en Defensa Civil",
+    "col": "P70_06",
+    "desc_col": "Acciones que realizó la oficina / Realiza cursos de capacitación en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C061",
+    "n_q": "Medios de comunicación y acciones que realizó la Oficina de Defensa Civil de la municipalidad, 2009",
+    "desc_q": "Acciones que realizó la oficina/ Realiza simulacros para probar el Plan de Operaciones de Emergencia",
+    "col": "P70_07",
+    "desc_col": "Acciones que realizó la oficina/ Realiza simulacros para probar el Plan de Operaciones de Emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P71",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "La municipalidad registró fenómenos naturales u ocasionados por el hombre",
+    "col": "P71",
+    "desc_col": "La municipalidad registró fenómenos naturales u ocasionados por el hombre",
+    "values": "1: Registró; 0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Sismos",
+    "col": "P71_01",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Aluvión",
+    "col": "P71_02",
+    "desc_col": "Fenómenos naturales registrados / Aluvión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Deslizamiento de tierra",
+    "col": "P71_03",
+    "desc_col": "Fenómenos naturales registrados / Deslizamiento de tierra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Derrumbe de cerros",
+    "col": "P71_04",
+    "desc_col": "Fenómenos naturales registrados / Derrumbe de cerros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Huayco",
+    "col": "P71_05",
+    "desc_col": "Fenómenos naturales registrados / Huayco",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Granizada",
+    "col": "P71_06",
+    "desc_col": "Fenómenos naturales registrados / Granizada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Helada",
+    "col": "P71_07",
+    "desc_col": "Fenómenos naturales registrados / Helada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Nevada",
+    "col": "P71_08",
+    "desc_col": "Fenómenos naturales registrados / Nevada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Lluvia intensa",
+    "col": "P71_09",
+    "desc_col": "Fenómenos naturales registrados / Lluvia intensa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "col": "P71_10",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Inundación",
+    "col": "P71_11",
+    "desc_col": "Fenómenos naturales registrados / Inundación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Sequía",
+    "col": "P71_12",
+    "desc_col": "Fenómenos naturales registrados / Sequía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Viento fuerte",
+    "col": "P71_13",
+    "desc_col": "Fenómenos naturales registrados / Viento fuerte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Incendio forestal",
+    "col": "P71_14",
+    "desc_col": "Fenómenos naturales registrados / Incendio forestal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C062",
+    "n_q": "Fenómenos naturales u ocasionados por el hombre registrados por el comité de Defensa Civil en la municipalidad, 2009",
+    "desc_q": "Fenómenos naturales registrados / Incendio urbano",
+    "col": "P71_15",
+    "desc_col": "Fenómenos naturales registrados / Incendio urbano",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P72",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "La municipalidad tiene registradas MYPES",
+    "col": "P72",
+    "desc_col": "La municipalidad tiene registradas MYPES",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Alimentos y bebidas",
+    "col": "P72_T_01",
+    "desc_col": "Número de MYPES / Producen / Alimentos y bebidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Cueros y calzados",
+    "col": "P72_T_02",
+    "desc_col": "Número de MYPES / Producen / Cueros y calzados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Artesanía",
+    "col": "P72_T_03",
+    "desc_col": "Número de MYPES / Producen / Artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Textiles",
+    "col": "P72_T_04",
+    "desc_col": "Número de MYPES / Producen / Textiles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Muebles y accesorios",
+    "col": "P72_T_05",
+    "desc_col": "Número de MYPES / Producen / Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Metalurgia",
+    "col": "P72_T_06",
+    "desc_col": "Número de MYPES / Producen / Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Maquinaria y equipo",
+    "col": "P72_T_07",
+    "desc_col": "Número de MYPES / Producen / Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Agropecuario",
+    "col": "P72_T_08",
+    "desc_col": "Número de MYPES / Producen / Agropecuario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Industria",
+    "col": "P72_T_09",
+    "desc_col": "Número de MYPES / Producen / Industria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C063",
+    "n_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2009",
+    "desc_q": "Número de MYPES / Producen / Servicios",
+    "col": "P72_T_10",
+    "desc_col": "Número de MYPES / Producen / Servicios",
+    "values": "",
+    "value_pos": null
+  }
+]

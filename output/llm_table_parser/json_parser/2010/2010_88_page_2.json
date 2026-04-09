@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P97_03",
+    "desc_q": "Frecuencia de vigilancia y control de agua potable / Trimestral.",
+    "col": "P97_03",
+    "desc_col": "Frecuencia de vigilancia y control de agua potable / Trimestral.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P96",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2010",
+    "col": "P96",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "VFI_98",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2010",
+    "col": "VFI_98",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_01",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2010",
+    "col": "P98_01",
+    "desc_col": "Los resultados del análisis de agua potable son / Informados a la autoridad municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_02",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2010",
+    "col": "P98_02",
+    "desc_col": "Los resultados del análisis de agua potable son / Publicados en el diario local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_03",
+    "desc_q": "Los resultados del análisis del agua potable que realiza la autoridad de salud, en el distrito, 2010",
+    "col": "P98_03",
+    "desc_col": "Los resultados del análisis de agua potable son / No se difunden",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P96",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "P96",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "VFI_P99",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "P99",
+    "desc_col": "El agua potable en el distrito recibe tratamiento",
+    "values": "1: Recibe; 0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_01",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "P99_01",
+    "desc_col": "Tratamiento que recibe el agua potable / Sólo es clorada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_02",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "P99_02",
+    "desc_col": "Tratamiento que recibe el agua potable / Sólo es filtrada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_03",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "P99_03",
+    "desc_col": "Tratamiento que recibe el agua potable / Es clorada y filtrada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_04",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "P99_04",
+    "desc_col": "Tratamiento que recibe el agua potable / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_O",
+    "desc_q": "Tipos de tratamiento que recibe el agua potable en el distrito, 2010",
+    "col": "P99_O",
+    "desc_col": "Tratamiento que recibe el agua potable / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P96",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "P96",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "VFI_P100",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "VFI_P100",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_01",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "P100_01",
+    "desc_col": "Número de empresas / Empresa prestadora municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_02",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "P100_02",
+    "desc_col": "Número de empresas / Empresa prestadora privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_03",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "P100_03",
+    "desc_col": "Número de empresas / Asociaciones o Comité de Agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_04",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "P100_04",
+    "desc_col": "Número de empresas / Junta Administradora de Servicios de Saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_05",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "P100_05",
+    "desc_col": "Número de empresas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_O",
+    "desc_q": "Institución u organismo que administra el agua potable y alcantarillado en el distrito, 2010",
+    "col": "P100_O",
+    "desc_col": "Número de empresas / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "VFI_101",
+    "desc_q": "Aguas servidas generadas en el distrito, 2010",
+    "col": "VFI_101",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101",
+    "desc_q": "Aguas servidas generadas en el distrito, 2010",
+    "col": "P101",
+    "desc_col": "Las aguas servidas reciben tratamiento",
+    "values": "1: Recibe; 0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_01",
+    "desc_q": "Aguas servidas generadas en el distrito, 2010",
+    "col": "P101_01",
+    "desc_col": "Tipo de tratamiento que reciben las aguas servidas",
+    "values": "1: Lagunas facultativas; 2: Lagunas aireadas; 3: Lagunas anaerobias; 4: Lodos activados; 5: Tanque séptico; 6: Tanque imhoff; 7: Filtro biológico; 8: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_O",
+    "desc_q": "Aguas servidas generadas en el distrito, 2010",
+    "col": "P101_O",
+    "desc_col": "Tipos de tratamiento / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

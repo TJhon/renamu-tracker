@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P112_01",
+    "desc_q": "El sistema de alcantarillado desemboca / Río",
+    "col": "p112_01",
+    "desc_col": "El sistema de alcantarillado desemboca / Río",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_02",
+    "desc_q": "El sistema de alcantarillado desemboca / Quebrada",
+    "col": "p112_02",
+    "desc_col": "El sistema de alcantarillado desemboca / Quebrada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_03",
+    "desc_q": "El sistema de alcantarillado desemboca / Mar",
+    "col": "p112_03",
+    "desc_col": "El sistema de alcantarillado desemboca / Mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_04",
+    "desc_q": "El sistema de alcantarillado desemboca / Playa",
+    "col": "p112_04",
+    "desc_col": "El sistema de alcantarillado desemboca / Playa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_05",
+    "desc_q": "El sistema de alcantarillado desemboca / Lago",
+    "col": "p112_05",
+    "desc_col": "El sistema de alcantarillado desemboca / Lago",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_06",
+    "desc_q": "El sistema de alcantarillado desemboca / Laguna de Oxidación",
+    "col": "p112_06",
+    "desc_col": "El sistema de alcantarillado desemboca / Laguna de Oxidación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_07",
+    "desc_q": "El sistema de alcantarillado desemboca / Pozo Séptico",
+    "col": "p112_07",
+    "desc_col": "El sistema de alcantarillado desemboca / Pozo Séptico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_08",
+    "desc_q": "El sistema de alcantarillado desemboca / Otro",
+    "col": "p112_08",
+    "desc_col": "El sistema de alcantarillado desemboca / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P112_O",
+    "desc_q": "El sistema de alcantarillado desemboca / Otro / Descripción",
+    "col": "p112_o",
+    "desc_col": "El sistema de alcantarillado desemboca / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

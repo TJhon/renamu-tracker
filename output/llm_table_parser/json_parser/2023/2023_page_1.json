@@ -1,0 +1,193 @@
+[
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "Año",
+    "desc_col": "Año en que se ejecuta el estudio"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "idmunici",
+    "desc_col": "Código de la Municipalidad"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "ccdd",
+    "desc_col": "Código del Departamento"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "ccpp",
+    "desc_col": "Código de la Provincia"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "ccdi",
+    "desc_col": "Código del Distrito"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "Ubigeo",
+    "desc_col": "Ubigeo"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "Departamento",
+    "desc_col": "Nombre del Departamento"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "Provincia",
+    "desc_col": "Nombre de la Provincia"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "Distrito",
+    "desc_col": "Nombre del Distrito"
+  },
+  {
+    "cuadro": "DEFINICIÓN DE VARIABLES GLOBALES",
+    "col": "Tipomuni",
+    "desc_col": "Tipo de Municipalidad",
+    "values": "1: Provincial, 2: Distrital, 3: Centro Poblado"
+  },
+  {
+    "h2": "MÓDULO I: DATOS GENERALES DE LA MUNICIPALIDAD"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "VFI",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó, 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04_1",
+    "desc_col": "Dirección de la Municipalidad / Tipo de Vía",
+    "values": "1: Avenida, 2: Jirón, 3: Calle, 4: Pasaje, 5: Carretera, 6: Otro"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04_2",
+    "desc_col": "Dirección de la Municipalidad / Nombre de Vía"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04_3",
+    "desc_col": "Dirección de la Municipalidad / Número"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04_4",
+    "desc_col": "Dirección de la Municipalidad / Manzana"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04_5",
+    "desc_col": "Dirección de la Municipalidad / Lote"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04_6",
+    "desc_col": "Dirección de la Municipalidad / Km."
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P05_CC",
+    "desc_col": "Teléfono / Código de la ciudad"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P05_1",
+    "desc_col": "Teléfonos de la Municipalidad / Teléfono 1"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P05_2",
+    "desc_col": "Teléfonos de la Municipalidad / Teléfono 2"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P05_3",
+    "desc_col": "Teléfonos de la Municipalidad / Teléfono 3"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P06_CC",
+    "desc_col": "Otro teléfono de referencia / Código de la ciudad"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P06",
+    "desc_col": "Otro teléfono de referencia / Teléfono"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P07",
+    "desc_col": "Facebook de la Municipalidad"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P08",
+    "desc_col": "Correo Electrónico de la Municipalidad"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P09",
+    "desc_col": "Página Web de la Municipalidad"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10_1",
+    "desc_col": "Alcalde de la Municipalidad / Nombres"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10_2",
+    "desc_col": "Alcalde de la Municipalidad / Apellido Paterno"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10_3",
+    "desc_col": "Alcalde de la Municipalidad / Apellido Materno"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10_4",
+    "desc_col": "Alcalde de la Municipalidad / Sexo",
+    "values": "1: Mujer, 2: Hombre",
+    "value_pos": 1
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10_5",
+    "desc_col": "Alcalde de la Municipalidad / Teléfono Móvil del Alcalde"
+  },
+  {
+    "n_q": "1 – 10",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10_6",
+    "desc_col": "Alcalde de la Municipalidad / Correo Electrónico del Alcalde"
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_3_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de artesanía / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_3_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de artesanía / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_3_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de artesanía / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_4",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de textiles?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_4_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de textiles / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_4_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de textiles / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_4_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de textiles / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_5",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de muebles y accesorios?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_5_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de muebles y accesorios / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_5_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de muebles y accesorios / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_5_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de muebles y accesorios / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_6",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de metalurgia?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_6_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de metalurgia / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_6_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de metalurgia / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_6_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de metalurgia / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_7",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de maquinaria y equipo?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_7_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de maquinaria y equipo / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_7_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de maquinaria y equipo / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_7_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de maquinaria y equipo / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_8",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de agropecuario?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_8_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de agropecuario / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_8_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de agropecuario / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_8_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de agropecuario / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_9",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de industria?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_9_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de industria / Total PYME",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_9_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de industria / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_9_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de industria / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_10",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de servicios?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_10_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de servicios / Total PYME",
+    "values": "",
+    "value_pos": null
+  }
+]

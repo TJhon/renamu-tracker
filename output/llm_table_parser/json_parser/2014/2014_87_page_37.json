@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65",
+    "desc_col": "La municipalidad realizó acciones para incentivar a las MYPES",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65_01",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65_02",
+    "desc_col": "Acciones realizadas / Realización de ferias y concursos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65_03",
+    "desc_col": "Acciones realizadas / Convenios con ONG, empresas privadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65_04",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65_05",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65_06",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_069",
+    "n_q": "65",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, 2013",
+    "col": "P65_O",
+    "desc_col": "Acciones realizadas / Otra acción / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "P66",
+    "desc_col": "La municipalidad otorgo concesiones y autorizaciones para el servicio de transporte público urbano",
+    "values": "1: Otorgó;0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "P66_N_01",
+    "desc_col": "Número de concesiones / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "P66_N_02",
+    "desc_col": "Número de concesiones / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "P66_E_01",
+    "desc_col": "Número de empresas registradas / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "P66_E_02",
+    "desc_col": "Número de empresas registradas / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "P66_V_01",
+    "desc_col": "Número de vehículos autorizados / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "66",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, 2013",
+    "col": "P66_V_02",
+    "desc_col": "Número de vehículos autorizados / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "67",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2013",
+    "col": "VFI_P67",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "67",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2013",
+    "col": "P67",
+    "desc_col": "La municipalidad registró vehículos menores",
+    "values": "1: Registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "67",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2013",
+    "col": "P67_E_01",
+    "desc_col": "Número de empresas / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "67",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2013",
+    "col": "P67_E_02",
+    "desc_col": "Número de empresas / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "67",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2013",
+    "col": "P67_V_01",
+    "desc_col": "Número de vehículos / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C071",
+    "n_q": "67",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2013",
+    "col": "P67_V_02",
+    "desc_col": "Número de vehículos / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "68",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2013",
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "68",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2013",
+    "col": "P68_01",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Nombre del programa / Proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "68",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2013",
+    "col": "P68_02",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Costo del programa / Proyecto (nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C072",
+    "n_q": "68",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2013",
+    "col": "P68_03",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  }
+]

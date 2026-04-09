@@ -1,0 +1,152 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81A_5",
+    "desc_col": "Número de Capacitación a conductores en prevención de accidentes y actos delincuenciales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81_6",
+    "desc_col": "El Comité Provincial / Distrital de seguridad ciudadana realizó Capacitación a escolares en prevención de delitos y trata de personas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81A_6",
+    "desc_col": "Número de Capacitación a escolares en prevención de delitos y trata de personas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81_7",
+    "desc_col": "El Comité Provincial / Distrital de seguridad ciudadana realizó Operaciones de prevención de delitos y faltas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81A_7",
+    "desc_col": "Número de Operaciones de prevención de delitos y faltas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81_8",
+    "desc_col": "El Comité Provincial / Distrital de seguridad ciudadana realizó Recuperación de espacios públicos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "82"
+  },
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "82",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2016",
+    "col": "VFI_P82",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "82",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2016",
+    "col": "P80",
+    "desc_col": "¿La Municipalidad conformó el Comité Provincial/Distrital de Seguridad Ciudadana?",
+    "values": "1: Conformó; 0: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "82",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2016",
+    "col": "P82",
+    "desc_col": "¿La Municipalidad tiene Plan de Seguridad Ciudadana?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "82",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2016",
+    "col": "P82_1",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital ha sido / Ratificado mediante Ordenanza Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "82",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2016",
+    "col": "P82_2",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital ha sido / Articulada al Plan Operativo Institucional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C76",
+    "n_q": "82",
+    "desc_q": "Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana, 2016",
+    "col": "P82_3",
+    "desc_col": "El Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital ha sido / Derivado al Comité Regional/Provincial para su evaluación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "83"
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "83",
+    "desc_q": "Instrumentos técnicos que contienen el Plan de Seguridad Ciudadana",
+    "col": "VFI_P83",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "83",
+    "desc_q": "Instrumentos técnicos que contienen el Plan de Seguridad Ciudadana",
+    "col": "P80",
+    "desc_col": "¿La Municipalidad conformó el Comité Provincial / Distrital de Seguridad Ciudadana?",
+    "values": "1: Conformó; 0: No conformó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "83",
+    "desc_q": "Instrumentos técnicos que contienen el Plan de Seguridad Ciudadana",
+    "col": "P82",
+    "desc_col": "¿La Municipalidad tiene Plan de Seguridad Ciudadana formulado por el Comité Provincial/Distrital de Seguridad Ciudadana?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C77",
+    "n_q": "83",
+    "desc_q": "Instrumentos técnicos que contienen el Plan de Seguridad Ciudadana",
+    "col": "P83",
+    "desc_col": "¿El Plan de Seguridad Ciudadana tiene instrumentos técnicos?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  }
+]

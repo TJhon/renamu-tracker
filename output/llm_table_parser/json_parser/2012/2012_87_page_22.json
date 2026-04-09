@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P49_01",
+    "desc_col": "Áreas verdes (m2) / Plazas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P49_02",
+    "desc_col": "Áreas verdes (m2) / Parques",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P49_03",
+    "desc_col": "Áreas verdes (m2) / Jardines y óvalos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P49_04",
+    "desc_col": "Áreas verdes (m2) / Bermas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P49_05",
+    "desc_col": "Áreas verdes (m2) / Alamedas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "50",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la biblioteca municipal), 2011",
+    "col": "VFI_P50",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "50",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la biblioteca municipal), 2011",
+    "col": "P50",
+    "desc_col": "La municipalidad brinda servicios de cabinas públicas de Internet",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "50",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la biblioteca municipal), 2011",
+    "col": "P50_01",
+    "desc_col": "Cabina pública de Internet/ Número de locales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "50",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la biblioteca municipal), 2011",
+    "col": "P50_02",
+    "desc_col": "Cabina pública de Internet / Número de PC",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C041",
+    "n_q": "50",
+    "desc_q": "Servicio de cabinas públicas de Internet que brinda la municipalidad (Sin contar con la biblioteca municipal), 2011",
+    "col": "P50_03",
+    "desc_col": "Cabina pública de Internet / Tipo de conexión a Internet",
+    "values": "1: Módem analógico; 2: ADSL; 3: Fibra óptica; 4: Satelital; 5: Otros",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal en el distrito, en el 2011",
+    "col": "VFI_P51",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal en el distrito, en el 2011",
+    "col": "P51",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal en el distrito, en el 2011",
+    "col": "P51_01",
+    "desc_col": "Biblioteca Municipal / Área (m²)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal en el distrito, en el 2011",
+    "col": "P51_02",
+    "desc_col": "Biblioteca Municipal / Número de usuarios atendidos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C042",
+    "n_q": "51",
+    "desc_q": "Biblioteca municipal en el distrito, en el 2011",
+    "col": "P51_03",
+    "desc_col": "Biblioteca municipal / Número de asientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P51",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "VFI_P52",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P52_01",
+    "desc_col": "Número de volúmenes / Folletos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P52_02",
+    "desc_col": "Número de volúmenes / Libros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P52_03",
+    "desc_col": "Número de volúmenes / Libros electrónicos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P52_04",
+    "desc_col": "Número de volúmenes / Publicaciones periódicas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P52_05",
+    "desc_col": "Número de volúmenes / Material audiovisual",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P52_06",
+    "desc_col": "Número de volúmenes / Material en braille",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C043",
+    "n_q": "52",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2011",
+    "col": "P52_07",
+    "desc_col": "Numero de volúmenes / Afiches y otros similares",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C044",
+    "n_q": "53",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2011",
+    "col": "P51",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  }
+]

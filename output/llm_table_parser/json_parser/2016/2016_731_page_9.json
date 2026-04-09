@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_1",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Pentium (I, II, III y IV)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_1",
+    "desc_col": "Número de computadoras / Pentium (I, II, III y IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_2",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Pentium D y/o Celeron?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_2",
+    "desc_col": "Número de computadoras / Pentium D y/o Celeron",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_3",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core Duo y/o Core 2 Duo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_3",
+    "desc_col": "Número de computadoras / Core Duo y/o Core 2 Duo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_4",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core 2 Quad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_4",
+    "desc_col": "Número de computadoras / Core 2 Quad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_5",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core i3 y/o Core i5?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_5",
+    "desc_col": "Número de computadoras / Core i3 y/o Core i5",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_6",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core i7?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_6",
+    "desc_col": "Número de computadoras / Core i7",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_7",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas AMD (Advanced Micro Device)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_7",
+    "desc_col": "Número de computadoras / AMD",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_8",
+    "desc_col": "¿La biblioteca municipal tiene otras computadoras operativas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_8",
+    "desc_col": "Número de computadoras / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_8_O",
+    "desc_col": "Número de computadoras / Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62_T",
+    "desc_col": "Total computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C54",
+    "n_q": "62",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2016",
+    "col": "P62A_9",
+    "desc_col": "Número de computadoras con acceso a Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P63"
+  },
+  {
+    "col": "VFI_P63",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "col": "P57",
+    "desc_col": "¿La municipalidad tiene biblioteca municipal?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "col": "P63",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos?",
+    "values": "1: Si cuenta; 0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "col": "P63_1",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Fotocopiadora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "col": "P63A_1",
+    "desc_col": "Número de equipos de oficina / Fotocopiadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "col": "P63_2",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Escáner?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

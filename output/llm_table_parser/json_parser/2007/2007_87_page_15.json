@@ -1,0 +1,47 @@
+[
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "79",
+    "desc_q": "Conformación de la junta de delegados vecinales",
+    "col": "VFI_P79",
+    "desc_col": "Municipalidad que informo sobre la pregunta",
+    "values": "1: Informa; 0: No informa",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "P79",
+    "desc_q": "Conformación de la junta de delegados vecinales",
+    "col": "P79",
+    "desc_col": "La municipalidad ha constituido junta de delegados vecinales",
+    "values": "1: Si esta constituido; 0: No esta constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "P79_H_01",
+    "desc_q": "Conformación de la junta de delegados vecinales",
+    "col": "P79_H_01",
+    "desc_col": "Número de miembros de la junta de delegados vecinales/ Hombres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "P79_M_01",
+    "desc_q": "Conformación de la junta de delegados vecinales",
+    "col": "P79_M_01",
+    "desc_col": "Número de miembros de la junta de delegados vecinales/ Mujeres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C070",
+    "n_q": "P79_02",
+    "desc_q": "Conformación de la junta de delegados vecinales",
+    "col": "P79_02",
+    "desc_col": "Se encuentra en funcionamiento",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  }
+]

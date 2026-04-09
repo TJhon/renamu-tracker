@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_3",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71_4",
+    "desc_col": "¿El distrito tiene establecimientos de salud: Consultorio médico?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_4",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71_5",
+    "desc_col": "¿El distrito tiene establecimientos de salud: Consultorio odontológico?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_5",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad/ Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71_6",
+    "desc_col": "¿El distrito tiene establecimientos de salud: Casa de reposo/Asilo?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_6",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71_7",
+    "desc_col": "¿El distrito tiene establecimientos de salud: Centro de rehabilitación?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_7",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Centro de rehabilitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71_8",
+    "desc_col": "¿El distrito tiene establecimientos de salud: Farmacia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_8",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71_9",
+    "desc_col": "¿El distrito tiene establecimientos de salud: Botica?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_9",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71_10",
+    "desc_col": "¿El distrito tiene establecimientos de salud: Botiquín comunal?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2015",
+    "col": "P71A_10",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad/ Botiquín comunal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P72",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P72",
+    "desc_q": null,
+    "col": "P72",
+    "desc_col": "¿La municipalidad realizó campañas en coordinación con el MINSA?",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P72 _1",
+    "desc_q": null,
+    "col": "P72 _1",
+    "desc_col": "La municipalidad realizó / Campañas de salud preventiva",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P72 _2",
+    "desc_q": null,
+    "col": "P72 _2",
+    "desc_col": "La municipalidad realizó / Campañas de vacunación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P72 _3",
+    "desc_q": null,
+    "col": "P72 _3",
+    "desc_col": "La municipalidad realizó / Campañas de educación sanitaria",
+    "values": "",
+    "value_pos": null
+  }
+]

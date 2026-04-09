@@ -1,0 +1,140 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_57",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Manual de Procedimientos/ Motivo por el que no tiene",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_58",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Otro",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_59",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Otro/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_60",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Otro/ Motivo por el que no tiene",
+    "values": "1: En elaboración; 2: Falta de aprobación por el Concejo Municipal; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_o",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "22 CUADRO_C013 Miembros del Consejo de Coordinación Local, 2012"
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "VFI_P22",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "VFI_P22",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22",
+    "desc_col": "En la municipalidad está constituido el Consejo de Coordinación Local",
+    "values": "1: Constituido; 0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_01",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_H_01",
+    "desc_col": "Miembros del CCL/ Concejo Municipal Provincial/ Distrital/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_02",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_H_02",
+    "desc_col": "Miembros del CCL/ Alcaldes Distritales/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_03",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_H_03",
+    "desc_col": "Miembros del CCL/ Alcaldes de Centros Poblados / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_H_04",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_H_04",
+    "desc_col": "Miembros del CCL/ Representante de la Sociedad Civil/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_01",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_M_01",
+    "desc_col": "Miembros del CCL/ Concejo Municipal Provincial/ Distrital /Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_02",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_M_02",
+    "desc_col": "Miembros del CCL/ Alcaldes Distritales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_03",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_M_03",
+    "desc_col": "Miembros del CCL/ Alcaldes de centros poblados / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "P22_M_04",
+    "desc_q": "Miembros del Consejo de Coordinación Local, 2012",
+    "col": "P22_M_04",
+    "desc_col": "Miembros del CCL/ Representante de la Sociedad Civil/ Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

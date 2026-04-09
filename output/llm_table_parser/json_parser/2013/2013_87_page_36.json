@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P73_O",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo/ Otros/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "VFL_P74",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Constituido; 0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74_01",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil / Constituido y se reúne periódicamente",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74_02",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil / Funciona solo cuando hay una emergencia",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "P74_03",
+    "desc_q": "Conformación y funcionamiento de los Grupos de Trabajo de Defensa Civil / Cuenta con Secretario Técnico",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "VFL_P75",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75",
+    "desc_q": "La municipalidad dispone instrumentos técnicos de Defensa Civil",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Dispone; 0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_01",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Plan de Operaciones de Emergencia",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_02",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Sistema de Alerta Temprana",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_03",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Programa de Recuperación y Limpieza de Cauce",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_04",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Áreas inundables identificadas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_05",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Mapa de identificación de zonas de alto riesgo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_06",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Estadísticas de desastres más frecuentes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_07",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Registro de inspectores técnicos en Defensa Civil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_08",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Registro de Brigadistas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_09",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Directorio de Comité de Defensa Civil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "VFL_P76",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76",
+    "desc_q": "La municipalidad tiene Oficina de Defensa Civil",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_01",
+    "desc_q": "Medios de comunicación / Radiotransmisor",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "col": "ID_MUNICI",
+    "desc_col": "Código Único de la Municipalidad",
+    "values": ""
+  },
+  {
+    "col": "CCDD",
+    "desc_col": "Código del Departamento",
+    "values": ""
+  },
+  {
+    "col": "CCPP",
+    "desc_col": "Código de la Provincia",
+    "values": ""
+  },
+  {
+    "col": "CCDI",
+    "desc_col": "Código del Distrito",
+    "values": ""
+  },
+  {
+    "col": "NOM_DPTO",
+    "desc_col": "Nombre del Departamento",
+    "values": ""
+  },
+  {
+    "col": "NOM_PROV",
+    "desc_col": "Nombre de la Provincia",
+    "values": ""
+  },
+  {
+    "col": "NOM_DIST",
+    "desc_col": "Nombre del Distrito",
+    "values": ""
+  },
+  {
+    "col": "CATMUNI",
+    "desc_col": "Categoría de la Municipalidad",
+    "values": "1: Provincial;2: Distrital;3: Centro Poblado"
+  },
+  {
+    "h2": "MÓDULO I (DATOS GENERALES DE LA MUNICIPALIDAD)"
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "VFI",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "RUC",
+    "desc_col": "Número de RUC",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P03",
+    "desc_col": "Agencias municipales",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P04",
+    "desc_col": "Dirección de la municipalidad",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "CC",
+    "desc_col": "Código de la ciudad",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P05",
+    "desc_col": "Fax",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P06",
+    "desc_col": "Teléfonos de la municipalidad",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P07",
+    "desc_col": "Teléfono de contacto",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P08",
+    "desc_col": "Correo electrónico",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P09",
+    "desc_col": "Página Web",
+    "values": ""
+  },
+  {
+    "n_q": "1 – 10",
+    "cuadro": "CUADRO_C001",
+    "desc_q": "Directorio de las Municipalidades Provinciales y Distritales",
+    "col": "P10",
+    "desc_col": "Nombres y apellidos del alcalde",
+    "values": ""
+  },
+  {
+    "n_q": "11",
+    "cuadro": "CUADRO_C002",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2010",
+    "col": "VFI_P11",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "11",
+    "cuadro": "CUADRO_C002",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2010",
+    "col": "P11_01",
+    "desc_col": "Número de locales de la Municipalidad por condición de propiedad / Propio",
+    "values": ""
+  },
+  {
+    "n_q": "11",
+    "cuadro": "CUADRO_C002",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2010",
+    "col": "P11_02",
+    "desc_col": "Número de locales de la Municipalidad por condición de propiedad / Alquilado",
+    "values": ""
+  },
+  {
+    "n_q": "11",
+    "cuadro": "CUADRO_C002",
+    "desc_q": "Número de locales de la municipalidad por condición de propiedad, 2010",
+    "col": "P11_03",
+    "desc_col": "Número de locales de la Municipalidad por condición de propiedad / Cedido",
+    "values": ""
+  }
+]

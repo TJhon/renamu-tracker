@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "VFI_C4",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4",
+    "desc_col": "La municipalidad tiene vehículos, maquinaria y equipos",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_01",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Camioneta y auto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_02",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Volquete",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_03",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Camión recolector de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_04",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Camión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_05",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Excavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_06",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Retroexcavadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_07",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Cargador frontal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_08",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Compactadora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_09",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Tractor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_10",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Motoniveladora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_11",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Motocicleta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_12",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Grupo electrógeno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_13",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Rodillo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_14",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Camión cisterna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_15",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Ambulancia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_16",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Bote",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_O_17",
+    "desc_col": "Número de vehículos, maquinarias y equipos / Operativo / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_N_01",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Camioneta y auto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_N_02",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Volquete",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_N_03",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Camión recolector de basura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C003",
+    "n_q": "C4",
+    "desc_q": "Vehículos, maquinarias y equipos (Incluye vehículos y equipos de serenazgo), 2014",
+    "col": "C4_N_04",
+    "desc_col": "Número de vehículos, maquinarias y equipos / No operativo / Camión",
+    "values": "",
+    "value_pos": null
+  }
+]

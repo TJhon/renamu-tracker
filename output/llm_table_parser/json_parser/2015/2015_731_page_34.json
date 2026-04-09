@@ -1,0 +1,167 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P95_11",
+    "desc_col": "Fenómenos naturales registrados / Inundaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P95_12",
+    "desc_col": "Fenómenos naturales registrados / Sequías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P95_13",
+    "desc_col": "Fenómenos naturales registrados / Vientos fuertes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P95_14",
+    "desc_col": "Fenómenos naturales registrados / Incendios forestales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P95_15",
+    "desc_col": "Fenómenos naturales registrados / Incendios urbanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96",
+    "desc_q": null,
+    "col": "P96",
+    "desc_col": "Municipalidades que registraron Micro y Pequeñas Empresas",
+    "values": "1: Registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96_1",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de alimentos y bebidas?",
+    "col": "P96_1",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de alimentos y bebidas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_1_1",
+    "desc_q": null,
+    "col": "P96A_1_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de alimentos y bebidas / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_1_2",
+    "desc_q": null,
+    "col": "P96A_1_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de alimentos y bebidas / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_1_3",
+    "desc_q": null,
+    "col": "P96A_1_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de alimentos y bebidas / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96_2",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de cueros y calzado?",
+    "col": "P96_2",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de cueros y calzado?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_2_1",
+    "desc_q": null,
+    "col": "P96A_2_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de cueros y calzado / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_2_2",
+    "desc_q": null,
+    "col": "P96A_2_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de cueros y calzado / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_2_3",
+    "desc_q": null,
+    "col": "P96A_2_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de cueros y calzado / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96_3",
+    "desc_q": "¿La municipalidad registró MYPES dedicadas a la producción de artesanía?",
+    "col": "P96_3",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de artesanía?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_3_1",
+    "desc_q": null,
+    "col": "P96A_3_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de artesanía / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P96A_3_2",
+    "desc_q": null,
+    "col": "P96A_3_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de artesanía / Micro empresa",
+    "values": "",
+    "value_pos": null
+  }
+]

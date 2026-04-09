@@ -1,0 +1,152 @@
+[
+  {
+    "h2": "MÓDULO V: SERVICIOS PÚBLICOS LOCALES"
+  },
+  {
+    "h2": "SALUD"
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "71",
+    "desc_q": "Establecimientos de salud que funcionan en el distrito, 2016",
+    "col": "VFI_P71",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_1",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Hospital / Clínica?",
+    "col": "P71_1",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Hospital / Clínica?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71A_1",
+    "desc_q": "Número de establecimientos administrados por la Municipalidad / Hospital / Clínica",
+    "col": "P71A_1",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_2",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Centro de Salud?",
+    "col": "P71_2",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de Salud?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71A_2",
+    "desc_q": "Número de establecimientos administrados por la Municipalidad / Centro de Salud",
+    "col": "P71A_2",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Centro de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_3",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Puesto de salud?",
+    "col": "P71_3",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Puesto de salud?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71A_3",
+    "desc_q": "Número de establecimientos administrados por la Municipalidad / Puesto de salud",
+    "col": "P71A_3",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_4",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Consultorio médico?",
+    "col": "P71_4",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio médico?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71A_4",
+    "desc_q": "Número de establecimientos administrados por la Municipalidad / Consultorio médico",
+    "col": "P71A_4",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_5",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Consultorio odontológico?",
+    "col": "P71_5",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Consultorio odontológico?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71A_5",
+    "desc_q": "Número de establecimientos administrados por la Municipalidad / Consultorio odontológico",
+    "col": "P71A_5",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_6",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Casa de reposo / Asilo?",
+    "col": "P71_6",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Casa de reposo / Asilo?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71A_6",
+    "desc_q": "Número de establecimientos administrados por la Municipalidad / Casa de reposo/Asilo",
+    "col": "P71A_6",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_7",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Centro de rehabilitación?",
+    "col": "P71_7",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Centro de rehabilitación?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71A_7",
+    "desc_q": "Número de establecimientos administrados por la Municipalidad / Centro de rehabilitación",
+    "col": "P71A_7",
+    "desc_col": "Número de establecimientos administrados por la Municipalidad / Centro de rehabilitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C65",
+    "n_q": "P71_8",
+    "desc_q": "¿La municipalidad administra establecimientos de salud / Farmacia?",
+    "col": "P71_8",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Farmacia?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

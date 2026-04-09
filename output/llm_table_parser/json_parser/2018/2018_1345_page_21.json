@@ -1,0 +1,194 @@
+[
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81_4",
+    "desc_col": "¿Existe en el distrito organizaciones de seguridad vecinal y comunal / Comité de Autodefensa?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_4_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Registradas a la fecha en la municipalidad / Comité de Autodefensa / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_4_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Comité de Autodefensa / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81_5",
+    "desc_col": "¿Existe en el distrito organizaciones de seguridad vecinal y comunal / Otro?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_5_1",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Registradas a la fecha en la municipalidad / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_5_2",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / No registradas en la municipalidad / Otro / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "81",
+    "desc_q": "Existe en el distrito organizaciones de seguridad vecinal y comunal, 2018",
+    "col": "P81A_5_O",
+    "desc_col": "Organizaciones de seguridad vecinal y comunal / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "VFL_P82",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_1",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Conformación de un Comité Multisectorial de Prevención",
+    "values": "1: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_2",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Convenios de cooperación de prevención",
+    "values": "2: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_3",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención en instituciones educativas",
+    "values": "3: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_4",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Charlas y/o talleres de prevención y fortalecimiento en familias (Comités vecinales, clubes de madres y comités del Programa de Vaso de Leche)",
+    "values": "4: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_5",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Campañas de concientización en ferias, medios de comunicación y otros eventos",
+    "values": "5: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_6",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Actividades recreativas, deportivas, culturales y de formación de valores",
+    "values": "6: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_7",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por la Comisión Nacional para el Desarrollo y Vida sin Drogas",
+    "values": "7: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_8",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Recibió capacitación y asistencia técnica en aspectos de prevención por Organización No Gubernamental",
+    "values": "8: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_9",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción",
+    "values": "9: Sí;0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_9_O",
+    "desc_col": "La municipalidad realizó acciones para prevenir el consumo de drogas y alcohol / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_20",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para prevenir el consumo de drogas y alcohol, 2017",
+    "col": "P82_10",
+    "desc_col": "La municipalidad no realiza acciones para prevenir el consumo de drogas y alcohol",
+    "values": "10:Sí;0:No",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DEL RIESGO DE DESASTRES"
+  },
+  {
+    "cuadro": "CUADRO_C_21",
+    "n_q": "83",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2018",
+    "col": "VFL_P83",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C_21",
+    "n_q": "83",
+    "desc_q": "Constitución del grupo de trabajo de la Gestión del Riesgo de Desastres, 2018",
+    "col": "P83",
+    "desc_col": "¿La municipalidad tiene constituido el grupo de trabajo de la Gestión del Riesgo de Desastres?",
+    "values": "1: Sí;2: No",
+    "value_pos": null
+  }
+]

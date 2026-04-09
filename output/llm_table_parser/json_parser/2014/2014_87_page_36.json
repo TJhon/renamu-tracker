@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_05",
+    "desc_col": "Número de MYPES / Producen / Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_06",
+    "desc_col": "Número de MYPES / Producen / Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_07",
+    "desc_col": "Número de MYPES / Producen / Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_08",
+    "desc_col": "Número de MYPES / Producen / Agropecuario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_09",
+    "desc_col": "Número de MYPES / Producen / Industria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_10",
+    "desc_col": "Número de MYPES / Producen / Servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_T_11",
+    "desc_col": "Número de MYPES / Producen / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_01",
+    "desc_col": "Número de Microempresas / Producen / Alimentos y bebidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_02",
+    "desc_col": "Número de Microempresas / Producen / Cueros y calzados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_03",
+    "desc_col": "Número de Microempresas / Producen / Artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_04",
+    "desc_col": "Número de Microempresas / Producen / Textiles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_05",
+    "desc_col": "Número de Microempresas / Producen / Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_06",
+    "desc_col": "Número de Microempresas / Producen / Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_07",
+    "desc_col": "Número de Microempresas / Producen / Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_08",
+    "desc_col": "Número de Microempresas / Producen / Agropecuario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_09",
+    "desc_col": "Número de Microempresas / Producen / Industria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_10",
+    "desc_col": "Número de Microempresas / Producen / Servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_M_11",
+    "desc_col": "Número de Microempresas / Producen / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_01",
+    "desc_col": "Número de Pequeñas empresas / Producen / Alimentos y bebidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_02",
+    "desc_col": "Número de Pequeñas empresas / Producen / Cueros y calzados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_03",
+    "desc_col": "Número de Pequeñas empresas / Producen / Artesanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_04",
+    "desc_col": "Número de Pequeñas empresas / Producen / Textiles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_05",
+    "desc_col": "Número de Pequeñas empresas / Producen / Muebles y accesorios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_06",
+    "desc_col": "Número de Pequeñas empresas / Producen / Metalurgia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_07",
+    "desc_col": "Número de Pequeñas empresas / Producen / Maquinaria y equipo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_08",
+    "desc_col": "Número de Pequeñas empresas / Producen / Agropecuario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_09",
+    "desc_col": "Número de Pequeñas empresas / Producen / Industria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_10",
+    "desc_col": "Número de Pequeñas empresas / Producen / Servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "C7",
+    "desc_q": "Micro y Pequeñas empresas (MYPES) registradas en la municipalidad, 2013",
+    "col": "C7_P_11",
+    "desc_col": "Número de Pequeñas empresas / Producen / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P65",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  }
+]

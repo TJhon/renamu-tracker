@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_e_06",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Casa de reposo/Asilo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_e_07",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Centro de rehabilitación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_e_08",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Farmacia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_e_09",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Botica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_e_10",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Botiquín",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_01",
+    "desc_col": "Número de establecimientos / Privado / Hospital/ Clínica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_02",
+    "desc_col": "Número de establecimientos / Privado / Centro de Salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_03",
+    "desc_col": "Número de establecimientos / Privado / Puesto de Salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_04",
+    "desc_col": "Número de establecimientos / Privado / Consultorio médico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_05",
+    "desc_col": "Número de establecimientos / Privado / Consultorio odontológico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_06",
+    "desc_col": "Número de establecimientos / Privado / Casa de reposo/Asilo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_07",
+    "desc_col": "Número de establecimientos / Privado / Centro de rehabilitación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_08",
+    "desc_col": "Número de establecimientos / Privado / Farmacia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_09",
+    "desc_col": "Número de establecimientos / Privado / Botica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "p57_p_10",
+    "desc_col": "Número de establecimientos / Privado / Botiquín",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "VFI_P62",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62",
+    "desc_col": "La municipalidad realizó actividades con el Ministerio de Salud",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_01",
+    "desc_col": "Actividades que realizó/ Campañas de control de epidemias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_02",
+    "desc_col": "Actividades que realizó/ Campañas de salud preventiva",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_03",
+    "desc_col": "Actividades que realizó/ Campañas de primeros auxilios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_04",
+    "desc_col": "Actividades que realizó/ Campañas de educación sanitaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_05",
+    "desc_col": "Actividades que realizó/ Campañas de profilaxis local",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_06",
+    "desc_col": "Actividades que realizó/ Campañas de fumigación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_07",
+    "desc_col": "Actividades que realizó/ Campañas de registro y certificación de canes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_08",
+    "desc_col": "Actividades que realizó/ Campañas de salud mental",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C053",
+    "n_q": "62",
+    "desc_q": "Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2011",
+    "col": "P62_09",
+    "desc_col": "Actividades que realizó/ Otro",
+    "values": null,
+    "value_pos": null
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P42_4",
+    "desc_col": "Número de verificaciones técnicas a las obras con licencia de edificación / Monto recaudado por concepto de verificaciones técnicas (nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "ACCESO AL SUELO PARA VIVIENDA"
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que dispone de terrenos para fines de vivienda, 2015",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que dispone de terrenos para fines de vivienda, 2015",
+    "col": "P43",
+    "desc_col": "¿La municipalidad dispone de terrenos propios para fines de vivienda?",
+    "values": "1: Si;2: No dispone de terrenos",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que dispone de terrenos para fines de vivienda, 2015",
+    "col": "P43_1",
+    "desc_col": "terrenos propios para fines de vivienda / Terrenos que no se encuentran ocupados, construidos o afectados en uso / Área en m2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que dispone de terrenos para fines de vivienda, 2015",
+    "col": "P43_2",
+    "desc_col": "terrenos propios para fines de vivienda / Terrenos con saneamiento físico y legal / Área en m²",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que dispone de terrenos para fines de vivienda, 2015",
+    "col": "P43_3",
+    "desc_col": "terrenos propios para fines de vivienda / Terrenos con factibilidad de servicio de agua, desagüe y electricidad / Área en m²",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidades que dispone de terrenos para fines de vivienda, 2015",
+    "col": "P43_4",
+    "desc_col": "terrenos propios para fines de vivienda / Terrenos con zonificación compatible con vivienda / Área en m²",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "INFRAESTRUCTURA URBANA O RURAL BÁSICA"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P44_1",
+    "desc_col": "¿La municipalidad realizó reparación de pistas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P44A_1_1",
+    "desc_col": "realizó reparación de pistas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P44A_1_2",
+    "desc_col": "realizó reparación de pistas / Gasto anual en nuevos soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P44_2",
+    "desc_col": "¿La municipalidad realizó construcción de pistas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P44A_2_1",
+    "desc_col": "Realizó construcción de pistas / Metros cuadrados (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P44A_2_2",
+    "desc_col": "Realizó construcción de pistas / Gasto anual en nuevos soles (No incluya decimales)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P44_3",
+    "desc_col": "¿La municipalidad realizó reparación de veredas?",
+    "values": "1: Si",
+    "value_pos": 1
+  }
+]

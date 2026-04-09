@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P39A_5_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Peluquerías y salones spa",
+    "col": "P39A_5_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Peluquerías y salones spa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_6",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de Entidades financieras y de seguros?",
+    "col": "P39_6",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de Entidades financieras y de seguros?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P36A_6_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Entidades financieras y de seguros",
+    "col": "P36A_6_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Entidades financieras y de seguros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_7",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de artes, entretenimiento y recreación?",
+    "col": "P39_7",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de artes, entretenimiento y recreación?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_7_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS /Artes, entretenimiento y recreación",
+    "col": "P39A_7_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS /Artes, entretenimiento y recreación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_8",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de discotecas?",
+    "col": "P39_8",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de discotecas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_8_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Discotecas",
+    "col": "P39A_8_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Discotecas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_9",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de peñas?",
+    "col": "P39_9",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de peñas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_9_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS /Peñas",
+    "col": "P39A_9_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS /Peñas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_10",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de actividades profesionales?",
+    "col": "P39_10",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de actividades profesionales?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_10_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Actividades profesionales",
+    "col": "P39A_10_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Actividades profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_11",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de empresas de transporte?",
+    "col": "P39_11",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de empresas de transporte?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_11_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS /Empresas de transporte",
+    "col": "P39A_11_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS /Empresas de transporte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_12",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de cabinas públicas de internet?",
+    "col": "P39_12",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de cabinas públicas de internet?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_12_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Cabinas públicas de internet",
+    "col": "P39A_12_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Cabinas públicas de internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_13",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de juegos de casino y máquinas tragamonedas?",
+    "col": "P39_13",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de juegos de casino y máquinas tragamonedas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39A_13_1",
+    "desc_q": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Juegos de casino y máquinas tragamonedas",
+    "col": "P39A_13_1",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / SERVICIOS / Juegos de casino y máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_14",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de gimnasios?",
+    "col": "P39_14",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de gimnasios?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

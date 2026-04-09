@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_2",
+    "desc_col": "a Resultados y Enfoque de Genero",
+    "values": "2: No requiere",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_3",
+    "desc_col": "Requerimiento de capacitación / Administración Tributaria Municipal",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_4",
+    "desc_col": "Requerimiento de capacitación/ Estadística e Indicadores Municipales con Enfoque de Género",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_5",
+    "desc_col": "Requerimiento de capacitación / Gestión de Estándares para mejorar la Atención al Ciudadano",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_6",
+    "desc_col": "Requerimiento de capacitación / Gestión Descentralizada del Programa de Complementación Alimentaria",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_7",
+    "desc_col": "Requerimiento de capacitación / Ecoeficiencia",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_8",
+    "desc_col": "Requerimiento de capacitación / Gestión del Desarrollo Urbano y Territorial",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_9",
+    "desc_col": "Requerimiento de capacitación / Metodología de Gestión por Procesos",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_10",
+    "desc_col": "Requerimiento de capacitación / Metodología para elaborar cartas de servicios",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_11",
+    "desc_col": "Requerimiento de capacitación / Formulación y Evaluación de Proyectos Públicos",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_12",
+    "desc_col": "Requerimiento de capacitación / Normas técnicas de edificación y de habilitación urbana",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_13",
+    "desc_col": "Requerimiento de capacitación / Procedimientos Administrativos",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_14",
+    "desc_col": "Requerimiento de capacitación / Política de Desarrollo e Inclusión Social",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_15",
+    "desc_col": "Requerimiento de capacitación / Políticas de Igualdad de Género",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_16",
+    "desc_col": "Requerimiento de capacitación / Gobierno Electrónico Municipal",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_17",
+    "desc_col": "Requerimiento de capacitación / Metodología de Simplificación Administrativa Pública",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_18",
+    "desc_col": "Requerimiento de capacitación / Metodología de Implementación del Portal de Transparencia Estándar",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_19",
+    "desc_col": "Requerimiento de capacitación / Aplicación de las Normas Contables en la Gestión Municipal con incidencia en la",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_20",
+    "desc_col": "Requerimiento de capacitación / Indicadores de Gestión Municipal",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_21",
+    "desc_col": "Requerimiento de capacitación / Sistema de Registro Nacional del Artesano",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_22",
+    "desc_col": "Requerimiento de capacitación / Otro",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "24",
+    "desc_q": "Capacitación que requiere la municipalidad, 2015",
+    "col": "P24_22_O",
+    "desc_col": "Requerimiento de capacitación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

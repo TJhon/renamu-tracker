@@ -1,0 +1,353 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "V127",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Venta de activos / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V128",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Amortización por préstamos concedidos (Reembolso)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V129",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Otros ingresos de capital",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V130",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / III. TRANSFERENCIAS",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V131",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector No Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V132",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V133",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público / Programa del Vaso de Leche",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V134",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público/ De instancias descentralizadas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V135",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público / Del gobierno nacional",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V136",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público / Para proyectos de infraestructura social y productiva",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V137",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público / Comedores, Alimentos por Trabajo y Hogares y Albergues",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V138",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público / Para otras acciones nutricionales y de asistencia solidaria",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V139",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Internas del Sector Público / Otras del Sector Público",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V140",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Externas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V141",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Fondo de Compensación Municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V142",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Otras transferencias",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V143",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / IV. FINANCIAMIENTO",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V144",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Operaciones oficiales de crédito externo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V145",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Operaciones oficiales de crédito interno",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "V146",
+    "desc_q": "2005 (Nuevos Soles) / Ejecución / Saldo del balance",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "PIA : Presupuesto Institucional de Apertura",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V1",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V2",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V3",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V4",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V5",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V6",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V7",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V8",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V9",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V10",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V11",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V12",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V13",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V14",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V15",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V16",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V17",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "V18",
+    "desc_q": "Gastos de la Municipalidad en el 2005",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

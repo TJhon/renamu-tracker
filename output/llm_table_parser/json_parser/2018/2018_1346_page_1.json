@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "108",
+    "desc_q": "Organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2018",
+    "col": "VFI_P108",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "108",
+    "desc_q": "Organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2018",
+    "col": "P108",
+    "desc_col": "¿En el distrito existen organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado?",
+    "values": "1: Sí; 2: No existen"
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "108",
+    "desc_q": "Organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2018",
+    "col": "P108_1",
+    "desc_col": "Organizaciones / Junta Administradora de Servicios de Saneamiento (JASS)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "108",
+    "desc_q": "Organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2018",
+    "col": "P108_2",
+    "desc_col": "Organizaciones / Comité de agua",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "108",
+    "desc_q": "Organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2018",
+    "col": "P108_3",
+    "desc_col": "Organizaciones / Otra entidad u organización",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "108",
+    "desc_q": "Organizaciones que se encargan de la administración, operación y mantenimiento de los servicios de agua potable y alcantarillado, 2018",
+    "col": "P108_3_O",
+    "desc_col": "Organizaciones / Otra entidad u organización / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "109",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P109_1",
+    "desc_col": "Organizaciones comunitarias supervisadas por la municipalidad / Junta Administradora de Servicios de Saneamiento (JASS)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "109",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P109_2",
+    "desc_col": "Organizaciones comunitarias supervisadas por la municipalidad / Asociación de usuarios",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "109",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P109_3",
+    "desc_col": "Organizaciones comunitarias supervisadas por la municipalidad / Comité de agua",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "109",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P109_4",
+    "desc_col": "Organizaciones comunitarias supervisadas por la municipalidad / Otra organización",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "109",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P109_4_O",
+    "desc_col": "Organizaciones comunitarias supervisadas por la municipalidad / Otra organización / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "109",
+    "desc_q": "Municipalidad que supervisa organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P109_5",
+    "desc_col": "No supervisa organizaciones comunitarias",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "VFI_P110",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P110_1",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar asistencia técnica",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P110_2",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar capacitación",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P110_3",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar mantenimiento del sistema de saneamiento",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P110_4",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar la ampliación y/o rehabilitación de los sistemas de saneamiento",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P110_5",
+    "desc_col": "Actividades que realiza la municipalidad / Otra actividad",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P110_5_O",
+    "desc_col": "Actividades que realiza la municipalidad / Otra actividad / Especifique",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C25",
+    "n_q": "110",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2018",
+    "col": "P110_6",
+    "desc_col": "No realiza actividades",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  }
+]

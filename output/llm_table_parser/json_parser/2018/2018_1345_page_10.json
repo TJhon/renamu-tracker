@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "63A",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2017 y 31 de Marzo 2018",
+    "col": "P63A_5_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas afectadas con tuberculosis / Número de beneficiarios y/o afiliados al 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "63A",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2017 y 31 de Marzo 2018",
+    "col": "P63A_6_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Adulto Mayor / Número de beneficiarios y/o afiliados al 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "63A",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2017 y 31 de Marzo 2018",
+    "col": "P63A_6_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Adulto Mayor / Número de beneficiarios y/o afiliados al 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "63A",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2017 y 31 de Marzo 2018",
+    "col": "P63A_7_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas con alguna discapacidad / Número de beneficiarios y/o afiliados al 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "63A",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2017 y 31 de Marzo 2018",
+    "col": "P63A_7_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Personas con alguna discapacidad / Número de beneficiarios y/o afiliados al 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "63A",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2017 y 31 de Marzo 2018",
+    "col": "P63A_8_1",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Otros beneficiarios / Número de beneficiarios y/o afiliados al 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "63A",
+    "desc_q": "Beneficiarios del Programa del Vaso de Leche, al 31 de Diciembre 2017 y 31 de Marzo 2018",
+    "col": "P63A_8_2",
+    "desc_col": "Beneficiarios del Programa del Vaso de Leche / Otros beneficiarios / Número de beneficiarios y/o afiliados al 31 de marzo 2018",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "64A",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de Diciembre 2017",
+    "col": "VFI_P64A",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "64A",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de Diciembre 2017",
+    "col": "P64A",
+    "desc_col": "¿La Municipalidad ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490?",
+    "values": "1: Ha Implementado; 2: No ha implementado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "64A",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de Diciembre 2017",
+    "col": "P64A_1",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Número de locales en funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "64A",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de Diciembre 2017",
+    "col": "P64A_2",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Total de beneficiarios al 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "64B",
+    "desc_q": "Municipalidad que ha creado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de Diciembre 2017",
+    "col": "VFI_P64B",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "64B",
+    "desc_q": "Municipalidad que ha creado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de Diciembre 2017",
+    "col": "P64B",
+    "desc_col": "¿La Municipalidad ha creado la Oficina Municipal de Atención a las Personas con Discapacidad (OMAPED) en cumplimiento al artículo 84 de la ley N° 27972, ley orgánica de municipalidades?",
+    "values": "1: Ha creado; 2: No ha creado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "64B",
+    "desc_q": "Municipalidad que ha creado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de Diciembre 2017",
+    "col": "P64B_1",
+    "desc_col": "Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED) / Total de beneficiarios al 31 de diciembre 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "VFI_P65",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65",
+    "desc_col": "¿La municipalidad brindó el servicio de Defensoría Municipal del Niño y del Adolescente?",
+    "values": "1: Brindó; 2: No brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65_1",
+    "desc_col": "¿La municipalidad atendió casos por alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65A_1",
+    "desc_col": "Número de casos atendidos / Alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65_2",
+    "desc_col": "¿La municipalidad atendió casos por tenencia de hijas o hijos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65A_2",
+    "desc_col": "Número de casos atendidos / Tenencia de hijas o hijos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65_3",
+    "desc_col": "¿La municipalidad atendió casos por régimen de visitas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65A_3",
+    "desc_col": "Número de casos atendidos / Régimen de visitas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65_4",
+    "desc_col": "¿La municipalidad atendió casos por normas de comportamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65A_4",
+    "desc_col": "Número de casos atendidos / Normas de comportamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65_5",
+    "desc_col": "¿La municipalidad atendió casos de reconocimiento voluntario de la filiación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 17",
+    "n_q": "65",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2017",
+    "col": "P65A_5",
+    "desc_col": "Número de casos atendidos / Reconocimiento voluntario de la filiación",
+    "values": "",
+    "value_pos": null
+  }
+]

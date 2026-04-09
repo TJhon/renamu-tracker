@@ -1,0 +1,221 @@
+[
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_4",
+    "desc_col": "Fenómenos naturales registrados / Derrumbes de cerros",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_5",
+    "desc_col": "Fenómenos naturales registrados / Huaycos",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_6",
+    "desc_col": "Fenómenos naturales registrados / Granizadas",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_7",
+    "desc_col": "Fenómenos naturales registrados / Friajes",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_8",
+    "desc_col": "Fenómenos naturales registrados / Heladas",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_9",
+    "desc_col": "Fenómenos naturales registrados / Nevadas",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_10",
+    "desc_col": "Fenómenos naturales registrados / Lluvias intensas",
+    "values": "10: Sí; 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_11",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "11: Sí; 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_12",
+    "desc_col": "Fenómenos naturales registrados / Inundaciones",
+    "values": "12: Sí; 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_13",
+    "desc_col": "Fenómenos naturales registrados / Sequías",
+    "values": "13: Sí; 0: No",
+    "value_pos": 13
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_14",
+    "desc_col": "Fenómenos naturales registrados / Vientos fuertes",
+    "values": "14: Sí; 0: No",
+    "value_pos": 14
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_15",
+    "desc_col": "Fenómenos naturales registrados / Incendios forestales",
+    "values": "15: Sí; 0: No",
+    "value_pos": 15
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_16",
+    "desc_col": "Fenómenos naturales registrados / Incendios urbanos",
+    "values": "16: Sí; 0: No",
+    "value_pos": 16
+  },
+  {
+    "cuadro": "CUADRO_C 21",
+    "n_q": "96",
+    "desc_q": "Peligros de origen natural e inducidos por la acción humana que han causado emergencias o desastres, 2017",
+    "col": "P96_17",
+    "desc_col": "Fenómenos naturales registrados / No se registraron",
+    "values": "17: Sí; 0: No",
+    "value_pos": 17
+  },
+  {
+    "h2": "PROMOCIÓN DEL DESARROLLO ECONÓMICO LOCAL"
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_1",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de alimentos y bebidas?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_1_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de alimentos y bebidas / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_1_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de alimentos y bebidas / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_1_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de alimentos y bebidas / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_2",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de cueros y calzado?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_2_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de cueros y calzado / Total MYPE",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_2_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de cueros y calzado / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97A_2_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de cueros y calzado / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 22",
+    "n_q": "97",
+    "desc_q": "Municipalidad que registró Micro y Pequeñas Empresas, 2017",
+    "col": "P97_3",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de artesanía?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

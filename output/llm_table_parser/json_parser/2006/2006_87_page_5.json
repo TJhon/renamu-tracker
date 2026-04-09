@@ -1,0 +1,407 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V7",
+    "desc_col": "Operativos de Control / Pesas y medidas",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Operativos de Control / Alimentos",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Operativos de Control / Comercio ambulatorio",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Operativos de Control / Transporte urbano",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Operativos de Control / Vigencia de licencias de construcción",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V12",
+    "desc_col": "Operativos de Control / Vigencia de licencia de funcionamiento",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V13",
+    "desc_col": "Operativos de Control / Emisión de hornos, gases tóxicos y ruidos",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V14",
+    "desc_col": "Operativos de Control / Otro",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "34",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad en el 2005",
+    "col": "V1",
+    "desc_col": "La Municipalidad emitió carné de sanidad",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "34",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad en el 2005",
+    "col": "V2",
+    "desc_col": "Número de carné / Total (V3+V4+V5)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "34",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad en el 2005",
+    "col": "V3",
+    "desc_col": "Número de carné / Para venta de alimentos en restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "34",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad en el 2005",
+    "col": "V4",
+    "desc_col": "Número de carné / Para venta ambulatoria de alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0028",
+    "n_q": "34",
+    "desc_q": "Carné de sanidad expedidos por la municipalidad en el 2005",
+    "col": "V5",
+    "desc_col": "Número de carné / Para otros usos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "35",
+    "desc_q": "Ambulantes registrados en la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene ambulantes registrados",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0029",
+    "n_q": "35",
+    "desc_q": "Ambulantes registrados en la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de ambulantes registrados en la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "36",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene instalados baños de uso público en el distrito",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0030",
+    "n_q": "36",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, al 2005",
+    "col": "V2",
+    "desc_col": "Número de baños públicos instalados y en funcionamiento de la Municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "37",
+    "desc_q": "Áreas verdes existentes en el distrito, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene áreas verdes en el distrito",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "37",
+    "desc_q": "Áreas verdes existentes en el distrito, al 2005",
+    "col": "V2",
+    "desc_col": "Áreas verdes / Plazas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "37",
+    "desc_q": "Áreas verdes existentes en el distrito, al 2005",
+    "col": "V3",
+    "desc_col": "Áreas verdes / Parques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "37",
+    "desc_q": "Áreas verdes existentes en el distrito, al 2005",
+    "col": "V4",
+    "desc_col": "Áreas verdes / Jardines y óvalos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0031",
+    "n_q": "37",
+    "desc_q": "Áreas verdes existentes en el distrito, al 2005",
+    "col": "V5",
+    "desc_col": "Areas verdes / Bermas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "38",
+    "desc_q": "Municipalidades que brindan servicio de cabinas públicas de Internet",
+    "col": "V1",
+    "desc_col": "La municipalidad brinda servicios de cabinas públicas de Internet",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "38",
+    "desc_q": "Municipalidades que brindan servicio de cabinas públicas de Internet",
+    "col": "V2",
+    "desc_col": "Cabina pública / número de locales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0032",
+    "n_q": "38",
+    "desc_q": "Municipalidades que brindan servicio de cabinas públicas de Internet",
+    "col": "V3",
+    "desc_col": "Cabina pública / número de PCs",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "39",
+    "desc_q": "Biblioteca municipal en el distrito, al 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad tiene biblioteca",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "39",
+    "desc_q": "Biblioteca municipal en el distrito, al 2005",
+    "col": "V2",
+    "desc_col": "Biblioteca municipal / Área m²",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0033",
+    "n_q": "39",
+    "desc_q": "Biblioteca municipal en el distrito, al 2005",
+    "col": "V3",
+    "desc_col": "Biblioteca municipal / Promedio mensual de usuarios atendidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V1",
+    "desc_col": "Número de títulos por tipo colección / Folletos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de volúmenes por tipo colección / Folletos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V3",
+    "desc_col": "Número de títulos por tipo colección / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V4",
+    "desc_col": "Número de volúmenes por tipo colección / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V5",
+    "desc_col": "Número de títulos por tipo colección / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V6",
+    "desc_col": "Número de volúmenes por tipo colección / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V7",
+    "desc_col": "Número de títulos por tipo colección / Materiales audio visuales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V8",
+    "desc_col": "Número de volúmenes por tipo colección / Materiales audio visuales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V9",
+    "desc_col": "Numero de títulos por tipo colección / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0034",
+    "n_q": "40",
+    "desc_q": "Colecciones que dispone la biblioteca municipal, en el 2005",
+    "col": "V10",
+    "desc_col": "Numero de volúmenes por tipo colección / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "41",
+    "desc_q": "Servicios que brinda la biblioteca municipal, en el 2005",
+    "col": "V1",
+    "desc_col": "Servicio brindado / Lectura en sala",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "41",
+    "desc_q": "Servicios que brinda la biblioteca municipal, en el 2005",
+    "col": "V2",
+    "desc_col": "Servicio brindado / Área o sala infantil",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "41",
+    "desc_q": "Servicios que brinda la biblioteca municipal, en el 2005",
+    "col": "V3",
+    "desc_col": "Servicio brindado / Sala de hemeroteca (revistas)",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "41",
+    "desc_q": "Servicios que brinda la biblioteca municipal, en el 2005",
+    "col": "V4",
+    "desc_col": "Servicio brindado / Préstamo a domicilio",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "41",
+    "desc_q": "Servicios que brinda la biblioteca municipal, en el 2005",
+    "col": "V5",
+    "desc_col": "Servicio brindado / Préstamo inter bibliotecario",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "41",
+    "desc_q": "Servicios que brinda la biblioteca municipal, en el 2005",
+    "col": "V6",
+    "desc_col": "Servicio brindado / Formación de usuarios",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0035",
+    "n_q": "41",
+    "desc_q": "Servicios que brinda la biblioteca municipal, en el 2005",
+    "col": "V7",
+    "desc_col": "Servicio brindado / Información y referencia",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  }
+]

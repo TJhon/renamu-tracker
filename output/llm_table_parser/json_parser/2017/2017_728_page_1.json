@@ -1,0 +1,176 @@
+[
+  {
+    "h2": "MÓDULO II: EQUIPAMIENTO Y TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES"
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Bienes inmuebles administrados por la municipalidad, 2017",
+    "col": "VFI_P11",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Bienes inmuebles administrados por la municipalidad, 2017",
+    "col": "P11_1",
+    "desc_col": "Número de predios de propiedad municipal.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Bienes inmuebles administrados por la municipalidad, 2017",
+    "col": "P11_2",
+    "desc_col": "Número de predios cedidos temporalmente en uso por otras entidades.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Bienes inmuebles administrados por la municipalidad, 2017",
+    "col": "P11_3",
+    "desc_col": "Número de predios de propiedad municipal inscritos en registros públicos.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Bienes inmuebles administrados por la municipalidad, 2017",
+    "col": "P11_4",
+    "desc_col": "Número de predios de propiedad municipal y/o predios cedidos en uso temporalmente por otras entidades, registrados en el SINABIP de la SBN.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Bienes inmuebles administrados por la municipalidad, 2017",
+    "col": "P11_5",
+    "desc_col": "Número de predios de propiedad municipal y/o predios cedidos en uso temporalmente por otras entidades que están desocupados.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C01",
+    "n_q": "11",
+    "desc_q": "Bienes inmuebles administrados por la municipalidad, 2017",
+    "col": "P11_6",
+    "desc_col": "Número de predios de propiedad municipal y/o predios cedidos temporalmente por otras entidades, con procesos judiciales.",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P12",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_A",
+    "desc_col": "¿La municipalidad cuenta con bienes muebles propios, como vehículos y equipos?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_1",
+    "desc_col": "¿La municipalidad cuenta con auto y/o camioneta?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_1_1",
+    "desc_col": "Número de bienes / Auto y/o camioneta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_1_2",
+    "desc_col": "Número de bienes / Auto y/o camioneta / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_2",
+    "desc_col": "¿La municipalidad cuenta con motocicleta?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_2_1",
+    "desc_col": "Número de bienes / Motocicleta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_2_2",
+    "desc_col": "Número de bienes / Motocicleta / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_3",
+    "desc_col": "¿La municipalidad cuenta con ambulancia?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_3_1",
+    "desc_col": "Número de bienes / Ambulancia / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12A_3_2",
+    "desc_col": "Número de bienes / Ambulancia / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P12_4",
+    "desc_col": "¿La municipalidad cuenta con volquete?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

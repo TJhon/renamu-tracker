@@ -1,0 +1,221 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P19_16",
+    "desc_q": "Asistencia técnica que requiere / Gestión de Riesgos de Desastres",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_17",
+    "desc_q": "Asistencia técnica que requiere / Zonificación Ecológica Económica",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_18",
+    "desc_q": "Asistencia técnica que requiere / Seguridad Ciudadana",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_19",
+    "desc_q": "Asistencia técnica que requiere / Estadística",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_20",
+    "desc_q": "Asistencia técnica que requiere / Informática",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_21",
+    "desc_q": "Asistencia técnica que requiere / Turismo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_22",
+    "desc_q": "Asistencia técnica que requiere / Gestión Externa del Estado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_23",
+    "desc_q": "Asistencia técnica que requiere / Biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_24",
+    "desc_q": "Asistencia técnica que requiere / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P19_O",
+    "desc_q": "Asistencia técnica que requiere / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "20 CUADRO_C011 Capacitación que requiere la municipalidad, 2013"
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "VFI_P20",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20",
+    "desc_q": "La municipalidad requiere capacitación",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Requiere; 0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_01",
+    "desc_q": "Requerimiento de capacitación/ Administración, contabilidad y finanzas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_02",
+    "desc_q": "Requerimiento de capacitación/ Gestión de Recursos Humanos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_03",
+    "desc_q": "Requerimiento de capacitación/ Política y Gestión Municipal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_04",
+    "desc_q": "Requerimiento de capacitación/ Registro Civil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_05",
+    "desc_q": "Requerimiento de capacitación/ Plan Estratégico y Planificación Operativa",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_06",
+    "desc_q": "Requerimiento de capacitación/ Gestión ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_07",
+    "desc_q": "Requerimiento de capacitación/ Defensa Civil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_08",
+    "desc_q": "Requerimiento de capacitación/ Seguridad Ciudadana",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_09",
+    "desc_q": "Requerimiento de capacitación/ Estadística e Indicadores Municipales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_10",
+    "desc_q": "Requerimiento de capacitación/ Tecnología de la Información y Comunicaciones (TIC)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_11",
+    "desc_q": "Requerimiento de capacitación/ Informática",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C011",
+    "n_q": "P20_12",
+    "desc_q": "Requerimiento de capacitación/ Organización y Gestión de Bibliotecas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

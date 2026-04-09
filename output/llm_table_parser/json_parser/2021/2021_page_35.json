@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_6",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Planificación familiar",
+    "values": "0: Pase; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_7",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Control de infecciones de transmisión sexual y VIH/SIDA",
+    "values": "0: Pase; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_10",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Prevención y reducción de la anemia",
+    "values": "0: Pase; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_11",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Preparación y respuesta frente al COVID-19",
+    "values": "0: Pase; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_8",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Otro",
+    "values": "0: Pase; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_8_O",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_9",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: No implementó programas de control y prevención de la salud",
+    "values": "0: Pase; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "h2": "SEGURIDAD CIUDADANA"
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "VFI_P69",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_1",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de diciembre 2020?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_1_T",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2020 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_1_M",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2020 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_1_H",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2020 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2021?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_2_T",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2021 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_2_M",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2021 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "60",
+    "desc_q": "Municipalidad que brindael servicio de serenazgo,al 31 de diciembre 2020 y 31 de marzo 2021",
+    "col": "P69_2_H",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2021 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70_1",
+    "desc_col": "¿La Municipalidad dispone de unidades móviles como auto y/o camioneta para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70A_1_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70A_1_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70A_1_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70_2",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Motocicleta para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70A_2_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicleta / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70A_2_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicleta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70A_2_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicleta / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "61",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2021",
+    "col": "P70_3",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Bicicleta para actividades de serenazgo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

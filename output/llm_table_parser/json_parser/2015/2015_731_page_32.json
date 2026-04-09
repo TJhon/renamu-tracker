@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P91_O",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene/ Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "VFI_P92",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92",
+    "desc_col": "¿La Municipalidad tiene almacén local de bienes de ayuda humanitaria?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_1",
+    "desc_col": "Bienes de ayuda humanitaria / Carpas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_2",
+    "desc_col": "Bienes de ayuda humanitaria/ Alimentos no perecibles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_3",
+    "desc_col": "Bienes de ayuda humanitaria / Bidones de agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_4",
+    "desc_col": "Bienes de ayuda humanitaria / Botiquines de emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_5",
+    "desc_col": "Bienes de ayuda humanitaria / Ropa y abrigo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_6",
+    "desc_col": "Bienes de ayuda humanitaria / Camas plegables",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_7",
+    "desc_col": "Bienes de ayuda humanitaria / Enseres (utensilios de cocina, productos de higiene y otros)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_8",
+    "desc_col": "Bienes de ayuda humanitaria / Herramientas (lampas, carretillas, picos y otros)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92_9",
+    "desc_col": "Bienes de ayuda humanitaria / Otro tipo de bien",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C085",
+    "n_q": "92",
+    "desc_q": "Almacén local de bienes de ayuda humanitaria de la municipalidad, 2015",
+    "col": "P92A_9",
+    "desc_col": "Bienes de ayuda humanitaria / Otro tipo de bien / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "VFI_P93",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93",
+    "desc_col": "¿La Municipalidad tiene oficina de Defensa Civil?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93A",
+    "desc_col": "¿La oficina de Defensa Civil tiene Medios de comunicación?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93A_1",
+    "desc_col": "Medios de comunicación / Radiotransmisor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93A_2",
+    "desc_col": "Medios de comunicación/ Línea de telefonía fija",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93A_3",
+    "desc_col": "Medios de comunicación / Línea destinada a fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93A_4",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93A_5",
+    "desc_col": "Medios de comunicación / Acceso a internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93A_6",
+    "desc_col": "Medios de comunicación / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "93",
+    "desc_q": "La Municipalidad tiene oficina de defensa civil y medios de comunicación, 2015",
+    "col": "P93_O",
+    "desc_col": "Medios de comunicación / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

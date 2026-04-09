@@ -1,0 +1,380 @@
+[
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V259",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Internas del Sector Público /Para otras acciones nutricionales y de asistencia solidaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V260",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Externas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V261",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Fondo de Compensación Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V262",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Otras transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V263",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / IV. FINANCIAMIENTO",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V264",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Operaciones oficiales de crédito externo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V265",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Operaciones oficiales de crédito interno",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V266",
+    "desc_col": "2004 (Nuevos Soles) / Ejecución / Saldo del balance",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V101",
+    "desc_col": "2003 (Nuevos Soles) / PIA / GASTO TOTAL (I + II + III)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V102",
+    "desc_col": "2003 (Nuevos Soles) / PIA / I. GASTOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V103",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Personal y obligaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V104",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Obligaciones previsionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V105",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Bienes y servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V106",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Otros gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V107",
+    "desc_col": "2003 (Nuevos Soles) / PIA / II. GASTOS DE CAPITAL",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V108",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Inversiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V109",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Inversiones financieras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V110",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Otros gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V111",
+    "desc_col": "2003 (Nuevos Soles) / PIA / III. SERVICIO DE LA DEUDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V112",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Interna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V113",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Intereses y cargos de la deuda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V114",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Amortización de la deuda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V115",
+    "desc_col": "2004 (Nuevos Soles) / PIA / Externa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V116",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Intereses y cargos de la deuda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V117",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Amortización de la deuda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V201",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / GASTO TOTAL (I + II + III)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V202",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / I. GASTOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V203",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Personal y obligaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V204",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Obligaciones previsionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V205",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Bienes y servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V206",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Otros gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V207",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / II. GASTOS DE CAPITAL",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V208",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Inversiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V209",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Inversiones financieras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V210",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Otros gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V211",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / III. SERVICIO DE LA DEUDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V212",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Interna",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V213",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Intereses y cargos de la deuda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V214",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Amortización de la deuda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V215",
+    "desc_col": "2003 (Nuevos Soles) / PIA / Externa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V216",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Intereses y cargos de la deuda",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0017",
+    "n_q": "23",
+    "desc_q": "Gastos de la Municipalidad en el 2003",
+    "col": "V217",
+    "desc_col": "2003 (Nuevos Soles) / Ejecución / Amortización de la deuda",
+    "values": "",
+    "value_pos": null
+  }
+]

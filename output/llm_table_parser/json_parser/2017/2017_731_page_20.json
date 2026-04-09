@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_23_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Gobierno Local",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_24_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Otro Público",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_24_1_O",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Otro Público / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_25_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Empresa privada",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_26_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Organización No Gubernamental",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_27_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / La comunidad",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_28_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Iglesia",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_29_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Organismo internacional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_30_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Otro Privado",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_30_1_O",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Otro Privado / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70",
+    "desc_col": "¿La municipalidad ha recibido transferencias de proyectos de infraestructura social y productiva?",
+    "values": "1: Ha recibido; 0: No ha recibido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70_1",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en agua y saneamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70A_1",
+    "desc_col": "Número de proyectos / Agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70_2",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en electrificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70A_2",
+    "desc_col": "Número de proyectos / Electrificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70_3",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en hospital?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70A_3",
+    "desc_col": "Número de proyectos / Hospital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P70_4",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura social y productiva en Centro de salud?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

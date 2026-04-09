@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P48_5",
+    "desc_col": "Instrumento de gestión / Programa de Segregación en la Fuente y Recolección Selectiva de Residuos Sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P48_6",
+    "desc_col": "Instrumento de gestión / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P48_6_O",
+    "desc_col": "Instrumento de gestión / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P45",
+    "desc_col": "¿La municipalidad realiza el recojo de residuos sólidos (basura)?",
+    "values": "1: Realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "VFI_P49",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P49_1",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Relleno sanitario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P49_2",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Botadero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P49_3",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Vertidos en el río, laguna o el mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P49_4",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Reciclados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P49_5",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Quemados / Incinerados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P49_6",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C41",
+    "n_q": "49",
+    "desc_q": "Destino final de los residuos sólidos recolectados por la municipalidad, 2015",
+    "col": "P49_6_O",
+    "desc_col": "Destino final de los residuos sólidos recolectados (%) / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C42",
+    "n_q": "50",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2014",
+    "col": "VFI_P50",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C42",
+    "n_q": "50",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2014",
+    "col": "P50",
+    "desc_col": "¿La municipalidad informó sobre el costo que demandó el servicio de limpieza?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C42",
+    "n_q": "50",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2014",
+    "col": "P50_1",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Gasto Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C42",
+    "n_q": "50",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2014",
+    "col": "P50_2",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Recojo domiciliario de residuos sólidos, transporte y destino final",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C42",
+    "n_q": "50",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2014",
+    "col": "P50_3",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Barridos de calles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C42",
+    "n_q": "50",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2014",
+    "col": "P50_4",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C42",
+    "n_q": "50",
+    "desc_q": "Gasto ejecutado en el servicio de limpieza pública, 2014",
+    "col": "P50_4_O",
+    "desc_col": "Gasto ejecutado en el servicio de limpieza pública (en soles) / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P51",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P51_1",
+    "desc_col": "¿La municipalidad expidió carné de sanidad para venta de alimentos en restaurantes?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  }
+]

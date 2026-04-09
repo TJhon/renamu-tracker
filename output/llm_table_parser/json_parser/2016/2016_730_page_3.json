@@ -1,0 +1,92 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la Municipalidad, 2016",
+    "col": "",
+    "desc_col": "",
+    "values": "3: Falta de recursos para su elaboracion;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_7",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone / Esquema de Ordenamiento Urbano",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_7_1",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone Esquema de Ordenamiento Urbano / Ano de publicacion",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_7_2",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone / Esquema de Ordenamiento Urbano / Motivo por el que no tiene",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Falta aprobar por el Concejo Municipal;2: En elaboracion;3: Falta de recursos para su elaboracion;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_8",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone / Plan de Desarrollo Rural",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_8_1",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone / Plan de Desarrollo Rural / Ano de publicacion",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_8_2",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone / Plan de Desarrollo Rural / Motivo por el que no tiene",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Falta aprobar por el Concejo Municipal;2: En elaboracion;3: Falta de recursos para su elaboracion;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_9",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone / Plan Anual de Seguridad Ciudadana y Convivencia Social",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_9_1",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone / Plan Anual de Seguridad Ciudadana y Convivencia Social / Ano de publicacion",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "P25_9_2",
+    "desc_q": "Instrumento de gestion y desarrollo que dispone Plan Anual de Seguridad Ciudadana y Convivencia Social / Motivo por el que no tiene",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Falta aprobar por el Concejo Municipal;2: En elaboracion;3: Falta de recursos para su elaboracion;4: Otro",
+    "value_pos": null
+  }
+]

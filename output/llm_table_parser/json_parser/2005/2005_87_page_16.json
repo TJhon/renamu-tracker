@@ -1,0 +1,344 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V2",
+    "desc_col": "Número de establecimientos de hospedaje/ Hoteles/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V3",
+    "desc_col": "Número de establecimientos de hospedaje/ Hoteles/ Hotel de 1 estrella",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V4",
+    "desc_col": "Número de establecimientos de hospedaje/ Hoteles/ Hotel de 2 estrella",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V5",
+    "desc_col": "Número de establecimientos de hospedaje/ Hoteles/ Hotel de 3 estrella",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V6",
+    "desc_col": "Número de establecimientos de hospedaje/ Hoteles/ Hotel de 4 estrella",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V7",
+    "desc_col": "Número de establecimientos de hospedaje/ Apart-Hotel",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V8",
+    "desc_col": "Número de establecimientos de hospedaje/ Hostal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V9",
+    "desc_col": "Número de establecimientos de hospedaje/ Casa de hospedaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "hospedaje registrados en la municipalidad, al 2004",
+    "col": "V10",
+    "desc_col": "Número de establecimientos de hospedaje/ Albergue",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "Acciones para incentivar el turismo/ Promoción y publicidad",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V2",
+    "desc_col": "Acciones para incentivar el turismo/ Mejoramiento de la infraestructura de acceso",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V3",
+    "desc_col": "Acciones para incentivar el turismo/ Construcción de los nuevos atractivos turísticos",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V4",
+    "desc_col": "Acciones para incentivar el turismo/ Mantenimiento de los atractivos turísticos",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V5",
+    "desc_col": "Acciones para incentivar el turismo/ Normas de promoción al turismo",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V6",
+    "desc_col": "Acciones para incentivar el turismo/ Realización de eventos y ferias",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V7",
+    "desc_col": "Acciones para incentivar el turismo/ Convenios institucionales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0083",
+    "n_q": "86",
+    "desc_q": "Acciones que realizo la municipalidad para incentivar el turismo en el distrito, en el 2004",
+    "col": "V8",
+    "desc_col": "Acciones para incentivar el turismo/ Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0084",
+    "n_q": "87",
+    "desc_q": "Restaurantes y establecimientos de expendio de comida registrados en la municipalidad, al 2004",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen registrados establecimientos de expendio de comida",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0084",
+    "n_q": "87",
+    "desc_q": "Restaurantes y establecimientos de expendio de comida registrados en la municipalidad, al 2004",
+    "col": "V2",
+    "desc_col": "Establecimientos de expendio de comida/ Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0084",
+    "n_q": "87",
+    "desc_q": "Restaurantes y establecimientos de expendio de comida registrados en la municipalidad, al 2004",
+    "col": "V3",
+    "desc_col": "Establecimientos de expendio de comida/ Otros establecimientos que expenden comida",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0085",
+    "n_q": "88",
+    "desc_q": "Oficina o unidad ambiental en la municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen unidad/ Oficina Ambiental",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0086",
+    "n_q": "89",
+    "desc_q": "Equipos de Monitoreo de contaminantes que tiene la municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen equipo de monitoreo",
+    "values": "1: Si tienen; 0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0086",
+    "n_q": "89",
+    "desc_q": "Equipos de Monitoreo de contaminantes que tiene la municipalidad",
+    "col": "V2.1",
+    "desc_col": "Nombre del contaminante que monitorea el equipo / Calidad de aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0086",
+    "n_q": "89",
+    "desc_q": "Equipos de Monitoreo de contaminantes que tiene la municipalidad",
+    "col": "V2.2",
+    "desc_col": "Frecuencia",
+    "values": "1: Diario; 2: Mensual; 3: Anual",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0086",
+    "n_q": "89",
+    "desc_q": "Equipos de Monitoreo de contaminantes que tiene la municipalidad",
+    "col": "V3.1",
+    "desc_col": "Nombre del contaminante que monitorea el equipo / Calidad de agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0086",
+    "n_q": "89",
+    "desc_q": "Equipos de Monitoreo de contaminantes que tiene la municipalidad",
+    "col": "V3.2",
+    "desc_col": "Frecuencia",
+    "values": "1: Diario; 2: Mensual; 3: Anual",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "La Municipalidad tiene problemas de contaminación ambiental",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V2",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V3",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Gases de vehículos motorizados",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V4",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Relaves mineros",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V5",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Ruidos",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V6",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Aguas servidas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V7",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Acumulación de basura",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V8",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Avería de Bosques",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "V9",
+    "desc_col": "Tipo de fuentes que originan la contaminación ambiental / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0087",
+    "n_q": "90",
+    "desc_q": "Fuentes que originan la contaminación ambiental en el distrito, en el 2004",
+    "col": "Descr_V9",
+    "desc_col": "Descripción de Tipo de fuentes que originan la contaminación ambiental / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "91",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron sobre la existencia de participación de la población",
+    "values": "1: Si Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0088",
+    "n_q": "91",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad",
+    "col": "V2",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Concertación de los planes de desarrollo municipal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  }
+]

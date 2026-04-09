@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "102",
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101_O",
+    "desc_col": "Tipos de tratamiento / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "VFI_102",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_102",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102",
+    "desc_q": "El distrito tiene sistema de desagüe",
+    "col": "P102",
+    "desc_col": "El distrito tiene sistema de desagüe",
+    "values": "1: Tiene; 0. No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_01",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_01",
+    "desc_col": "El sistema de desagüe desemboca / Río",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_02",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_02",
+    "desc_col": "El sistema de desagüe desemboca / Quebrada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_03",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_03",
+    "desc_col": "El sistema de desagüe desemboca / Mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_04",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_04",
+    "desc_col": "El sistema de desagüe desemboca / Playa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_05",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_05",
+    "desc_col": "El sistema de desagüe desemboca / Lago",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_06",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_06",
+    "desc_col": "El sistema de desagüe desemboca / Laguna de Oxidación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_07",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_07",
+    "desc_col": "El sistema de desagüe desemboca / Pozo Séptico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_08",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_08",
+    "desc_col": "El sistema de desagüe desemboca / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "102",
+    "n_q": "P102_O",
+    "desc_q": "El sistema de desagüe del distrito desemboca en, 2011",
+    "col": "P102_O",
+    "desc_col": "El sistema de desagüe desemboca / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

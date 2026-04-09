@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "VFI_P15",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15_1",
+    "desc_col": "¿La municipalidad cuenta con fotocopiadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15A_1",
+    "desc_col": "Número de equipos operativos / Fotocopiadoras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15_2",
+    "desc_col": "¿La municipalidad cuenta con escáner?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15A_2",
+    "desc_col": "Número de equipos operativos / Escáner",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15_3",
+    "desc_col": "¿La municipalidad cuenta con Impresora básica?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15A_3",
+    "desc_col": "Número de equipos operativos / Impresora básica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15_4",
+    "desc_col": "¿La municipalidad cuenta con Impresora multifuncional?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15A_4",
+    "desc_col": "Número de equipos operativos / Impresora multifuncional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15_5",
+    "desc_col": "¿La municipalidad cuenta con Proyector multimedia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15A_5",
+    "desc_col": "Número de equipos operativos / Proyector multimedia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15_6",
+    "desc_col": "¿La municipalidad cuenta con otro equipo de oficina?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15A_6",
+    "desc_col": "Número de equipos operativos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2016",
+    "col": "P15A_6_O",
+    "desc_col": "Número de equipos operativos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Red informática local en la municipalidad, 2016"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2016",
+    "col": "VFI_P16",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2016",
+    "col": "P16",
+    "desc_col": "¿La municipalidad tiene red informática local?",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "16",
+    "desc_q": "Red informática local en la municipalidad, 2016",
+    "col": "P16A_1",
+    "desc_col": "Número de computadoras interconectadas a red informática local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P17",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P17",
+    "desc_col": "¿La municipalidad tiene servicio de internet ?",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P17A_1",
+    "desc_col": "Número de computadoras con acceso a internet",
+    "values": "",
+    "value_pos": null
+  }
+]

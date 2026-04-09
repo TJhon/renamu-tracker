@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2020",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2020",
+    "col": "P33_1",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y depende del Área de Administración Tributaria",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2020",
+    "col": "P33_2",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y no depende del Área de Administración Tributaria",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "33",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva, 2020",
+    "col": "P33_3",
+    "desc_col": "No tiene área de ejecución coactiva",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "h2": "LICENCIAS OTORGADAS POR LA MUNICIPALIDAD"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_1",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_1",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Hoteles, hostales y otros establecimientos de hospedaje / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_2",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Restaurantes y otros establecimientos de comidas y bebidas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_2",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Restaurantes y otros establecimientos de comidas y bebidas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_3",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Agencias de viaje y de turismo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_3",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Agencias de viaje y de turismo / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_4",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Peluquería y otros establecimientos de belleza?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_4",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Peluquería y otros establecimientos de belleza / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_5",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Instituciones financieras y de seguros?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_5",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Instituciones financieras y de seguros / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_6",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Artes, entretenimiento y actividades culturales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_6",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Artes, entretenimiento y actividades culturales / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_7",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Deportivos, esparcimiento y recreativos (gimnasios, piscinas, clubes de natación, parques recreativos, discotecas, entre otros)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34A_7",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Deportivos, esparcimiento y recreativos (gimnasios, piscinas, clubes de natación, parques recreativos, discotecas, entre otros) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2019",
+    "col": "P34_8",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Actividades profesionales, científicas y técnicas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

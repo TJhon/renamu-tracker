@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_1_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_1_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Auto y/o camioneta / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_2",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Motocicletas para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_2_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicletas / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_2_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicletas / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_2_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Motocicletas / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_3",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Bicicleta para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_3_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Bicicleta / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_3_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Bicicleta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_3_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Bicicleta / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_4",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Cuatrimoto para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_4_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Cuatrimoto / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_4_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Cuatrimoto / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_4_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Cuatrimoto / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_5",
+    "desc_col": "¿La municipalidad dispone de unidades móviles como Otros para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_5_1",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_5_2",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_5_3",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / No Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_5_O",
+    "desc_col": "Unidades móviles que dispone el serenazgo / Otro / Específico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_6",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Vara de ley (vara de goma) para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_6_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Vara de ley (Vara de goma) / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_7",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Chaleco antibalas para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_7_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Chaleco antibalas / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_8",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Uniforme completo (comprende camisa o polo, pantalón y zapatos o botas) para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_8_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Uniforme completo / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_9",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Canes para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_9_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Canes / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73_10",
+    "desc_col": "¿La municipalidad dispone de equipamiento de seguridad como Otros para actividades de serenazgo?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_10_1",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Otro / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "73",
+    "desc_q": "Municipalidad que dispone de Equipamiento e Infraestructura para actividades de serenazgo, 2018",
+    "col": "P73A_10_O",
+    "desc_col": "Equipamiento de seguridad que dispone el serenazgo / Otro / Específico",
+    "values": "",
+    "value_pos": null
+  }
+]

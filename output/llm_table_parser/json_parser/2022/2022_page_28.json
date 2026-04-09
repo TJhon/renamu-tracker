@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_4",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de funcionamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_4",
+    "desc_col": "Operativos de control de vigencia de licencia de funcionamiento / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_5",
+    "desc_col": "¿La municipalidad realizó operativos de control de vigencia de licencia de edificación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_5",
+    "desc_col": "Operativos de control de vigencia de licencia de edificación / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_6",
+    "desc_col": "¿La municipalidad realizó operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_6",
+    "desc_col": "Operativos de control de certificado de Inspección Técnica de Seguridad en Edificaciones / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_7",
+    "desc_col": "¿La municipalidad realizó operativos de control de anuncios publicitarios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_7",
+    "desc_col": "Operativos de control de anuncios publicitarios / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_8",
+    "desc_col": "¿La municipalidad realizó operativos de control de transporte urbano?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_8",
+    "desc_col": "Operativos de control de transporte urbano / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_9",
+    "desc_col": "¿La municipalidad realizó operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_9",
+    "desc_col": "Operativos de control de tránsito vehicular en coordinación con la Policía Nacional del Perú / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_10",
+    "desc_col": "¿La municipalidad realizó operativos de control de emisión de humos y gases tóxicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_10",
+    "desc_col": "Operativos de control de emisión de humos y gases tóxicos/ Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_11",
+    "desc_col": "¿La municipalidad realizó operativos de control de ruidos molestos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_11",
+    "desc_col": "Operativos de control de ruidos molestos / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_12",
+    "desc_col": "¿La municipalidad realizó operativos de control de: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48A_12",
+    "desc_col": "Operativos de control / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "47",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó operativos de control, 2021",
+    "col": "P48_12_O",
+    "desc_col": "Operativos de control / Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "48",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó inspecciones técnicas de campo de barreras físicas que presenta en el entorno urbano de su jurisdicción, 2021",
+    "col": "VFI_P48B",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "48",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó inspecciones técnicas de campo de barreras físicas que presenta en el entorno urbano de su jurisdicción, 2021",
+    "col": "P48B_1",
+    "desc_col": "¿La municipalidad realizó inspecciones técnicas de campo de las barreras físicas tales como: / Existencia de rampas en cruces peatonales o existencia de cruces peatonales a nivel de la calzada?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "48",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó inspecciones técnicas de campo de barreras físicas que presenta en el entorno urbano de su jurisdicción, 2021",
+    "col": "P48B_2",
+    "desc_col": "¿La municipalidad realizó inspecciones técnicas de campo de las barreras físicas tales como: / Postes, comercio u otros elementos que invaden la circulación peatonal, impidiendo el pase de silla de ruedas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "48",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó inspecciones técnicas de campo de barreras físicas que presenta en el entorno urbano de su jurisdicción, 2021",
+    "col": "P48B_3",
+    "desc_col": "¿La municipalidad realizó inspecciones técnicas de campo de las barreras físicas tales como: / Irregularidad en pavimentos (baches, desniveles, discontinuidad de la vereda)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "49",
+    "n_q": null,
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2022",
+    "col": "VFI_P49",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "49",
+    "n_q": null,
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2022",
+    "col": "P49",
+    "desc_col": "¿La municipalidad tiene baños de uso público instalados en el distrito?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "49",
+    "n_q": null,
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2022",
+    "col": "P49_1",
+    "desc_col": "Baños de uso público en funcionamiento / Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "49",
+    "n_q": null,
+    "desc_q": "Municipalidad que tiene baños de uso público instalados en el distrito, 2022",
+    "col": "P49_2",
+    "desc_col": "Baños de uso público en funcionamiento / Con condiciones de accesibilidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "50",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "VFI_P50",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "50",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50A",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Plazas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "50",
+    "n_q": null,
+    "desc_q": "Municipalidad que realizó conservación de áreas verdes en espacios públicos, 2021",
+    "col": "P50A_C",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en espacios públicos, tales como / Plazas? / Áreas verdes conservadas (m2)",
+    "values": null,
+    "value_pos": null
+  }
+]

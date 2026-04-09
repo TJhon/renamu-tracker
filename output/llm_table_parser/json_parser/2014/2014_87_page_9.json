@@ -1,0 +1,131 @@
+[
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_07",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Tiene indicadores de desempeño para medir los resultados del gasto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_08",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / La información del presupuesto se pone a disposición de la ciudadanía en la página Web",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_09",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Los informes Financieros – Presupuestarios incluyen información completa sobre ingresos y gastos de proyectos financieros por donantes, a través de cooperación técnica Nacional e Internacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_10",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Los sistemas de remuneración y de evaluación del personal incentivan la obtención de resultados organizacionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_11",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Tiene estrategias para mejorar la calidad de los servicios públicos que brinda a la ciudadanía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_12",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Utiliza mecanismos de consulta periódica a la ciudadanía para introducir mejoras en los servicios públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "22",
+    "desc_q": "Acciones que implementa la Municipalidad en la Gestión para resultados, 2014",
+    "col": "P22_13",
+    "desc_col": "Acciones que se implementa en la gestión para resultados / Tiene indicadores de eficiencia sobre la cobertura de los servicios públicos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Texto único de procedimientos administrativo, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos.",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23_01",
+    "desc_col": "La municipalidad tiene Texto Unico de Procedimientos Administrativos actualizado",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23_02",
+    "desc_col": "Fecha de última publicación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23_03",
+    "desc_col": "Municipalidades que tienen TUPA desactualizado / incompleto",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23_04",
+    "desc_col": "Municipalidades que tienen TUPA desactualizado / incompleto / Fecha de última publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "23",
+    "desc_q": "Texto único de procedimientos administrativo, 2014",
+    "col": "P23_05",
+    "desc_col": "Municipalidades que no tienen TUPA",
+    "values": "1: No tiene;0: Tiene",
+    "value_pos": 0
+  }
+]

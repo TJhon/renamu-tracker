@@ -1,0 +1,233 @@
+[
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2015",
+    "col": "P99",
+    "desc_col": "¿La municipalidad realizó actividades para fomentar la artesanía en el distrito?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2015",
+    "col": "P99_1",
+    "desc_col": "Actividades / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2015",
+    "col": "P99_2",
+    "desc_col": "Actividades / Ferias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2015",
+    "col": "P99_3",
+    "desc_col": "Actividades / Apoyo a la comercialización de productos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2015",
+    "col": "P99_4",
+    "desc_col": "Actividades / Capacitación a artesanos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2015",
+    "col": "P99_5",
+    "desc_col": "Actividades / Otra actividad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C93",
+    "n_q": "99",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2015",
+    "col": "P99_5_O",
+    "desc_col": "Actividades / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P100"
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "VFI_P100",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100",
+    "desc_col": "¿La municipalidad realizó actividades para fomentar el turismo en el distrito?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_1",
+    "desc_col": "Actividades / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_2",
+    "desc_col": "Actividades / Dispone de una oficina de turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_3",
+    "desc_col": "Actividades / Instalación de áreas de información turística operativa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_4",
+    "desc_col": "Actividades / Mejoramiento de la infraestructura de vías de acceso al distrito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_5",
+    "desc_col": "Actividades / Implementación de nuevos atractivos turísticos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_6",
+    "desc_col": "Actividades / Coordinación con la entidad competente para el mantenimiento de los atractivos turísticos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_7",
+    "desc_col": "Actividades / Ordenanzas a favor del desarrollo turístico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_8",
+    "desc_col": "Actividades / Realización de eventos y/o ferias turísticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_9",
+    "desc_col": "Actividades / Capacitación a promotores de turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_10",
+    "desc_col": "Actividades / Programas de conciencia turística a la población",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_11",
+    "desc_col": "Actividades / Creación de club de turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_12",
+    "desc_col": "Actividades / Convenios institucionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_13",
+    "desc_col": "Actividades / Otra actividad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C94",
+    "n_q": "100",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar el turismo en el distrito, 2015",
+    "col": "P100_13_1",
+    "desc_col": "Actividades / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P101"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P101",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P101",
+    "desc_col": "¿La municipalidad registró establecimientos de servicios y comercio?",
+    "values": "1: Registró; 0: No registró",
+    "value_pos": 1
+  }
+]

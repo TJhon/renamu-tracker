@@ -1,0 +1,58 @@
+[
+  {
+    "col": "P31_R_05",
+    "desc_col": "Procedimiento administrativo/ Copia certificada de partida de nacimiento/ Recepcionado"
+  },
+  {
+    "col": "P31_R_06",
+    "desc_col": "Procedimiento administrativo/ Copia certificada de partida de defunción/ Recepcionado"
+  },
+  {
+    "col": "P31_R_07",
+    "desc_col": "Procedimiento administrativo/ Copia certificada de partida de matrimonio/ Recepcionado"
+  },
+  {
+    "col": "P31_R_08",
+    "desc_col": "Procedimiento administrativo/ Acceso a la información pública (Copia fotostática simple)/ Recepcionado"
+  },
+  {
+    "col": "P31_A_01",
+    "desc_col": "Procedimiento administrativo/ Licencia de funcionamiento con ITSDC Básica Ex Post (establecimientos con área de hasta 100 m²)/ Aprobado"
+  },
+  {
+    "col": "P31_A_02",
+    "desc_col": "Procedimiento administrativo/ Licencia de edificación (Modalidad B)/ Aprobado"
+  },
+  {
+    "col": "P31_A_03",
+    "desc_col": "Procedimiento administrativo/ Carné de sanidad para venta de alimentos/ Aprobado"
+  },
+  {
+    "col": "P31_A_04",
+    "desc_col": "Procedimiento administrativo/ Autorización para interferir temporalmente el tránsito en la vía pública/ Aprobado"
+  },
+  {
+    "col": "P31_A_05",
+    "desc_col": "Procedimiento administrativo/ Copia certificada de partida de nacimiento/ Aprobado"
+  },
+  {
+    "col": "P31_A_06",
+    "desc_col": "Procedimiento administrativo/ Copia certificada de partida de defunción/ Aprobado"
+  },
+  {
+    "col": "P31_A_07",
+    "desc_col": "Procedimiento administrativo/ Copia certificada de partida de matrimonio/ Aprobado"
+  },
+  {
+    "col": "P31_A_08",
+    "desc_col": "Procedimiento administrativo/ Acceso a la información pública (Copia fotostática simple)/ Aprobado"
+  },
+  {
+    "col": "P31_C_01",
+    "desc_col": "Procedimiento administrativo/ Licencia de funcionamiento con ITSDC Básica Ex Post (establecimientos con área de hasta 100 m²)/ Costo."
+  },
+  {
+    "col": "P31_C_02",
+    "desc_col": "Procedimiento administrativo/ Licencia de edificación (Modalidad B)/ Costo"
+  }
+]

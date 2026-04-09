@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P94_06",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "col": "P94_06",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P94_07",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "col": "P94_07",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P94_08",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "col": "P94_08",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P94_O",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro / Descripción",
+    "col": "P94_O",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "VFI_P95",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2011",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "P895",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2011",
+    "col": "P895",
+    "desc_col": "La municipalidad ha constituido Junta de Delegados vecinales",
+    "values": "1: Esta constituido; 0: No está constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "P95_H_01",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2011",
+    "col": "P95_H_01",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "P95_M_01",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2011",
+    "col": "P95_M_01",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C086",
+    "n_q": "P95_02",
+    "desc_q": "Conformación de la Junta de Delegados Vecinales, 2011",
+    "col": "P95_02",
+    "desc_col": "Se encuentra en Actividad",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "VFI_P96",
+    "desc_q": "Inscripción de nacimientos en el Registro Civil de la municipalidad, 2011",
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "P96",
+    "desc_q": "Inscripción de nacimientos en el Registro Civil de la municipalidad, 2011",
+    "col": "P96",
+    "desc_col": "La municipalidad realizó inscripciones de nacimientos en el Registro Civil",
+    "values": "1: Realizó; 0: No realizó (función fue transferida a RENIEC)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "P96_O_H_01",
+    "desc_q": "Inscripción de nacimientos en el Registro Civil de la municipalidad, 2011",
+    "col": "P96_O_H_01",
+    "desc_col": "Número de nacimientos / Ordinaria / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "P96_O_M_01",
+    "desc_q": "Inscripción de nacimientos en el Registro Civil de la municipalidad, 2011",
+    "col": "P96_O_M_01",
+    "desc_col": "Número de nacimientos / Ordinaria / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "P96_E_H_02",
+    "desc_q": "Inscripción de nacimientos en el Registro Civil de la municipalidad, 2011",
+    "col": "P96_E_H_02",
+    "desc_col": "Número de nacimientos / Extemporánea / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C087",
+    "n_q": "P96_E_M_02",
+    "desc_q": "Inscripción de nacimientos en el Registro Civil de la municipalidad, 2011",
+    "col": "P96_E_M_02",
+    "desc_col": "Número de nacimientos / Extemporánea / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "VFI_P97",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, 2011",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "P97",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, 2011",
+    "col": "P97",
+    "desc_col": "La municipalidad realizó inscripciones de defunciones en el Registro Civil",
+    "values": "1: Realizó; 0: No realizó (función fue transferida a RENIEC)",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "P97_O_H_01",
+    "desc_q": "Inscripción de defunciones en el Registro Civil, de la municipalidad, 2011",
+    "col": "P97_O_H_01",
+    "desc_col": "Número de defunciones / Ordinaria / Hombre",
+    "values": "",
+    "value_pos": null
+  }
+]

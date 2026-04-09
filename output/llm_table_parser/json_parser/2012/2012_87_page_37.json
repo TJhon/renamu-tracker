@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "77",
+    "n_q": "P76_02",
+    "desc_q": "Medios de comunicación / Línea de telefonía fija",
+    "col": "P76_02",
+    "desc_col": "Medios de comunicación / Línea de telefonía fija",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P76_03",
+    "desc_q": "Medios de comunicación / Línea destinada a fax",
+    "col": "P76_03",
+    "desc_col": "Medios de comunicación / Línea destinada a fax",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P76_04",
+    "desc_q": "Medios de comunicación / Línea de telefonía móvil",
+    "col": "P76_04",
+    "desc_col": "Medios de comunicación / Línea de telefonía móvil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P76_05",
+    "desc_q": "Medios de comunicación / Acceso a Internet",
+    "col": "P76_05",
+    "desc_col": "Medios de comunicación / Acceso a Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P76_06",
+    "desc_q": "Acciones que realizó la oficina / Realiza cursos de capacitación en Defensa Civil",
+    "col": "P76_06",
+    "desc_col": "Acciones que realizó la oficina / Realiza cursos de capacitación en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P76_07",
+    "desc_q": "Acciones que realizó la oficina/ Realiza simulacros para probar el Plan de Operaciones de Emergencia",
+    "col": "P76_07",
+    "desc_col": "Acciones que realizó la oficina/ Realiza simulacros para probar el Plan de Operaciones de Emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P76_08",
+    "desc_q": "Acciones que realizó la oficina/ Número de simulacros",
+    "col": "P76_08",
+    "desc_col": "Acciones que realizó la oficina/ Número de simulacros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "VFI_P77",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77",
+    "desc_q": "La municipalidad registró fenómenos naturales u ocasionados por el hombre",
+    "col": "P77",
+    "desc_col": "La municipalidad registró fenómenos naturales u ocasionados por el hombre",
+    "values": "1: Registró; 0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_01",
+    "desc_q": "Fenómenos naturales registrados / Sismos",
+    "col": "P77_01",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_02",
+    "desc_q": "Fenómenos naturales registrados / Aluvión",
+    "col": "P77_02",
+    "desc_col": "Fenómenos naturales registrados / Aluvión",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_03",
+    "desc_q": "Fenómenos naturales registrados / Deslizamiento de tierra",
+    "col": "P77_03",
+    "desc_col": "Fenómenos naturales registrados / Deslizamiento de tierra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_04",
+    "desc_q": "Fenómenos naturales registrados / Derrumbe de cerros",
+    "col": "P77_04",
+    "desc_col": "Fenómenos naturales registrados / Derrumbe de cerros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_05",
+    "desc_q": "Fenómenos naturales registrados / Huayco",
+    "col": "P77_05",
+    "desc_col": "Fenómenos naturales registrados / Huayco",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_06",
+    "desc_q": "Fenómenos naturales registrados / Granizada",
+    "col": "P77_06",
+    "desc_col": "Fenómenos naturales registrados / Granizada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_07",
+    "desc_q": "Fenómenos naturales registrados / Helada",
+    "col": "P77_07",
+    "desc_col": "Fenómenos naturales registrados / Helada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_08",
+    "desc_q": "Fenómenos naturales registrados / Nevada",
+    "col": "P77_08",
+    "desc_col": "Fenómenos naturales registrados / Nevada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_09",
+    "desc_q": "Fenómenos naturales registrados / Lluvia intensa",
+    "col": "P77_09",
+    "desc_col": "Fenómenos naturales registrados / Lluvia intensa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_10",
+    "desc_q": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "col": "P77_10",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_11",
+    "desc_q": "Fenómenos naturales registrados / Inundación",
+    "col": "P77_11",
+    "desc_col": "Fenómenos naturales registrados / Inundación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_12",
+    "desc_q": "Fenómenos naturales registrados / Sequía",
+    "col": "P77_12",
+    "desc_col": "Fenómenos naturales registrados / Sequía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_13",
+    "desc_q": "Fenómenos naturales registrados / Viento fuerte",
+    "col": "P77_13",
+    "desc_col": "Fenómenos naturales registrados / Viento fuerte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "77",
+    "n_q": "P77_14",
+    "desc_q": "Fenómenos naturales registrados / Incendio forestal",
+    "col": "P77_14",
+    "desc_col": "Fenómenos naturales registrados / Incendio forestal",
+    "values": "",
+    "value_pos": null
+  }
+]

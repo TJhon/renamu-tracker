@@ -1,0 +1,248 @@
+[
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_2",
+    "desc_col": "Asistencia técnica que requiere / Presupuesto con Enfoque a Resultados y Enfoque de Genero",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_3",
+    "desc_col": "Asistencia técnica que requiere / Formulación e Implementación de Estrategias para la Protección de",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_4",
+    "desc_col": "Asistencia técnica que requiere / Administración Tributaria Municipal",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_5",
+    "desc_col": "Asistencia técnica que requiere / Acondicionamiento Territorial y Desarrollo Urbano",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_6",
+    "desc_col": "Asistencia técnica que requiere / Licencias de Habilitación Urbana y Edificación",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_7",
+    "desc_col": "Asistencia técnica que requiere / Control Gubernamental (Atención de Auditorías, Control Interno)",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_8",
+    "desc_col": "Asistencia técnica que requiere / Estadística e Indicadores Municipales con Enfoque de Género",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_9",
+    "desc_col": "Asistencia técnica que requiere / Organización y Gestión de Bibliotecas",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_10",
+    "desc_col": "Asistencia técnica que requiere / Formulación y Evaluación de Proyectos Públicos",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_11",
+    "desc_col": "Asistencia técnica que requiere / Plan de Incentivos a la Mejora de la Gestión y Modernización Municipal",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_12",
+    "desc_col": "Asistencia técnica que requiere / Gestión de Atención Primaria de Salud",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_13",
+    "desc_col": "Asistencia técnica que requiere / Gestión Descentralizada del Programa de Complementación Alimentaria",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_14",
+    "desc_col": "Asistencia técnica que requiere / Política de Desarrollo e Inclusión Social",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_15",
+    "desc_col": "Asistencia técnica que requiere / Políticas de Igualdad de Género",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_16",
+    "desc_col": "Asistencia técnica que requiere / Catastro Urbano y Rural",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_17",
+    "desc_col": "Asistencia técnica que requiere / Aplicativo MICosto",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_18",
+    "desc_col": "Asistencia técnica que requiere / Sistema Único de Trámites (SUT)",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_19",
+    "desc_col": "Asistencia técnica que requiere / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_20",
+    "desc_col": "Asistencia técnica que requiere / Indicadores de Gestión Municipal",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_21",
+    "desc_col": "Asistencia técnica que requiere / Sistema de Focalización de Hogares",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_22",
+    "desc_col": "Asistencia técnica que requiere / Población y Desarrollo",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_23",
+    "desc_col": "Asistencia técnica que requiere / Otro",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C15",
+    "n_q": "23",
+    "desc_q": "Asistencia técnica que requiere la municipalidad, 2015",
+    "col": "P23_23_O",
+    "desc_col": "Asistencia técnica que requiere / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "VFI_P24"
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P24",
+    "desc_col": "La municipalidad requiere capacitación",
+    "values": "1: Requiere;0: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P24_1",
+    "desc_col": "Requerimiento de capacitación / Planificación Estratégica Institucional con Enfoque de Genero",
+    "values": "1: Requiere;2: No requiere",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P24_2",
+    "desc_col": "Requerimiento de capacitación / Presupuesto con Enfoque",
+    "values": "1: Requiere",
+    "value_pos": 1
+  }
+]

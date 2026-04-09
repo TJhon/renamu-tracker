@@ -1,0 +1,20 @@
+[
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": "19",
+    "desc_q": "Municipalidad que tiene Portal de Transparencia Estándar, 2018",
+    "col": "P19",
+    "desc_col": "¿La municipalidad tiene Portal de Transparencia Estándar?",
+    "values": "3: No tiene, porque está en proceso de implementación;4: No tiene, porque desconoce cómo implementarlo",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C04",
+    "n_q": "19",
+    "desc_q": "Municipalidad que tiene Portal de Transparencia Estándar, 2018",
+    "col": "P19_Portal",
+    "desc_col": "Dirección Web del Portal de Transparencia Estándar",
+    "values": "",
+    "value_pos": null
+  }
+]

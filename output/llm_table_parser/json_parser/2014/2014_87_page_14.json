@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "VFI_C5",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5",
+    "desc_col": "La municipalidad otorgó licencias de apertura de establecimientos",
+    "values": "1: Otorgó licencias;0: No otorgó licencias",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_01",
+    "desc_col": "Número de licencias de apertura de establecimientos / Servicios / Hoteles, hostales y otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_02",
+    "desc_col": "Número de licencias de apertura de establecimientos / Servicios / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_03",
+    "desc_col": "Número de licencias de apertura de establecimientos/ Servicios / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_04",
+    "desc_col": "Número de licencias de apertura de establecimientos/ Servicios / Mensajerías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_05",
+    "desc_col": "Número de licencias de apertura de establecimientos / Servicios / Courier",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_06",
+    "desc_col": "Número de licencias de apertura de establecimientos / Servicios / Limpieza",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_07",
+    "desc_col": "Número de licencias de apertura de establecimientos / Servicios / Entidades Financieras y de Seguros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_08",
+    "desc_col": "Número de licencias de apertura de establecimientos / Servicios / Artes, entretenimiento y recreación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_09",
+    "desc_col": "Número de licencias de apertura de establecimientos / Servicios / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_10",
+    "desc_col": "Número de licencias de apertura de establecimientos/ Artesanía y Manufactura / Artesanías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_11",
+    "desc_col": "Número de licencias de apertura de establecimientos / Artesanía y Manufactura / Fábricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_12",
+    "desc_col": "Número de licencias de apertura de establecimientos/ Artesanía y Manufactura / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_13",
+    "desc_col": "Número de licencias de apertura de establecimientos / Comercio / Bodegas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_14",
+    "desc_col": "Número de licencias de apertura de establecimientos / Comercio / Farmacias y boticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_15",
+    "desc_col": "Número de licencias de apertura de establecimientos / Comercio / Panaderías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_16",
+    "desc_col": "Número de licencias de apertura de establecimientos / Comercio / Ferreterías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C023",
+    "n_q": "C5",
+    "desc_q": "Licencias de apertura de establecimientos, 2013",
+    "col": "C5_17",
+    "desc_col": "Número de licencias de apertura de establecimientos / Comercio / Otros",
+    "values": "",
+    "value_pos": null
+  }
+]

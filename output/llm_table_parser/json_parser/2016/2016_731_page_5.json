@@ -1,0 +1,151 @@
+[
+  {
+    "cuadro": "CUADRO_C46",
+    "n_q": "54",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2016",
+    "col": "VFI_P54",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C46",
+    "n_q": "54",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2016",
+    "col": "P54",
+    "desc_col": "¿La municipalidad tiene baños de uso público instalados en el distrito?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C46",
+    "n_q": "54",
+    "desc_q": "Baños de uso público instalados por la municipalidad en el distrito, 2016",
+    "col": "P54_1",
+    "desc_col": "Número de baños de uso público en funcionamiento en el distrito.",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "VFI_55",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55_1",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en plazas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55A_1",
+    "desc_col": "Área conservada en m² / Plazas",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55_2",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en parques?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55A_2",
+    "desc_col": "Área conservada en m² / Parques",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55_3",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en parques zonales y zoológicos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55A_3",
+    "desc_col": "Área conservada en m² / Parques zonales y zoológicos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55_4",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en jardines y óvalos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55A_4",
+    "desc_col": "Área conservada en m² / Jardines y óvalos",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55_5",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en bermas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55A_5",
+    "desc_col": "Área conservada en m² / Bermas",
+    "values": ""
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55_6",
+    "desc_col": "¿La municipalidad realizó conservación de áreas verdes en alamedas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C47",
+    "n_q": "55",
+    "desc_q": "Conservación de áreas verdes en espacios públicos, realizados por la municipalidad, en el 2015",
+    "col": "P55A_6",
+    "desc_col": "Áreas conservadas en m² / Alamedas",
+    "values": ""
+  },
+  {
+    "h2": "EDUCACIÓN, CULTURA, DEPORTE Y RECREACIÓN"
+  },
+  {
+    "col": "VFI_P56",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó"
+  },
+  {
+    "col": "P56",
+    "desc_col": "¿La municipalidad brindó servicios de cabinas de internet?",
+    "values": "1: Brindó; 0: No brindó",
+    "value_pos": 1
+  }
+]

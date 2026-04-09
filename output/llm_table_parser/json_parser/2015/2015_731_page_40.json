@@ -1,0 +1,230 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P101A_19O_2",
+    "desc_col": "Número de establecimientos de servicios/ Otros 2 / Especifique 2",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_20",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Bodegas?",
+    "col": "P101_20",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Bodegas?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Bodegas",
+    "col": "P101A_20",
+    "desc_col": "Número de establecimientos de comercio / Bodegas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_21",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Panaderías?",
+    "col": "P101_21",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Panaderías?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Panaderías",
+    "col": "P101A_21",
+    "desc_col": "Número de establecimientos de comercio / Panaderías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_22",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Ferreterías?",
+    "col": "P101_22",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Ferreterías?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Ferreterías",
+    "col": "P101A_22",
+    "desc_col": "Número de establecimientos de comercio / Ferreterías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_23",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Venta de prendas de vestir?",
+    "col": "P101_23",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Venta de prendas de vestir?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Venta de prendas de vestir",
+    "col": "P101A_23",
+    "desc_col": "Número de establecimientos de comercio / Venta de prendas de vestir",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_24",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Venta de calzado?",
+    "col": "P101_24",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Venta de calzado?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Venta de calzado",
+    "col": "P101A_24",
+    "desc_col": "Número de establecimientos de comercio / Venta de calzado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_25",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Mercados?",
+    "col": "P101_25",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Mercados?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Mercados",
+    "col": "P101A_25",
+    "desc_col": "Número de establecimientos de comercio / Mercados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_26",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Centros comerciales, galerías",
+    "col": "P101_26",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Centros comerciales, galerías",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos / Centros comerciales, galerías comerciales y/o campos feriales",
+    "col": "P101A_26",
+    "desc_col": "Número de establecimientos / Centros comerciales, galerías comerciales y/o campos feriales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_27",
+    "desc_q": "¿La municipalidad tiene establecimientos de comercio de Venta de artesanías?",
+    "col": "P101_27",
+    "desc_col": "¿La municipalidad tiene establecimientos de comercio de Venta de artesanías?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Venta de artesanías",
+    "col": "P101A_27",
+    "desc_col": "Número de establecimientos de comercio / Venta de artesanías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P101_28",
+    "desc_q": "¿La municipalidad tiene otros establecimientos de comercios?",
+    "col": "P101_28",
+    "desc_col": "¿La municipalidad tiene otros establecimientos de comercios?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Número de establecimientos de comercio / Otro",
+    "col": "P101A_28",
+    "desc_col": "Número de establecimientos de comercio / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "La municipalidad tiene otros establecimientos de comercios / Otro / Especifique",
+    "col": "P101A_28O",
+    "desc_col": "La municipalidad tiene otros establecimientos de comercios / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "102 CUADRO_C95 La municipalidad provincial otorgó concesiones y autorizaciones para prestar servicio de"
+  },
+  {
+    "cuadro": "CUADRO_C95",
+    "n_q": null,
+    "desc_q": "Municipalidad",
+    "col": "VFI_P102",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C95",
+    "n_q": "P102_1",
+    "desc_q": "¿La municipalidad otorgó concesiones y autorizaciones para el servicio de transporte público urbano a personas naturales?",
+    "col": "P102_1",
+    "desc_col": "¿La municipalidad otorgó concesiones y autorizaciones para el servicio de transporte público urbano a personas naturales?",
+    "values": "1: Otorgó;2: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C95",
+    "n_q": null,
+    "desc_q": "Número de concesiones / Personas Naturales",
+    "col": "P102A_1_1",
+    "desc_col": "Número de concesiones / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C95",
+    "n_q": null,
+    "desc_q": "Número de empresas registradas / Personas Naturales",
+    "col": "P102A_1_2",
+    "desc_col": "Número de empresas registradas / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C95",
+    "n_q": null,
+    "desc_q": "Número de vehículos autorizados / Personas Naturales",
+    "col": "P102A_1_3",
+    "desc_col": "Número de vehículos autorizados / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  }
+]

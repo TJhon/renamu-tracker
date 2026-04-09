@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_4_SH",
+    "desc_col": "Empleados / Auxiliares / Locación de Servicios / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_T",
+    "desc_col": "Total personal / Obreros / De limpieza",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_NM",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_NH",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_CM",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_CH",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_LM",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 728 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_LH",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 728 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_VM",
+    "desc_col": "Obreros / De limpieza / Contrato Administrativo de Servicios (CAS) /Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_VH",
+    "desc_col": "Obreros / De limpieza / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_SM",
+    "desc_col": "Obreros / De limpieza / Locación de Servicios / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_5_SH",
+    "desc_col": "Obreros / De limpieza / Locación de Servicios / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_T",
+    "desc_col": "Total personal / Obreros / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_NM",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_NH",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_CM",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_CH",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_LM",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 728 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_LH",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 728 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_VM",
+    "desc_col": "Obreros / Otros / Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_VH",
+    "desc_col": "Obreros / Otros / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_SM",
+    "desc_col": "Obreros / Otros / Locación de Servicios / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_6_SH",
+    "desc_col": "Obreros / Otros / Locación de Servicios / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_7_T",
+    "desc_col": "Total personal / Personal de Vigilancia / Vigilantes de los locales municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_7_NM",
+    "desc_col": "Personal de Vigilancia / Vigilantes de los locales municipales / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_7_NH",
+    "desc_col": "Personal de Vigilancia / Vigilantes de los locales municipales / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C03",
+    "n_q": "20",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2018",
+    "col": "P20_7_CM",
+    "desc_col": "Personal de Vigilancia / Vigilantes de los locales municipales / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

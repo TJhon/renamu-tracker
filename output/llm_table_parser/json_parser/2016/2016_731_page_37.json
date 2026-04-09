@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95",
+    "desc_col": "¿La Municipalidad registró fenómenos naturales y desastres?",
+    "values": "1: Registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_1",
+    "desc_col": "Fenómenos naturales registrados / Sismos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_2",
+    "desc_col": "Fenómenos naturales registrados / Aluviones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_3",
+    "desc_col": "Fenómenos naturales registrados / Deslizamientos de tierra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_4",
+    "desc_col": "Fenómenos naturales registrados / Derrumbes de cerros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_5",
+    "desc_col": "Fenómenos naturales registrados / Huaycos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_6",
+    "desc_col": "Fenómenos naturales registrados / Granizadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_7",
+    "desc_col": "Fenómenos naturales registrados / Heladas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_8",
+    "desc_col": "Fenómenos naturales registrados / Nevadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_9",
+    "desc_col": "Fenómenos naturales registrados / Lluvias intensas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_10",
+    "desc_col": "Fenómenos naturales registrados / Tormentas eléctricas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_11",
+    "desc_col": "Fenómenos naturales registrados / Inundaciones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_12",
+    "desc_col": "Fenómenos naturales registrados / Sequías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_13",
+    "desc_col": "Fenómenos naturales registrados / Vientos fuertes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_14",
+    "desc_col": "Fenómenos naturales registrados / Incendios forestales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C89",
+    "n_q": "95",
+    "desc_q": "Fenómenos naturales y desastres, registrados por la municipalidad, 2015",
+    "col": "P95_15",
+    "desc_col": "Fenómenos naturales registrados / Incendios urbanos",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "col": "C115_1_1_2",
+    "desc_col": "Impuestos y contribuciones obligatorias / De alcabala"
+  },
+  {
+    "col": "C115_1_1_3",
+    "desc_col": "Impuestos y contribuciones obligatorias / Al patrimonio vehicular"
+  },
+  {
+    "col": "C115_1_1_4",
+    "desc_col": "Impuestos y contribuciones obligatorias / A las apuestas y a los juegos"
+  },
+  {
+    "col": "C115_1_1_5",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los casinos de juegos"
+  },
+  {
+    "col": "C115_1_1_6",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los espectáculos públicos no deportivos"
+  },
+  {
+    "col": "C115_1_1_7",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los juegos de máquinas tragamonedas"
+  },
+  {
+    "col": "C115_1_1_8",
+    "desc_col": "Impuestos y contribuciones obligatorias / Otros impuestos y contribuciones obligatorias"
+  },
+  {
+    "col": "C115_1_2",
+    "desc_col": "Contribuciones sociales"
+  },
+  {
+    "col": "P115_1_3",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Total"
+  },
+  {
+    "col": "C115_1_3_1",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de educación"
+  },
+  {
+    "col": "C115_1_3_2",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de agricultura"
+  },
+  {
+    "col": "C115_1_3_3",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de industria y comercio"
+  },
+  {
+    "col": "C115_1_3_4",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de salud"
+  },
+  {
+    "col": "C115_1_3_5",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de transportes y comunicaciones"
+  },
+  {
+    "col": "C115_1_3_6",
+    "desc_col": "Venta de bienes y servicios y derechos administrativos / Derechos administrativos de vivienda y construcción"
+  }
+]

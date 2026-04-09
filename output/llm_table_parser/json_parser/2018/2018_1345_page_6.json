@@ -1,0 +1,281 @@
+[
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2017",
+    "col": "VFI_P58",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2017",
+    "col": "P58D",
+    "desc_col": "¿La municipalidad tiene personal exclusivo de la biblioteca municipal?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2017",
+    "col": "P58D_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2017",
+    "col": "P58D_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2017",
+    "col": "P58D_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de Marzo 2018",
+    "col": "P58M",
+    "desc_col": "¿La municipalidad tiene personal exclusivo de la biblioteca municipal?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de Marzo 2018",
+    "col": "P58M_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de Marzo 2018",
+    "col": "P58M_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "58",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de Marzo 2018",
+    "col": "P58M_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "VFI_P59",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_1",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Pentium (I, II, III y IV)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_1",
+    "desc_col": "La biblioteca municipal tiene computadoras operativas Pentium (I, II, III y IV) / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_2",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Pentium D y/o Celeron?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_2",
+    "desc_col": "La biblioteca municipal tiene computadoras operativas Pentium D y/o Celeron / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_3",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core Duo y/o Core 2 Duo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_3",
+    "desc_col": "La biblioteca municipal tiene computadoras operativas Core Duo y/o Core 2 Duo / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_4",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core 2 Quad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_4",
+    "desc_col": "La biblioteca municipal tiene computadoras operativas Core 2 Quad / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_5",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core i3 y/o Core i5?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_5",
+    "desc_col": "La biblioteca municipal tiene computadoras operativas Core i3 y/o Core i5 / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_6",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas Core i7?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_6",
+    "desc_col": "La biblioteca municipal tiene computadoras operativas Core i7 / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_7",
+    "desc_col": "¿La biblioteca municipal tiene computadoras operativas AMD (Advanced Micro Device)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_7",
+    "desc_col": "La biblioteca municipal tiene computadoras operativas AMD / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_8",
+    "desc_col": "¿La biblioteca municipal tiene otras computadoras operativas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_8",
+    "desc_col": "La biblioteca municipal tiene otras computadoras operativas / Número de computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_8_O",
+    "desc_col": "¿La biblioteca municipal tiene otras computadoras operativas? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59_T",
+    "desc_col": "Total computadoras operativas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "59",
+    "desc_q": "Computadoras operativas de la biblioteca municipal por tipo de procesador, 2018",
+    "col": "P59A_9",
+    "desc_col": "Número de computadoras con acceso a Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "VFI_P60",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 16",
+    "n_q": "60",
+    "desc_q": "Biblioteca municipal que cuenta con equipos de oficina operativos, 2018",
+    "col": "P60_1",
+    "desc_col": "¿La biblioteca municipal cuenta con equipos de oficina operativos / Fotocopiadora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

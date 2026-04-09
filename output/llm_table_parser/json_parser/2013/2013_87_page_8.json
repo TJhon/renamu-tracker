@@ -1,0 +1,188 @@
+[
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P22",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P22",
+    "desc_col": "En la municipalidad está constituido el Consejo de Coordinación Local",
+    "values": "1:Constituido;0:No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "VFI_P23",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P23",
+    "desc_col": "La municipalidad ejecuto actividades del Consejo de Coordinación Local",
+    "values": "1:Ejecutó;0:No ejecutó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P23_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Realizó sesiones de consejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_N_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P23_N_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Numero de reuniones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_02",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P23_02",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los planes de desarrollo municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_03",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P23_03",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los presupuestos participativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_04",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P23_04",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Informa de su gestión a la sociedad civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "P23_05",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2012",
+    "col": "P23_05",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Hace cumplir los acuerdos concertados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "24"
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "VFI_P24",
+    "desc_q": "Catastro Distrital, 2013",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24",
+    "desc_q": "Catastro Distrital, 2013",
+    "col": "P24",
+    "desc_col": "Municipalidad que tiene catastro distrital",
+    "values": "1:Tiene;0:No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_01",
+    "desc_q": "Catastro Distrital, 2013",
+    "col": "P24_01",
+    "desc_col": "Año del último catastro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "25"
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "VFI_P25",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad informante",
+    "values": "1:Informó;0:No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "P25",
+    "desc_col": "La municipalidad emitió normas",
+    "values": "1:Emitió;0:No emitió",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_01",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "P25_01",
+    "desc_col": "Normas emitidas/ Ordenanza Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_02",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "P25_02",
+    "desc_col": "Normas emitidas/ Acuerdo de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_03",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "P25_03",
+    "desc_col": "Normas emitidas/ Decreto de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_04",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "P25_04",
+    "desc_col": "Normas emitidas/ Resolución de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_05",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "P25_05",
+    "desc_col": "Normas emitidas/ Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_06",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2012",
+    "col": "P25_06",
+    "desc_col": "Normas emitidas/ Otras",
+    "values": "",
+    "value_pos": null
+  }
+]

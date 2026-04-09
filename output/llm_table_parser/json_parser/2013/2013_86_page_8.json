@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P18_VH_4",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Empleados / Auxiliares / Hombre",
+    "col": "P18_VH_4",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Empleados / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VH_5",
+    "desc_q": "Contrato administrativo de sevicios (CAS) / Obreros / De limpieza / Hombre",
+    "col": "P18_VH_5",
+    "desc_col": "Contrato administrativo de sevicios (CAS) / Obreros / De limpieza / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VH_6",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Personal de Vigilancia / Hombre",
+    "col": "P18_VH_6",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Personal de Vigilancia / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VH_7",
+    "desc_q": "Contrato administrativo de servicios(CAS) / Obreros / Otros / Hombre",
+    "col": "P18_VH_7",
+    "desc_col": "Contrato administrativo de servicios(CAS) / Obreros / Otros / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VM_1",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Funcionarios y/o Directivos / Mujer",
+    "col": "P18_VM_1",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Funcionarios y/o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VM_2",
+    "desc_q": "Contrato administrativo de servicios (CAS)/ Empleados / Profesionales / Mujer",
+    "col": "P18_VM_2",
+    "desc_col": "Contrato administrativo de servicios (CAS)/ Empleados / Profesionales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VM_3",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Empleados / Técnicos / Mujer",
+    "col": "P18_VM_3",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Empleados / Técnicos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VM_4",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Empleados / Auxiliares / Mujer",
+    "col": "P18_VM_4",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Empleados / Auxiliares / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VM_5",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Obreros / De limpieza / Mujer",
+    "col": "P18_VM_5",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Obreros / De limpieza / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VM_6",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Personal de Vigilancia / Mujer",
+    "col": "P18_VM_6",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Personal de Vigilancia / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_VM_7",
+    "desc_q": "Contrato administrativo de servicios (CAS) / Obreros / Otros / Mujer",
+    "col": "P18_VM_7",
+    "desc_col": "Contrato administrativo de servicios (CAS) / Obreros / Otros / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SH_1",
+    "desc_q": "Contratado de terceros / Funcionarios y/o Directivos / Hombre",
+    "col": "P18_SH_1",
+    "desc_col": "Contratado de terceros / Funcionarios y/o Directivos / Hombre",
+    "values": "1/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SH_2",
+    "desc_q": "Contratado de terceros / Empleados / Profesionales / Hombre",
+    "col": "P18_SH_2",
+    "desc_col": "Contratado de terceros / Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SH_3",
+    "desc_q": "Contratado de terceros / Empleados / Técnicos / Hombre",
+    "col": "P18_SH_3",
+    "desc_col": "Contratado de terceros / Empleados / Técnicos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SH_4",
+    "desc_q": "Contratado de terceros / Empleados / Auxiliares / Hombre",
+    "col": "P18_SH_4",
+    "desc_col": "Contratado de terceros / Empleados / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SH_5",
+    "desc_q": "Contratado de terceros / Obreros / De limpieza / Hombre",
+    "col": "P18_SH_5",
+    "desc_col": "Contratado de terceros / Obreros / De limpieza / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SH_6",
+    "desc_q": "Contratado de terceros / Personal de Vigilancia / Hombre",
+    "col": "P18_SH_6",
+    "desc_col": "Contratado de terceros / Personal de Vigilancia / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SH_7",
+    "desc_q": "Contratado de terceros / Obreros / Otros / Hombre",
+    "col": "P18_SH_7",
+    "desc_col": "Contratado de terceros / Obreros / Otros / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SM_1",
+    "desc_q": "Contratado de terceros / Funcionarios y/o Directivos / Mujer",
+    "col": "P18_SM_1",
+    "desc_col": "Contratado de terceros / Funcionarios y/o Directivos / Mujer",
+    "values": "1/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SM_2",
+    "desc_q": "Contratado de terceros / Empleados / Profesionales / Mujer",
+    "col": "P18_SM_2",
+    "desc_col": "Contratado de terceros / Empleados / Profesionales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SM_3",
+    "desc_q": "Contratado de terceros / Empleados / Técnicos / Mujer",
+    "col": "P18_SM_3",
+    "desc_col": "Contratado de terceros / Empleados / Técnicos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SM_4",
+    "desc_q": "Contratado de terceros / Empleados / Auxiliares / Mujer",
+    "col": "P18_SM_4",
+    "desc_col": "Contratado de terceros / Empleados / Auxiliares / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P18_SM_5",
+    "desc_q": "Contratado de terceros / Obreros / De limpieza / Mujer",
+    "col": "P18_SM_5",
+    "desc_col": "Contratado de terceros / Obreros / De limpieza / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

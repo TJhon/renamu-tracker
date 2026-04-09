@@ -1,0 +1,110 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_6_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Esquema de Ordenamiento Urbano / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_6_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Esquema de Ordenamiento Urbano / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "0: No informó; 1: No incluye; 2: Incluye",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_7",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Rural (PDR)",
+    "values": "1: Sí; 3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_7_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Rural / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_7_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Rural / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3. Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_7_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Rural / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_7_4",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Desarrollo Rural / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "0: No informó; 1: No incluye; 2: Incluye",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_8",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Anual Local de Seguridad Ciudadana",
+    "values": "1: Sí; 3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_8_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Anual Local de Seguridad Ciudadana / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_8_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Anual Local de Seguridad Ciudadana / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3. Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_8_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan Local de Seguridad Ciudadana / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_9",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Plan de Prevención y Reducción del Riesgo de Desastres (PPRD)",
+    "values": "1: Sí; 3: No",
+    "value_pos": 1
+  }
+]

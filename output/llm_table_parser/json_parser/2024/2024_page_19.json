@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_2_4",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo medio (Con ITSE posterior) / Costo unitario del procedimiento",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_2_5",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo medio (Con ITSE posterior) / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_2_6",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo medio (Con ITSE posterior) / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_3",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo alto (Con ITSE previa)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_3_1",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo alto (Con ITSE previa) / Recepcionadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_3_2",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo alto (Con ITSE previa) / Aprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_3_3",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo alto (Con ITSE previa) / Desaprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_3_4",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo alto (Con ITSE previa) / Costo unitario del procedimiento (Soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_3_5",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo alto (Con ITSE previa) / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_3_6",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo alto (Con ITSE previa) / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_4",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo muy alto (Con ITSE previa) ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_4_1",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo muy alto (Con ITSE previa) / Recepcionadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_4_2",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo muy alto (Con ITSE previa) / Aprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_4_3",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo muy alto (Con ITSE previa) / Desaprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_4_4",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo muy alto (Con ITSE previa) / Costo unitario del procedimiento (Soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_4_5",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo muy alto (Con ITSE previa) / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_4_6",
+    "desc_col": "Licencia de funcionamiento para edificaciones calificadas con nivel de riesgo muy alto (Con ITSE previa) / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_5",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_5_1",
+    "desc_col": "Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Recepcionadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_5_2",
+    "desc_col": "Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Aprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_5_3",
+    "desc_col": "Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Desaprobadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_5_4",
+    "desc_col": "Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Costo unitario del procedimiento (Soles)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_5_5",
+    "desc_col": "Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Número de requisitos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2023",
+    "col": "P29_5_6",
+    "desc_col": "Autorización para interferir temporalmente el tránsito en la vía pública por ejecución de obras de conexión domiciliaria de agua, desagüe y energía eléctrica / Plazo de atención (Días hábiles)",
+    "values": null,
+    "value_pos": null
+  }
+]

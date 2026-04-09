@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_4_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Urbano)",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_5_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Rural)",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_6_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Ministerio de Transportes y Comunicaciones - Provias Nacional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_7_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Gobierno Regional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_8_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Gobierno Local",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_9_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Otro Público",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_9_1_O",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Público / Otro Público / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_10_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Privado / Empresa privada",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_11_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Privado / Organización No Gubernamental",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_12_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Privado / La comunidad",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_13_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Privado / Iglesia",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_14_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Privado / Organismo internacional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_15_1",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Privado / Otro Privado",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_15_1_O",
+    "desc_col": "Institución u organismo / Obras de infraestructura / Privado / Otro Privado / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_16_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Ministerio de Desarrollo e Inclusión Social (Fondo de Cooperación para el Desarrollo Social)",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_17_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Ministerio de Educación",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_18_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Ministerio de Salud",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_19_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Urbano)",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_20_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Rural)",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_21_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Ministerio de Transportes y Comunicaciones - Provias Nacional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_22_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Gobierno Regional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_23_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Gobierno Local",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_24_1",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Otro Público",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_24_1_O",
+    "desc_col": "Institución u organismo / Programas sociales / Público / Otro Público / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 18",
+    "n_q": "66",
+    "desc_q": "Instituciones u organismos que financiaron obras de infraestructura y/o programas sociales en el distrito, 2017",
+    "col": "P66_25_1",
+    "desc_col": "Institución u organismo / Programas sociales / Privado / Empresa privada",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

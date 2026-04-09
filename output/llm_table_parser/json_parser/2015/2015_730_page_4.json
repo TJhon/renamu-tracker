@@ -1,0 +1,83 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_10_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Gestión de Riesgos de Desastres / Motivo por el que no tiene",
+    "values": "1: Falta de aprobación por el Concejo Municipal;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_11",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_11_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_11_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo de Capacidades / Motivo por el que no tiene",
+    "values": "1. Falta de aprobación por el Concejo Municipal;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_12",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Local de Igualdad de Género",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_12_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Local de Igualdad de Género / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_12_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Local de Igualdad de Género / Motivo por el que no tiene",
+    "values": "1. Falta de aprobación por el Concejo Municipal;2 En elaboración;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_13",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P25_13_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Reglamento de Organización y Funciones/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  }
+]

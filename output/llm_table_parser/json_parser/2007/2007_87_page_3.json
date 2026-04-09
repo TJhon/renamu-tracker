@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P27_08",
+    "desc_q": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Artesanías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_09",
+    "desc_q": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Fábricas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_10",
+    "desc_q": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_11",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Bodegas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_12",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Farmacias y boticas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_13",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Panaderías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_14",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Ferreterías",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_15",
+    "desc_q": "Número de licencias de apertura de establecimientos / COMERCIO / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_16",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Empresas proveedoras de insumos",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_17",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Plantas agroindustriales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_18",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Curtiembres",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_19",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Granjas avícolas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_20",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Establos lecheros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_21",
+    "desc_q": "Número de licencias de apertura de establecimientos / AGROPECUARIO / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_22",
+    "desc_q": "Número de licencias de apertura de establecimientos / ACTIVIDADES PROFESIONALES",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_23",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Transporte",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_24",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Cabinas públicas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_25",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Colegios profesionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_26",
+    "desc_q": "Número de licencias de apertura de establecimientos / OTROS / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_33",
+    "desc_q": "La municipalidad otorgó licencias para la construcción",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si otorgó licencias;0: No otorgó licencias",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_28",
+    "desc_q": "Número de licencias para la construcción / Terminal terrestre",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_29",
+    "desc_q": "Número de licencias para la construcción / Construcción de viviendas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_30",
+    "desc_q": "Número de licencias para la construcción / Hoteles",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_31",
+    "desc_q": "Número de licencias para la construcción / Restaurantes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P27_32",
+    "desc_q": "Número de licencias para la construcción / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "28"
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "VFI_P28",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad, 2007",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informa;0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Si realiza;0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_01",
+    "desc_q": "Promedio diario de basura que recoge la municipalidad.",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Menos de 1,000 Kg.;2: De 1,000 Kg. a 2,999 Kg.;3: De 3,000 Kg. a 9,999 Kg.;4: De 10, 000 Kg. a 49,9 Kg.;5: De 50,000 Kg. a 99,9 Kg",
+    "value_pos": null
+  }
+]

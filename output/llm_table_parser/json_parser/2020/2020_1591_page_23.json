@@ -1,0 +1,230 @@
+[
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "VFI_P95",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "P95_1",
+    "desc_col": "Actividades realizadas / Promoción y publicidad",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "P95_2",
+    "desc_col": "Actividades realizadas / Ferias",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "P95_3",
+    "desc_col": "Actividades realizadas / Apoyo a comercialización directa de productos",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "P95_4",
+    "desc_col": "Actividades realizadas / Capacitación a artesanos",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "P95_5",
+    "desc_col": "Actividades realizadas / Otra actividad",
+    "values": "5: Sí\n0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "P95_5_O",
+    "desc_col": "Actividades realizadas / Otra actividad / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C16",
+    "n_q": "95",
+    "desc_q": "Actividades que realizó la municipalidad para fomentar la artesanía en el distrito, 2019",
+    "col": "P95_6",
+    "desc_col": "No realizó actividades",
+    "values": "6: Sí\n0: No",
+    "value_pos": 6
+  },
+  {
+    "h2": "PROTECCIÓN Y CONSERVACIÓN DEL MEDIO AMBIENTE"
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2020",
+    "col": "VFI_P96",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "96",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2020",
+    "col": "P96",
+    "desc_col": "¿La municipalidad tiene Oficina o Unidad Ambiental?",
+    "values": "1: Sí\n2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_1",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_2",
+    "desc_col": "Elemento contaminante / Emisión de gases de vehículos motorizados",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_3",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "3: Sí\n0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_4",
+    "desc_col": "Elemento contaminante / Ruidos con alta intensidad que dañan la salud",
+    "values": "4: Sí\n0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_5",
+    "desc_col": "Elemento contaminante / Aguas residuales",
+    "values": "5: Sí\n0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_6",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "6: Sí\n0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_7",
+    "desc_col": "Elemento contaminante / Deforestación y quema de bosques",
+    "values": "7: Sí\n0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_8",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "8: Sí\n0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_9",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "9: Sí\n0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_9_O",
+    "desc_col": "Elemento contaminante / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "97",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2020",
+    "col": "P97_10",
+    "desc_col": "Elemento contaminante / No existen elementos contaminantes",
+    "values": "10: Sí\n0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "98",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2020",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó\n0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "98",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2020",
+    "col": "P98_1",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local (PAL)",
+    "values": "1: Sí\n0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "98",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2020",
+    "col": "P98_2",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental Local (DAL)",
+    "values": "2: Sí\n0: No",
+    "value_pos": 2
+  }
+]

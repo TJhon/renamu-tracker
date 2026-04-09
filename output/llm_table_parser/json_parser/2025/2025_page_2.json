@@ -1,0 +1,335 @@
+[
+  {
+    "cuadro": "11A",
+    "n_q": null,
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (vehículos y equipos), 2025",
+    "col": "VFI_P11A",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_1",
+    "desc_q": "¿La municipalidad cuenta con auto y/o camioneta?",
+    "col": "P11A_1",
+    "desc_col": "¿La municipalidad cuenta con auto y/o camioneta?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_1",
+    "desc_q": "¿La municipalidad cuenta con auto y/o camioneta?",
+    "col": "P11A_1_1",
+    "desc_col": "Número de bienes / Auto y/o camioneta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_1",
+    "desc_q": "¿La municipalidad cuenta con auto y/o camioneta?",
+    "col": "P11A_1_2",
+    "desc_col": "Número de bienes / Auto y/o camioneta / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_2",
+    "desc_q": "¿La municipalidad cuenta con motocicleta?",
+    "col": "P11A_2",
+    "desc_col": "¿La municipalidad cuenta con motocicleta?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_2",
+    "desc_q": "¿La municipalidad cuenta con motocicleta?",
+    "col": "P11A_2_1",
+    "desc_col": "Número de bienes / Motocicleta / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_2",
+    "desc_q": "¿La municipalidad cuenta con motocicleta?",
+    "col": "P11A_2_2",
+    "desc_col": "Número de bienes / Motocicleta / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_3",
+    "desc_q": "¿La municipalidad cuenta con ambulancia?",
+    "col": "P11A_3",
+    "desc_col": "¿La municipalidad cuenta con ambulancia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_3",
+    "desc_q": "¿La municipalidad cuenta con ambulancia?",
+    "col": "P11A_3_1",
+    "desc_col": "Número de bienes / Ambulancia / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_3",
+    "desc_q": "¿La municipalidad cuenta con ambulancia?",
+    "col": "P11A_3_2",
+    "desc_col": "Número de bienes / Ambulancia / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_4",
+    "desc_q": "¿La municipalidad cuenta con volquete?",
+    "col": "P11A_4",
+    "desc_col": "¿La municipalidad cuenta con volquete?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_4",
+    "desc_q": "¿La municipalidad cuenta con volquete?",
+    "col": "P11A_4_1",
+    "desc_col": "Número de bienes / Volquete / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_4",
+    "desc_q": "¿La municipalidad cuenta con volquete?",
+    "col": "P11A_4_2",
+    "desc_col": "Número de bienes / Volquete / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_5",
+    "desc_q": "¿La municipalidad cuenta con camión recolector de basura (camión compactador)?",
+    "col": "P11A_5",
+    "desc_col": "¿La municipalidad cuenta con camión recolector de basura (camión compactador)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_5",
+    "desc_q": "¿La municipalidad cuenta con camión recolector de basura (camión compactador)?",
+    "col": "P11A_5_1",
+    "desc_col": "Número de bienes / Camión recolector de basura / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_5",
+    "desc_q": "¿La municipalidad cuenta con camión recolector de basura (camión compactador)?",
+    "col": "P11A_5_2",
+    "desc_col": "Número de bienes / Camión recolector de basura / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_6",
+    "desc_q": "¿La municipalidad cuenta con camión cisterna?",
+    "col": "P11A_6",
+    "desc_col": "¿La municipalidad cuenta con camión cisterna?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_6",
+    "desc_q": "¿La municipalidad cuenta con camión cisterna?",
+    "col": "P11A_6_1",
+    "desc_col": "Número de bienes / Camión cisterna / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_6",
+    "desc_q": "¿La municipalidad cuenta con camión cisterna?",
+    "col": "P11A_6_2",
+    "desc_col": "Número de bienes / Camión cisterna / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_7",
+    "desc_q": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura y camiones cisterna)?",
+    "col": "P11A_7",
+    "desc_col": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura y camiones cisterna)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_7",
+    "desc_q": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura y camiones cisterna)?",
+    "col": "P11A_7_1",
+    "desc_col": "Número de bienes / Camión / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_7",
+    "desc_q": "¿La municipalidad cuenta con camión (No incluye camiones recolectores de basura y camiones cisterna)?",
+    "col": "P11A_7_2",
+    "desc_col": "Número de bienes / Camión / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_8",
+    "desc_q": "¿La municipalidad cuenta con grupo electrógeno?",
+    "col": "P11A_8",
+    "desc_col": "¿La municipalidad cuenta con grupo electrógeno?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_8",
+    "desc_q": "¿La municipalidad cuenta con grupo electrógeno?",
+    "col": "P11A_8_1",
+    "desc_col": "Número de bienes / Grupo electrógeno / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_8",
+    "desc_q": "¿La municipalidad cuenta con grupo electrógeno?",
+    "col": "P11A_8_2",
+    "desc_col": "Número de bienes / Grupo electrógeno / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_9",
+    "desc_q": "¿La municipalidad cuenta con panel solar?",
+    "col": "P11A_9",
+    "desc_col": "¿La municipalidad cuenta con panel solar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_9",
+    "desc_q": "¿La municipalidad cuenta con panel solar?",
+    "col": "P11A_9_1",
+    "desc_col": "Número de bienes / Panel solar / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_9",
+    "desc_q": "¿La municipalidad cuenta con panel solar?",
+    "col": "P11A_9_2",
+    "desc_col": "Número de bienes / Panel solar / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_10",
+    "desc_q": "¿La municipalidad cuenta con otro vehículo y/o equipo?",
+    "col": "P11A_10",
+    "desc_col": "¿La municipalidad cuenta con otro vehículo y/o equipo?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_10",
+    "desc_q": "¿La municipalidad cuenta con otro vehículo y/o equipo?",
+    "col": "P11A_10_1",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_10",
+    "desc_q": "¿La municipalidad cuenta con otro vehículo y/o equipo?",
+    "col": "P11A_10_2",
+    "desc_col": "Número de bienes / Otro vehículo y/o equipo / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11A",
+    "n_q": "P11A_10",
+    "desc_q": "¿La municipalidad cuenta con otro vehículo y/o equipo?",
+    "col": "P11A_10_O",
+    "desc_col": "Otro vehículo y/o equipo / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11B",
+    "n_q": null,
+    "desc_q": "Municipalidad cuenta con bienes muebles propios (maquinaria pesada), 2025",
+    "col": "VFI_P11B",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11B",
+    "n_q": "P11B_11",
+    "desc_q": "¿La municipalidad cuenta con excavadora?",
+    "col": "P11B_11",
+    "desc_col": "¿La municipalidad cuenta con excavadora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "11B",
+    "n_q": "P11B_11",
+    "desc_q": "¿La municipalidad cuenta con excavadora?",
+    "col": "P11B_11_1",
+    "desc_col": "Número de bienes / Excavadora / Operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11B",
+    "n_q": "P11B_11",
+    "desc_q": "¿La municipalidad cuenta con excavadora?",
+    "col": "P11B_11_2",
+    "desc_col": "Número de bienes / Excavadora / No operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "11B",
+    "n_q": "P11B_12",
+    "desc_q": "¿La municipalidad cuenta con retroexcavadora?",
+    "col": "P11B_12",
+    "desc_col": "¿La municipalidad cuenta con retroexcavadora?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

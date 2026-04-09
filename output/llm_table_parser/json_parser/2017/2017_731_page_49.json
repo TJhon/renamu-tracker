@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_3_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_3_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación del aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106_4",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por deforestación y quema de bosques?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_4_1",
+    "desc_col": "Número de denuncias recepcionadas / Deforestación y quema de bosques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_4_2",
+    "desc_col": "Número de denuncias atendidas / Deforestación y quema de bosques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106_5",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación sonora?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_5_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación sonora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_5_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación sonora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106_6",
+    "desc_col": "¿La municipalidad registró otro tipo de denuncias ambientales?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_6_1",
+    "desc_col": "Número de denuncias recepcionadas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_6_2",
+    "desc_col": "Número de denuncias atendidas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C102",
+    "n_q": "106",
+    "desc_q": "Municipalidad que registró denuncias ambientales, 2016",
+    "col": "P106A_6_O",
+    "desc_col": "Número de denuncias / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Elementos que originan contaminación ambiental en el distrito, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "107",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2017",
+    "col": "VFI_P107",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "107",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2017",
+    "col": "P107",
+    "desc_col": "¿La municipalidad informó que existen elementos contaminantes en el distrito?",
+    "values": "1: Existen; 0: No existen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "107",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2017",
+    "col": "P107_1",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "107",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2017",
+    "col": "P107_2",
+    "desc_col": "Elemento contaminante / Gases de vehículos motorizados",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "107",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2017",
+    "col": "P107_3",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "107",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2017",
+    "col": "P107_4",
+    "desc_col": "Elemento contaminante / Ruidos con alta intensidad que dañan la salud",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C103",
+    "n_q": "107",
+    "desc_q": "Elementos que originan contaminación ambiental en el distrito, 2017",
+    "col": "P107_5",
+    "desc_col": "Elemento contaminante / Aguas residuales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  }
+]

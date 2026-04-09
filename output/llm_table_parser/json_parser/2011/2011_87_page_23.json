@@ -1,0 +1,254 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "realiza la municipalidad para incentivar la conservación del medio ambiente, 2010",
+    "col": "",
+    "desc_col": "",
+    "values": "0: No informó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87",
+    "desc_q": "La municipalidad realizó acciones para incentivar la conservación del medio ambiente",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_01",
+    "desc_q": "Acciones realizadas / Campañas de concientización ambiental",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_02",
+    "desc_q": "Acciones realizadas / Concursos de iniciativas de cuidado del ambiente",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_03",
+    "desc_q": "Acciones realizadas / Apoyo en la formulación de proyectos sobre problemática ambiental",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_04",
+    "desc_q": "Acciones realizadas / Convenios institucionales",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_05",
+    "desc_q": "Acciones realizadas / Charlas educativas",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_06",
+    "desc_q": "Acciones realizadas / Atención a denuncias ambientales realizadas por la población",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_07",
+    "desc_q": "Acciones realizadas / Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P87_O",
+    "desc_q": "Acciones realizadas / Otro / Descripción",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "VFI_P88",
+    "desc_q": "Municipalidad informante",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88",
+    "desc_q": "En la gestión administrativa de la municipalidad existe participación vecinal",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Existe; 0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_01",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación de los planes de desarrollo municipal",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_02",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Concertación del presupuesto municipal",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_03",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Formulación y control de planes económicos locales",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_04",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En cabildo abierto",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_05",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En acciones de seguridad en el distrito",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_06",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Comités de gestión alimentaria",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_07",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / En juntas vecinales, comités de vecinos",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_08",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "88",
+    "n_q": "P88_O",
+    "desc_q": "Tipo de participación de la población en la gestión administrativa / Otro / Descripción",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "89",
+    "n_q": "VFI_P89",
+    "desc_q": "Municipalidad informante",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "89",
+    "n_q": "P89",
+    "desc_q": "La municipalidad ha constituido Junta de Delegados Vecinales",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Esta constituido; 0: No esta constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "89",
+    "n_q": "P89_H_01",
+    "desc_q": "Número de miembros de la Junta de Delegados Vecinales / Hombre",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "89",
+    "n_q": "P89_M_01",
+    "desc_q": "Número de miembros de la Junta de Delegados Vecinales / Mujer",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "89",
+    "n_q": "P89_02",
+    "desc_q": "Se encuentra en funcionamiento",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "90",
+    "n_q": "VFI_P90",
+    "desc_q": "Municipalidad informante",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "90",
+    "n_q": "P90",
+    "desc_q": "La municipalidad realizó inscripciones de nacimientos",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Realizó",
+    "value_pos": 1
+  }
+]

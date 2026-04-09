@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2018",
+    "col": "P64_16_1",
+    "desc_col": "Número de casos atendidos / Asesoría especializada legal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2018",
+    "col": "P64_17",
+    "desc_col": "¿La municipalidad atendió otros casos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2018",
+    "col": "P64_17_1",
+    "desc_col": "Número de casos atendidos / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2018",
+    "col": "P64_17_O",
+    "desc_col": "Número de casos atendidos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "VFI_P65",
+    "desc_col": "Municipalidad Informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_1",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Agua y saneamiento?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_1_1",
+    "desc_col": "Número de proyectos / Agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_2",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Electrificación?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_2_1",
+    "desc_col": "Número de proyectos / Electrificación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_3",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Hospital?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_3_1",
+    "desc_col": "Número de proyectos / Hospital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_4",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Centro de salud?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_4_1",
+    "desc_col": "Número de proyectos / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_5",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Puesto / Posta de salud?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_5_1",
+    "desc_col": "Número de proyectos / Puesto / Posta de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_6",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Aulas escolares?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_6_1",
+    "desc_col": "Número de proyectos / Aulas escolares",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_7",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Infraestructura vial?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_7_1",
+    "desc_col": "Número de proyectos / Infraestructura vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_8",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Sistemas de riego?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_8_1",
+    "desc_col": "Número de proyectos / Sistemas de riego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_9",
+    "desc_col": "¿La municipalidad ha recibido transferencia de proyectos de infraestructura en Otro?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_9_1",
+    "desc_col": "Número de proyectos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C13",
+    "n_q": "65",
+    "desc_q": "La municipalidad ha recibido tranferencias de proyectos de infraestructura; 2018",
+    "col": "P65_9_O",
+    "desc_col": "La municipalidad ha recibido transferencia de proyectos de infraestructura en Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SALUD"
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2019",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2019",
+    "col": "P66",
+    "desc_col": "¿La municipalidad informó que administra establecimientos de salud?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2019",
+    "col": "P66_1",
+    "desc_col": "¿La municipalidad administra establecimientos de salud / Hospital / Clínica?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C14",
+    "n_q": "66",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2019",
+    "col": "P66_1_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Hospital / Clínica / Número de establecimientos",
+    "values": "",
+    "value_pos": null
+  }
+]

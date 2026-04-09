@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_14_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Cuadro de Asignación de Personal / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_14_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Cuadro de Asignación de Personal / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_15",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Procesos y Procedimientos",
+    "values": "1: Sí; 3: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_15_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Procesos y Procedimientos / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_15_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Procesos y Procedimientos / Motivo por el que no tiene",
+    "values": "0: No informó; 1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_15_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Manual de Procesos y Procedimientos / Especifique porque no tiene instrumento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_16",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Otro",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_16_1",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Otro / Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_16_2",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C17",
+    "n_q": "25",
+    "desc_q": "Municipalidad que tiene Instrumentos de gestión y desarrollo urbano y/o rural, 2017",
+    "col": "P25_16_3",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone / Otro / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "0: No informó; 1: No incluye; 2: Incluye",
+    "value_pos": null
+  },
+  {
+    "h2": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "VFI_P26",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26",
+    "desc_col": "¿La municipalidad tiene constituido el Consejo de Coordinación Local (CCL)?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26_1_T",
+    "desc_col": "Miembros del CCL / Concejo Municipal Provincial / Distrital / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26_1_M",
+    "desc_col": "Miembros del CCL / Concejo Municipal Provincial / Distrital /Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26_1_H",
+    "desc_col": "Miembros del CCL / Concejo Municipal Provincial / Distrital / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26_2_T",
+    "desc_col": "Miembros del CCL / Alcaldes Distritales / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26_2_M",
+    "desc_col": "Miembros del CCL / Alcaldes Distritales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26_2_H",
+    "desc_col": "Miembros del CCL / Alcaldes Distritales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C18",
+    "n_q": "26",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2017",
+    "col": "P26_3_T",
+    "desc_col": "Miembros del CCL / Alcaldes de Centros Poblados / Total",
+    "values": "",
+    "value_pos": null
+  }
+]

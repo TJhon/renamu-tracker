@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "P31_5",
+    "desc_col": "Canales de atención al ciudadano / Libro de Reclamaciones",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "P31_6",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "31",
+    "desc_q": "Canales de atención al ciudadano que tiene la municipalidad, 2018",
+    "col": "P31_6_O",
+    "desc_col": "Canales de atención al ciudadano / Otro canal de atención / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "32",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2018",
+    "col": "VFI_P32",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "32",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2018",
+    "col": "P32_1",
+    "desc_col": "Modalidades de pago / En ventanilla de la municipalidad con efectivo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "32",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2018",
+    "col": "P32_2",
+    "desc_col": "Modalidades de pago / En ventanilla de la municipalidad con tarjeta de crédito o débito",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "32",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2018",
+    "col": "P32_3",
+    "desc_col": "Modalidades de pago / Página Web de la municipalidad (Pago en línea)",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "32",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2018",
+    "col": "P32_4",
+    "desc_col": "Modalidades de pago / Agencia bancaria y/o Agente bancario",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "32",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2018",
+    "col": "P32_5",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "32",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2018",
+    "col": "P32_5_O",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DE ADMINISTRACIÓN TRIBUTARIA"
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "VFI_P33",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P33",
+    "desc_col": "¿La Municipalidad tiene personal exclusivo del área de administracion tributaria?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P33_1_T",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2017 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P33_1_M",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2017 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P33_1_H",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2017 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P33_2_T",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2018 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P33_2_M",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2018 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "33",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P33_2_H",
+    "desc_col": "Personal exclusivo del área al 31 de marzo 2018 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "34",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva , 2018",
+    "col": "VFI_P34",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "34",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva , 2018",
+    "col": "P34_1",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y depende del Área de Administración Tributaria",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "34",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva , 2018",
+    "col": "P34_2",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y no depende del Área de Administración Tributaria",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C08",
+    "n_q": "34",
+    "desc_q": "Municipalidad que tiene Área de Ejecución Coactiva , 2018",
+    "col": "P34_3",
+    "desc_col": "No tiene área de ejecución coactiva",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  }
+]

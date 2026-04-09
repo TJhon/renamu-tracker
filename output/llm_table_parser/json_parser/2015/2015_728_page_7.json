@@ -1,0 +1,104 @@
+[
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_04",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema Integrado de Gestión Administrativa (SIGA)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_05",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema Integrado de Administración Financiera (SIAF)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_06",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema de Recaudación Tributaria Municipal (SRTM)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_07",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Saldo de Fondos Públicos (SAFOP)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_08",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / Sistema de Saneamiento Contable (SISCO)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_09",
+    "desc_col": "Aplicativo Informático que utiliza la municipalidad / Aplicativo informático para el Registro Centralizado de Planillas y de Datos de los Recursos Humanos del Sector Público (AIRHSP)",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_10",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / OTRO",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C10",
+    "n_q": "19",
+    "desc_q": "Aplicativo informático implementado por el Estado que utiliza la municipalidad, 2015",
+    "col": "P19_O",
+    "desc_col": "Aplicativo informático que utiliza la municipalidad / OTRO / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidades que tienen Portal de Transparencia Estándar en la página web, 2015"
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "20",
+    "desc_q": "Municipalidades que tienen Portal de Transparencia Estándar en la página web, 2015",
+    "col": "VFI_P20",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "20",
+    "desc_q": "Municipalidades que tienen Portal de Transparencia Estándar en la página web, 2015",
+    "col": "P20",
+    "desc_col": "¿Tiene Portal de Transparencia Estándar?",
+    "values": "1: Si y está actualizado; 2: Si y está desactualizado; 3: No tiene, porque está en proceso de implementación; 4: No tiene, porque desconoce cómo implementarlo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C11",
+    "n_q": "20",
+    "desc_q": "Municipalidades que tienen Portal de Transparencia Estándar en la página web, 2015",
+    "col": "P20_Portal",
+    "desc_col": "Dirección Web del Portal de Transparencia Estándar",
+    "values": "",
+    "value_pos": null
+  }
+]

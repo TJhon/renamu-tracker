@@ -1,0 +1,221 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P13_05",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Personal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_06",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Presupuesto",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_07",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Trámite documentario",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_08",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Arbitrios municipales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_09",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Licencia de funcionamiento",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_10",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Renta y administración tributaria",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_11",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Autovalúo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_12",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Biblioteca",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_13",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Registro Civil",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_14",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P13_O",
+    "desc_q": "Sistemas informáticos que dispone la municipalidad / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "14 CUADRO_C004 Equipos de cómputo y de oficina (Sin contar con la Biblioteca Municipal y las cabinas públicas municipales), 2013"
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "VFI_P14",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14",
+    "desc_q": "La municipalidad tiene equipos de cómputo y de oficina",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_01",
+    "desc_q": "Número de equipos de cómputo y de oficina / Pentium (I, II, III y IV)",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_02",
+    "desc_q": "Número de equipos de cómputo y de oficina / Pentium D y Celeron",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_03",
+    "desc_q": "Número de equipos de cómputo y de oficina / Core Duo y Core 2 Duo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_04",
+    "desc_q": "Número de equipos de cómputo y de oficina / Core i3 y Core i5",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_05",
+    "desc_q": "Número de equipos de cómputo y de oficina / Core i7 a más",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_06",
+    "desc_q": "Número de equipos de cómputo y de oficina / Scanner",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_07",
+    "desc_q": "Número de equipos de cómputo y de oficina / Fotocopiadora",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_08",
+    "desc_q": "Número de equipos de cómputo y de oficina / Impresora",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_09",
+    "desc_q": "Número de equipos de cómputo y de oficina / Impresora multifuncional",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_10",
+    "desc_q": "Número de equipos de cómputo y de oficina / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C004",
+    "n_q": "P14_O",
+    "desc_q": "Número de equipos de cómputo y de oficina / Otro / Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

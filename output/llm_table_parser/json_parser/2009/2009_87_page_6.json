@@ -1,0 +1,263 @@
+[
+  {
+    "cuadro": "CUADRO_C028",
+    "n_q": "P35",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": "P35",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C028",
+    "n_q": "VFI_P37",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P37",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C028",
+    "n_q": "P37_01",
+    "desc_q": "Cobertura del servicio de recojo de basura / Capital del distrito",
+    "col": "P37_01",
+    "desc_col": "Cobertura del servicio de recojo de basura / Capital del distrito",
+    "values": "1: Total; 2: Parcial",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C028",
+    "n_q": "P37_02",
+    "desc_q": "Cobertura del servicio de recojo de basura / Resto del distrito",
+    "col": "P37_02",
+    "desc_col": "Cobertura del servicio de recojo de basura / Resto del distrito",
+    "values": "1: Total; 2: Parcial; 3: No tiene",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P35",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": "P35",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "VFI_P38",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P38_01",
+    "desc_q": "Costo que demandó el servicio/ Recojo domiciliario de residuos sólidos",
+    "col": "P38_01",
+    "desc_col": "Costo que demandó el servicio/ Recojo domiciliario de residuos sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P38_02",
+    "desc_q": "Costo que demandó el servicio/ Barridos de calles",
+    "col": "P38_02",
+    "desc_col": "Costo que demandó el servicio/ Barridos de calles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P38_03",
+    "desc_q": "Costo que demandó el servicio/ Transporte",
+    "col": "P38_03",
+    "desc_col": "Costo que demandó el servicio/ Transporte",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P38_04",
+    "desc_q": "Costo que demandó el servicio/ Destino final",
+    "col": "P38_04",
+    "desc_col": "Costo que demandó el servicio/ Destino final",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P38_05",
+    "desc_q": "Costo que demandó el servicio/ Otro",
+    "col": "P38_05",
+    "desc_col": "Costo que demandó el servicio/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P38_06",
+    "desc_q": "Costo que demandó el servicio/ Costo Total",
+    "col": "P38_06",
+    "desc_col": "Costo que demandó el servicio/ Costo Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C029",
+    "n_q": "P38_O",
+    "desc_q": "Costo que demandó el servicio/ Otro/ Descripción",
+    "col": "P38_O",
+    "desc_col": "Costo que demandó el servicio/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P35",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": "P35",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "VFI_P39",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P39",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P39",
+    "desc_q": "La municipalidad dispone de instrumentos de gestión para el recojo de residuos sólidos",
+    "col": "P39",
+    "desc_col": "La municipalidad dispone de instrumentos de gestión para el recojo de residuos sólidos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P39_01",
+    "desc_q": "Instrumento de gestión/ Plan de Gestión Integral de Residuos Sólidos",
+    "col": "P39_01",
+    "desc_col": "Instrumento de gestión/ Plan de Gestión Integral de Residuos Sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P39_02",
+    "desc_q": "Instrumento de gestión / Plan Municipal de Residuos Sólidos",
+    "col": "P39_02",
+    "desc_col": "Instrumento de gestión / Plan Municipal de Residuos Sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P39_03",
+    "desc_q": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "col": "P39_03",
+    "desc_col": "Instrumento de gestión / Sistema de Recojo de Residuos Sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P39_04",
+    "desc_q": "Instrumento de gestión/ Programa de Transformación de Residuos Sólidos",
+    "col": "P39_04",
+    "desc_col": "Instrumento de gestión/ Programa de Transformación de Residuos Sólidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P39_05",
+    "desc_q": "Instrumento de gestión / Otro",
+    "col": "P39_05",
+    "desc_col": "Instrumento de gestión / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C030",
+    "n_q": "P39_O",
+    "desc_q": "Instrumento de gestión / Otro/ Descripción",
+    "col": "P39_O",
+    "desc_col": "Instrumento de gestión / Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P35",
+    "desc_q": "La municipalidad realiza recojo de basura",
+    "col": "P35",
+    "desc_col": "La municipalidad realiza recojo de basura",
+    "values": "1: Realiza; 0: No realiza",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "VFI_P40",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P40",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_01",
+    "desc_q": "Destino final de la basura recolectada (%) / Relleno sanitario",
+    "col": "P40_01",
+    "desc_col": "Destino final de la basura recolectada (%) / Relleno sanitario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_02",
+    "desc_q": "Destino final de la basura recolectada (%) / Botadero a cielo abierto",
+    "col": "P40_02",
+    "desc_col": "Destino final de la basura recolectada (%) / Botadero a cielo abierto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_03",
+    "desc_q": "Destino final de la basura recolectada (%) / Vertidos en el río, laguna o el mar",
+    "col": "P40_03",
+    "desc_col": "Destino final de la basura recolectada (%) / Vertidos en el río, laguna o el mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_04",
+    "desc_q": "Destino final de la basura recolectada (%) / Reciclaje",
+    "col": "P40_04",
+    "desc_col": "Destino final de la basura recolectada (%) / Reciclaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C031",
+    "n_q": "P40_05",
+    "desc_q": "Destino final de la basura recolectada (%) / Quemada",
+    "col": "P40_05",
+    "desc_col": "Destino final de la basura recolectada (%) / Quemada",
+    "values": "",
+    "value_pos": null
+  }
+]

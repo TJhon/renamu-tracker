@@ -1,0 +1,299 @@
+[
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_2_1",
+    "desc_col": "La biblioteca municipal contó con equipos operativos / Número de equipos operativos / Impresora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_3",
+    "desc_col": "¿La biblioteca municipal contó con equipos operativos / Proyector multimedia?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_3_1",
+    "desc_col": "La biblioteca municipal contó con equipos operativos / Número de equipos operativos / Proyector multimedia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_4",
+    "desc_col": "¿La biblioteca municipal contó con equipos operativos / Televisor (TV)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_4_1",
+    "desc_col": "La biblioteca municipal contó con equipos de oficina operativos / Número de equipos operativos / Televisor (TV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_5",
+    "desc_col": "¿La biblioteca municipal contó con equipos operativos / DVD y /o Blue - ray?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_5_1",
+    "desc_col": "La biblioteca municipal contó con equipos operativos / Número de equipos operativos / DVD y/o Blue - ray",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_6",
+    "desc_col": "¿La biblioteca municipal contó con equipos operativos / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_6_1",
+    "desc_col": "La biblioteca municipal contó con equipos operativos / Otro / Número de equipos operativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "57",
+    "desc_q": "Biblioteca municipal que contó con equipos operativos, 2018",
+    "col": "P57_6_O",
+    "desc_col": "La biblioteca municipal contó con equipos operativos / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "VFI_P58",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_1",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Casas de la Cultura?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_1_1",
+    "desc_col": "Número de locales / Casas de la Cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_1_2",
+    "desc_col": "Número de visitantes y/o usuarios / Casas de la Cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_2",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Teatros ?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_2_1",
+    "desc_col": "Número de locales / Teatros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_2_2",
+    "desc_col": "Número de visitantes y/o usuarios / Teatros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_3",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Museos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_3_1",
+    "desc_col": "Número de locales / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_3_2",
+    "desc_col": "Número de visitantes y/o usuarios / Museos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_4",
+    "desc_col": "¿La municipalidad administró locales para uso recreacional y cultural / Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_4_1",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_4_2",
+    "desc_col": "Número de visitantes y/o usuarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "58",
+    "desc_q": "Municipalidad que administró locales para uso recreacional y cultural, 2018",
+    "col": "P58_4_O",
+    "desc_col": "La municipalidad administró locales para uso recreacional y cultural / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "VFI_P59",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_1",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Estadios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_1_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Estadios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_2",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Complejos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_2_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Complejos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_3",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Coliseos deportivos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_3_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Coliseos deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_4",
+    "desc_col": "¿La municipalidad administra infraestructura deportiva y/o recreativa / Losas multideportivas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 12",
+    "n_q": "59",
+    "desc_q": "Municipalidad que administra infraestructura deportiva y/o recreativa, 2019",
+    "col": "P59_4_1",
+    "desc_col": "Número de infraestructura deportiva y/o recreativa / Losas multideportivas",
+    "values": "",
+    "value_pos": null
+  }
+]

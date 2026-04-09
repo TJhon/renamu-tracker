@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "públicas de Internet",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_27",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Colegios profesionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_28",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "VFI_P33",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "La_municipalidad_otorgo_licencias_para_la_construccion",
+    "desc_col": "La municipalidad otorgó licencias para la construcción",
+    "values": "1: Otorgó; 0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_01",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Terminal_para_transporte_terrestre",
+    "desc_col": "Número de licencias para la construcción / Terminal para transporte terrestre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_02",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Viviendas_unifamiliares",
+    "desc_col": "Número de licencias para la construcción / Viviendas unifamiliares",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_03",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Viviendas_multifamiliares",
+    "desc_col": "Número de licencias para la construcción / Viviendas multifamiliares",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_04",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Establecimientos_de_hospedaje",
+    "desc_col": "Número de licencias para la construcción / Establecimientos de hospedaje",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_05",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Restaurantes",
+    "desc_col": "Número de licencias para la construcción / Restaurantes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_06",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Centros_comerciales_galerias_comerciales_y_galerias_feriales",
+    "desc_col": "Número de licencias para la construcción / Centros comerciales, galerías comerciales y galerías feriales.",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_07",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Locales_de_instituciones_del_Estado",
+    "desc_col": "Número de licencias para la construcción / Locales de instituciones del Estado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_08",
+    "desc_q": "Licencias para la construcción, 2011",
+    "col": "Numero_de_licencias_para_la_construccion_Otros",
+    "desc_col": "Número de licencias para la construcción / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "VFI_P34",
+    "desc_q": "Verificaciones Técnicas que realizo La Municipalidad a las Obras con Licencia de edificación (Construcción)",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34",
+    "desc_q": "Verificaciones Técnicas que realizo La Municipalidad a las Obras con Licencia de edificación (Construcción)",
+    "col": "La_municipalidad_que_realizo_verificaciones_tecnicas",
+    "desc_col": "La municipalidad que realizó verificaciones técnicas",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34_01",
+    "desc_q": "Verificaciones Técnicas que realizo La Municipalidad a las Obras con Licencia de edificación (Construcción)",
+    "col": "Numero_de_obras_verificadas",
+    "desc_col": "Número de obras verificadas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "VFI_P35",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2011",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2011",
+    "col": "La_municipalidad_dispone_de_terrenos_para_fines_de_vivienda",
+    "desc_col": "La municipalidad dispone de terrenos para fines de vivienda",
+    "values": "1: Dispone; 0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35_01",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2011",
+    "col": "Disponibilidad_de_terrenos_para_fines_de_vivienda_Terrenos_con_saneamiento_fisico_y_legal",
+    "desc_col": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con saneamiento físico y legal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35_02",
+    "desc_q": "Disponibilidad de terrenos de propiedad municipal para fines de vivienda, 2011",
+    "col": "Disponibilidad_de_terrenos_para_fines_de_vivienda_Terrenos_con_factibilidad_de_servicios_de_agua_desague_y_electricidad",
+    "desc_col": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con factibilidad de servicios de agua, desagüe y electricidad",
+    "values": null,
+    "value_pos": null
+  }
+]

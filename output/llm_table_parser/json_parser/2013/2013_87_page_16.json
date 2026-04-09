@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "públicas de Internet",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_27",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Colegios profesionales",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P32_28",
+    "desc_q": "Número de licencias de apertura de establecimientos/ OTROS/ Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "VFI_P33",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33",
+    "desc_q": "La municipalidad otorgó licencias para la construcción",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Otorgó;0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_01",
+    "desc_q": "Número de licencias para la construcción / Terminal para transporte terrestre",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_02",
+    "desc_q": "Número de licencias para la construcción / Viviendas unifamiliares",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_03",
+    "desc_q": "Número de licencias para la construcción / Viviendas multifamiliares",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_04",
+    "desc_q": "Número de licencias para la construcción / Establecimientos de hospedaje",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_05",
+    "desc_q": "Número de licencias para la construcción / Restaurantes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_06",
+    "desc_q": "Número de licencias para la construcción / Centros comerciales, galerías comerciales y galerías feriales.",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_07",
+    "desc_q": "Número de licencias para la construcción / Locales de instituciones del Estado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO24",
+    "n_q": "P33_08",
+    "desc_q": "Número de licencias para la construcción / Otros",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "VFI_P34",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34",
+    "desc_q": "La municipalidad que realizó verificaciones técnicas",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO25",
+    "n_q": "P34_01",
+    "desc_q": "Número de obras verificadas",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "VFI_P35",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35",
+    "desc_q": "La municipalidad dispone de terrenos para fines de vivienda",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Dispone;0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35_01",
+    "desc_q": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con saneamiento físico y legal",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_CO26",
+    "n_q": "P35_02",
+    "desc_q": "Disponibilidad de terrenos para fines de vivienda/ Terrenos con factibilidad de servicios de agua, desagüe y electricidad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

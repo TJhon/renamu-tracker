@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_16_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro (2) / Especifique (2)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_17",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de SERVICIOS: Otro (3)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_17",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro (3) / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_17_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de SERVICIOS / Otro (3) / Especifique (3)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_18",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Establecimientos de artesanías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_18",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Establecimientos de artesanías / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_19",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA: Fábricas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_19",
+    "desc_col": "Licencias de funcionamiento para establecimientos de ARTESANÍA Y MANUFACTURA / Fábricas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_20",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Bodegas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_20",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Bodegas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_21",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Farmacias y boticas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_21",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Farmacias y boticas / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_22",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Panaderías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_22",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Panaderías / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_23",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Ferreterías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_23",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Ferreterías / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_24",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Venta de prendas de vestir?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_24",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Venta de prendas de vestir / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_25",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Venta de calzado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_25",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Venta de calzado / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_26",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Mercados de abastos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_26",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Mercados de Abastos / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36_27",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Centros comerciales o galerías comerciales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C09",
+    "n_q": "36",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2017",
+    "col": "P36A_27",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Centros comerciales o galerías comerciales / Número",
+    "values": "",
+    "value_pos": null
+  }
+]

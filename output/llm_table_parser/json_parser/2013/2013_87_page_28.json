@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "p61_e_06",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Casa de reposo/Asilo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_07",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Centro de rehabilitación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_08",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Farmacia",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_09",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Botica",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_10",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Botiquín",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_11",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Laboratorio clínico",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_01",
+    "desc_q": "Número de establecimientos / Privado / Hospital/ Clínica",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_02",
+    "desc_q": "Número de establecimientos / Privado / Centro de Salud",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_03",
+    "desc_q": "Número de establecimientos / Privado / Puesto de Salud",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_04",
+    "desc_q": "Número de establecimientos / Privado / Consultorio médico",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_05",
+    "desc_q": "Número de establecimientos / Privado / Consultorio odontológico",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_06",
+    "desc_q": "Número de establecimientos / Privado / Casa de reposo/Asilo",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_07",
+    "desc_q": "Número de establecimientos / Privado / Centro de rehabilitación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_08",
+    "desc_q": "Número de establecimientos / Privado / Farmacia",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_09",
+    "desc_q": "Número de establecimientos / Privado / Botica",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_10",
+    "desc_q": "Número de establecimientos / Privado / Botiquín",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_p_11",
+    "desc_q": "Número de establecimientos / Privado / Laboratorio clínico",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "62 CUADRO_C053 Actividades que realizó la municipalidad en coordinación con el Ministerio de Salud, 2012"
+  },
+  {
+    "cuadro": "62",
+    "n_q": "VFI_P62",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62",
+    "desc_q": "La municipalidad realizó actividades con el Ministerio de Salud",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_01",
+    "desc_q": "Actividades que realizó/ Campañas de control de epidemias",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_02",
+    "desc_q": "Actividades que realizó/ Campañas de salud preventiva",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_03",
+    "desc_q": "Actividades que realizó/ Campañas de primeros auxilios",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_04",
+    "desc_q": "Actividades que realizó/ Campañas de educación sanitaria",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_05",
+    "desc_q": "Actividades que realizó/ Campañas de profilaxis local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_06",
+    "desc_q": "Actividades que realizó/ Campañas de fumigación",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_07",
+    "desc_q": "Actividades que realizó/ Campañas de registro y certificación de canes",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_08",
+    "desc_q": "Actividades que realizó/ Campañas de salud mental",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "62",
+    "n_q": "P62_09",
+    "desc_q": "Actividades que realizó/ Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

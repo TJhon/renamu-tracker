@@ -1,0 +1,182 @@
+[
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_57",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Manual de Procedimientos / Motivo por el que no tiene",
+    "values": "1: En elaboración;2: Falta de aprobación por el Concejo Municipal;3: Falta de recursos para su elaboración;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_58",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Otro",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "VFI_P18",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18",
+    "desc_col": "En la municipalidad está constituido el Consejo de Coordinación Local (CCL)",
+    "values": "1: Constituido;0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_H_01",
+    "desc_col": "Miembros del CCL / Concejo Municipal Provincial/ Distrital/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_H_02",
+    "desc_col": "Miembros del CCL / Alcaldes Distritales/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_H_03",
+    "desc_col": "Miembros del CCL / Alcaldes de Centros Poblados / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_H_04",
+    "desc_col": "Miembros del CCL / Representante de la Sociedad Civil / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_M_01",
+    "desc_col": "Miembros del CCL / Concejo Municipal Provincial/ Distrital /Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_M_02",
+    "desc_col": "Miembros del CCL / Alcaldes Distritales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_M_03",
+    "desc_col": "Miembros del CCL / Alcaldes de centros poblados / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C013",
+    "n_q": "18",
+    "desc_q": "Miembros del Consejo de Coodinación Local, 2014",
+    "col": "P18_M_04",
+    "desc_col": "Miembros del CCL / Representante de la Sociedad Civil / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2013",
+    "col": "P18",
+    "desc_col": "En la municipalidad está constituido el Consejo de Coordinación Local",
+    "values": "1: Constituido;0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2013",
+    "col": "VFI_P19",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2013",
+    "col": "P19",
+    "desc_col": "La municipalidad ejecuto actividades del Consejo de Coordinación Local",
+    "values": "1: Ejecutó;0: No ejecutó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2013",
+    "col": "P19_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Realizó sesiones de consejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2013",
+    "col": "P19_N_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Numero de reuniones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2013",
+    "col": "P19_02",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los planes de desarrollo municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, en el 2013",
+    "col": "P19_03",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los presupuestos participativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C014",
+    "n_q": "19",
+    "desc_q": "Actividades que ejecutó el Consejo",
+    "col": "P19_04",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Informa de su gestión a la sociedad civil",
+    "values": "",
+    "value_pos": null
+  }
+]

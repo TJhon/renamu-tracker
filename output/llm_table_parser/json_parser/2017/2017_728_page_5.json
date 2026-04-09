@@ -1,0 +1,203 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P13A_2",
+    "desc_col": "Número de líneas de telefonía móviles (Incluye RPC,RPM y Otros)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "VFI_P14",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_1",
+    "desc_col": "Número de computadoras operativas / Pentium (I, II, III y IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_2",
+    "desc_col": "Número de computadoras operativas / Pentium D y/o Celeron",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_3",
+    "desc_col": "Número de computadoras operativas / Core Duo y/o Core 2 Duo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_4",
+    "desc_col": "Número de computadoras operativas / Core 2 Quad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_5",
+    "desc_col": "Número de computadoras operativas / Core i3",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_6",
+    "desc_col": "Número de computadoras operativas / Core i5",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_7",
+    "desc_col": "Número de computadoras operativas / Core i7",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_8",
+    "desc_col": "Número de computadoras operativas / ADM (Advanced Micro Device)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_9",
+    "desc_col": "Número de computadoras operativas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "14",
+    "desc_q": "Computadoras operativas de la municipalidad por tipo de procesador, 2017",
+    "col": "P14A_9_O",
+    "desc_col": "Número de computadoras operativas / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "La municipalidad cuenta con equipos de oficina operativos, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2017",
+    "col": "VFI_P15",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "¿La municipalidad cuenta con fotocopiadora?",
+    "col": "P15_1",
+    "desc_col": "¿La municipalidad cuenta con fotocopiadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2017",
+    "col": "P15A_1",
+    "desc_col": "Número de equipos operativos / Fotocopiadoras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "¿La municipalidad cuenta con escáner?",
+    "col": "P15_2",
+    "desc_col": "¿La municipalidad cuenta con escáner?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2017",
+    "col": "P15A_2",
+    "desc_col": "Número de equipos operativos / Escáner",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "¿La municipalidad cuenta con Impresora básica?",
+    "col": "P15_3",
+    "desc_col": "¿La municipalidad cuenta con Impresora básica?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2017",
+    "col": "P15A_3",
+    "desc_col": "Número de equipos operativos / Impresora básica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "¿La municipalidad cuenta con Impresora multifuncional?",
+    "col": "P15_4",
+    "desc_col": "¿La municipalidad cuenta con Impresora multifuncional?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "La municipalidad cuenta con equipos de oficina operativos, 2017",
+    "col": "P15A_4",
+    "desc_col": "Número de equipos operativos / Impresora multifuncional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": "15",
+    "desc_q": "¿La municipalidad cuenta con Proyector multimedia?",
+    "col": "P15_5",
+    "desc_col": "¿La municipalidad cuenta con Proyector multimedia?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

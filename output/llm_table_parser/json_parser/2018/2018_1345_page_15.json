@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_8",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de salud mental",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_9",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de registro y certificación de canes",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_10",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Campañas de registro y certificación de perros y gatos",
+    "values": "10: Sí; 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_11",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otra campaña",
+    "values": "11: Sí; 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_11_O",
+    "desc_col": "La municipalidad realizó campañas en coordinación con el MINSA / Otra campaña / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "69",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2017",
+    "col": "P69_12",
+    "desc_col": "La municipalidad realizó campañas de salud en coordinación con el MINSA",
+    "values": "12: Sí; 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "VFI_70",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_1",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Vacunación",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_2",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control del crecimiento y desarrollo del niño",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_3",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de infecciones respiratorias agudas",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_4",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de enfermedades diarreicas agudas",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_5",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de tuberculosis",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_6",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Planificación familiar",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_7",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Control de infecciones de transmisión sexual y VIH/SIDA",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_8",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Otro",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_8_O",
+    "desc_col": "La municipalidad implementó programas de control y prevención de la salud / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 19",
+    "n_q": "70",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2017",
+    "col": "P70_9",
+    "desc_col": "La municipalidad no implementó programas de control de prevención de la salud",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "h2": "SEGURIDAD CIUDADANA"
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "VFI_P71",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_1",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de diciembre 2017?",
+    "values": "1: Brindó; 2: No Brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_1_T",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2017 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_1_M",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2017 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_1_H",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre 2017 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_2",
+    "desc_col": "¿La Municipalidad brindó el servicio de Serenazgo al 31 de marzo 2018?",
+    "values": "1: Brindó; 2: No Brindó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_2_T",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2018 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_2_M",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2018 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 20",
+    "n_q": "71",
+    "desc_q": "Municipalidad que brinda el servicio de serenazgo, al 31 de diciembre 2017 y 31 de marzo 2018",
+    "col": "P71_2_H",
+    "desc_col": "Efectivos de serenazgo al 31 de marzo 2018 / Hombre",
+    "values": "",
+    "value_pos": null
+  }
+]

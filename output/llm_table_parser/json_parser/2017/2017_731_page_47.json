@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "VFI_P102",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102",
+    "desc_col": "¿La municipalidad provincial otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano?",
+    "values": "1: Otorgó; 0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102_1",
+    "desc_col": "¿La municipalidad provincial otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano a personas naturales?",
+    "values": "1: Otorgó; 2: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102A_1_1",
+    "desc_col": "Personas Naturales / Número de concesiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102A_1_2",
+    "desc_col": "Personas Naturales / Número de empresas registradas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102A_1_3",
+    "desc_col": "Personas Naturales / Número de vehículos autorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102_2",
+    "desc_col": "¿La municipalidad provincial otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano a personas jurídicas?",
+    "values": "1: Otorgó; 2: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102A_2_1",
+    "desc_col": "Personas Jurídicas / Número de concesiones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102A_2_2",
+    "desc_col": "Personas Jurídicas / Número de empresas registradas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C98",
+    "n_q": "102",
+    "desc_q": "Municipalidad provincial que otorgó concesiones y autorizaciones para prestar servicio de transporte público urbano, 2016",
+    "col": "P102A_2_3",
+    "desc_col": "Personas Jurídicas / Número de vehículos autorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "VFI_P103",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "P103",
+    "desc_col": "¿La municipalidad otorgó autorizaciones a empresas y vehículos menores?",
+    "values": "1: Otorgó; 0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "P103_1",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehículos motorizados?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "P103A_1_1",
+    "desc_col": "La municipalidad autorizó la circulación de vehículos motorizados / Número de Empresas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "P103A_1_2",
+    "desc_col": "La municipalidad autorizó la circulación de vehículos motorizados / Número de Vehículos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "P103_2",
+    "desc_col": "¿La municipalidad autorizó la circulación de vehículos no motorizados?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "P103A_2_1",
+    "desc_col": "La municipalidad autorizó la circulación de vehículos no motorizados / Número de Empresas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C99",
+    "n_q": "103",
+    "desc_q": "Municipalidad que autorizó la circulación de vehículos menores, 2016",
+    "col": "P103A_2_2",
+    "desc_col": "La municipalidad autorizó la circulación de vehículos no motorizados / Número de Vehículos",
+    "values": "",
+    "value_pos": null
+  }
+]

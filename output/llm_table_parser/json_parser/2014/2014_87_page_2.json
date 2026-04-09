@@ -1,0 +1,101 @@
+[
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_10",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_11",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_12",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Urbano/ Motivo por el que no tiene",
+    "values": "1. En elaboración;2. Falta de aprobación por el Concejo Municipal;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_13",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_14",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_15",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Desarrollo Rural/ Motivo por el que no tiene",
+    "values": "1. En elaboración;2. Falta de aprobación por el Concejo Municipal;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_16",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_17",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones/ Año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_18",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan de Telecomunicaciones/ Motivo por el que no tiene",
+    "values": "1. En elaboración;2. Falta de aprobación por el Concejo Municipal;3. Falta de recursos para su elaboración;4. Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_19",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C012",
+    "n_q": "21",
+    "desc_q": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone la municipalidad, 2014",
+    "col": "P17_20",
+    "desc_col": "Instrumento de gestión y desarrollo que dispone/ Plan Estratégico Institucional/ Año de publicación",
+    "values": "1. En elaboración",
+    "value_pos": null
+  }
+]

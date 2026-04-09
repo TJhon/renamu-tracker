@@ -1,0 +1,158 @@
+[
+  {
+    "h2": "MÓDULO III: RECURSOS HUMANOS"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P21",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_T",
+    "desc_col": "Total personal / Funcionarios y/o Directivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Funcionarios y Directivos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Funcionarios y/o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / Funcionarios y/o Directivos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado / o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_LM",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/o Directivos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_LH",
+    "desc_col": "Decreto Legislativo N° 728 / Funcionarios y/ o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_VM",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Funcionarios y/o Directivos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_VH",
+    "desc_col": "Contrato Administrativo de Servicios (CAS) / Funcionarios y/o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_SM",
+    "desc_col": "Locación de Servicios / Funcionarios y/o Directivos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_1_SH",
+    "desc_col": "Locación de Servicios / Funcionarios y/o Directivos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_2_T",
+    "desc_col": "Total personal / Empleados / Profesionales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_2_NM",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Empleados / Profesionales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_2_NH",
+    "desc_col": "Decreto Legislativo N° 276 / Nombrado / Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_2_CM",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado/ Empleados / Profesionales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P21_2_CH",
+    "desc_col": "Decreto Legislativo N° 276 / Contratado/ Empleados / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_9",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Otro aplicativo",
+    "values": "9: Sí; 0: No",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2019",
+    "col": "P17_9_O",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Otro aplicativo / Específique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "VFL_P18",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_1",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Trámite Documentario",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_2",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Presupuesto",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_3",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Abastecimiento",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_4",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Contabilidad",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_5",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Tesorería",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_6",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Personal",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_7",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Renta y Administración tributaria",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_8",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Catastro",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_9",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Licencia de Funcionamiento",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_10",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Licencia de Edificación y Habilitación Urbana",
+    "values": "10: Sí; 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_11",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Biblioteca",
+    "values": "11: Sí; 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_12",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Registro Civil",
+    "values": "12: Sí; 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_13",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Otro",
+    "values": "13: Sí; 0: No",
+    "value_pos": 13
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_13_O",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "18",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2019",
+    "col": "P18_14",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / No tiene",
+    "values": "14: Sí; 0: No",
+    "value_pos": 14
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "19",
+    "desc_q": "Municipalidad que tiene Portal de Transparencia Estándar, 2019",
+    "col": "VFL_P19",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "19",
+    "desc_q": "Municipalidad que tiene Portal de Transparencia Estándar, 2019",
+    "col": "P19",
+    "desc_col": "¿La municipalidad tiene Portal de Transparencia Estándar?",
+    "values": "1: Sí y está actualizado; 3: No tiene, porque está en proceso de implementación; 4: No tiene, porque desconoce cómo implementarlo",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C02",
+    "n_q": "19",
+    "desc_q": "Municipalidad que tiene Portal de Transparencia Estándar, 2019",
+    "col": "P19_Portal",
+    "desc_col": "Dirección Web del Portal de Transparencia Estándar",
+    "values": "",
+    "value_pos": null
+  }
+]

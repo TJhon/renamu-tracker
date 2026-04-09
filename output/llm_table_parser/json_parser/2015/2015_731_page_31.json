@@ -1,0 +1,200 @@
+[
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "88",
+    "desc_q": "Como tiene la Municipalidad constituida la Plataforma de Defensa Civil, 2015",
+    "col": "P88_1",
+    "desc_col": "La Municipalidad tiene constituida la Plataforma de Defensa Civil / Constituida con Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "88",
+    "desc_q": "Como tiene la Municipalidad constituida la Plataforma de Defensa Civil, 2015",
+    "col": "P88A_1",
+    "desc_col": "Número de Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "88",
+    "desc_q": "Como tiene la Municipalidad constituida la Plataforma de Defensa Civil, 2015",
+    "col": "P88_2",
+    "desc_col": "La Municipalidad tiene constituida la Plataforma de Defensa Civil / Constituida sin Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "88",
+    "desc_q": "Como tiene la Municipalidad constituida la Plataforma de Defensa Civil, 2015",
+    "col": "P88_3",
+    "desc_col": "La Municipalidad tiene constituida la Plataforma de Defensa Civil/ Tiene Reglamento Interno de Funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "88",
+    "desc_q": "Como tiene la Municipalidad constituida la Plataforma de Defensa Civil, 2015",
+    "col": "P88_4",
+    "desc_col": "La Municipalidad tiene constituida la Plataforma de Defensa Civil / Tiene Plan de Trabajo Anual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "89"
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "89",
+    "desc_q": "La municipalidad tiene brigadas de Defensa Civil, 2015",
+    "col": "VFI_P89",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "89",
+    "desc_q": "La municipalidad tiene brigadas de Defensa Civil, 2015",
+    "col": "P89",
+    "desc_col": "¿La municipalidad tiene brigadas de Defensa Civil?",
+    "values": "1: Tiene;0: No Tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "89",
+    "desc_q": "La municipalidad tiene brigadas de Defensa Civil, 2015",
+    "col": "P89A_1_1",
+    "desc_col": "Número de brigadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C082",
+    "n_q": "89",
+    "desc_q": "La municipalidad tiene brigadas de Defensa Civil, 2015",
+    "col": "P89A_1_2",
+    "desc_col": "Número de personas que conforman el total de brigadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "90"
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "90",
+    "desc_q": "Conformación y funcionamiento del Centro de Operaciones de Emergencia Local, 2015",
+    "col": "VFI_P90",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "90",
+    "desc_q": "Conformación y funcionamiento del Centro de Operaciones de Emergencia Local, 2015",
+    "col": "P90",
+    "desc_col": "¿La Municipalidad ha conformado el Centro de Operaciones de Emergencia Local (COEL)?",
+    "values": "1: Si ha Conformado;0: No ha Conformado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "90",
+    "desc_q": "Conformación y funcionamiento del Centro de Operaciones de Emergencia Local, 2015",
+    "col": "P90_1",
+    "desc_col": "COEL / Conformado y funciona las 24 horas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "90",
+    "desc_q": "Conformación y funcionamiento del Centro de Operaciones de Emergencia Local, 2015",
+    "col": "P90_2",
+    "desc_col": "COEL / Conformado y funciona solo en horario de oficina",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C083",
+    "n_q": "90",
+    "desc_q": "Conformación y funcionamiento del Centro de Operaciones de Emergencia Local, 2015",
+    "col": "P90_3",
+    "desc_col": "COEL / Conformado y funciona solo cuando hay una emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "91"
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "91",
+    "desc_q": "El centro de Operaciones de Emergencia Local tiene, 2015",
+    "col": "VFI_P91",
+    "desc_col": "Municipalidad",
+    "values": "1: Si Informó;0: No Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "91",
+    "desc_q": "El centro de Operaciones de Emergencia Local tiene, 2015",
+    "col": "P91_1",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene/ Personal con dedicación exclusiva?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "91",
+    "desc_q": "El centro de Operaciones de Emergencia Local tiene, 2015",
+    "col": "P91_2",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene/ Computadora?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "91",
+    "desc_q": "El centro de Operaciones de Emergencia Local tiene, 2015",
+    "col": "P91_3",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene/ Radio comunicador?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "91",
+    "desc_q": "El centro de Operaciones de Emergencia Local tiene, 2015",
+    "col": "P91_4",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene/ Línea de telefonía fija?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "91",
+    "desc_q": "El centro de Operaciones de Emergencia Local tiene, 2015",
+    "col": "P91_5",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene/ Línea de telefonía móvil?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C084",
+    "n_q": "91",
+    "desc_q": "El centro de Operaciones de Emergencia Local tiene, 2015",
+    "col": "P91_6",
+    "desc_col": "El Centro de Operaciones de Emergencia Local tiene/ Internet?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  }
+]

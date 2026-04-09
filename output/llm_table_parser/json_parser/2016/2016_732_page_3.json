@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P115_5",
+    "desc_col": "Entidades u organizaciones / Otra entidad u organización",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P115_5_O",
+    "desc_col": "Entidades u organizaciones / Otra entidad u organización / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2016",
+    "col": "VFI_P116",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2016",
+    "col": "P116",
+    "desc_col": "¿La municipalidad supervisa organizaciones comunitarias de servicios de agua y saneamiento en el distrito?",
+    "values": "1: Supervisa;0: No supervisa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2016",
+    "col": "P116_1",
+    "desc_col": "Organizaciones comunitarias / Junta Administradora de Servicios de Saneamiento (JASS)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2016",
+    "col": "P116_2",
+    "desc_col": "Organizaciones comunitarias / Asociación de usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2016",
+    "col": "P116_3",
+    "desc_col": "Organizaciones comunitarias / Comité de agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2016",
+    "col": "P116_4",
+    "desc_col": "Organizaciones comunitarias / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "116",
+    "desc_q": "Organizaciones comunitarias de servicios de agua y saneamiento que supervisa la municipalidad, 2016",
+    "col": "P116_4_O",
+    "desc_col": "Organizaciones comunitarias / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "VFI_P117",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "P117",
+    "desc_col": "¿La municipalidad realizó actividades para apoyar a las organizaciones comunitarias de servicio de agua y saneamiento?",
+    "values": "1: Realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "P117_1",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar asistencia técnica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "P117_2",
+    "desc_col": "Actividades que realiza la municipalidad / Brindar capacitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "P117_3",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar mantenimiento del sistema de saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "P117_4",
+    "desc_col": "Actividades que realiza la municipalidad / Realizar la ampliación y/o rehabilitación de los sistemas de saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "P117_5",
+    "desc_col": "Actividades que realiza la municipalidad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "117",
+    "desc_q": "Actividades que realiza la municipalidad para apoyar a las organizaciones comunitarias de servicios de agua y saneamiento, 2016",
+    "col": "P117_5_O",
+    "desc_col": "Actividades que realiza la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P118",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P118",
+    "desc_col": "¿La municipalidad informó que en el distrito funcionan mercados de abastos?",
+    "values": "1: Funcionan;0: No funcionan",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P118_1",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Nombre del mercado de abastos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P118_2",
+    "desc_col": "Mercados de abastos que funcionan en la municipalidad / Dirección",
+    "values": "",
+    "value_pos": null
+  }
+]

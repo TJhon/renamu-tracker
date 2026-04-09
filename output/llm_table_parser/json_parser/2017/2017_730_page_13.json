@@ -1,0 +1,101 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_4_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Recepcionadas ?",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_4_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_4_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_4_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m2 / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_4_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_4_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Licencia de edificación para viviendas de hasta 5 pisos o 3000 m² / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_5",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Carné de sanidad para venta de alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_5_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_5_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_5_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P33A_5_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Carné de sanidad para venta de alimentos / Costo del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  }
+]

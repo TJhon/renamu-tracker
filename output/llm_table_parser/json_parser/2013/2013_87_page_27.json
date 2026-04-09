@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "p61_m_03",
+    "desc_q": "Número de establecimientos / Municipalidad / Puesto de Salud",
+    "col": "p61_m_03",
+    "desc_col": "Número de establecimientos / Municipalidad / Puesto de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_04",
+    "desc_q": "Número de establecimientos / Municipalidad / Consultorio médico",
+    "col": "p61_m_04",
+    "desc_col": "Número de establecimientos / Municipalidad / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_05",
+    "desc_q": "Número de establecimientos / Municipalidad / Consultorio odontológico",
+    "col": "p61_m_05",
+    "desc_col": "Número de establecimientos / Municipalidad / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_06",
+    "desc_q": "Número de establecimientos / Municipalidad / Casa de reposo/Asilo",
+    "col": "p61_m_06",
+    "desc_col": "Número de establecimientos / Municipalidad / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_07",
+    "desc_q": "Número de establecimientos / Municipalidad / Centro de rehabilitación",
+    "col": "p61_m_07",
+    "desc_col": "Número de establecimientos / Municipalidad / Centro de rehabilitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_08",
+    "desc_q": "Número de establecimientos / Municipalidad / Farmacia",
+    "col": "p61_m_08",
+    "desc_col": "Número de establecimientos / Municipalidad / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_09",
+    "desc_q": "Número de establecimientos / Municipalidad / Botica",
+    "col": "p61_m_09",
+    "desc_col": "Número de establecimientos / Municipalidad / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_10",
+    "desc_q": "Número de establecimientos / Municipalidad / Botiquín",
+    "col": "p61_m_10",
+    "desc_col": "Número de establecimientos / Municipalidad / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_m_11",
+    "desc_q": "Número de establecimientos / Municipalidad / Laboratorio clínico",
+    "col": "p61_m_11",
+    "desc_col": "Número de establecimientos / Municipalidad / Laboratorio clínico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_01",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Hospital / Clínica",
+    "col": "p61_fyp_01",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_02",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Centro de Salud",
+    "col": "p61_fyp_02",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Centro de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_03",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Puesto de Salud",
+    "col": "p61_fyp_03",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Puesto de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_04",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Consultorio médico",
+    "col": "p61_fyp_04",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_05",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Consultorio odontológico",
+    "col": "p61_fyp_05",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_06",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Casa de reposo/Asilo",
+    "col": "p61_fyp_06",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Casa de reposo/Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_07",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Centro de rehabilitación",
+    "col": "p61_fyp_07",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Centro de rehabilitación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_08",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Farmacia",
+    "col": "p61_fyp_08",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_09",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Botica",
+    "col": "p61_fyp_09",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_10",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Botiquín",
+    "col": "p61_fyp_10",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_fyp_11",
+    "desc_q": "Número de establecimientos / FF.AA. y PNP / Laboratorio clínico",
+    "col": "p61_fyp_11",
+    "desc_col": "Número de establecimientos / FF.AA. y PNP / Laboratorio clínico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_01",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Hospital/Clínica",
+    "col": "p61_e_01",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Hospital/Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_02",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Centro de Salud",
+    "col": "p61_e_02",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Centro de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_03",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Puesto de Salud",
+    "col": "p61_e_03",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Puesto de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_04",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Consultorio médico",
+    "col": "p61_e_04",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Consultorio médico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "p61_e_05",
+    "desc_q": "Número de establecimientos / Otras Instituciones del Estado / Consultorio odontológico",
+    "col": "p61_e_05",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Consultorio odontológico",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P62_O",
+    "desc_col": "Actividades que realizó/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "VFI_P63",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "63",
+    "n_q": "P63",
+    "desc_q": "Se implementaron Programas de Control y Prevención de la salud en el distrito",
+    "col": "P63",
+    "desc_col": "Se implementaron Programas de Control y Prevención de la salud en el distrito",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_01",
+    "desc_col": "Programa implementado / Control del crecimiento y desarrollo del niño",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_02",
+    "desc_col": "Programa implementado / Control de infecciones respiratorias agudas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_03",
+    "desc_col": "Programa implementado / Control de enfermedades diarreicas agudas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "63_04",
+    "desc_col": "Programa implementado / Vacunas (Inmunización)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_05",
+    "desc_col": "Programa implementado / Planificación familiar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_06",
+    "desc_col": "Programa implementado / Control de tuberculosis",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_07",
+    "desc_col": "Programa implementado / Control de enfermedades de transmisión sexual y VIH/SIDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_08",
+    "desc_col": "Programa implementado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "63",
+    "n_q": null,
+    "desc_q": "Programas de control y prevención de la salud implementados en el distrito, 2011",
+    "col": "P63_O",
+    "desc_col": "Programa implementado / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "VFI_P64",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_O_01",
+    "desc_col": "Número de Organizaciones / Club de Madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_O_02",
+    "desc_col": "Número de Organizaciones / Comités de base del Programa Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_O_03",
+    "desc_col": "Número de Organizaciones / Comedor Popular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_O_04",
+    "desc_col": "Número de Organizaciones / Wawa Wasi",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_O_05",
+    "desc_col": "Número de Organizaciones / Club y Centro del Adulto Mayor",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_O_06",
+    "desc_col": "Número de Organizaciones / Organizaciones Juveniles",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_O_07",
+    "desc_col": "Número de Organizaciones / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_B_01",
+    "desc_col": "Número de beneficiarios / Club de Madres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_B_02",
+    "desc_col": "Número de beneficiarios / Comités de base del Programa Vaso de Leche",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "64",
+    "n_q": null,
+    "desc_q": "Organizaciones sociales que existen en el distrito, 2011",
+    "col": "P64_B_03",
+    "desc_col": "Número de beneficiarios / Comedor Popular",
+    "values": "",
+    "value_pos": null
+  }
+]

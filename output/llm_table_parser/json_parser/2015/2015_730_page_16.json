@@ -1,0 +1,185 @@
+[
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2015",
+    "col": "P35_1",
+    "desc_col": "Modalidades de pago / En ventanilla de la municipalidad con efectivo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2015",
+    "col": "P35_2",
+    "desc_col": "Modalidades de pago / En ventanilla de la municipalidad con tarjeta de crédito o débito",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2015",
+    "col": "P35_3",
+    "desc_col": "Modalidades de pago / Página Web de la municipalidad (Pago en línea)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2015",
+    "col": "P35_4",
+    "desc_col": "Modalidades de pago / Agencia bancaria / Agente bancario",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2015",
+    "col": "P35_5",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C27",
+    "n_q": "35",
+    "desc_q": "Modalidades de pago que tiene la Municipalidad para el cobro de tributos y/o servicios, 2015",
+    "col": "P35_5_O",
+    "desc_col": "Modalidades de pago / Otra modalidad de pago / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "GESTIÓN DE ADMINISTRACIÓN TRIBUTARIA"
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "VFI_P36",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "P36",
+    "desc_col": "La Municipalidad tiene personal exclusivo del área de administracion tributaria",
+    "values": "1: Tiene;2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "P36_1_T",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2014 / total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "P36_1_M",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2014 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "P36_1_H",
+    "desc_col": "Personal exclusivo del área al 31 de diciembre 2014 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "P36_2_T",
+    "desc_col": "Personal exclusivo del área al 30 de junio 2015 / total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "P36_2_M",
+    "desc_col": "Personal exclusivo del área al 30 de junio 2015 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C28",
+    "n_q": "36",
+    "desc_q": "Personal exclusivo del área de administracion tributaria al 31 de diciembre 2014 y 30 de junio 2015",
+    "col": "P36_2_H",
+    "desc_col": "Personal exclusivo del área al 30 de junio 2015 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "37",
+    "desc_q": "Área de Ejecución Coactiva que tiene la municipalidad, 2015",
+    "col": "VFI_P37",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "37",
+    "desc_q": "Área de Ejecución Coactiva que tiene la municipalidad, 2015",
+    "col": "P37",
+    "desc_col": "¿La municipalidad tiene un área de ejecución coactiva?",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "37",
+    "desc_q": "Área de Ejecución Coactiva que tiene la municipalidad, 2015",
+    "col": "P37_1",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y depende del área de Administración Tributaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C29",
+    "n_q": "37",
+    "desc_q": "Área de Ejecución Coactiva que tiene la municipalidad, 2015",
+    "col": "P37_2",
+    "desc_col": "La municipalidad tiene un área de ejecución coactiva / Sí y no depende del área de Administración Tributaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P38",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P38",
+    "desc_col": "¿La municipalidad ha implementado un Sistema Informático de Administración Tributaria?",
+    "values": "1: Implementó;2: No implementó",
+    "value_pos": 1
+  }
+]

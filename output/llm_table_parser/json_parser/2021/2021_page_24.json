@@ -1,0 +1,257 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2020",
+    "col": "P34_29",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Centros comerciales o galerías comerciales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2020",
+    "col": "P34A_29",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Centros comerciales o galerías comerciales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2020",
+    "col": "P34_30",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Proveedores de insumos agropecuarios?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2020",
+    "col": "P34A_30",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Proveedores de insumos agropecuarios / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2020",
+    "col": "P34_31",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de COMERCIO: Otro?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2020",
+    "col": "P34A_31",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "34",
+    "desc_q": "Municipalidad que otorgó licencias de funcionamiento para establecimientos, 2020",
+    "col": "P34A_31_O",
+    "desc_col": "Licencias de funcionamiento para establecimientos de COMERCIO / Otro / Especifique la de mayor frecuencia",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "DESARROLLO URBANO Y/O RURAL"
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "VFI_P35",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_1",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas unifamiliares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_1",
+    "desc_col": "Licencias de edificación para viviendas unifamiliares / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_2",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para viviendas multifamiliares?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_2",
+    "desc_col": "Licencias de edificación para viviendas multifamiliares / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_3",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para edificaciones de uso mixto con vivienda?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_3",
+    "desc_col": "Licencias de edificación para edificaciones de uso mixto con vivienda / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_4",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para restaurantes?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_4",
+    "desc_col": "Licencias de edificación para restaurantes / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_5",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para centros comerciales o galerías comerciales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_5",
+    "desc_col": "Licencias de edificación para centros comerciales o galerías comerciales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_6",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para campos feriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_6",
+    "desc_col": "Licencias de edificación para campos feriales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_7",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para hoteles, hostales y otros establecimientos de hospedaje?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_7",
+    "desc_col": "Licencias de edificación para hoteles, hostales y otros establecimientos de hospedaje / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_8",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para fábricas industriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_8",
+    "desc_col": "Licencias de edificación para fábricas industriales / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_9",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para locales de instituciones del Estado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_9",
+    "desc_col": "Licencias de edificación para locales de instituciones del Estado / Número",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35_10",
+    "desc_col": "¿La municipalidad otorgó licencias de edificación para terminales de transporte terrestre?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "35",
+    "desc_q": "Municipalidad que otorgó licencias de edificación, 2020",
+    "col": "P35A_10",
+    "desc_col": "Licencias de edificación para terminales de transporte terrestre / Número",
+    "values": null,
+    "value_pos": null
+  }
+]

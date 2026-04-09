@@ -1,0 +1,416 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "distrito al 2004",
+    "col": "V2",
+    "desc_col": "Biblioteca municipal / Área m²",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "distrito al 2004",
+    "col": "V3",
+    "desc_col": "Biblioteca municipal / Promedio mensual usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal al 2004",
+    "col": "V1",
+    "desc_col": "Número de volúmenes por tipo colección / Libros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal al 2004",
+    "col": "V2",
+    "desc_col": "Número de volúmenes por tipo colección / Publicaciones periódicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal al 2004",
+    "col": "V3",
+    "desc_col": "Número de volúmenes por tipo colección / Materiales audio visuales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0050",
+    "n_q": "54",
+    "desc_q": "Colecciones que dispone la biblioteca municipal al 2004",
+    "col": "V4",
+    "desc_col": "Numero de volúmenes por tipo colección / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V1",
+    "desc_col": "El distrito tiene establecimientos de salud",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V21",
+    "desc_col": "Número de establecimientos / Municipalidad / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V22",
+    "desc_col": "Número de establecimientos / Municipalidad / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V23",
+    "desc_col": "Número de establecimientos / Municipalidad / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V24",
+    "desc_col": "Número de establecimientos / Municipalidad / Consultorio medico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V25",
+    "desc_col": "Número de establecimientos / Municipalidad / Casa de reposo / Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V26",
+    "desc_col": "Número de establecimientos / Municipalidad / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V27",
+    "desc_col": "Número de establecimientos / Municipalidad / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V28",
+    "desc_col": "Número de establecimientos / Municipalidad / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V29",
+    "desc_col": "Número de establecimientos / Municipalidad / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V31",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V32",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V33",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V34",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Consultorio medico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V35",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Casa de reposo / Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V36",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V37",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V38",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V39",
+    "desc_col": "Número de establecimientos / Otras Instituciones del Estado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V41",
+    "desc_col": "Número de establecimientos / Privado / Hospital / Clínica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V42",
+    "desc_col": "Número de establecimientos / Privado / Centro de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V43",
+    "desc_col": "Número de establecimientos / Privado / Puesto de salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V44",
+    "desc_col": "Número de establecimientos / Privado / Consultorio medico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V45",
+    "desc_col": "Número de establecimientos / Privado / Casa de reposo / Asilo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V46",
+    "desc_col": "Número de establecimientos / Privado / Farmacia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V47",
+    "desc_col": "Número de establecimientos / Privado / Botica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V48",
+    "desc_col": "Número de establecimientos / Privado / Botiquín",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0051",
+    "n_q": "55",
+    "desc_q": "Locales de atención de salud construidos y en funcionamiento en el distrito, al 2004",
+    "col": "V49",
+    "desc_col": "Número de establecimientos / Privado / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe en el distrito, al 2004",
+    "col": "V1",
+    "desc_col": "La Municipalidad tiene servicios de apoyo a la salud",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe en el distrito, al 2004",
+    "col": "V2",
+    "desc_col": "Número de establecimientos / Tipo de servicio / Rayos X / Ecografías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe en el distrito, al 2004",
+    "col": "V3",
+    "desc_col": "Número de establecimientos / Tipo de servicio / Laboratorio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe en el distrito, al 2004",
+    "col": "V4",
+    "desc_col": "Número de establecimientos / Tipo de servicio / Servicio odontológico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0052",
+    "n_q": "56",
+    "desc_q": "Servicio de apoyo al diagnostico de la salud que existe en el distrito, al 2004",
+    "col": "V5",
+    "desc_col": "Número de establecimientos / Tipo de servicio / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de la salud implementados en el distrito, en el 2004",
+    "col": "V1",
+    "desc_col": "La Municipalidad realizó asistencia alimentaria, control y prevención",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de la salud implementados en el distrito, en el 2004",
+    "col": "V2",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Canasta alimentaria (PANFAR)",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de la salud implementados en el distrito, en el 2004",
+    "col": "V3",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud/ Papilla u otro alimento a niños menores",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de la salud implementados en el distrito, en el 2004",
+    "col": "V4",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Alimento para enfermos y ancianos",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de la salud implementados en el distrito, en el 2004",
+    "col": "V5",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Control del crecimiento y desarrollo del niño",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de la salud implementados en el distrito, en el 2004",
+    "col": "V6",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Control de infecciones respiratorias agudas",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0053",
+    "n_q": "57",
+    "desc_q": "Programas de asistencia social alimentaria, control y prevención de la salud implementados en el distrito, en el 2004",
+    "col": "V7",
+    "desc_col": "Programas de asistencia alimentaria, control y prevención de la salud / Control de enfermedades diarreicas agudas",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  }
+]

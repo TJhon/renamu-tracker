@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "Local/ Participa en los planes de desarrollo municipal",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P24_03",
+    "desc_q": "Actividades que ejecutó el Concejo de Coordinación Local/ Participa en los presupuestos participativos",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P24_04",
+    "desc_q": "Actividades que ejecutó el Concejo de Coordinación Local/ Informa de su gestión a la sociedad civil",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P24_05",
+    "desc_q": "Actividades que ejecutó el Concejo de Coordinación Local/ Hace cumplir los acuerdos concertados",
+    "col": "",
+    "desc_col": "",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "VFI_P25",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2007",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_01",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2007",
+    "col": "Normas_emitidas_Ordenanza_Municipal",
+    "desc_col": "Normas emitidas/ Ordenanza Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_02",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2007",
+    "col": "Normas_emitidas_Acuerdo_de_Concejo",
+    "desc_col": "Normas emitidas/ Acuerdo de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_03",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2007",
+    "col": "Normas_emitidas_Decreto_de_Alcaldia",
+    "desc_col": "Normas emitidas/ Decreto de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_04",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2007",
+    "col": "Normas_emitidas_Resolucion_de_Concejo",
+    "desc_col": "Normas emitidas/ Resolución de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_05",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2007",
+    "col": "Normas_emitidas_Resolucion_de_Alcaldia",
+    "desc_col": "Normas emitidas/ Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_06",
+    "desc_q": "Normas emitidas por las municipalidades, en el 2007",
+    "col": "Normas_emitidas_Otras",
+    "desc_col": "Normas emitidas/ Otras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "VFI_P26",
+    "desc_q": "Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26",
+    "desc_q": "Texto Único de Procedimientos Administrativos, 2008",
+    "col": "La_municipalidad_tiene_Texto_Unico_de_Procedimientos_Administrativos",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26_01",
+    "desc_q": "Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Fecha_de_publicacion_del_TUPA",
+    "desc_col": "Fecha de publicación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26_02",
+    "desc_q": "Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Razon_por_la_que_no_tiene_TUPA",
+    "desc_col": "Razón por la que no tiene TUPA",
+    "values": "1: Está incompleto; 2: Está desactualizado; 3: En elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26_O",
+    "desc_q": "Texto Único de Procedimientos Administrativos, 2008",
+    "col": "No_tiene_Otro_Descripcion",
+    "desc_col": "No tiene/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P26",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2008",
+    "col": "La_municipalidad_tiene_Texto_Unico_de_Procedimientos_Administrativos",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "VFI_P27",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2008",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2008",
+    "col": "Ratificacion_del_TUPA",
+    "desc_col": "Ratificación del TUPA",
+    "values": "1: Está ratificado; 0: No está ratificado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_01",
+    "desc_q": "Ratificación del Texto Único de Procedimientos Administrativos por las municipalidades provinciales, 2008",
+    "col": "Fecha_de_ratificacion_del_TUPA",
+    "desc_col": "Fecha de ratificación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P26",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "La_municipalidad_tiene_Texto_Unico_de_Procedimientos_Administrativos",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "VFI_P28",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_01",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Lugar_de_publicacion_INDECOPI",
+    "desc_col": "Lugar de publicación/ INDECOPI",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_02",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Lugar_de_publicacion_Diario_Oficial_El_Peruano",
+    "desc_col": "Lugar de publicación/ Diario Oficial \"El Peruano\"",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_03",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Lugar_de_publicacion_Diario_Local",
+    "desc_col": "Lugar de publicación/ Diario Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_04",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Lugar_de_publicacion_Pizarra_vitrina_de_la_municipalidad",
+    "desc_col": "Lugar de publicación/ Pizarra, vitrina de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_05",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Lugar_de_publicacion_Pagina_Web_de_la_municipalidad",
+    "desc_col": "Lugar de publicación/ Página Web de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_06",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Lugar_de_publicacion_Otro",
+    "desc_col": "Lugar de publicación/ Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_O",
+    "desc_q": "Lugar de publicación del Texto Único de Procedimientos Administrativos, 2008",
+    "col": "Lugar_de_publicacion_Otro_Descripcion",
+    "desc_col": "Lugar de publicación/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "VFI_P29",
+    "desc_q": "Principales Obras de construcción ejecutadas por la municipalidad y concluidas en el 2007",
+    "col": "Municipalidad_informante",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "P29_01",
+    "desc_q": "Principales Obras de construcción ejecutadas por la municipalidad y concluidas en el 2007",
+    "col": "Nombre_de_la_Obra",
+    "desc_col": "Nombre de la Obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C020",
+    "n_q": "P29_02",
+    "desc_q": "Principales Obras de construcción ejecutadas por la municipalidad y concluidas en el 2007",
+    "col": "Sector_Economico",
+    "desc_col": "Sector Económico",
+    "values": "1: Educación; 2: Salud; 3: Transportes y Comunicaciones; 4: Electricidad, agua y alcantarillado; 5: Turismo; 6: Otras Obras",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "V5",
+    "desc_q": "Tipo de organización vecinal registrada/ Comité de autodefensa",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "V6",
+    "desc_q": "Tipo de organización vecinal registrada/ Otro",
+    "col": "",
+    "desc_col": "",
+    "values": "1: Si tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "64",
+    "n_q": "CUADRO_C0060",
+    "desc_q": "Serenazgo de la Municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades que tienen Serenazgo",
+    "values": "1: SI tienen;0: No tienen",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "64",
+    "n_q": "CUADRO_C0060",
+    "desc_q": "Serenazgo de la Municipalidad",
+    "col": "V2",
+    "desc_col": "Numero de Efectivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "65",
+    "n_q": "CUADRO_C0061",
+    "desc_q": "Conformación y funcionamiento del comité de defensa civil",
+    "col": "V1",
+    "desc_col": "Municipalidades que cuentan con el comité de defensa civil/ Constituido pero sus miembros no se reunen",
+    "values": "1: Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "65",
+    "n_q": "CUADRO_C0061",
+    "desc_q": "Conformación y funcionamiento del comité de defensa civil",
+    "col": "V2",
+    "desc_col": "Municipalidades que cuentan con el comité de defensa civil/ Funciona solo cuando hay una emergencia",
+    "values": "1: Si;0:No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "CUADRO_C0062",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad",
+    "col": "V1",
+    "desc_col": "Municipalidades con instrumentos de defensa civil",
+    "values": "1: Con instrumentos;0: sin instrumentos",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "CUADRO_C0062",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad",
+    "col": "V2",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Plan de acciones de prevención y gestión de riesgos",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "CUADRO_C0062",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad",
+    "col": "V3",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Estadísticas de desastres mas frecuentes",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "CUADRO_C0062",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad",
+    "col": "V4",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Mapa de riesgos",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "CUADRO_C0062",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad",
+    "col": "V5",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Registro de inspecciones técnicos de seguridad en defensa civil",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "66",
+    "n_q": "CUADRO_C0062",
+    "desc_q": "Instrumentos técnicos de defensa civil con que cuenta la municipalidad",
+    "col": "V6",
+    "desc_col": "Instrumentos técnicos de defensa civil de la municipalidad/ Otro",
+    "values": "1: Si cuenta;0: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V1",
+    "desc_col": "Municipalidades con peligros naturales frecuentes",
+    "values": "1: Con peligros;0: Sin peligros",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V2",
+    "desc_col": "Tipo de peligros naturales/ Lluvias torrenciales",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V3",
+    "desc_col": "Tipo de peligros naturales/ Desborde de ríos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V4",
+    "desc_col": "Tipo de peligros naturales/ Huaycos, avalanchas, deslizamientos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V5",
+    "desc_col": "Tipo de peligros naturales/ Inundación",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V6",
+    "desc_col": "Tipo de peligros naturales/ Materazo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V7",
+    "desc_col": "Tipo de peligros naturales/ Hundimiento",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "CUADRO_C0063",
+    "desc_q": "Peligros naturales frecuentes en el distrito",
+    "col": "V8",
+    "desc_col": "Tipo de peligros naturales/ Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "68",
+    "n_q": "CUADRO_C0064",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades que informaron que el distrito cuenta con maquinaria disponible",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "68",
+    "n_q": "CUADRO_C0064",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, en el 2003",
+    "col": "V2",
+    "desc_col": "Condición de propiedad de la maquinaria/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "68",
+    "n_q": "CUADRO_C0064",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, en el 2003",
+    "col": "V3",
+    "desc_col": "Condición de propiedad de la maquinaria/ Publico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "68",
+    "n_q": "CUADRO_C0064",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, en el 2003",
+    "col": "V4",
+    "desc_col": "Condición de propiedad de la maquinaria/ Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "68",
+    "n_q": "CUADRO_C0064",
+    "desc_q": "Maquinaria disponible en el distrito para afrontar los fenómenos naturales, en el 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de maquinaria",
+    "values": "1 al 10 (Ver descripción en la tabla CUADRO CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V1",
+    "desc_col": "Nacimientos/ 2002/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V",
+    "desc_col": "Nacimientos/ 2002/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V3",
+    "desc_col": "Nacimientos/ 2002/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V4",
+    "desc_col": "Nacimientos/ 2003/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V5",
+    "desc_col": "Nacimientos/ 2003/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V6",
+    "desc_col": "Nacimientos/ 2003/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V7",
+    "desc_col": "Defunciones/ 2002/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V8",
+    "desc_col": "Defunciones / 2002/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V9",
+    "desc_col": "Defunciones / 2002/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V10",
+    "desc_col": "Defunciones / 2003/ Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V11",
+    "desc_col": "Defunciones / 2003/ Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0065",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V12",
+    "desc_col": "Defunciones / 2003/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0066",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V1",
+    "desc_col": "Matrimonios/ 2002",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0066",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V2",
+    "desc_col": "Matrimonios/ 2003",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0066",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V3",
+    "desc_col": "Divorcios/2002",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "CUADRO_C0066",
+    "desc_q": "Inscripción en el registro civil de la Municipalidad",
+    "col": "V4",
+    "desc_col": "Divorcios/2003",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "70",
+    "n_q": "CUADRO_C0067",
+    "desc_q": "Empresas municipales y",
+    "col": "V1",
+    "desc_col": "Total Empresas Municipales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "70",
+    "n_q": "CUADRO_C0067",
+    "desc_q": "Empresas municipales y",
+    "col": "V2",
+    "desc_col": "Empresa Municipal",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_6_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_6_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_6_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_6_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_6_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_6_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de nacimiento / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_7",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de defunción?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_7_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_7_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_7_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_7_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_7_5",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Número de requisitos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_7_6",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de defunción / Plazo de atención (Días hábiles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_8",
+    "desc_col": "¿La municipalidad realizó procedimiento administrativo de Copia certificada de partida de matrimonio?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_8_1",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Recepcionadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_8_2",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Aprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_8_3",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Desaprobadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "29",
+    "desc_q": "Procedimientos Administrativos realizados en la Municipalidad, 2018",
+    "col": "P29_8_4",
+    "desc_col": "Procedimiento administrativo realizado por la Municipalidad / Copia certificada de partida de matrimonio / Costo unitario del procedimiento (Soles)",
+    "values": "",
+    "value_pos": null
+  }
+]

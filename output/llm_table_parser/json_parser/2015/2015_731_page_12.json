@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P65A_6",
+    "desc_col": "Número de locales / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P65A_6_1",
+    "desc_col": "Número de visitantes y/o usuarios / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P65A_6_O",
+    "desc_col": "La municipalidad administró locales para uso recreacional y cultural /Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "SERVICIOS SOCIALES"
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "VFI_P66",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "VFI_P66",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66_1",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66_1",
+    "desc_col": "¿Existen organizaciones sociales de Comité del Programa del Vaso de Leche en el distrito?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_1_1",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_1_1",
+    "desc_col": "Comité del Programa del Vaso de Leche / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_1_2",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_1_2",
+    "desc_col": "Comité del Programa del Vaso de Leche / Total de beneficiarios al 31 de diciembre 2014",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_1_3",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_1_3",
+    "desc_col": "Comité del Programa del Vaso de Leche / Total de beneficiarios al 30 de Junio 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66_2",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66_2",
+    "desc_col": "¿Existen organizaciones sociales de Comedor Popular en el distrito?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_2_1",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_2_1",
+    "desc_col": "Comedor Popular / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_2_2",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_2_2",
+    "desc_col": "Comedor Popular / Total de beneficiarios al 31 de diciembre 2014",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_2_3",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_2_3",
+    "desc_col": "Comedor Popular / Total de beneficiarios al 30 de Junio 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66_3",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66_3",
+    "desc_col": "¿Existen organizaciones sociales de Club de madres en el distrito?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_3_1",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_3_1",
+    "desc_col": "Club de madres / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_3_2",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_3_2",
+    "desc_col": "Club de madres / Total de beneficiarios al 31 de diciembre 2014",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_3_3",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_3_3",
+    "desc_col": "Club de madres / Total de beneficiarios al 30 de Junio 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66_6",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66_6",
+    "desc_col": "¿Existen organizaciones sociales de Organizaciones juveniles en el distrito?",
+    "values": "1: Sí;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_6_1",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_6_1",
+    "desc_col": "Organizaciones sociales / Organizaciones juveniles / Número",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C58A",
+    "n_q": "P66A_6_2",
+    "desc_q": "Organizaciones sociales que existen en el distrito",
+    "col": "P66A_6_2",
+    "desc_col": "Organizaciones sociales / Organizaciones juveniles / Total de beneficiarios al 31 de diciembre 2014",
+    "values": "",
+    "value_pos": null
+  }
+]

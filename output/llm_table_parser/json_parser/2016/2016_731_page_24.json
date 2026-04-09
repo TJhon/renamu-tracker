@@ -1,0 +1,176 @@
+[
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "74",
+    "desc_q": "vigilancia de la municipalidad, al 31 de diciembre 2015 y 30 de junio 2016",
+    "col": "P74_1_H",
+    "desc_col": "Efectivos de serenazgo al 31 de diciembre del 2015 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "74",
+    "desc_q": "vigilancia de la municipalidad, al 31 de diciembre 2015 y 30 de junio 2016",
+    "col": "P74A_1",
+    "desc_col": "Número de Puestos de vigilancia al 31 de diciembre del 2015",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "74",
+    "desc_q": "vigilancia de la municipalidad, al 31 de diciembre 2015 y 30 de junio 2016",
+    "col": "P74_2_T",
+    "desc_col": "Efectivos de serenazgo al 30 de junio 2016 / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "74",
+    "desc_q": "vigilancia de la municipalidad, al 31 de diciembre 2015 y 30 de junio 2016",
+    "col": "P74_2_M",
+    "desc_col": "Efectivos de serenazgo al 30 de junio 2016 / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "74",
+    "desc_q": "vigilancia de la municipalidad, al 31 de diciembre 2015 y 30 de junio 2016",
+    "col": "P74_2_H",
+    "desc_col": "Efectivos de serenazgo al 30 de junio 2016 / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C68",
+    "n_q": "74",
+    "desc_q": "vigilancia de la municipalidad, al 31 de diciembre 2015 y 30 de junio 2016",
+    "col": "P74A_2",
+    "desc_col": "Número de Puestos de vigilancia al 30 de junio 2016",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Intervenciones registradas por el serenazgo, 2015"
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P74",
+    "desc_col": "¿La Municipalidad brinda el servicio de Serenazgo?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75_1",
+    "desc_col": "¿El serenazgo registró intervenciones por / Robo a transeúntes?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75A_1",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Robo a transeúntes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75_2",
+    "desc_col": "¿El serenazgo registró intervenciones por / Robo a domicilio?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75A_2",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Robo a domicilio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75_3",
+    "desc_col": "¿El serenazgo registró intervenciones por / Robo de vehículos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75A_3",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Robo de vehículos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75_4",
+    "desc_col": "¿El serenazgo registró intervenciones por / Robo de autopartes?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75A_4",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Robo de autopartes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75_5",
+    "desc_col": "¿El serenazgo registró intervenciones por / Robo a establecimientos?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75A_5",
+    "desc_col": "Número de intervenciones registradas por el serenazgo / Robo a establecimientos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C69",
+    "n_q": "75",
+    "desc_q": "Intervenciones registradas por el serenazgo, 2015",
+    "col": "P75_6",
+    "desc_col": "¿El serenazgo registró intervenciones por / Consumo de alcohol en vía pública?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

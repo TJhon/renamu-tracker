@@ -1,0 +1,155 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_2_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Educación",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_3_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales/ Público / Ministerio de Salud",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_4_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Urbano )",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_5_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Vivienda, Construcción y Saneamiento (Programa Nacional de Saneamiento Rural)",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_6_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Ministerio de Transportes y Comunicaciones - Provias Nacional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_7_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Gobierno Regional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_8_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Gobierno Local",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_10_1",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_10_1_O",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_11_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Empresa privada",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_12_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organización No Gubernamental",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_13_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La comunidad",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_14_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Iglesia",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_15_2",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_17_1",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P69_17_1_O",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P70",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  }
+]

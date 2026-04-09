@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "servicio de transporte público urbano de pasajeros, 2010",
+    "col": "autorizaciones_para_el_servicio_de_transporte_publico_urbano",
+    "desc_col": "autorizaciones para el servicio de transporte público urbano",
+    "values": "0: No otorgó",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P74_N_01",
+    "desc_q": "servicio de transporte público urbano de pasajeros, 2010",
+    "col": "P74_N_01",
+    "desc_col": "Número de concesiones / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P74_N_02",
+    "desc_q": "servicio de transporte público urbano de pasajeros, 2010",
+    "col": "P74_N_02",
+    "desc_col": "Número de concesiones / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P74_E_01",
+    "desc_q": "servicio de transporte público urbano de pasajeros, 2010",
+    "col": "P74_E_01",
+    "desc_col": "Número de empresas registradas / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P74_E_02",
+    "desc_q": "servicio de transporte público urbano de pasajeros, 2010",
+    "col": "P74_E_02",
+    "desc_col": "Número de empresas registradas / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P74_V_01",
+    "desc_q": "servicio de transporte público urbano de pasajeros, 2010",
+    "col": "P74_V_01",
+    "desc_col": "Número de vehículos autorizados / Personas Naturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "P74_V_02",
+    "desc_q": "servicio de transporte público urbano de pasajeros, 2010",
+    "col": "P74_V_02",
+    "desc_col": "Número de vehículos autorizados / Personas Jurídicas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "VFI_P75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2010",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informa",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2010",
+    "col": "P75",
+    "desc_col": "La municipalidad registró vehículos menores",
+    "values": "1: Registró; 0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_E_01",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2010",
+    "col": "P75_E_01",
+    "desc_col": "Número de empresas / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_E_02",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2010",
+    "col": "P75_E_02",
+    "desc_col": "Número de empresas / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_V_01",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2010",
+    "col": "P75_V_01",
+    "desc_col": "Numero de vehículos / Vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C066",
+    "n_q": "P75_V_02",
+    "desc_q": "Vehículos menores autorizados por la municipalidad, 2010",
+    "col": "P75_V_02",
+    "desc_col": "Número de vehículos / Vehículos no motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "VFI_P76",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2010",
+    "col": "VFI_P76",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_N",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2010",
+    "col": "P76_N",
+    "desc_col": "Número de Programas o Proyectos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_01",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2010",
+    "col": "P76_01",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Nombre del programa / proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_02",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2010",
+    "col": "P76_02",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Costo del programa / proyecto (nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_03",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2010",
+    "col": "P76_03",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C067",
+    "n_q": "P76_04",
+    "desc_q": "Programas y proyectos ejecutados y concluidos por la municipalidad a través de convenios con otras entidades, 2010",
+    "col": "P76_04",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Tiempo de duración (en meses)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "VFI_P77",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2011",
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_N",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2011",
+    "col": "P77_N",
+    "desc_col": "Número de obras de inversión aprobadas por el presupuesto participativo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_01",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2011",
+    "col": "P77_01",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto participativo / Nombre de la obra",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_02",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2011",
+    "col": "P77_02",
+    "desc_col": "Sector Económico",
+    "values": "1: Educación; 2: Salud; 3: Turismo; 4: Transportes y comunicaciones; 5: Electricidad, agua y alcantarillado; 6: Otras obras",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C068",
+    "n_q": "P77_03",
+    "desc_q": "Obras de inversión aprobadas por el presupuesto participativo que debe ejecutar la municipalidad en el 2011",
+    "col": "P77_03",
+    "desc_col": "Obras de inversión aprobadas por el presupuesto participativo / Sector Económico / Monto de inversión previsto (Nuevos soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "VFI_P78",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2011",
+    "col": "VFI_P78",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2011",
+    "col": "P78",
+    "desc_col": "La municipalidad tiene Oficina de Programación de Inversiones (OPI)",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C069",
+    "n_q": "P78_01",
+    "desc_q": "Oficina de Programación de Inversiones (OPI) en la municipalidad, 2011",
+    "col": "P78_01",
+    "desc_col": "Razón por la que no dispone de OPI la Municipalidad",
+    "values": "1: No tiene personal especializado",
+    "value_pos": null
+  }
+]

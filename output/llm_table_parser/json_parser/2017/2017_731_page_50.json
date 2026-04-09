@@ -1,0 +1,158 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P107_6",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P107_7",
+    "desc_col": "Elemento contaminante / Deforestación",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P107_8",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P107_9",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P107_9_O",
+    "desc_col": "Elemento contaminante / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Municipalidad que tiene instrumentos de gestión ambiental, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "VFI_P108",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108",
+    "desc_col": "¿La municipalidad tiene instrumentos de gestión ambiental?",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_1",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental Local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_2",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_3",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción de Calidad del Aire",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_4",
+    "desc_col": "Instrumentos de gestión ambiental / Zonificación Ecológica Económica",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_5",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_6",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_7",
+    "desc_col": "Instrumentos de gestión ambiental / Sistema Local de Gestión Ambiental",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P100_8",
+    "desc_col": "Instrumentos de gestión ambiental / Evaluaciones Ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_9",
+    "desc_col": "Instrumentos de gestión ambiental / Fiscalizaciones Ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C104",
+    "n_q": "108",
+    "desc_q": "Municipalidad que tiene instrumentos de gestión ambiental, 2017",
+    "col": "P108_10",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Ecoeficiencia Institucional",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2022",
+    "col": "VFI_P61",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2022",
+    "col": "P61",
+    "desc_col": "¿La Municipalidad ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490?",
+    "values": "1: Sí; 2: No implementó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2022",
+    "col": "P61_1",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Número de locales en funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "61",
+    "desc_q": "Municipalidad que ha implementado el Centro Integral de Atención al Adulto Mayor (CIAM), según la ley N° 30490, al 31 de diciembre 2022",
+    "col": "P61_2",
+    "desc_col": "Centro Integral de Atención al Adulto Mayor (CIAM) / Total de beneficiarios registrados en todos los locales al 31 de diciembre de 2022",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "62",
+    "desc_q": "Municipalidad que ha implementado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de diciembre 2022",
+    "col": "VFI_P62",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "62",
+    "desc_q": "Municipalidad que ha implementado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de diciembre 2022",
+    "col": "P62",
+    "desc_col": "¿La Municipalidad ha implementado la Oficina Municipal de Atención a las Personas con Discapacidad (OMAPED)?",
+    "values": "1: Sí; 2: No implementó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "62",
+    "desc_q": "Municipalidad que ha implementado la Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED), al 31 de diciembre 2022",
+    "col": "P62_1",
+    "desc_col": "Oficina Municipal de Atención a la Persona con Discapacidad (OMAPED) / Total de beneficiarios al 31 de diciembre de 2022",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "63",
+    "desc_q": "Municipalidad que cuenta con voluntarios para el desarrollo de servicios sociales, 2023",
+    "col": "VFI_P63",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "63",
+    "desc_q": "Municipalidad que cuenta con voluntarios para el desarrollo de servicios sociales, 2023",
+    "col": "P63",
+    "desc_col": "¿La Municipalidad cuenta con Voluntarios para el desarrollo de Servicios Sociales?",
+    "values": "1: Sí; 2: No cuenta",
+    "value_pos": 1
+  },
+  {
+    "h2": "DEFENSORÍA MUNICIPAL DEL NIÑO Y EL ADOLESCENTE (DEMUNA)"
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "VFI_P64",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64",
+    "desc_col": "¿La municipalidad brindó el servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA)?",
+    "values": "1: Sí; 2: No brindó el servicio",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_1",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_1_1",
+    "desc_col": "Número de casos atendidos / Alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_2",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Tenencia de hijas o hijos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_2_1",
+    "desc_col": "Número de casos atendidos / Tenencia de hijas o hijos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_3",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Régimen de visitas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_3_1",
+    "desc_col": "Número de casos atendidos / Régimen de visitas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_4",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Normas de comportamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_4_1",
+    "desc_col": "Número de casos atendidos / Normas de comportamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_5",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Reconocimiento voluntario de la filiación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_5_1",
+    "desc_col": "Número de casos atendidos / Reconocimiento voluntario de la filiación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_6",
+    "desc_col": "¿La Defensoría Municipal atendió casos de: Violencia hacia niñas, niños y adolescentes en el hogar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "n_q": "64",
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal de la Niña, Niño y Adolescente (DEMUNA) y casos atendidos, 2022",
+    "col": "P64_6_1",
+    "desc_col": "Número de casos atendidos / Violencia hacia niñas, niños y adolescentes en el hogar",
+    "values": "",
+    "value_pos": null
+  }
+]

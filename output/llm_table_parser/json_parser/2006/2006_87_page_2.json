@@ -1,0 +1,341 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V3",
+    "desc_col": "Requerimientos de asistencia técnica / Catastro urbano y rural",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V4",
+    "desc_col": "Requerimientos de asistencia técnica / Planificación del desarrollo local",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V5",
+    "desc_col": "Requerimientos de asistencia técnica / Contabilidad financiera",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V6",
+    "desc_col": "Requerimientos de asistencia técnica / Formulación y ejecución de proyectos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V7",
+    "desc_col": "Requerimientos de asistencia técnica / Desarrollo local y descentralizado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V8",
+    "desc_col": "Requerimientos de asistencia técnica / Defensa civil",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V9",
+    "desc_col": "Requerimientos de asistencia técnica / Estadística",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V10",
+    "desc_col": "Requerimientos de asistencia técnica / Informática",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V11",
+    "desc_col": "Requerimientos de asistencia técnica / Turismo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V12",
+    "desc_col": "Requerimientos de asistencia técnica / Gestión externa del Estado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V13",
+    "desc_col": "Requerimientos de asistencia técnica / Biblioteca",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "V14",
+    "desc_col": "Requerimientos de asistencia técnica / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "23"
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V1",
+    "desc_col": "La municipalidad requiere capacitación",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V2",
+    "desc_col": "Requerimientos de capacitación / Administración, contabilidad y finazas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V3",
+    "desc_col": "Requerimientos de capacitación / Política y gestión municipal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V4",
+    "desc_col": "Requerimientos de capacitación / Legislación municipal",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V5",
+    "desc_col": "Requerimientos de capacitación / Registro civil",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V6",
+    "desc_col": "Requerimientos de capacitación / Plan estratégico y planificación operativa",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V7",
+    "desc_col": "Requerimientos de capacitación / Gestión ambiental",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V8",
+    "desc_col": "Requerimientos de capacitación / Defensa civil",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V9",
+    "desc_col": "Requerimientos de capacitación / Estadística e indicadores municipales",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V10",
+    "desc_col": "Requerimientos de capacitación / Gestión externa del Estado",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V11",
+    "desc_col": "Requerimientos de capacitación / Informática",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V12",
+    "desc_col": "Requerimientos de capacitación / Organización y gestión de bibliotecas",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V13",
+    "desc_col": "Requerimientos de capacitación / Turismo",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V14",
+    "desc_col": "Requerimientos de capacitación / Derechos y desarrollo humano",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V15",
+    "desc_col": "Requerimientos de capacitación / Formulación y ejecución de proyectos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0015",
+    "n_q": null,
+    "desc_q": "Capacitación que requiere la municipalidad",
+    "col": "V16",
+    "desc_col": "Requerimientos de capacitación / Otro",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "h2": "24"
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V1",
+    "desc_col": "La municipalidad otorgó licencias de apertura de establecimientos",
+    "values": "1: Si;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V2",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Hoteles, hostales y otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V3",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Restaurantes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V4",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Agencias de viaje",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V5",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Mensajerías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V6",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Courier",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V7",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Limpieza",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V8",
+    "desc_col": "Número de licencias de apertura de establecimientos / SERVICIOS / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0016",
+    "n_q": null,
+    "desc_q": "Licencias de apertura de establecimientos otorgadas por la municipalidad, en el 2005",
+    "col": "V9",
+    "desc_col": "Número de licencias de apertura de establecimientos / ARTESANIA Y MANUFACTURA / Artesanías",
+    "values": "",
+    "value_pos": null
+  }
+]

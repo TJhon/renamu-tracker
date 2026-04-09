@@ -1,0 +1,281 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81_14",
+    "desc_col": "Número de establecimientos / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P81_O",
+    "desc_col": "Número de establecimientos / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "VFI_P82",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82",
+    "desc_col": "La municipalidad realizó acciones para incentivar el turismo",
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_01",
+    "desc_col": "Acciones para incentivar el turismo / Promoción y publicidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_02",
+    "desc_col": "Acciones para incentivar el turismo / Dispone de una oficina de turismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_03",
+    "desc_col": "Acciones para incentivar el turismo / Instalación de áreas de información turística",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_04",
+    "desc_col": "Acciones para incentivar el turismo / Mejoramiento de la infraestructura de acceso",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_05",
+    "desc_col": "Acciones para incentivar el turismo / Construcción de nuevos atractivos turísticos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_06",
+    "desc_col": "Acciones para incentivar el turismo / Coordinación con la entidad competente para el mantenimiento de los atractivos turísticos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_07",
+    "desc_col": "Acciones para incentivar el turismo / Ordenanzas a favor del desarrollo turístico",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_08",
+    "desc_col": "Acciones para incentivar el turismo / Realización de eventos y/o ferias turísticas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_09",
+    "desc_col": "Acciones para incentivar el turismo / Capacitación a promotores de turismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_10",
+    "desc_col": "Acciones para incentivar el turismo / Programas de conciencia turística a la población",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_11",
+    "desc_col": "Acciones para incentivar el turismo / Creación de Club de turismo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_12",
+    "desc_col": "Acciones para incentivar el turismo / Convenios institucionales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_13",
+    "desc_col": "Acciones para incentivar el turismo / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C073",
+    "n_q": "82",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar el turismo en el distrito, en el 2007",
+    "col": "P82_O",
+    "desc_col": "Acciones para incentivar el turismo / Otro/ Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "83",
+    "desc_q": "Oficina o unidad ambiental en la municipalidad, 2008",
+    "col": "VFI_P83",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C074",
+    "n_q": "83",
+    "desc_q": "Oficina o unidad ambiental en la municipalidad, 2008",
+    "col": "P83",
+    "desc_col": "La municipalidad tiene Oficina o Unidad Ambiental",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "VFI_P84",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84",
+    "desc_col": "La municipalidad cuenta con registro ó denuncias ambientales",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_A_01",
+    "desc_col": "Número de denuncias atendidas / Contaminación del agua",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_A_02",
+    "desc_col": "Número de denuncias atendidas / Contaminación del suelo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_A_03",
+    "desc_col": "Número de denuncias atendidas / Contaminación del aire",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_A_04",
+    "desc_col": "Número de denuncias atendidas / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_R_01",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del agua",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_R_02",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del suelo",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_R_03",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del aire",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_R_04",
+    "desc_col": "Número de denuncias recepcionadas / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C075",
+    "n_q": "84",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, en el 2007",
+    "col": "P84_N",
+    "desc_col": "No se registraron denuncias",
+    "values": null,
+    "value_pos": null
+  }
+]

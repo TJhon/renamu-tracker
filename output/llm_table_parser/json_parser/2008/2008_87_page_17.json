@@ -1,0 +1,217 @@
+[
+  {
+    "col": "P72_M_02",
+    "desc_col": "Número de Microempresas / Producen / Cueros y calzados"
+  },
+  {
+    "col": "P72_M_03",
+    "desc_col": "Número de Microempresas / Producen / Artesanía"
+  },
+  {
+    "col": "P72_M_04",
+    "desc_col": "Número de Microempresas / Producen / Textiles"
+  },
+  {
+    "col": "P72_M_05",
+    "desc_col": "Número de Microempresas / Producen / Muebles y accesorios"
+  },
+  {
+    "col": "P72_M_06",
+    "desc_col": "Número de Microempresas / Producen / Metalurgia"
+  },
+  {
+    "col": "P72_M_07",
+    "desc_col": "Número de Microempresas / Producen / Maquinaria y equipo"
+  },
+  {
+    "col": "P72_M_08",
+    "desc_col": "Número de Microempresas / Producen / Agropecuario"
+  },
+  {
+    "col": "P72_M_09",
+    "desc_col": "Número de Microempresas / Producen / Industria"
+  },
+  {
+    "col": "P72_M_10",
+    "desc_col": "Número de Microempresas / Producen / Servicios"
+  },
+  {
+    "col": "P72_M_11",
+    "desc_col": "Número de Microempresas / Producen / Otro"
+  },
+  {
+    "col": "P72_P_01",
+    "desc_col": "Número de Pequeñas empresas / Producen / Alimentos y bebidas"
+  },
+  {
+    "col": "P72_P_02",
+    "desc_col": "Número de Pequeñas empresas / Producen / Cueros y calzados"
+  },
+  {
+    "col": "P72_P_03",
+    "desc_col": "Número de Pequeñas empresas / Producen / Artesanía"
+  },
+  {
+    "col": "P72_P_04",
+    "desc_col": "Número de Pequeñas empresas / Producen / Textiles"
+  },
+  {
+    "col": "P72_P_05",
+    "desc_col": "Número de Pequeñas empresas / Producen / Muebles y accesorios"
+  },
+  {
+    "col": "P72_P_06",
+    "desc_col": "Número de Pequeñas empresas / Producen / Metalurgia"
+  },
+  {
+    "col": "P72_P_07",
+    "desc_col": "Número de Pequeñas empresas / Producen / Maquinaria y equipo"
+  },
+  {
+    "col": "P72_P_08",
+    "desc_col": "Número de Pequeñas empresas / Producen / Agropecuario"
+  },
+  {
+    "col": "P72_P_09",
+    "desc_col": "Número de Pequeñas empresas / Producen / Industria"
+  },
+  {
+    "col": "P72_P_10",
+    "desc_col": "Número de Pequeñas empresas / Producen / Servicios"
+  },
+  {
+    "col": "P72_P_11",
+    "desc_col": "Número de Pequeñas empresas / Producen / Otro"
+  },
+  {
+    "col": "P72_O",
+    "desc_col": "Otros tipos de MYPES / Descripción"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "VFI_P73",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73",
+    "desc_col": "La municipalidad realizó acciones para incentivar a las MYPES",
+    "values": "1: Si realizó; 0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73_01",
+    "desc_col": "Acciones realizadas / Promoción y publicidad"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73_02",
+    "desc_col": "Acciones realizadas / Realización de ferias y concursos"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73_03",
+    "desc_col": "Acciones realizadas / Convenios con ONG, empresas privadas"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73_04",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73_05",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73_06",
+    "desc_col": "Acciones realizadas / Otra acción"
+  },
+  {
+    "cuadro": "CUADRO_C064",
+    "n_q": "73",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las MYPES, en el 2007",
+    "col": "P73_O",
+    "desc_col": "Acciones realizadas / Otra acción/ Descripción"
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "VFI_P74",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "P74",
+    "desc_col": "La municipalidad otorgó concesiones y autorizaciones para el servicio de transporte público urbano",
+    "values": "1: Si otorgó; 0: No otorgó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "P74_N_01",
+    "desc_col": "Número de concesiones / Personas Naturales"
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "P74_N_02",
+    "desc_col": "Número de concesiones / Personas Jurídicas"
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "P74_E_01",
+    "desc_col": "Número de empresas registradas / Personas Naturales"
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "P74_E_02",
+    "desc_col": "Número de empresas registradas / Personas Jurídicas"
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "P74_V_01",
+    "desc_col": "Número de vehículos autorizados / Personas Naturales"
+  },
+  {
+    "cuadro": "CUADRO_C065",
+    "n_q": "74",
+    "desc_q": "Otorgamiento de concesiones y autorizaciones para prestar servicio de transporte público urbano de pasajeros, en el 2007",
+    "col": "P74_V_02",
+    "desc_col": "Número de vehículos autorizados / Personas Jurídicas"
+  }
+]

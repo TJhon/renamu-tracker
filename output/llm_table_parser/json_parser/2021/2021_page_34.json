@@ -1,0 +1,218 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "57",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2021",
+    "col": "P66_9",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la Municipalidad: Botica?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "57",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2021",
+    "col": "P66_9_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botica / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "57",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2021",
+    "col": "P66_10",
+    "desc_col": "¿En el Distrito funcionan establecimientos de salud administrados por la Municipalidad: Botiquín comunal (Local)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "57",
+    "desc_q": "Municipalidad que administra establecimientos de salud que funcionan en el distrito, 2021",
+    "col": "P66_10_1",
+    "desc_col": "Establecimientos administrados por la Municipalidad / Botiquín comunal (Local) / Número de establecimientos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "VFI_P67",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_1",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de salud preventiva",
+    "values": "0: Pase; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_2",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de vacunación",
+    "values": "0: Pase; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_3",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de educación sanitaria",
+    "values": "0: Pase; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_4",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de primeros auxilios",
+    "values": "0: Pase; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_5",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de control de epidemias",
+    "values": "0: Pase; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_6",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de profilaxis local",
+    "values": "0: Pase; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_7",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de fumigación",
+    "values": "0: Pase; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_8",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de salud mental",
+    "values": "0: Pase; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_9",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de registro y certificación de canes",
+    "values": "0: Pase; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_10",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Campañas de esterilización de perros y gatos",
+    "values": "0: Pase; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_11",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Otro",
+    "values": "0: Pase; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_11_O",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: Otro / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "58",
+    "desc_q": "Municipalidad realizó campañas en coordinación con el Ministerio de Salud (MINSA), 2020",
+    "col": "P67_12",
+    "desc_col": "En el año 2020, ¿La municipalidad realizó en coordinación con el MINSA: No realizó campañas de salud",
+    "values": "0: No; 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_1",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Vacunación",
+    "values": "0: Pase; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_2",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Control del crecimiento y desarrollo del niño",
+    "values": "0: Pase; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_3",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Control de infecciones respiratorias agudas",
+    "values": "0: Pase; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_4",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en: Control de enfermedades diarreicas agudas",
+    "values": "0: Pase; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "59",
+    "desc_q": "Municipalidad que ha implementado programas de control y prevención de la Salud, 2020",
+    "col": "P68_5",
+    "desc_col": "En el año 2020, ¿La municipalidad implementó programas de control y prevención de la salud en coordinación con el MINSA en:Control de tuberculosis",
+    "values": "0: Pase; 5: Sí",
+    "value_pos": 5
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "h2": "ALUMBRADO PÚBLICO, AGUA POTABLE Y ALCANTARILLADO"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P112A_6",
+    "desc_col": "Número de instalaciones de servicios de comunicación / Antenas parabólicas con servicios de voz (telefonía y radio)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P112_7",
+    "desc_col": "¿En el distrito existen otros servicios de comunicación?",
+    "values": "1: Sí;0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P112A_7",
+    "desc_col": "Número de instalaciones de servicio de comunicación / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P112A_7_O",
+    "desc_col": "Número de instalaciones de servicio de comunicación / Otros / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "113",
+    "desc_q": "Cobertura de alumbrado público en el distrito, 2017",
+    "col": "VFI_P113",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "113",
+    "desc_q": "Cobertura de alumbrado público en el distrito, 2017",
+    "col": "P113",
+    "desc_col": "¿La municipalidad informó que existe cobertura de alumbrado público en el distrito?",
+    "values": "1: Existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "113",
+    "desc_q": "Cobertura de alumbrado público en el distrito, 2017",
+    "col": "P113A_1",
+    "desc_col": "Cobertura del servicio de alumbrado público / Capital del distrito",
+    "values": "1: Menos del 25%;2: De 25% a 49%;3: De 50% a 74%;4: De 75% a 100%",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C110",
+    "n_q": "113",
+    "desc_q": "Cobertura de alumbrado público en el distrito, 2017",
+    "col": "P113A_2",
+    "desc_col": "Cobertura del servicio de alumbrado público / Fuera de la capital distrital",
+    "values": "1: Menos del 25%;2: De 25% a 49%;3: De 50% a 74%;4: De 75% a 100%",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2017",
+    "col": "VFI_P114",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2017",
+    "col": "P114",
+    "desc_col": "¿La municipalidad informó que existe cobertura de la red de agua potable en el distrito?",
+    "values": "1: Existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2017",
+    "col": "P114A_1",
+    "desc_col": "Cobertura de red de agua potable en el distrito / Capital del distrito",
+    "values": "1: Menos del 25%;2: De 25% a 49%;3: De 50% a 74%;4: De 75% a 100%",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C111",
+    "n_q": "114",
+    "desc_q": "Cobertura de red de agua potable en el distrito, 2017",
+    "col": "P114A_2",
+    "desc_col": "Cobertura de red de agua potable en el distrito / Fuera de la capital distrital",
+    "values": "1: Menos del 25%;2: De 25% a 49%;3: De 50% a 74%;4: De 75% a 100%",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P115",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  }
+]

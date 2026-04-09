@@ -1,0 +1,173 @@
+[
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_S_12",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / La iglesia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_S_13",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Organismo internacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_S_14",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Privado / Otro Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I",
+    "desc_col": "La municipalidad tiene apoyo en obras de infraestructura",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_01",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / FONCODES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_02",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Educación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_03",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Salud",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_04",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Vivienda (Agua para todos)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_05",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Ministerio de Transportes y Comunicaciones (Provías Nacional)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_06",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Gobierno Regional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_07",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Municipio / Gobierno Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_08",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Público / Otro Público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_09",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / ONG",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_10",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Empresa privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_11",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / La comunidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_12",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / La iglesia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_13",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Organismo internacional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_I_14",
+    "desc_col": "Organismos o instituciones / Obras de infraestructura / Privado / Otro Privado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C056",
+    "n_q": "53",
+    "desc_q": "Organismos o instituciones que financiaron programas sociales y obras de infraestructura en el distrito, 2013",
+    "col": "P53_08_S",
+    "desc_col": "Organismos o instituciones / Programas Sociales / Público / Otro Público / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P29_02",
+    "desc_q": "Lugar de publicación/ Diario Oficial “El Peruano”",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P29_03",
+    "desc_q": "Lugar de publicación/ Diario Local",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P29_04",
+    "desc_q": "Lugar de publicación/ Pizarra, vitrina de la municipalidad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P29_05",
+    "desc_q": "Lugar de publicación/ Pagina Web de la municipalidad",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P29_06",
+    "desc_q": "Lugar de publicación/ Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "30 CUADRO_C021 Personal y Medios de Comunicación que dispone La Municipalidad Para atender consultas , reclamos y sugerencias del ciudadano en el 2013"
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "VFI_P30",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "P30",
+    "desc_q": "Municipalidades que disponen de personal y medios de comunicación para atender consultas, reclamos y sugerencias del ciudadano",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Dispone;0: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "P30_01",
+    "desc_q": "Personal y Medios de Comunicación / Personal con dedicación exclusiva para atención al ciudadano",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "P30_02",
+    "desc_q": "Personal y Medios de Comunicación / Buzón de Sugerencias",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "P30_03",
+    "desc_q": "Personal y Medios de Comunicación / Correo electrónico para consultas , reclamos y sugerencias",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "P30_04",
+    "desc_q": "Personal y Medios de Comunicación / Línea de telefonía fija y/o móvil de atención al ciudadano",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "P30_05",
+    "desc_q": "Personal y Medios de Comunicación / Otro",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C021",
+    "n_q": "P30_06",
+    "desc_q": "Personal y Medios de Comunicación / Otro/ Descripción",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "h2": "31 CUADRO_C022 Procedimientos Administrativos realizados en la Municipalidad en el 2012"
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "VFI_P31",
+    "desc_q": "Municipalidad informante",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "P31",
+    "desc_q": "Municipalidades que registraron solicitudes de procedimientos administrativos",
+    "col": null,
+    "desc_col": null,
+    "values": "1: Registro;0: No Registro",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "P31_R_01",
+    "desc_q": "Procedimiento administrativo/ Licencia de funcionamiento con ITSDC básica Ex Post (establecimientos con área de hasta 100 m²)/ Recepcionado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "P31_R_02",
+    "desc_q": "Procedimiento administrativo/ Licencia de edificación (Modalidad B)/ Recepcionado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "P31_R_03",
+    "desc_q": "Procedimiento administrativo/ Carné de sanidad para venta de alimentos/ Recepcionado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C022",
+    "n_q": "P31_R_04",
+    "desc_q": "Procedimiento administrativo/ Autorización para interferir temporalmente el tránsito en la vía pública/ Recepcionado",
+    "col": null,
+    "desc_col": null,
+    "values": null,
+    "value_pos": null
+  }
+]

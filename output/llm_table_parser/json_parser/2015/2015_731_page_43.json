@@ -1,0 +1,248 @@
+[
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "VFI_P107",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107",
+    "desc_col": "¿Las municipalidades que informaron que existen elementos contaminantes en el distrito?",
+    "values": "1: Existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_1",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_2",
+    "desc_col": "Elemento contaminante / Gases de vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_3",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_4",
+    "desc_col": "Elemento contaminante / Ruidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_5",
+    "desc_col": "Elemento contaminante / Aguas residuales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_6",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_7",
+    "desc_col": "Elemento contaminante / Deforestación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_8",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_9",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "107",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2015",
+    "col": "P107_9_O",
+    "desc_col": "Elemento contaminante / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Instrumentos de gestión ambiental"
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "VFI_P108",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108",
+    "desc_col": "¿La municipalidad tiene instrumentos de gestión ambiental?",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_1",
+    "desc_col": "Instrumentos de gestión ambiental / Diagnóstico Ambiental Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_2",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción Ambiental Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_3",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Acción de Calidad del Aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_4",
+    "desc_col": "Instrumentos de gestión ambiental / Zonificación Ecológica Económica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_5",
+    "desc_col": "Instrumentos de gestión ambiental / Agenda Ambiental Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_6",
+    "desc_col": "Instrumentos de gestión ambiental / Política Ambiental Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_7",
+    "desc_col": "Instrumentos de gestión ambiental /Sistema Local de Gestión Ambiental",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P100_8",
+    "desc_col": "Instrumentos de gestión ambiental / Evaluaciones Ambientales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_9",
+    "desc_col": "Instrumentos de gestión ambiental / Fiscalizaciones Ambientales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_10",
+    "desc_col": "Instrumentos de gestión ambiental / Plan de Ecoeficiencia Institucional",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_11",
+    "desc_col": "Instrumentos de gestión ambiental / Normativa de Control Acústica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_12",
+    "desc_col": "Instrumentos de gestión ambiental / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "108",
+    "desc_q": "Instrumentos de gestión ambiental que dispone la municipalidad, 2015",
+    "col": "P108_12_O",
+    "desc_col": "Instrumentos de gestión ambiental / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CH_1",
+    "desc_col": "Contratado permanente / Funcionarios y/o Directivos / Hombre",
+    "values": "1/;2/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CH_2",
+    "desc_col": "Contratado permanente / Empleados / Profesionales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CH_3",
+    "desc_col": "Contratado permanente / Empleados / Técnicos / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CH_4",
+    "desc_col": "Contratado permanente / Empleados / Auxiliares / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CH_5",
+    "desc_col": "Contratado permanente / Obreros / Limpieza / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CH_6",
+    "desc_col": "Contratado permanente / Obreros / Otros / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CH_7",
+    "desc_col": "Contratado permanente / Personal de Vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CM_1",
+    "desc_col": "Contratado permanente / Funcionarios y/o Directivos / Mujer",
+    "values": "1/;2/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CM_2",
+    "desc_col": "Contratado permanente / Empleados / Profesionales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CM_3",
+    "desc_col": "Contratado permanente / Empleados / Técnicos / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CM_4",
+    "desc_col": "Contratado permanente / Empleados / Auxiliares / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CM_5",
+    "desc_col": "Contratado permanente / Obreros / Limpieza / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CM_6",
+    "desc_col": "Contratado permanente / Obreros / Otros / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_CM_7",
+    "desc_col": "Contratado permanente / Personal de Vigilancia / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SH_1",
+    "desc_col": "Contratado por servicios no personales / Funcionarios y/o Directivos / Hombre",
+    "values": "1/;2/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SH_2",
+    "desc_col": "Contratado por servicios no personales / Empleados / Profesionales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SH_3",
+    "desc_col": "Contratado por servicios no personales / Empleados / Técnicos / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SH_4",
+    "desc_col": "Contratado por servicios no personales / Empleados / Auxiliares / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SH_5",
+    "desc_col": "Contratado por servicios no personales / Obreros / Limpieza / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SH_6",
+    "desc_col": "Contratado por servicios no personales / Obreros / Otros / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SH_7",
+    "desc_col": "Contratado por servicios no personales / Personal de Vigilancia / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SM_1",
+    "desc_col": "Contratado por servicios no personales / Funcionarios y/o Directivos / Mujer",
+    "values": "1/;2/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SM_2",
+    "desc_col": "Contratado por servicios no personales / Empleados / Profesionales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SM_3",
+    "desc_col": "Contratado por servicios no personales / Empleados / Técnicos / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SM_4",
+    "desc_col": "Contratado por servicios no personales / Empleados / Auxiliares / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SM_5",
+    "desc_col": "Contratado por servicios no personales / Obreros / Limpieza / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SM_6",
+    "desc_col": "Contratado por servicios no personales / Obreros / Otros / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_SM_7",
+    "desc_col": "Contratado por servicios no personales / Personal de Vigilancia / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VH_1",
+    "desc_col": "Contratado por service / Funcionarios y/o Directivos / Hombre",
+    "values": "1/;2/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VH_2",
+    "desc_col": "Contratado por service / Empleados / Profesionales / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VH_3",
+    "desc_col": "Contratado por service / Empleados / Técnicos / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VH_4",
+    "desc_col": "Contratado por service / Empleados / Auxiliares / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VH_5",
+    "desc_col": "Contratado por service / Obreros / Limpieza / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VH_6",
+    "desc_col": "Contratado por service / Obreros / Otros / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VH_7",
+    "desc_col": "Contratado por service / Personal de Vigilancia / Hombre",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VM_1",
+    "desc_col": "Contratado por service / Funcionarios y/o Directivos / Mujer",
+    "values": "1/;2/",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VM_2",
+    "desc_col": "Contratado por service / Empleados / Profesionales / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VM_3",
+    "desc_col": "Contratado por service / Empleados / Técnicos / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VM_4",
+    "desc_col": "Contratado por service / Empleados / Auxiliares / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VM_5",
+    "desc_col": "Contratado por service / Obreros / Limpieza / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VM_6",
+    "desc_col": "Contratado por service / Obreros / Otros / Mujer",
+    "values": "2/",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P16_VM_7",
+    "desc_col": "Contratado por service / Personal de Vigilancia / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

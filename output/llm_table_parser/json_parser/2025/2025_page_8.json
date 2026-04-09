@@ -1,0 +1,308 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_T",
+    "desc_col": "Total personal / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_NM",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Nombrado / Mujer / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_NH",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Nombrado / Hombre / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_CM",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Contratado / Mujer / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_CH",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Contratado / Hombre / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_LM",
+    "desc_col": "Total de personal / Decreto Legislativo N° 728 / Mujer / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_LH",
+    "desc_col": "Total de personal / Decreto Legislativo N° 728 / Hombre / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_VM",
+    "desc_col": "Total de personal / Contrato Administrativo de Servicios (CAS) / Mujer / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2024",
+    "col": "P19D_VH",
+    "desc_col": "Total de personal / Contrato Administrativo de Servicios (CAS) / Hombre / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_T",
+    "desc_col": "Total personal / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_NM",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Nombrado / Mujer / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_NH",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Nombrado / Hombre / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_CM",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Contratado / Mujer / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_CH",
+    "desc_col": "Total de personal / Decreto Legislativo N° 276 / Contratado / Hombre / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_LM",
+    "desc_col": "Total de personal / Decreto Legislativo N° 728 / Mujer / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_LH",
+    "desc_col": "Total de personal / Decreto Legislativo N° 728 / Hombre / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_VM",
+    "desc_col": "Total de personal / Contrato Administrativo de Servicios (CAS) / Mujer / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de marzo 2025",
+    "col": "P19M_VH",
+    "desc_col": "Total de personal / Contrato Administrativo de Servicios (CAS) / Hombre / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "VFI_P19A",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P19A",
+    "desc_col": "¿La Municipalidad tiene personal de Locación / Orden de Servicios?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P19A_1_T",
+    "desc_col": "Personal de Locación / Orden de Servicios / Total / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P19A_1_M",
+    "desc_col": "Personal de Locación / Orden de Servicios / Mujer / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P19A_1_H",
+    "desc_col": "Personal de Locación / Orden de Servicios / Hombre / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P19A_2_T",
+    "desc_col": "Personal de Locación / Orden de Servicios / Total / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P19A_2_M",
+    "desc_col": "Personal de Locación / Orden de Servicios / Mujer / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "19A",
+    "desc_q": "Personal de la municipalidad bajo la modalidad de contratación de Locación / Orden de Servicios, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P19A_2_H",
+    "desc_col": "Personal de Locación / Orden de Servicios / Hombre / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "VFI_P20",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P20",
+    "desc_col": "¿La Municipalidad tiene personal con discapacidad?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P20_1_T",
+    "desc_col": "Personal con discapacidad / Total / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P20_1_M",
+    "desc_col": "Personal con discapacidad / Mujer / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P20_1_H",
+    "desc_col": "Personal con discapacidad / Hombre / Al 31 de diciembre de 2024",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P20_2_T",
+    "desc_col": "Personal con discapacidad / Total / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P20_2_M",
+    "desc_col": "Personal con discapacidad / Mujer / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "20",
+    "desc_q": "Personal con alguna discapacidad en la municipalidad, al 31 de diciembre 2024 y al 31 de marzo 2025",
+    "col": "P20_2_H",
+    "desc_col": "Personal con discapacidad / Hombre / Al 31 de marzo de 2025",
+    "values": null,
+    "value_pos": null
+  }
+]

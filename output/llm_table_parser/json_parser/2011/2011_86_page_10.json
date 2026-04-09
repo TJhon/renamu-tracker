@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_35",
+    "desc_q": "Venta de otros ingresos de capital",
+    "col": "P105_35",
+    "desc_col": "Venta de otros ingresos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_36",
+    "desc_q": "III. TRANSFERENCIAS",
+    "col": "P105_36",
+    "desc_col": "III. TRANSFERENCIAS",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_37",
+    "desc_q": "Canon",
+    "col": "P105_37",
+    "desc_col": "Canon",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_38",
+    "desc_q": "Sobrecanon",
+    "col": "P105_38",
+    "desc_col": "Sobrecanon",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_39",
+    "desc_q": "Regalías mineras",
+    "col": "P105_39",
+    "desc_col": "Regalías mineras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_40",
+    "desc_q": "Regalías FOCAM",
+    "col": "P105_40",
+    "desc_col": "Regalías FOCAM",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_41",
+    "desc_q": "Fondo de Compensación Municipal",
+    "col": "P105_41",
+    "desc_col": "Fondo de Compensación Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_42",
+    "desc_q": "Otros ingresos por transferencias",
+    "col": "P105_42",
+    "desc_col": "Otros ingresos por transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_43",
+    "desc_q": "IV. FINANCIAMIENTO",
+    "col": "P105_43",
+    "desc_col": "IV. FINANCIAMIENTO",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_44",
+    "desc_q": "Endeudamiento",
+    "col": "P105_44",
+    "desc_col": "Endeudamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P105_45",
+    "desc_q": "Saldos de balance",
+    "col": "P105_45",
+    "desc_col": "Saldos de balance",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "VFI_P106",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P106",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_01",
+    "desc_q": "GASTO TOTAL (I + II + III)",
+    "col": "P106_01",
+    "desc_col": "GASTO TOTAL (I + II + III)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_02",
+    "desc_q": "I. GASTOS CORRIENTES",
+    "col": "P106_02",
+    "desc_col": "I. GASTOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_03",
+    "desc_q": "Personal y obligaciones sociales",
+    "col": "P106_03",
+    "desc_col": "Personal y obligaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_04",
+    "desc_q": "Pensiones y otras prestaciones sociales",
+    "col": "P106_04",
+    "desc_col": "Pensiones y otras prestaciones sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_05",
+    "desc_q": "Bienes y servicios",
+    "col": "P106_05",
+    "desc_col": "Bienes y servicios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_06",
+    "desc_q": "Donaciones y transferencias corrientes",
+    "col": "P106_06",
+    "desc_col": "Donaciones y transferencias corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_07",
+    "desc_q": "Otros gastos corrientes",
+    "col": "P106_07",
+    "desc_col": "Otros gastos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_08",
+    "desc_q": "II. GASTOS DE CAPITAL",
+    "col": "P106_08",
+    "desc_col": "II. GASTOS DE CAPITAL",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_09",
+    "desc_q": "Adquisición de activos no financieros",
+    "col": "P106_09",
+    "desc_col": "Adquisición de activos no financieros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_10",
+    "desc_q": "Adquisición de activos financieros",
+    "col": "P106_10",
+    "desc_col": "Adquisición de activos financieros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_11",
+    "desc_q": "Donaciones y transferencias de capital",
+    "col": "P106_11",
+    "desc_col": "Donaciones y transferencias de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_12",
+    "desc_q": "Otros gastos de capital",
+    "col": "P106_12",
+    "desc_col": "Otros gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_13",
+    "desc_q": "III. SERVICIO DE LA DEUDA",
+    "col": "P106_13",
+    "desc_col": "III. SERVICIO DE LA DEUDA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C097",
+    "n_q": "P106_14",
+    "desc_q": "Servicio de la deuda pública",
+    "col": "P106_14",
+    "desc_col": "Servicio de la deuda pública",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P22_2_M_17",
+    "desc_col": "Decreto Ley N°20530 / Mujer / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P22_2_H_17",
+    "desc_col": "Decreto Ley N°20530 / Hombre / marzo 2017",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P23",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_1",
+    "desc_col": "Asistencia técnica que requiere / Planificación Estratégica Institucional con Enfoque de Género",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_2",
+    "desc_col": "Asistencia técnica que requiere / Presupuesto con Enfoque a Resultados y Enfoque de Género",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_3",
+    "desc_col": "Asistencia técnica que requiere / Formulación e Implementación de Estrategias para la Protección de Poblaciones Vulnerables",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_4",
+    "desc_col": "Asistencia técnica que requiere / Administración Tributaria Municipal",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_5",
+    "desc_col": "Asistencia técnica que requiere / Acondicionamiento Territorial y Desarrollo Urbano",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_6",
+    "desc_col": "Asistencia técnica que requiere / Licencias de Habilitación Urbana y Edificación",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_7",
+    "desc_col": "Asistencia técnica que requiere / Control Gubernamental (Atención de Auditorías, Control Interno)",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_8",
+    "desc_col": "Asistencia técnica que requiere / Estadística e Indicadores Municipales con Enfoque de Género",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_9",
+    "desc_col": "Asistencia técnica que requiere / Organización y Gestión de Bibliotecas",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_10",
+    "desc_col": "Asistencia técnica que requiere / Programa de Incentivos a la Mejora de la Gestión Municipal",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P23_11",
+    "desc_col": "Asistencia técnica que requiere / Gestión de Atención Primaria de Salud",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

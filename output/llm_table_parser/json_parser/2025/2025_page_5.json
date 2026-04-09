@@ -1,0 +1,245 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "VFL_P16",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_1",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Registro Unificado de Entidades del Estado Peruano (RUEEP)",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_2",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema Único de Trámites (SUT)",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_3",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema Integrado de Gestión Administrativa (SIGA)",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_4",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema Integrado de Administración Financiera (SIAF)",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_5",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema de Recaudación Tributaria Municipal (SRTM)",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_6",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Saldos de Fondos Públicos (SAFOP)",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_7",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Sistema de Saneamiento Contable (SISCO)",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_8",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Aplicativo informático para el Registro Centralizado de Planillas y de Datos de los Recursos Humanos del Sector Público (AIRHSP)",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_9",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Otro",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "cuadro": null,
+    "n_q": "16",
+    "desc_q": "Sistemas informáticos implementados por el Estado que utiliza la municipalidad, 2025",
+    "col": "P16_9_O",
+    "desc_col": "Sistema informático implementado por el Estado que utiliza la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "VFL_P17",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_1",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Trámite Documentario",
+    "values": "0: No; 1: Sí",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_2",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Presupuesto",
+    "values": "0: No; 2: Sí",
+    "value_pos": 2
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_3",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Abastecimiento",
+    "values": "0: No; 3: Sí",
+    "value_pos": 3
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_4",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Contabilidad",
+    "values": "0: No; 4: Sí",
+    "value_pos": 4
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_5",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Tesorería",
+    "values": "0: No; 5: Sí",
+    "value_pos": 5
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_6",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Personal",
+    "values": "0: No; 6: Sí",
+    "value_pos": 6
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_7",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Renta y Administración tributaria",
+    "values": "0: No; 7: Sí",
+    "value_pos": 7
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_8",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Catastro",
+    "values": "0: No; 8: Sí",
+    "value_pos": 8
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_9",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Licencia de Funcionamiento",
+    "values": "0: No; 9: Sí",
+    "value_pos": 9
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_10",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Licencia de Edificación y Habilitación Urbana",
+    "values": "0: No; 10: Sí",
+    "value_pos": 10
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_11",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Biblioteca",
+    "values": "0: No; 11: Sí",
+    "value_pos": 11
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_12",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Registro Civil",
+    "values": "0: No; 12: Sí",
+    "value_pos": 12
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_13",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Otro",
+    "values": "0: No; 13: Sí",
+    "value_pos": 13
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_13_O",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "17",
+    "desc_q": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión, 2025",
+    "col": "P17_14",
+    "desc_col": "Sistemas informáticos implementados en la municipalidad para apoyar la gestión / No tiene",
+    "values": "0: No; 14: Sí",
+    "value_pos": 14
+  }
+]

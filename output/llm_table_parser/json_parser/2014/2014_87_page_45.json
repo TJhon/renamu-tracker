@@ -1,0 +1,29 @@
+[
+  {
+    "cuadro": "CUADRO_C86",
+    "n_q": "85",
+    "desc_q": "transparencia estándar en la página web de la municipalidad, 2014",
+    "col": "P85_03",
+    "desc_col": "Responsable del Portal de Transparencia/ Correo electrónico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C86",
+    "n_q": "85",
+    "desc_q": "transparencia estándar en la página web de la municipalidad, 2014",
+    "col": "P85_04",
+    "desc_col": "Razón por que no tiene Portal de Transparencia",
+    "values": "1: Está en proceso de desarrollo;2: Está deshabilitado (No tiene acceso);3: Está desactualizado;4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C86",
+    "n_q": "85",
+    "desc_q": "transparencia estándar en la página web de la municipalidad, 2014",
+    "col": "P85_O",
+    "desc_col": "Razón por que no tiene Portal de Transparencia / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

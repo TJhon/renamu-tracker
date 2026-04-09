@@ -1,0 +1,281 @@
+[
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P23_M_04",
+    "desc_q": "Miembros del CCL/ Representante de la sociedad civil/ Mujer",
+    "col": "P23_M_04",
+    "desc_col": "Miembros del CCL/ Representante de la sociedad civil/ Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "VFI_P24",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24",
+    "desc_q": "La municipalidad ejecuto actividades del Consejo de Coordinación Local",
+    "col": "P24",
+    "desc_col": "La municipalidad ejecuto actividades del Consejo de Coordinación Local",
+    "values": "1: Ejecutó; 0: No ejecutó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Realizó sesiones de consejo",
+    "col": "P24_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Realizó sesiones de consejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_N_01",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Numero de reuniones",
+    "col": "P24_N_01",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Numero de reuniones",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_02",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los planes de desarrollo municipal",
+    "col": "P24_02",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los planes de desarrollo municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_03",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los presupuestos participativos",
+    "col": "P24_03",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Participa en los presupuestos participativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_04",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Informa de su gestión a la sociedad civil",
+    "col": "P24_04",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Informa de su gestión a la sociedad civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C015",
+    "n_q": "P24_05",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local/ Hace cumplir los acuerdos concertados",
+    "col": "P24_05",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local/ Hace cumplir los acuerdos concertados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "VFI_P25",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25",
+    "desc_q": "La municipalidad emitió normas",
+    "col": "P25",
+    "desc_col": "La municipalidad emitió normas",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_01",
+    "desc_q": "Normas emitidas/ Ordenanza Municipal",
+    "col": "P25_01",
+    "desc_col": "Normas emitidas/ Ordenanza Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_02",
+    "desc_q": "Normas emitidas/ Acuerdo de Concejo",
+    "col": "P25_02",
+    "desc_col": "Normas emitidas/ Acuerdo de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_03",
+    "desc_q": "Normas emitidas/ Decreto de Alcaldía",
+    "col": "P25_03",
+    "desc_col": "Normas emitidas/ Decreto de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_04",
+    "desc_q": "Normas emitidas/ Resolución de Concejo",
+    "col": "P25_04",
+    "desc_col": "Normas emitidas/ Resolución de Concejo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_05",
+    "desc_q": "Normas emitidas/ Resolución de Alcaldía",
+    "col": "P25_05",
+    "desc_col": "Normas emitidas/ Resolución de Alcaldía",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C016",
+    "n_q": "P25_06",
+    "desc_q": "Normas emitidas/ Otras",
+    "col": "P25_06",
+    "desc_col": "Normas emitidas/ Otras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "VFI_P26",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P26",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26",
+    "desc_q": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "col": "P26",
+    "desc_col": "La municipalidad tiene Texto Único de Procedimientos Administrativos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26_01",
+    "desc_q": "Fecha de publicación del TUPA",
+    "col": "P26_01",
+    "desc_col": "Fecha de publicación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26_02",
+    "desc_q": "Razón por la que no tiene TUPA",
+    "col": "P26_02",
+    "desc_col": "Razón por la que no tiene TUPA",
+    "values": "1: Está incompleto; 2: Está desactualizado; 3: En elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C017",
+    "n_q": "P26_O",
+    "desc_q": "No tiene/ Otro/ Descripción",
+    "col": "P26_O",
+    "desc_col": "No tiene/ Otro/ Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "VFI_P27",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P27",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27",
+    "desc_q": "Ratificación de TUPA",
+    "col": "P27",
+    "desc_col": "Ratificación de TUPA",
+    "values": "1: Ratificado; 0: No ratificado",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C018",
+    "n_q": "P27_01",
+    "desc_q": "Fecha de ratificación del TUPA",
+    "col": "P27_01",
+    "desc_col": "Fecha de ratificación del TUPA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "VFI_P28",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P28",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_01",
+    "desc_q": "Lugar de publicación/ INDECOPI",
+    "col": "P28_01",
+    "desc_col": "Lugar de publicación/ INDECOPI",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_02",
+    "desc_q": "Lugar de publicación/ Diario Oficial “El Peruano”",
+    "col": "P28_02",
+    "desc_col": "Lugar de publicación/ Diario Oficial “El Peruano”",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_03",
+    "desc_q": "Lugar de publicación/ Diario Local",
+    "col": "P28_03",
+    "desc_col": "Lugar de publicación/ Diario Local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_04",
+    "desc_q": "Lugar de publicación/ Pizarra, vitrina de la municipalidad",
+    "col": "P28_04",
+    "desc_col": "Lugar de publicación/ Pizarra, vitrina de la municipalidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C019",
+    "n_q": "P28_05",
+    "desc_q": "Lugar de publicación/ Pagina Web de la municipalidad",
+    "col": "P28_05",
+    "desc_col": "Lugar de publicación/ Pagina Web de la municipalidad",
+    "values": "",
+    "value_pos": null
+  }
+]

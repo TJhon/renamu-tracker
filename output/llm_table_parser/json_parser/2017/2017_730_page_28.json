@@ -1,0 +1,89 @@
+[
+  {
+    "h2": "ACCESO AL SUELO PARA VIVIENDA"
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2017",
+    "col": "VFI_P43",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2017",
+    "col": "P43",
+    "desc_col": "¿La municipalidad dispone de terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso?",
+    "values": "1: Dispone; 2: No dispone",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2017",
+    "col": "P43A_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2017",
+    "col": "P43A_1_1",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con saneamiento físico y legal / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2017",
+    "col": "P43A_1_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con factibilidad de servicio de agua, desagüe y electricidad / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2017",
+    "col": "P43A_1_3",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Terrenos con zonificación compatible con vivienda / Número de terrenos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C35",
+    "n_q": "43",
+    "desc_q": "Municipalidad que dispone de terrenos propios para fines de vivienda que no estan ocupados, construidos o afectados en uso, 2017",
+    "col": "P43A_2",
+    "desc_col": "Terrenos propios para fines de vivienda que no están ocupados, construidos o afectados en uso / Área Total (m²)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "INFRAESTRUCTURA URBANA O RURAL BÁSICA"
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "VFI_P44",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "",
+    "n_q": "",
+    "desc_q": "",
+    "col": "P44",
+    "desc_col": "¿La municipalidad realizó obras de reparación y construcción de pistas, veredas, escalinatas y caminos rurales?",
+    "values": "1: Realizó; 0: No realizó",
+    "value_pos": 1
+  }
+]

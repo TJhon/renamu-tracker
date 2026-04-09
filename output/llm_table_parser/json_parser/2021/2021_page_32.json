@@ -1,0 +1,272 @@
+[
+  {
+    "cuadro": "56",
+    "n_q": null,
+    "desc_q": "Municipalidad que brindó el Servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA) y los casos atendidos, 2020",
+    "col": "VFI_P64",
+    "desc_col": "Municipalidad Informante",
+    "values": "0: No informó; 1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64",
+    "desc_q": "¿La municipalidad brindó el servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA)?",
+    "col": "P64",
+    "desc_col": "¿La municipalidad brindó el servicio de Defensoría Municipal del Niño y el Adolescente (DEMUNA)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_1",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Alimentos?",
+    "col": "P64_1",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Alimentos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_1_1",
+    "desc_q": "Número de casos atendidos / Alimentos",
+    "col": "P64_1_1",
+    "desc_col": "Número de casos atendidos / Alimentos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_2",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Tenencia de hijas o hijos?",
+    "col": "P64_2",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Tenencia de hijas o hijos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_2_1",
+    "desc_q": "Número de casos atendidos / Tenencia de hijas o hijos",
+    "col": "P64_2_1",
+    "desc_col": "Número de casos atendidos / Tenencia de hijas o hijos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_3",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Régimen de visitas?",
+    "col": "P64_3",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Régimen de visitas?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_3_1",
+    "desc_q": "Número de casos atendidos / Régimen de visitas",
+    "col": "P64_3_1",
+    "desc_col": "Número de casos atendidos / Régimen de visitas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_4",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Normas de comportamiento?",
+    "col": "P64_4",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Normas de comportamiento?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_4_1",
+    "desc_q": "Número de casos atendidos / Normas de comportamiento",
+    "col": "P64_4_1",
+    "desc_col": "Número de casos atendidos / Normas de comportamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_5",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Reconocimiento voluntario de la filiación?",
+    "col": "P64_5",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Reconocimiento voluntario de la filiación?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_5_1",
+    "desc_q": "Número de casos atendidos / Reconocimiento voluntario de la filiación",
+    "col": "P64_5_1",
+    "desc_col": "Número de casos atendidos / Reconocimiento voluntario de la filiación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_6",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Violencia hacia niñas, niños y adolescentes en el hogar?",
+    "col": "P64_6",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Violencia hacia niñas, niños y adolescentes en el hogar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_6_1",
+    "desc_q": "Número de casos atendidos / Violencia hacia niñas, niños y adolescentes en el hogar",
+    "col": "P64_6_1",
+    "desc_col": "Número de casos atendidos / Violencia hacia niñas, niños y adolescentes en el hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_7",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Violencia hacia niñas, niños o adolescentes en la Institución Educativa por otra(o) niña, niño o adolescente (bullying)?",
+    "col": "P64_7",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Violencia hacia niñas, niños o adolescentes en la Institución Educativa por otra(o) niña, niño o adolescente (bullying)?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_7_1",
+    "desc_q": "Número de casos atendidos / Violencia hacia niñas, niños o adolescentes en la Institución Educativa por otra(o) niña, niño o adolescente (bullying)",
+    "col": "P64_7_1",
+    "desc_col": "Número de casos atendidos / Violencia hacia niñas, niños o adolescentes en la Institución Educativa por otra(o) niña, niño o adolescente (bullying)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_8",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Violencia hacia niñas, niños y adolescentes fuera del hogar?",
+    "col": "P64_8",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Violencia hacia niñas, niños y adolescentes fuera del hogar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_8_1",
+    "desc_q": "Número de casos atendidos / Violencia hacia niñas, niños y adolescentes fuera del hogar",
+    "col": "P64_8_1",
+    "desc_col": "Número de casos atendidos / Violencia hacia niñas, niños y adolescentes fuera del hogar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_9",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Relacionados al nombre e identidad?",
+    "col": "P64_9",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Relacionados al nombre e identidad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_9_1",
+    "desc_q": "Número de casos atendidos / Relacionados al nombre e identidad",
+    "col": "P64_9_1",
+    "desc_col": "Número de casos atendidos / Relacionados al nombre e identidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_10",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Matrícula escolar?",
+    "col": "P64_10",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Matrícula escolar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_10_1",
+    "desc_q": "Número de casos atendidos / Matrícula escolar",
+    "col": "P64_10_1",
+    "desc_col": "Número de casos atendidos / Matrícula escolar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_11",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Atentados contra la integridad sexual?",
+    "col": "P64_11",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Atentados contra la integridad sexual?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_11_1",
+    "desc_q": "Número de casos atendidos / Atentados contra la integridad sexual",
+    "col": "P64_11_1",
+    "desc_col": "Número de casos atendidos / Atentados contra la integridad sexual",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_12",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Casos sociales?",
+    "col": "P64_12",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Casos sociales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_12_1",
+    "desc_q": "Número de casos atendidos / Casos sociales",
+    "col": "P64_12_1",
+    "desc_col": "Número de casos atendidos / Casos sociales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_13",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Trabajo infantil?",
+    "col": "P64_13",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Trabajo infantil?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_13_1",
+    "desc_q": "Número de casos atendidos / Trabajo infantil",
+    "col": "P64_13_1",
+    "desc_col": "Número de casos atendidos / Trabajo infantil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_14",
+    "desc_q": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Riesgo de desprotección familiar?",
+    "col": "P64_14",
+    "desc_col": "En el año 2020, ¿La Defensoría Municipal atendió casos de: Riesgo de desprotección familiar?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "56",
+    "n_q": "P64_14_1",
+    "desc_q": "Número de casos atendidos / Riesgo de desprotección familiar",
+    "col": "P64_14_1",
+    "desc_col": "Número de casos atendidos / Riesgo de desprotección familiar",
+    "values": "",
+    "value_pos": null
+  }
+]

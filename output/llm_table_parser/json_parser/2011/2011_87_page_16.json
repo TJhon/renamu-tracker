@@ -1,0 +1,281 @@
+[
+  {
+    "cuadro": "67",
+    "n_q": "P66_01",
+    "desc_q": "Número de efectivos de serenazgo",
+    "col": "P66_01",
+    "desc_col": "Número de efectivos de serenazgo",
+    "values": "0: No tiene",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P66_02",
+    "desc_q": "Número de Puestos de Vigilancia de serenazgo",
+    "col": "P66_02",
+    "desc_col": "Número de Puestos de Vigilancia de serenazgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "VFI_P67",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P67",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67",
+    "desc_q": "El serenazgo dispone de vehículos y equipos",
+    "col": "P67",
+    "desc_col": "El serenazgo dispone de vehículos y equipos",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_O_01",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / Operativos / Autos / camionetas",
+    "col": "P67_O_01",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / Operativos / Autos / camionetas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_O_02",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / Operativos / Motocicletas",
+    "col": "P67_O_02",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / Operativos / Motocicletas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_O_03",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / Operativos / Bicicletas",
+    "col": "P67_O_03",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / Operativos / Bicicletas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_O_04",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / Operativos / Cámaras de video",
+    "col": "P67_O_04",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / Operativos / Cámaras de video",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_O_05",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / Operativos / Otros",
+    "col": "P67_O_05",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / Operativos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_NO_01",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / No operativos / Autos / camionetas",
+    "col": "P67_NO_01",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / No operativos / Autos / camionetas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_NO_02",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / No operativos / Motocicletas",
+    "col": "P67_NO_02",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / No operativos / Motocicletas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_NO_03",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / No operativos/ Bicicletas",
+    "col": "P67_NO_03",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / No operativos/ Bicicletas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_NO_04",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / No operativos / Cámaras de video",
+    "col": "P67_NO_04",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / No operativos / Cámaras de video",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_NO_05",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / No operativos / Otros",
+    "col": "P67_NO_05",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / No operativos / Otros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "67",
+    "n_q": "P67_O",
+    "desc_q": "Vehículos y equipos que dispone el serenazgo / Otros / Descripción",
+    "col": "P67_O",
+    "desc_col": "Vehículos y equipos que dispone el serenazgo / Otros / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "68",
+    "n_q": "VFI_P68",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P68",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "68",
+    "n_q": "P68",
+    "desc_q": "Conformación y funcionamiento del Comité de Defensa Civil",
+    "col": "P68",
+    "desc_col": "Conformación y funcionamiento del Comité de Defensa Civil",
+    "values": "1: Constituido; 0: No constituido",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "68",
+    "n_q": "P68_01",
+    "desc_q": "Constituido y se reúne periódicamente",
+    "col": "P68_01",
+    "desc_col": "Constituido y se reúne periódicamente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "68",
+    "n_q": "P68_02",
+    "desc_q": "Funciona solo cuando hay una emergencia",
+    "col": "P68_02",
+    "desc_col": "Funciona solo cuando hay una emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "68",
+    "n_q": "P68_03",
+    "desc_q": "Cuenta con Secretario Técnico",
+    "col": "P68_03",
+    "desc_col": "Cuenta con Secretario Técnico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "VFI_P69",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P69",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69",
+    "desc_q": "La municipalidad dispone instrumentos técnicos de Defensa Civil",
+    "col": "P69",
+    "desc_col": "La municipalidad dispone instrumentos técnicos de Defensa Civil",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_01",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Plan de Prevención y Atención de Desastres",
+    "col": "P69_01",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Plan de Prevención y Atención de Desastres",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_02",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Plan de Operaciones de Emergencia",
+    "col": "P69_02",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Plan de Operaciones de Emergencia",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_03",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Sistema de Alerta Temprana",
+    "col": "P69_03",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Sistema de Alerta Temprana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_04",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Programa de Recuperación y Limpieza de Cauce",
+    "col": "P69_04",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Programa de Recuperación y Limpieza de Cauce",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_05",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Áreas inundables identificadas",
+    "col": "P69_05",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Áreas inundables identificadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_06",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Mapa de identificación de zonas de alto riesgo",
+    "col": "P69_06",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Mapa de identificación de zonas de alto riesgo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_07",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Estadísticas de desastres más frecuentes",
+    "col": "P69_07",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Estadísticas de desastres más frecuentes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_08",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Registro de inspectores técnicos en Defensa Civil",
+    "col": "P69_08",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Registro de inspectores técnicos en Defensa Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "69",
+    "n_q": "P69_09",
+    "desc_q": "Instrumentos técnicos de Defensa Civil / Registro de Brigadistas",
+    "col": "P69_09",
+    "desc_col": "Instrumentos técnicos de Defensa Civil / Registro de Brigadistas",
+    "values": "",
+    "value_pos": null
+  }
+]

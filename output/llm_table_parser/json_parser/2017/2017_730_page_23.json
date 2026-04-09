@@ -1,0 +1,128 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_21",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Farmacias y boticas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_22",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para panaderías?",
+    "col": "P39_22",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para panaderías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_22",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Panaderías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_23",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para ferreterías?",
+    "col": "P39_23",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para ferreterías?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_23",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Ferreterías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_24",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de venta de prendas de vestir?",
+    "col": "P39_24",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de venta de prendas de vestir?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_24",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Venta de prendas de vestir",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_25",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de venta de calzado?",
+    "col": "P39_25",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para establecimientos de venta de calzado?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_25",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Venta de calzado",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_26",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para mercados de abastos?",
+    "col": "P39_26",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para mercados de abastos?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_26",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Mercados de Abastos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_27",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para centros comerciales o galerías comerciales?",
+    "col": "P39_27",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para centros comerciales o galerías comerciales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P39A_27",
+    "desc_col": "Número de licencias de funcionamiento para establecimientos / COMERCIO / Centros comerciales o galerías comerciales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P39_28",
+    "desc_q": "¿La municipalidad otorgó licencias de funcionamiento para campos feriales?",
+    "col": "P39_28",
+    "desc_col": "¿La municipalidad otorgó licencias de funcionamiento para campos feriales?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

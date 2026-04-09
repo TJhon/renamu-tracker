@@ -1,0 +1,344 @@
+[
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V1",
+    "desc_col": "Total/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V2",
+    "desc_col": "Total/ Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V3",
+    "desc_col": "Total/ Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V4",
+    "desc_col": "Condición laboral y sexo/ Nombrado/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V5",
+    "desc_col": "Condición laboral y sexo/ Nombrado/ Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V6",
+    "desc_col": "Condición laboral y sexo/ Nombrado/ Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V7",
+    "desc_col": "Condición laboral y sexo/ Contratado permanente/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V8",
+    "desc_col": "Condición laboral y sexo/ Contratado permanente/ Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V9",
+    "desc_col": "Condición laboral y sexo/ Contratado permanente / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V10",
+    "desc_col": "Condición laboral y sexo/ Contratado por servicios no personales/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V11",
+    "desc_col": "Condición laboral y sexo/ Contratado por servicios no personales / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V12",
+    "desc_col": "Condición laboral y sexo/ Contratado por servicios no personales / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V13",
+    "desc_col": "Condición laboral y sexo/ Contratado por Service/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V14",
+    "desc_col": "Condición laboral y sexo/ Contratado por Service / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "V15",
+    "desc_col": "Condición laboral y sexo/ Contratado por Service / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad al 31 de diciembre 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Categoría de Ocupación",
+    "values": "1 al 7 (Ver descripción en la tabla CUADRO_CATEGORÍA)",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V1",
+    "desc_col": "Total personal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V2",
+    "desc_col": "Oficina/Área/ Administración Tributaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V3",
+    "desc_col": "Oficina/Área/ Asesoría Jurídica",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V4",
+    "desc_col": "Oficina/Área/ Contabilidad",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V5",
+    "desc_col": "Oficina/Área/ Fiscalización Tributaria",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V6",
+    "desc_col": "Oficina/Área/ Informática",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V7",
+    "desc_col": "Oficina/Área/ Oficina de personal",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V8",
+    "desc_col": "Oficina/Área/ Presupuesto y planificación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V9",
+    "desc_col": "Oficina/Área/ Registro Civil",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V10",
+    "desc_col": "Oficina/Área/ Rentas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V11",
+    "desc_col": "Oficina/Área/ Tesorería",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0010",
+    "n_q": "17",
+    "desc_q": "Personal de la Municipalidad (Sin considerar el service) por área que prestan servicios, al 31 de diciembre del 2003",
+    "col": "V12",
+    "desc_col": "Oficina/Área/ Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0011",
+    "n_q": "18",
+    "desc_q": "Oficina estadística en la Municipalidad, en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidad con oficina estadística",
+    "values": "1: Con oficina; 0: Sin oficina",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0011",
+    "n_q": "18",
+    "desc_q": "Oficina estadística en la Municipalidad, en el 2003",
+    "col": "V2",
+    "desc_col": "Oficina estadística según dirección/ oficina de quien dependen: Dirección Municipal",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0011",
+    "n_q": "18",
+    "desc_q": "Oficina estadística en la Municipalidad, en el 2003",
+    "col": "V3",
+    "desc_col": "Oficina estadística según dirección/ oficina de quien dependen: Planificación y Presupuesto",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0011",
+    "n_q": "18",
+    "desc_q": "Oficina estadística en la Municipalidad, en el 2003",
+    "col": "V4",
+    "desc_col": "Oficina estadística según dirección/ oficina de quien dependen: Registro Civil",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0011",
+    "n_q": "18",
+    "desc_q": "Oficina estadística en la Municipalidad, en el 2003",
+    "col": "V5",
+    "desc_col": "Oficina estadística según dirección/ oficina de quien dependen: Otra Oficina",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C0012",
+    "n_q": "19",
+    "desc_q": "Personal informático en la municipalidad, en el 2003",
+    "col": "V1",
+    "desc_col": "Municipalidades con personal informático",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0012",
+    "n_q": "19",
+    "desc_q": "Personal informático en la municipalidad, en el 2003",
+    "col": "V2",
+    "desc_col": "Condición Laboral/ Total",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0012",
+    "n_q": "19",
+    "desc_q": "Personal informático en la municipalidad, en el 2003",
+    "col": "V3",
+    "desc_col": "Condición Laboral/ Nombrado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0012",
+    "n_q": "19",
+    "desc_q": "Personal informático en la municipalidad, en el 2003",
+    "col": "V4",
+    "desc_col": "Condición Laboral/ Contratado",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0012",
+    "n_q": "19",
+    "desc_q": "Personal informático en la municipalidad, en el 2003",
+    "col": "Cod_Categoria",
+    "desc_col": "Tipo de personal informático",
+    "values": "1 al 5 (Ver descripción en la",
+    "value_pos": null
+  }
+]

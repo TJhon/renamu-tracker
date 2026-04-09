@@ -1,0 +1,236 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": "Ambiental",
+    "col": null,
+    "desc_col": null,
+    "values": "0: No tiene",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "VFI_P75",
+    "desc_col": "Municipalidad informante",
+    "values": "0: No informó;1: Informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75",
+    "desc_col": "La municipalidad registró denuncias ambientales",
+    "values": "1: Registró;0: No registró",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_R_01",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_A_02",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del suelo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_R_03",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_R_04",
+    "desc_col": "Número de denuncias recepcionadas / Deforestación y quema de bosques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_R_05",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación sonora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_A_01",
+    "desc_col": "Número de denuncias atendidas / Contaminación del agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_A_02",
+    "desc_col": "Número de denuncias atendidas / Contaminación del suelo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_A_03",
+    "desc_col": "Número de denuncias atendidas / Contaminación del aire",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_A_04",
+    "desc_col": "Número de denuncias atendidas / Deforestación y quema de bosques",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C080",
+    "n_q": "75",
+    "desc_q": "Denuncias ambientales registradas en la municipalidad, 2013",
+    "col": "P75_A_05",
+    "desc_col": "Número de denuncias atendidas /Contaminación sonora",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "vfi_P76",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informo;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76",
+    "desc_col": "Municipalidades que informaron que existen elementos contaminantes en el distrito",
+    "values": "1: Existe;0: No existe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_01",
+    "desc_col": "Elemento contaminante / Emanación de gases y partículas de fábricas o refinerías",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_02",
+    "desc_col": "Elemento contaminante / Gases de vehículos motorizados",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_03",
+    "desc_col": "Elemento contaminante / Relaves mineros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_04",
+    "desc_col": "Elemento contaminante / Ruidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_05",
+    "desc_col": "Elemento contaminante / Aguas servidas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_06",
+    "desc_col": "Elemento contaminante / Acumulación y quema clandestina de basura y rastrojos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_07",
+    "desc_col": "Elemento contaminante / Deforestación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_08",
+    "desc_col": "Elemento contaminante / Crianza de animales domésticos sin control",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C081",
+    "n_q": "76",
+    "desc_q": "Elementos que originan la contaminación ambiental en el distrito, 2014",
+    "col": "P76_09",
+    "desc_col": "Elemento contaminante / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "VFI_P77",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P77",
+    "desc_col": "La municipalidad tiene instrumentos de",
+    "values": "1: Tiene",
+    "value_pos": 1
+  }
+]

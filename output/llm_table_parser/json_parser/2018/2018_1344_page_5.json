@@ -1,0 +1,215 @@
+[
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_13_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_13_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / ¿Por qué no tiene?",
+    "values": "1: Falta aprobar por el Concejo Municipal; 2: En elaboración; 3: Falta de recursos para su elaboración; 4: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_13_2_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan Local de Igualdad de Género / ¿Por qué no tiene? / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_14",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_14_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Último año de publicación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_14_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2018",
+    "col": "P23_14_2_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "VFI_P24",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24",
+    "desc_col": "¿La municipalidad tiene constituido el Consejo de Coordinación Local (CCL)?",
+    "values": "1: Sí; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_1_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_1_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_1_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Concejo Municipal Provincial o Distrital / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_2_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_2_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_2_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes Distritales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_3_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_3_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_3_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Alcaldes de Centros Poblados / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_4_T",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_4_M",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "24",
+    "desc_q": "La municipalidad tiene conformado el Consejo de Coordinación Local, 2018",
+    "col": "P24_4_H",
+    "desc_col": "Miembros del Consejo de Coordinación Local / Representantes de la Sociedad Civil / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Actividades que ejecutó el Consejo de Coordinación Local, 2017"
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "VFI_P25",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C07",
+    "n_q": "25",
+    "desc_q": "Actividades que ejecutó el Consejo de Coordinación Local, 2017",
+    "col": "P25_1",
+    "desc_col": "Actividades que ejecutó el Consejo de Coordinación Local / Realizó sesiones de consejo",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  }
+]

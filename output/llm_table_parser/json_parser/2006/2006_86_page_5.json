@@ -1,0 +1,290 @@
+[
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V1",
+    "desc_col": "Número de trabajadores / Área/Oficina / Recaudación y Administración Tributaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V2",
+    "desc_col": "Número de trabajadores / Área/Oficina / Tesorería y Contabilidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V3",
+    "desc_col": "Número de trabajadores / Área/Oficina / Planificación y Presupuesto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V4",
+    "desc_col": "Número de trabajadores / Área/Oficina / Informática",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V5",
+    "desc_col": "Número de trabajadores / Área/Oficina / Fiscalización y Control",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V6",
+    "desc_col": "Número de trabajadores / Área/Oficina / Promoción de Inversiones PYMES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V7",
+    "desc_col": "Número de trabajadores / Área/Oficina / Turismo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V8",
+    "desc_col": "Número de trabajadores / Área/Oficina / Educación y Cultura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V9",
+    "desc_col": "Número de trabajadores / Área/Oficina / Deporte y Recreación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V10",
+    "desc_col": "Número de trabajadores / Área/Oficina / Participación Vecinal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V11",
+    "desc_col": "Número de trabajadores / Área/Oficina / DEMUNA",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V12",
+    "desc_col": "Número de trabajadores / Área/Oficina / Comedores y Asistencia Alimentaria",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V13",
+    "desc_col": "Número de trabajadores / Área/Oficina / Salud y Medio Ambiente",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V14",
+    "desc_col": "Número de trabajadores / Área/Oficina / Obras y Acondicionamiento Territorial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V15",
+    "desc_col": "Número de trabajadores / Área/Oficina / Transporte y Vialidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V16",
+    "desc_col": "Número de trabajadores / Área/Oficina / Seguridad Ciudadana",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V17",
+    "desc_col": "Número de trabajadores / Área/Oficina / Registro Civil",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V18",
+    "desc_col": "Número de trabajadores / Área/Oficina / Comercialización",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V19",
+    "desc_col": "Número de trabajadores / Área/Oficina / Limpieza pública",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0008",
+    "n_q": "16",
+    "desc_q": "Personal de la Municipalidad (Sin contar el de service) por área que prestan servicios, al 31 de diciembre del 2005",
+    "col": "V20",
+    "desc_col": "Número de trabajadores / Área/Oficina / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V1",
+    "desc_col": "2005 (Nuevos Soles) / PIA / INGRESO TOTAL (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V2",
+    "desc_col": "2005 (Nuevos Soles) / PIA / I. INGRESOS CORRIENTES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V3",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V4",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V5",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V6",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V7",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos / Casino de juego",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V8",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos/ A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V9",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V10",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V11",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Impuestos / Otros impuestos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C0009",
+    "n_q": "17",
+    "desc_q": "Ingresos de la Municipalidad en el 2005",
+    "col": "V12",
+    "desc_col": "2005 (Nuevos Soles) / PIA / Tasas",
+    "values": "",
+    "value_pos": null
+  }
+]

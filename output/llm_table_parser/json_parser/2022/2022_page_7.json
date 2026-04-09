@@ -1,0 +1,362 @@
+[
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_T",
+    "desc_col": "Total personal / Empleados / Profesionales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_NM",
+    "desc_col": "Empleados / Profesionales / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_NH",
+    "desc_col": "Empleados / Profesionales / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_CM",
+    "desc_col": "Empleados / Profesionales / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_CH",
+    "desc_col": "Empleados / Profesionales / Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_LM",
+    "desc_col": "Empleados / Profesionales / Decreto Legislativo N° 728 / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_LH",
+    "desc_col": "Empleados / Profesionales / Decreto Legislativo N° 728 / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_VM",
+    "desc_col": "Empleados / Profesionales / Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_2_VH",
+    "desc_col": "Empleados / Profesionales / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_T",
+    "desc_col": "Total personal / Empleados / Técnicos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_NM",
+    "desc_col": "Empleados / Técnicos / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_NH",
+    "desc_col": "Empleados / Técnicos / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_CM",
+    "desc_col": "Empleados / Técnicos / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_CH",
+    "desc_col": "Empleados / Técnicos / Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_LM",
+    "desc_col": "Empleados / Técnicos / Decreto Legislativo N° 728 / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_LH",
+    "desc_col": "Empleados / Técnicos / Decreto Legislativo N° 728 / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_VM",
+    "desc_col": "Empleados / Técnicos / Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_3_VH",
+    "desc_col": "Empleados / Técnicos / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_T",
+    "desc_col": "Total personal / Empleados / Auxiliares",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_NM",
+    "desc_col": "Empleados / Auxiliares / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_NH",
+    "desc_col": "Empleados / Auxiliares / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_CM",
+    "desc_col": "Empleados / Auxiliares / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_CH",
+    "desc_col": "Empleados / Auxiliares / Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_LM",
+    "desc_col": "Empleados / Auxiliares / Decreto Legislativo N° 728 / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_LH",
+    "desc_col": "Empleados / Auxiliares / Decreto Legislativo N° 728 / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_VM",
+    "desc_col": "Empleados / Auxiliares / Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_4_VH",
+    "desc_col": "Empleados / Auxiliares / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_T",
+    "desc_col": "Total personal / Obreros / De limpieza",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_NM",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_NH",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_CM",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_CH",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_LM",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 728 / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_LH",
+    "desc_col": "Obreros / De limpieza / Decreto Legislativo N° 728 / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_VM",
+    "desc_col": "Obreros / De limpieza / Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_5_VH",
+    "desc_col": "Obreros / De limpieza / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_T",
+    "desc_col": "Total personal / Obreros / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_NM",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Nombrado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_NH",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Nombrado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_CM",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Contratado / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_CH",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 276 / Contratado / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_LM",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 728 / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_LH",
+    "desc_col": "Obreros / Otros / Decreto Legislativo N° 728 / Hombre",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_VM",
+    "desc_col": "Obreros / Otros / Contrato Administrativo de Servicios (CAS) / Mujer",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "n_q": "19",
+    "desc_q": "Personal de la municipalidad, al 31 de diciembre 2021",
+    "col": "P19_6_VH",
+    "desc_col": "Obreros / Otros / Contrato Administrativo de Servicios (CAS) / Hombre",
+    "values": null,
+    "value_pos": null
+  }
+]

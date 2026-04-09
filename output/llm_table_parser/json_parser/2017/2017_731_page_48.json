@@ -1,0 +1,158 @@
+[
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "104",
+    "desc_q": "Municipalidad que realizó programas y proyectos ejecutados y concluidos en el año 2016, en convenios con otras entidades",
+    "col": "VFI_P104",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "104",
+    "desc_q": "Municipalidad que realizó programas y proyectos ejecutados y concluidos en el año 2016, en convenios con otras entidades",
+    "col": "P104",
+    "desc_col": "¿La municipalidad realizó programas y proyectos ejecutados y concluidos con otras entidades?",
+    "values": "1: Realizó; 2: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "104",
+    "desc_q": "Municipalidad que realizó programas y proyectos ejecutados y concluidos en el año 2016, en convenios con otras entidades",
+    "col": "P104_01",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Nombre del Programa / Proyecto",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "104",
+    "desc_q": "Municipalidad que realizó programas y proyectos ejecutados y concluidos en el año 2016, en convenios con otras entidades",
+    "col": "P104_02",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Costo (soles)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "104",
+    "desc_q": "Municipalidad que realizó programas y proyectos ejecutados y concluidos en el año 2016, en convenios con otras entidades",
+    "col": "P104_03",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Entidad con la que suscribió el convenio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C100",
+    "n_q": "104",
+    "desc_q": "Municipalidad que realizó programas y proyectos ejecutados y concluidos en el año 2016, en convenios con otras entidades",
+    "col": "P104_04",
+    "desc_col": "Programas y proyectos que ejecutó la municipalidad / Tiempo de ejecución (En meses )",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "PROTECCIÓN Y CONSERVACIÓN DEL AMBIENTE"
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "VFI_P105",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P105",
+    "desc_col": "¿La municipalidad tiene Oficina o Unidad Ambiental?",
+    "values": "1: Tiene; 2: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "VFI_P106",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106",
+    "desc_col": "¿La municipalidad registró denuncias ambientales?",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106_1",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación del agua?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106A_1_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106A_1_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación del agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106_2",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación del suelo?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106A_2_1",
+    "desc_col": "Número de denuncias recepcionadas / Contaminación del suelo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106A_2_2",
+    "desc_col": "Número de denuncias atendidas / Contaminación del suelo",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C101",
+    "n_q": "105",
+    "desc_q": "Municipalidad que tiene oficina o unidad ambiental, 2017",
+    "col": "P106_3",
+    "desc_col": "¿La municipalidad registró denuncias ambientales por contaminación del aire?",
+    "values": "1: Si; 2: No",
+    "value_pos": 1
+  }
+]

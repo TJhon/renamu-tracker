@@ -1,0 +1,425 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P104_06",
+    "desc_q": "Donaciones y transferencias corrientes",
+    "col": "P104_06",
+    "desc_col": "Donaciones y transferencias corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_07",
+    "desc_q": "Otros gastos corrientes",
+    "col": "P104_07",
+    "desc_col": "Otros gastos corrientes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_08",
+    "desc_q": "II. GASTOS DE CAPITAL",
+    "col": "P104_08",
+    "desc_col": "II. GASTOS DE CAPITAL",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_09",
+    "desc_q": "Adquisición de activos no financieros",
+    "col": "P104_09",
+    "desc_col": "Adquisición de activos no financieros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_10",
+    "desc_q": "Adquisición de activos financieros",
+    "col": "P104_10",
+    "desc_col": "Adquisición de activos financieros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_11",
+    "desc_q": "Donaciones y transferencias de capital",
+    "col": "P104_11",
+    "desc_col": "Donaciones y transferencias de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_12",
+    "desc_q": "Otros gastos de capital",
+    "col": "P104_12",
+    "desc_col": "Otros gastos de capital",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_13",
+    "desc_q": "III. SERVICIO DE LA DEUDA",
+    "col": "P104_13",
+    "desc_col": "III. SERVICIO DE LA DEUDA",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_14",
+    "desc_q": "Interna",
+    "col": "P104_14",
+    "desc_col": "Interna",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_15",
+    "desc_q": "Interna / Intereses de la deuda interna",
+    "col": "P104_15",
+    "desc_col": "Interna / Intereses de la deuda interna",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_16",
+    "desc_q": "Interna / Amortización de la deuda",
+    "col": "P104_16",
+    "desc_col": "Interna / Amortización de la deuda",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_17",
+    "desc_q": "Interna / Comisiones y otros gastos de la deuda interna",
+    "col": "P104_17",
+    "desc_col": "Interna / Comisiones y otros gastos de la deuda interna",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_18",
+    "desc_q": "Externa",
+    "col": "P104_18",
+    "desc_col": "Externa",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_19",
+    "desc_q": "Externa / Intereses de la deuda externa",
+    "col": "P104_19",
+    "desc_col": "Externa / Intereses de la deuda externa",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_20",
+    "desc_q": "Externa / Amortización de la deuda",
+    "col": "P104_20",
+    "desc_col": "Externa / Amortización de la deuda",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P104_21",
+    "desc_q": "Externa / Comisiones y otros gastos de la deuda externa",
+    "col": "P104_21",
+    "desc_col": "Externa / Comisiones y otros gastos de la deuda externa",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "VFI_P105",
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P105",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_01",
+    "desc_q": "INGRESO TOTAL (I+II+III+IV)",
+    "col": "P105_01",
+    "desc_col": "INGRESO TOTAL (I+II+III+IV)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_02",
+    "desc_q": "I. INGRESOS CORRIENTES",
+    "col": "P105_02",
+    "desc_col": "I. INGRESOS CORRIENTES",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_03",
+    "desc_q": "Impuestos",
+    "col": "P105_03",
+    "desc_col": "Impuestos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_04",
+    "desc_q": "Impuestos / Predial",
+    "col": "P105_04",
+    "desc_col": "Impuestos / Predial",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_05",
+    "desc_q": "Impuestos / De alcabala",
+    "col": "P105_05",
+    "desc_col": "Impuestos / De alcabala",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_06",
+    "desc_q": "Impuestos / Al patrimonio vehicular",
+    "col": "P105_06",
+    "desc_col": "Impuestos / Al patrimonio vehicular",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_07",
+    "desc_q": "Impuestos / A los casinos de juegos",
+    "col": "P105_07",
+    "desc_col": "Impuestos / A los casinos de juegos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_08",
+    "desc_q": "Impuestos / A las apuestas y juegos",
+    "col": "P105_08",
+    "desc_col": "Impuestos / A las apuestas y juegos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_09",
+    "desc_q": "Impuestos / A los espectáculos públicos no deportivos",
+    "col": "P105_09",
+    "desc_col": "Impuestos / A los espectáculos públicos no deportivos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_10",
+    "desc_q": "Impuestos / A los juegos de máquinas tragamonedas",
+    "col": "P105_10",
+    "desc_col": "Impuestos / A los juegos de máquinas tragamonedas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_11",
+    "desc_q": "Impuestos / Otros impuestos",
+    "col": "P105_11",
+    "desc_col": "Impuestos / Otros impuestos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_12",
+    "desc_q": "Derechos y tasas administrativas",
+    "col": "P105_12",
+    "desc_col": "Derechos y tasas administrativas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_13",
+    "desc_q": "Derechos y tasas administrativas / De administración general",
+    "col": "P105_13",
+    "desc_col": "Derechos y tasas administrativas / De administración general",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_14",
+    "desc_q": "Derechos y tasas administrativas / De educación",
+    "col": "P105_14",
+    "desc_col": "Derechos y tasas administrativas / De educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_15",
+    "desc_q": "Derechos y tasas administrativas / De salud",
+    "col": "P105_15",
+    "desc_col": "Derechos y tasas administrativas / De salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_16",
+    "desc_q": "Derechos y tasas administrativas / De vivienda y construcción",
+    "col": "P105_16",
+    "desc_col": "Derechos y tasas administrativas / De vivienda y construcción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_17",
+    "desc_q": "Derechos y tasas administrativas / De agricultura",
+    "col": "P105_17",
+    "desc_col": "Derechos y tasas administrativas / De agricultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_18",
+    "desc_q": "Derechos y tasas administrativas / De industria y comercio",
+    "col": "P105_18",
+    "desc_col": "Derechos y tasas administrativas / De industria y comercio",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_19",
+    "desc_q": "Derechos y tasas administrativas / De transportes y comunicaciones",
+    "col": "P105_19",
+    "desc_col": "Derechos y tasas administrativas / De transportes y comunicaciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_20",
+    "desc_q": "Derechos y tasas administrativas / Otros",
+    "col": "P105_20",
+    "desc_col": "Derechos y tasas administrativas / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_21",
+    "desc_q": "Contribuciones",
+    "col": "P105_21",
+    "desc_col": "Contribuciones",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_22",
+    "desc_q": "Contribuciones / Contribuciones sociales",
+    "col": "P105_22",
+    "desc_col": "Contribuciones / Contribuciones sociales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_23",
+    "desc_q": "Contribuciones / Contribuciones obligatorias",
+    "col": "P105_23",
+    "desc_col": "Contribuciones / Contribuciones obligatorias",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_24",
+    "desc_q": "Ventas de bienes",
+    "col": "P105_24",
+    "desc_col": "Ventas de bienes",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_25",
+    "desc_q": "Ventas de bienes / Agropecuarios, forestales y minerales",
+    "col": "P105_25",
+    "desc_col": "Ventas de bienes / Agropecuarios, forestales y minerales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_26",
+    "desc_q": "Ventas de bienes/ De productos de educación",
+    "col": "P105_26",
+    "desc_col": "Ventas de bienes/ De productos de educación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_27",
+    "desc_q": "Ventas de bienes / De productos de salud",
+    "col": "P105_27",
+    "desc_col": "Ventas de bienes / De productos de salud",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_28",
+    "desc_q": "Ventas de bienes / De productos industriales",
+    "col": "P105_28",
+    "desc_col": "Ventas de bienes / De productos industriales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_29",
+    "desc_q": "Ventas de bienes / Otros",
+    "col": "P105_29",
+    "desc_col": "Ventas de bienes / Otros",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C096",
+    "n_q": "P105_30",
+    "desc_q": "Venta de servicios",
+    "col": "P105_30",
+    "desc_col": "Venta de servicios",
+    "values": null,
+    "value_pos": null
+  }
+]

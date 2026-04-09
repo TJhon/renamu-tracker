@@ -1,0 +1,293 @@
+[
+  {
+    "h2": "FINANZAS MUNICIPALES"
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C4",
+    "desc_col": "Capacitación que requiere / Control Gubernamental (Atención de Auditorías, Control Interno)",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C5",
+    "desc_col": "Capacitación que requiere / Estrategia de Gestión Financiera del Riesgo de Desastres",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C6",
+    "desc_col": "Capacitación que requiere / Evaluación del Riesgo",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C7",
+    "desc_col": "Capacitación que requiere / Gestión de Estándares para mejorar la Atención al Ciudadano",
+    "values": "7: Sí; 0: No",
+    "value_pos": 7
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C8",
+    "desc_col": "Capacitación que requiere / Gestión del Desarrollo Urbano Territorial",
+    "values": "8: Sí; 0: No",
+    "value_pos": 8
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C9",
+    "desc_col": "Capacitación que requiere / Gobierno Electrónico Municipal",
+    "values": "9: Sí; 0: No",
+    "value_pos": 9
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C10",
+    "desc_col": "Capacitación que requiere / Indicadores de Gestión Municipal",
+    "values": "10: Sí; 0: No",
+    "value_pos": 10
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C11",
+    "desc_col": "Capacitación que requiere / Metodología de Implementación de Portal de Transparencia estándar",
+    "values": "11: Sí; 0: No",
+    "value_pos": 11
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C12",
+    "desc_col": "Capacitación que requiere / Metodología de Simplificación Administrativa Pública",
+    "values": "12: Sí; 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C13",
+    "desc_col": "Capacitación que requiere / Plan de Prevención y Reducción del Riesgo de Desastres",
+    "values": "13: Sí; 0: No",
+    "value_pos": 13
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C14",
+    "desc_col": "Capacitación que requiere / Plan de Reasentamiento Poblacional",
+    "values": "14: Sí; 0: No",
+    "value_pos": 14
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C15",
+    "desc_col": "Capacitación que requiere / Plan Integral de Reconstrucción",
+    "values": "15: Sí; 0: No",
+    "value_pos": 15
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C16",
+    "desc_col": "Capacitación que requiere / Planificación Estratégica Institucional con Enfoque de Género",
+    "values": "16: Sí; 0: No",
+    "value_pos": 16
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C17",
+    "desc_col": "Capacitación que requiere / Población y Desarrollo",
+    "values": "17: Sí; 0: No",
+    "value_pos": 17
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C18",
+    "desc_col": "Capacitación que requiere / Política de Desarrollo e Inclusión Social",
+    "values": "18: Sí; 0: No",
+    "value_pos": 18
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C19",
+    "desc_col": "Capacitación que requiere / Presupuesto con Enfoque a Resultados y Enfoque de Género",
+    "values": "19: Sí; 0: No",
+    "value_pos": 19
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C20",
+    "desc_col": "Capacitación que requiere / Procedimientos Administrativos",
+    "values": "20: Sí; 0: No",
+    "value_pos": 20
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C21",
+    "desc_col": "Capacitación que requiere / Programa de Incentivos a la Mejora de la Gestión Municipal",
+    "values": "21: Sí; 0: No",
+    "value_pos": 21
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C22",
+    "desc_col": "Capacitación que requiere / Sistema de Focalización de Hogares",
+    "values": "22: Sí; 0: No",
+    "value_pos": 22
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C23",
+    "desc_col": "Capacitación que requiere / Otro",
+    "values": "23: Sí; 0: No",
+    "value_pos": 23
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "22",
+    "desc_q": "Municipalidad que requiere asistencia técnica y capacitación, 2018",
+    "col": "P22_C23_O",
+    "desc_col": "Capacitación que requiere / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "VFI_C119",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119",
+    "desc_col": "Total Ingresos (I+II+III+IV)",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1",
+    "desc_col": "I. Ingresos corrientes",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1",
+    "desc_col": "Impuestos y contribuciones obligatorias / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1_1",
+    "desc_col": "Impuestos y contribuciones obligatorias / Predial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1_2",
+    "desc_col": "Impuestos y contribuciones obligatorias / De alcabala",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1_3",
+    "desc_col": "Impuestos y contribuciones obligatorias / Al patrimonio vehicular",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1_4",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los casinos de juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1_5",
+    "desc_col": "Impuestos y contribuciones obligatorias / A las apuestas y a los juegos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1_6",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los espectáculos públicos no deportivos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C06",
+    "n_q": null,
+    "desc_q": "Ingresos recaudados por las municipalidades, 2017",
+    "col": "C119_1_1_7",
+    "desc_col": "Impuestos y contribuciones obligatorias / A los juegos de máquinas tragamonedas",
+    "values": "",
+    "value_pos": null
+  }
+]

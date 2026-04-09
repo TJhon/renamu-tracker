@@ -1,0 +1,239 @@
+[
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_5",
+    "desc_col": "Servicios que brinda / Préstamo de libros a domicilio",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_6",
+    "desc_col": "Servicios que brinda / Préstamo de libros entre bibliotecas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_7",
+    "desc_col": "Servicios que brinda / Capacitación de usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_8",
+    "desc_col": "Servicios que brinda / Información a usuarios",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_9",
+    "desc_col": "Servicios que brinda / Actividades culturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_10",
+    "desc_col": "Servicios que brinda / Fomento del libro y la lectura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_11",
+    "desc_col": "Servicios que brinda / Cabinas públicas de Internet",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_12",
+    "desc_col": "Servicios que brinda / Servicio de fotocopias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_13",
+    "desc_col": "Servicios que brinda / Catálogo de acceso al público",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_14",
+    "desc_col": "Servicios que brinda / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C51",
+    "n_q": "59",
+    "desc_q": "Servicios que brinda la biblioteca municipal, 2015",
+    "col": "P59_14_O",
+    "desc_col": "Servicios que brinda / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014"
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P59",
+    "desc_col": "¿La municipalidad tiene biblioteca municipal?",
+    "values": "1: Tiene;0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "VFI_P60",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60",
+    "desc_col": "¿La municipalidad tiene personal exclusivo de la biblioteca municipal?",
+    "values": "1: Tiene;0 : No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_1_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Profesionales / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_1_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Profesionales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_1_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Profesionales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_2_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Técnicos / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_2_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Técnicos / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_2_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Técnicos / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_3_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Auxiliares / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_3_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Auxiliares / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_3_H",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Auxiliares / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_4_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Otro / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_O_T",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Otro / Especifique / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C52",
+    "n_q": "60",
+    "desc_q": "Personal exclusivo de la Biblioteca Municipal, al 31 de diciembre 2014",
+    "col": "P60_4_M",
+    "desc_col": "Personal exclusivo de la biblioteca municipal / Otro / Mujer",
+    "values": "",
+    "value_pos": null
+  }
+]

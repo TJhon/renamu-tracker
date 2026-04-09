@@ -1,0 +1,191 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_2",
+    "desc_col": "II. INGRESOS DE CAPITAL",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_2_1",
+    "desc_col": "Venta de activos no financieros / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_2_1_1",
+    "desc_col": "Venta de activos no financieros / Venta de activos no producidos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_2_1_2",
+    "desc_col": "Venta de activos no financieros / Venta de otros activos no financieros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3",
+    "desc_col": "III. TRANSFERENCIAS",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1",
+    "desc_col": "Canon y Sobrecanon /Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1_1",
+    "desc_col": "Canon y Sobrecanon / Canon Forestal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1_2",
+    "desc_col": "Canon y Sobrecanon / Canon Gasifero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1_3",
+    "desc_col": "Canon y Sobrecanon / Canon Hidroenergetico",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1_4",
+    "desc_col": "Canon y Sobrecanon / Canon Minero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1_5",
+    "desc_col": "Canon y Sobrecanon / Canon Pesquero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1_6",
+    "desc_col": "Canon y Sobrecanon / Canon Petrolero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_1_7",
+    "desc_col": "Canon y Sobrecanon / Sobrecanon Petrolero",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_2",
+    "desc_col": "Regalias / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_2_1",
+    "desc_col": "Regalias / Regalias FOCAM",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_2_2",
+    "desc_col": "Regalias / Regalias mineras",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_4",
+    "desc_col": "Fondo de Compensación Municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_3_5",
+    "desc_col": "Otros ingresos por transferencias",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_4",
+    "desc_col": "IV. FINANCIAMIENTO",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_4_1",
+    "desc_col": "Endeudamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P118_4_2",
+    "desc_col": "Saldos de balance",
+    "values": "",
+    "value_pos": null
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_11_O",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / Otra / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106",
+    "desc_q": "Participación de la población en la gestión administrativa de la municipalidad, 2018",
+    "col": "P106_12",
+    "desc_col": "Tipo de participación de la población en la gestión administrativa / No participa",
+    "values": "12: Sí; 0: No",
+    "value_pos": 12
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "VFI_P106A",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "P106A_1",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Participativo Local de Educación",
+    "values": "1: Sí; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "P106A_2",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Local de Salud",
+    "values": "2: Sí; 0: No",
+    "value_pos": 2
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "P106A_3",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Consejo Consultivo de Niñas, Niños y Adolescentes",
+    "values": "3: Sí; 0: No",
+    "value_pos": 3
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "P106A_4",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Mesa de Concertación para la lucha contra la Pobreza",
+    "values": "4: Sí; 0: No",
+    "value_pos": 4
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "P106A_5",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Otro",
+    "values": "5: Sí; 0: No",
+    "value_pos": 5
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "P106A_5_O",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / Otro / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "106A",
+    "desc_q": "Municipalidad que participa en espacios de concertación, 2018",
+    "col": "P106A_6",
+    "desc_col": "Espacio de concertación en el que participa la municipalidad / No participa",
+    "values": "6: Sí; 0: No",
+    "value_pos": 6
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "107",
+    "desc_q": "Municipalidad que tiene constituida la Junta Delegados Vecinales, 2018",
+    "col": "VFI_P107",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "107",
+    "desc_q": "Municipalidad que tiene constituida la Junta Delegados Vecinales, 2018",
+    "col": "P107",
+    "desc_col": "¿La municipalidad tiene constituida la Junta de Delegados Vecinales?",
+    "values": "1: Sí; 2: No tiene constituida",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "107",
+    "desc_q": "Municipalidad que tiene constituida la Junta Delegados Vecinales, 2018",
+    "col": "P107_1_T",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Total",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "107",
+    "desc_q": "Municipalidad que tiene constituida la Junta Delegados Vecinales, 2018",
+    "col": "P107_1_M",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Mujer",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "107",
+    "desc_q": "Municipalidad que tiene constituida la Junta Delegados Vecinales, 2018",
+    "col": "P107_1_H",
+    "desc_col": "Número de miembros de la Junta de Delegados Vecinales / Hombre",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C 24",
+    "n_q": "107",
+    "desc_q": "Municipalidad que tiene constituida la Junta Delegados Vecinales, 2018",
+    "col": "P107_2",
+    "desc_col": "¿La Junta de Delegados Vecinales se encuentra en actividad?",
+    "values": "1: Sí; 2: No",
+    "value_pos": 1
+  }
+]

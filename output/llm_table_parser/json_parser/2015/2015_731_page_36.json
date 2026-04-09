@@ -1,0 +1,212 @@
+[
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96_9",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de industria?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96A_9_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de industria / Total PYMES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96A_9_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de industria / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96A_9_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de industria / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96_10",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de servicios?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96A_10_1",
+    "desc_col": "Número de MYPES dedicadas a la producción de servicios / Total PYMES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96A_10_2",
+    "desc_col": "Número de Micro Empresas dedicadas a la producción de servicios / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96A_10_3",
+    "desc_col": "Número de Pequeña Empresa dedicadas a la producción de servicios / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96_11",
+    "desc_col": "¿La municipalidad registró MYPES dedicadas a la producción de otros productos?",
+    "values": "1: Si;2: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96_11_1",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Total MYPES",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96_11_2",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Micro empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96_11_3",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Pequeña empresa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": null,
+    "desc_q": null,
+    "col": "P96_11_O",
+    "desc_col": "La municipalidad registró MYPES dedicadas a la producción de otros productos / Especifique",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014"
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "VFI_P97",
+    "desc_col": "Municipalidad",
+    "values": "1: Informó;0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97",
+    "desc_col": "¿La municipalidad realizó acciones para incentivar a las micro y pequeñas empresas?",
+    "values": "1: Si realizó;0: No realizó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_1",
+    "desc_col": "Acciones realizadas / Promoción y publicidad",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_2",
+    "desc_col": "Acciones realizadas / Ferias y concursos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_3",
+    "desc_col": "Acciones realizadas / Convenios con Organización No Gubernamental, empresas privadas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_4",
+    "desc_col": "Acciones realizadas / Capacitación para mejorar la producción y venta",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_5",
+    "desc_col": "Acciones realizadas / Simplificación de trámite para licencia de funcionamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_6",
+    "desc_col": "Acciones realizadas / Educación financiera orientada a la inversión y financiamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_7",
+    "desc_col": "Acciones realizadas / Otra acción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C90",
+    "n_q": "97",
+    "desc_q": "Acciones que realizó la municipalidad para incentivar a las micro y pequeñas empresas, 2014",
+    "col": "P97_7_O",
+    "desc_col": "Acciones realizadas / Otra acción / Especifique",
+    "values": "",
+    "value_pos": null
+  }
+]

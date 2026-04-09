@@ -1,0 +1,113 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_3",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Instalaciones sociales y culturales",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_4",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Sistema de agua y saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_5",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura agrícola",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_6",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura eléctrica",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_7",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Infraestructura vial",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_8",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Plazuelas, parques y jardines",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_9",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Edificios administrativos",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_10",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Otras estructuras diversas",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_3_11",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Gastos por construcción de edificios y estructuras / Otras obras de infraestructura",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_2_4",
+    "desc_col": "Gastos de capital / Adquisición de activos no financieros / Otros gastos por adquisición de activos no financieros",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_3",
+    "desc_col": "Gastos de capital / Donaciones y transferencias de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "C97",
+    "desc_q": "Gastos ejecutados por las municipalidades, 2024",
+    "col": "C97_2_4",
+    "desc_col": "Gastos de capital / Otros gastos de capital",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "h2": "III. Servicio de la deuda"
+  }
+]

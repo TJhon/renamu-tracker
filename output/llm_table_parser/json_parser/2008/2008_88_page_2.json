@@ -1,0 +1,299 @@
+[
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "P95",
+    "desc_q": "El distrito tiene red de agua potable",
+    "col": "P95",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_97",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "P97_01",
+    "desc_q": "Los resultados del análisis de agua potable son/ Informados a la autoridad municipal",
+    "col": "P97_01",
+    "desc_col": "Los resultados del análisis de agua potable son/ Informados a la autoridad municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "P97_02",
+    "desc_q": "Los resultados del análisis de agua potable son/ Publicados en el diario local",
+    "col": "P97_02",
+    "desc_col": "Los resultados del análisis de agua potable son/ Publicados en el diario local",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C088",
+    "n_q": "P97_03",
+    "desc_q": "Los resultados del análisis de agua potable son/ No se difunden",
+    "col": "P97_03",
+    "desc_col": "Los resultados del análisis de agua potable son/ No se difunden",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P95",
+    "desc_q": "El distrito tiene red de agua potable",
+    "col": "P95",
+    "desc_col": "El distrito tiene red de agua potable",
+    "values": "1: Si tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P98",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98",
+    "desc_q": "El agua potable en el distrito recibe tratamiento",
+    "col": "P98",
+    "desc_col": "El agua potable en el distrito recibe tratamiento",
+    "values": "1: Si recibe; 0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_01",
+    "desc_q": "Tratamiento que recibe el agua potable / Es clorada",
+    "col": "P98_01",
+    "desc_col": "Tratamiento que recibe el agua potable / Es clorada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_02",
+    "desc_q": "Tratamiento que recibe el agua potable / Es filtrada",
+    "col": "P98_02",
+    "desc_col": "Tratamiento que recibe el agua potable / Es filtrada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_03",
+    "desc_q": "Tratamiento que recibe el agua potable / Es clorada y filtrada",
+    "col": "P98_03",
+    "desc_col": "Tratamiento que recibe el agua potable / Es clorada y filtrada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_04",
+    "desc_q": "Tratamiento que recibe el agua potable / Otro",
+    "col": "P98_04",
+    "desc_col": "Tratamiento que recibe el agua potable / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C089",
+    "n_q": "P98_O",
+    "desc_q": "Tratamiento que recibe el agua potable / Otro / Descripción",
+    "col": "P98_O",
+    "desc_col": "Tratamiento que recibe el agua potable / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_P99",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_01",
+    "desc_q": "Número de empresas / Empresa prestadora municipal",
+    "col": "P99_01",
+    "desc_col": "Número de empresas / Empresa prestadora municipal",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_02",
+    "desc_q": "Número de empresas / Empresa prestadora privada",
+    "col": "P99_02",
+    "desc_col": "Número de empresas / Empresa prestadora privada",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_03",
+    "desc_q": "Número de empresas / Asociaciones o Comité de Agua",
+    "col": "P99_03",
+    "desc_col": "Número de empresas / Asociaciones o Comité de Agua",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_04",
+    "desc_q": "Número de empresas / Junta Administradora de Servicios de Saneamiento",
+    "col": "P99_04",
+    "desc_col": "Número de empresas / Junta Administradora de Servicios de Saneamiento",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_05",
+    "desc_q": "Número de empresas / Otro",
+    "col": "P99_05",
+    "desc_col": "Número de empresas / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C090",
+    "n_q": "P99_O",
+    "desc_q": "Número de empresas / Otro / Descripción",
+    "col": "P99_O",
+    "desc_col": "Número de empresas / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_100",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100",
+    "desc_q": "Las aguas servidas reciben tratamiento",
+    "col": "P100",
+    "desc_col": "Las aguas servidas reciben tratamiento",
+    "values": "1: Si recibe; 0: No recibe",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_01",
+    "desc_q": "Tipo de tratamiento que reciben las aguas servidas",
+    "col": "P100_01",
+    "desc_col": "Tipo de tratamiento que reciben las aguas servidas",
+    "values": "1: Lagunas facultativas; 2: Lagunas aireadas; 3: Lagunas anaerobias; 4: Lodos activados; 5: Tanque séptico; 6: Tanque imhoff; 7: Filtro biológico; 8: Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C091",
+    "n_q": "P100_O",
+    "desc_q": "Tipos de tratamiento / Otro / descripción",
+    "col": "P100_O",
+    "desc_col": "Tipos de tratamiento / Otro / descripción",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": null,
+    "desc_q": "Municipalidad informante",
+    "col": "VFI_101",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Si informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101",
+    "desc_q": "El distrito tiene sistema de desagüe",
+    "col": "P101",
+    "desc_col": "El distrito tiene sistema de desagüe",
+    "values": "1: Si tiene; 2. No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_01",
+    "desc_q": "El sistema de desagüe desemboca / Río",
+    "col": "P101_01",
+    "desc_col": "El sistema de desagüe desemboca / Río",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_02",
+    "desc_q": "El sistema de desagüe desemboca / Mar",
+    "col": "P101_02",
+    "desc_col": "El sistema de desagüe desemboca / Mar",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_03",
+    "desc_q": "El sistema de desagüe desemboca / Playa",
+    "col": "P101_03",
+    "desc_col": "El sistema de desagüe desemboca / Playa",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_04",
+    "desc_q": "El sistema de desagüe desemboca / Lago",
+    "col": "P101_04",
+    "desc_col": "El sistema de desagüe desemboca / Lago",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_05",
+    "desc_q": "El sistema de desagüe desemboca / Laguna de Oxidación",
+    "col": "P101_05",
+    "desc_col": "El sistema de desagüe desemboca / Laguna de Oxidación",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_06",
+    "desc_q": "El sistema de desagüe desemboca / Otro",
+    "col": "P101_06",
+    "desc_col": "El sistema de desagüe desemboca / Otro",
+    "values": "",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C092",
+    "n_q": "P101_O",
+    "desc_q": "El sistema de desagüe desemboca / Otro / Descripción",
+    "col": "P101_O",
+    "desc_col": "El sistema de desagüe desemboca / Otro / Descripción",
+    "values": "",
+    "value_pos": null
+  }
+]

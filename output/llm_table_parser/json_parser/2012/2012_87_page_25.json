@@ -1,0 +1,227 @@
+[
+  {
+    "cuadro": null,
+    "n_q": "P57_04",
+    "desc_q": "Documentos que establece el funcionamiento de la Biblioteca Municipal/Plan Estratégico del Municipio (PEM)",
+    "col": "P57_04",
+    "desc_col": "Documentos que establece el funcionamiento de la Biblioteca Municipal/Plan Estratégico del Municipio (PEM)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_05",
+    "desc_q": "Documentos que establece el funcionamiento de la Biblioteca Municipal/ Texto Único de Procedimientos Administrativos (TUPA)",
+    "col": "P57_05",
+    "desc_col": "Documentos que establece el funcionamiento de la Biblioteca Municipal/ Texto Único de Procedimientos Administrativos (TUPA)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": null,
+    "n_q": "P57_06",
+    "desc_q": "Documentos que establece el funcionamiento de la Biblioteca Municipal/ Plan Operativo Institucional (POI)",
+    "col": "P57_06",
+    "desc_col": "Documentos que establece el funcionamiento de la Biblioteca Municipal/ Plan Operativo Institucional (POI)",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "VFI_P58",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "VFI_P58",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58",
+    "desc_col": "La municipalidad administra infraestructura deportiva",
+    "values": "1: Si; 0: No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_01",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_01",
+    "desc_col": "Instalaciones deportivas / Estadios",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_02",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_02",
+    "desc_col": "Instalaciones deportivas / Complejos deportivos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_03",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_03",
+    "desc_col": "Instalaciones deportivas / Parques zonales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_04",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_04",
+    "desc_col": "Instalaciones deportivas / Losas multideportivas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_05",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_05",
+    "desc_col": "Instalaciones deportivas / Losas de fulbito",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_06",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_06",
+    "desc_col": "Instalaciones deportivas / Losas de básquet",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_07",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_07",
+    "desc_col": "Instalaciones deportivas / Losas de vóley",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_08",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_08",
+    "desc_col": "Instalaciones deportivas / Piscinas",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_09",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_09",
+    "desc_col": "Instalaciones deportivas / Gimnasio",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_10",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_10",
+    "desc_col": "Instalaciones deportivas / Coliseos deportivos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_11",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_11",
+    "desc_col": "Instalaciones deportivas / Otro",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C049",
+    "n_q": "P58_O",
+    "desc_q": "Infraestructura deportiva administrada por la municipalidad, 2011",
+    "col": "P58_O",
+    "desc_col": "Instalaciones deportivas / Otro / Descripción",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "VFI_P59",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "VFI_P59",
+    "desc_col": "Municipalidad informante",
+    "values": "1: Informó; 0: No informó",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "P59",
+    "desc_col": "La municipalidad administra locales para uso recreacional y cultural",
+    "values": "1: Tiene; 0: No tiene",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_L_01",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "P59_L_01",
+    "desc_col": "Número de locales / Teatros y teatrines",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_L_02",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "P59_L_02",
+    "desc_col": "Número de locales / Cines",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_L_03",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "P59_L_03",
+    "desc_col": "Número de locales / Museos",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_L_04",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "P59_L_04",
+    "desc_col": "Número de locales / Bibliotecas Municipales",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_L_05",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "P59_L_05",
+    "desc_col": "Número de locales / Casa de la cultura",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C050",
+    "n_q": "P59_L_06",
+    "desc_q": "Locales para uso recreacional y cultural administrados por la municipalidad, en el 2011",
+    "col": "P59_L_06",
+    "desc_col": "Número de locales / Otro",
+    "values": null,
+    "value_pos": null
+  }
+]

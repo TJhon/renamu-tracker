@@ -1,0 +1,137 @@
+[
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_4",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_4_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_4_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_4_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / ¿Por qué no tiene?",
+    "values": "Falta aprobar por el Concejo Municipal, En elaboración, Falta de recursos para su elaboración, Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_4_3_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Acondicionamiento Territorial de Nivel Provincial / ¿Por qué no tiene? / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_5",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Urbano",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_5_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Urbano / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_5_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Urbano / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_5_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Urbano / ¿Por qué no tiene?",
+    "values": "Falta aprobar por el Concejo Municipal, En elaboración, Falta de recursos para su elaboración, Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_5_3_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Plan de Desarrollo Urbano / ¿Por qué no tiene? / Especifique",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_6",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Esquema de Ordenamiento Urbano",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_6_1",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Esquema de Ordenamiento Urbano / Último año de publicación",
+    "values": null,
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_6_2",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Esquema de Ordenamiento Urbano / Incluye procesos de prevención y reducción del riesgo de desastres",
+    "values": "Sí, No",
+    "value_pos": 1
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_6_3",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Esquema de Ordenamiento Urbano / ¿Por qué no tiene?",
+    "values": "Falta aprobar por el Concejo Municipal, En elaboración, Falta de recursos para su elaboración, Otro",
+    "value_pos": null
+  },
+  {
+    "cuadro": "CUADRO_C05",
+    "n_q": "23",
+    "desc_q": "Municipalidades que tienen Instrumentos de gestión y desarrollo urbano y/o rural, 2019",
+    "col": "P23_6_3_O",
+    "desc_col": "Instrumentos de gestión y desarrollo urbano y/o rural que dispone / Esquema de Ordenamiento Urbano / ¿Por qué no tiene? / Especifique",
+    "values": null,
+    "value_pos": null
+  }
+]
