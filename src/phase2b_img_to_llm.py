@@ -2,8 +2,6 @@
 phase2b_img_to_llm.py — Fase 2b: Extraer metadatos de las imágenes PNG con Gemini.
 
 Lee de: {OUTPUT_ROOT}/files/{year}/{modulo}_pagina_{n}.png
-
-Migrado de google.generativeai (deprecado) a google.genai.
 """
 
 import time
