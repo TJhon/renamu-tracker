@@ -11,6 +11,8 @@ wheels/
 *.csv
 *.parquet
 output/*/*.jpg
+output/chroma/*
+.runner/
 .Rproj.user
 *.zip
 *.db
