@@ -2,8 +2,6 @@
 
 Pipeline para unificar y armonizar las encuestas **RENAMU** (Registro Nacional de Municipalidades del Perú) de múltiples años. La estructura de columnas cambia entre años: variables migran entre cuadros, cambian de nombre, se agregan o desagregan. El objetivo es un diccionario maestro longitudinal que permita comparar variables a lo largo del tiempo.
 
-> Publicación completa: [LinkedIn](https://www.linkedin.com/in/tjhon/)
-
 ---
 
 ## Resultados actuales
@@ -178,6 +176,7 @@ Ejecutar como script de Python directamente o importar sus funciones.
 Clasifica cada variable en **categoría** y **subcategoría** temática usando Qwen vía Dashscope.
 
 Tres prompts encadenados:
+
 1. **Batch inicial** (`PROMPT_CLASSIFY_BATCH`): clasifica lotes de hasta 80 descripciones del año 2025 de una sola vez
 2. **Categoría incremental** (`PROMPT_CLASSIFY_CATEGORIA`): para años anteriores, decide si usar una categoría existente o crear una nueva
 3. **Subcategoría** (`PROMPT_CLASSIFY_SUBCATEGORIA`): dentro de la categoría asignada, reutiliza subcategorías existentes o crea una nueva
@@ -191,11 +190,13 @@ Helpers reutilizables en `utils.py`: `get_unclassified_by_year`, `get_existing_c
 Construye el mapeo entre variables de distintos años usando **embeddings locales + LLM local**.
 
 Tecnologías:
+
 - **ChromaDB** como índice vectorial persistente
 - **Ollama** con modelo `nomic-embed-text` para embeddings
 - **Ollama** con modelo `qwen2.5:9b` (o similar) para ranking final cuando el embedding no es concluyente
 
 Flujo por variable:
+
 1. Año de referencia (2025) → indexado en ChromaDB
 2. Para cada año anterior: busca coincidencia exacta → si no, consulta embedding (top-5 candidatos)
 3. Si `similarity_score >= 0.92` → match automático sin LLM
@@ -213,5 +214,3 @@ MASTER_YEAR = 2025
 ### Fase 4a — Clasificación final y propagación (`phase4a.py`)
 
 Propaga categorías asignadas en años anteriores hacia variables aún sin clasificar, usando `desc_cuadro_pregunta` y `desc_columna` como pivotes.
-
-
