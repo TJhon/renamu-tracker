@@ -1,7 +1,9 @@
 """
-phase2b_img_to_llm.py — Fase 2b: Extraer metadatos de las imágenes PNG con Gemini.
+phase2b_img_to_llm.py — Fase 2b: Extraer metadatos de las imágenes PNG con modelos en cloud de qwen3.5.
 
 Lee de: {OUTPUT_ROOT}/files/{year}/{modulo}_pagina_{n}.png
+
+Los resulados de esta parte pueden diferenciarse ya que depende del resultado estadistico del LLM (no se coloco una semilla para que pueda reproducirse tal cual el resultado)
 """
 
 import time
