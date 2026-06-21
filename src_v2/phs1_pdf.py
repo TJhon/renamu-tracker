@@ -21,12 +21,18 @@ import pdfplumber
 from rich import print
 
 from src_v2.config import DATA_ROOT, OUTPUT_ROOT
+from src_v2.pdf_process.content_celdas import (
+    extract_large_text_lines,
+    fill_cells_content,
+)
+from src_v2.pdf_process.lines_horizontals import extract_hlines
+from src_v2.pdf_process.lines_verticals import extract_vlines
+from src_v2.pdf_process.tables import create_cells, extract_tables_lines
 from src_v2.utils import (
-    extract_vertical_edges,
     extract_year_module,
-    sort_hlines,
 )
 
+pd
 test_save = OUTPUT_ROOT / "test"
 test_save.mkdir(exist_ok=True, parents=True)
 print
@@ -36,26 +42,55 @@ pdf_paths = list(DATA_ROOT.rglob("*.pdf"))
 
 for pdf in pdf_paths:
     year, module = extract_year_module(pdf)
-
-    if int(year) not in list(range(2006, 2010)):
-        print(year)
-        continue
     pdf_open = pdfplumber.open(pdf)
     i = 1
-    for page in pdf_open.pages[:3]:
-        # lines = page.lines
-        verticals = extract_vertical_edges(page)
-        verticals = sort_hlines(verticals)
-        print(test_save / f"{year}_{module}_page_{i}.png")
-        print(pd.DataFrame(verticals).sort_values("top"))
-        im = page.to_image()
-        for v in verticals:
-            im.draw_line(
-                ((v["x"], v["top"]), (v["x"], v["bottom"])),
-                stroke="red",
-                stroke_width=2,
-            )
-        im.save(test_save / f"{year}_{module}_page_{i}.png", dpi=200)
+
+    for page in pdf_open.pages[:5]:
+        # if year != "2013":
+        #     continue
+        # if module != "86":
+        #     continue
+        if i != 0:
+            lines = extract_large_text_lines(page)
+            # s = [{k: v for k, v in d.items() if k != "chars"} for d in s]
+            print(lines)
+
+        verticals = extract_vlines(page)
+        if len(verticals) > 0:
+            hori = extract_hlines(page)
+            tables = extract_tables_lines(hori, verticals)
+            # print({"pdf": pdf, "page": i, "tables": tables})
+            r = create_cells(tables)
+            words = page.extract_words()
+
+            cells = fill_cells_content(r, words, 0.6)
+            # print(cells)
+
+        # for j, _r in enumerate(r):
+        #     # print(_r)
+        #     c = page.crop(_r.bbox)
+        #     im = c.to_image()
+        #     im.save(f"test/page_{i}_{j}.png", bits=780)
+        #     content = c.extract_text()
+        #     _r.content = content
+        #     _r.path = f"test/page_{i}_{j}.png"
+
+        # print(r)
+        # if i == 5:
+        #     s = page.extract_words()
+        # s = [{k: v for k, v in d.items() if k != "chars"} for d in s]
+        # print(s[-30:])
+        # # if len(hori) > 1:
+        # print({"pdf": pdf, "ho": hori})
+
+        # content = extract_table_content(page, verticals, horizontals, snap_tol=5)
+
+        # for row in content:
+        #     row["page"] = i
+        #     row["year"] = year
+        #     row["module"] = module
+        #     # print(row)
+
         i += 1
 
 # dc = fitz.open(
