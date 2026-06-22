@@ -234,17 +234,12 @@ def sort_vlines(horizontals, TOL=1.5):
         g = g.sort_values("y")
 
         ys = g["y"].tolist()
-        counts = g["count"].tolist()
-
-        sources = [item for sublist in g["sources"] for item in sublist]
 
         results.append(
             Horizontals(
                 left=left,
                 right=right,
                 ys=ys,
-                # counts=counts,
-                # sources=sources,
                 y_min=min(ys),
                 y_max=max(ys),
             )
@@ -255,5 +250,5 @@ def sort_vlines(horizontals, TOL=1.5):
 
 def extract_hlines(page):
     horizontals = extract_horizontal_edges(page, 3)
-    # horizontals = sort_vlines(horizontals)
+
     return horizontals

@@ -1,33 +1,19 @@
-"""
-Docstring for src_v2.phs1_pdf
-Extraer el contenido de los pdf
-
-por el momento ya tenemos las lineas verticales que definen a las columnas como tambien las coordenadas de inicio de tabla y final de tabla vertical.
-
-propuestas siguientes
-- obtener las lineas horizontales
-- tomar el ultimo par de coordenadas para cada 'tabla' y ver entre linea superior e inferior y dentro de los margenes de la tabla hay texto
-    - si no hay texto entonces 'dibujar la linea hasta la 4 x de derecha a izquierda (de la tabla) luego extraer el contenido del nombre de columnas y descripcion podemos estar casi 100% seguros que hace referencia a su descripcion y column ya que no es una variable categorica
-    - mover esto a una tabla independiente, y limpiar el texto de descripcion de columna  y las variables categoricas dejar con x pero con su metadata de texto
-    - luego para las variables categoricas solo
-    - y de lo anterior reemplazar el texto con 'x' para posterior debuging
-
-
-
-"""
+from pathlib import Path
 
 import pandas as pd
 import pdfplumber
+import pdfplumber.page
 from rich import print
+from tqdm import tqdm
 
 from src_v2.config import DATA_ROOT, OUTPUT_ROOT
 from src_v2.pdf_process.content_celdas import (
-    extract_large_text_lines,
+    extract_headers,
     fill_cells_content,
 )
 from src_v2.pdf_process.lines_horizontals import extract_hlines
 from src_v2.pdf_process.lines_verticals import extract_vlines
-from src_v2.pdf_process.tables import create_cells, extract_tables_lines
+from src_v2.pdf_process.tables import create_cells_ref, extract_tables_lines
 from src_v2.utils import (
     extract_year_module,
 )
@@ -37,96 +23,148 @@ test_save = OUTPUT_ROOT / "test"
 test_save.mkdir(exist_ok=True, parents=True)
 print
 
+main_info = OUTPUT_ROOT / "landing"
+tables_dir = (
+    main_info / "tables"
+)  # solo las columnas col_name, col_description y values
+metadata_dir = (
+    main_info / "cuadros"
+)  # todo lo demas como cuadro, numero de pregunta, description de cuadro y posicion de headers
+
+
 pdf_paths = list(DATA_ROOT.rglob("*.pdf"))
 
 
-for pdf in pdf_paths:
+for pdf in tqdm(sorted(pdf_paths)):
     year, module = extract_year_module(pdf)
     pdf_open = pdfplumber.open(pdf)
-    i = 1
 
-    for page in pdf_open.pages[:5]:
-        # if year != "2013":
-        #     continue
-        # if module != "86":
-        #     continue
-        if i != 0:
-            lines = extract_large_text_lines(page)
-            # s = [{k: v for k, v in d.items() if k != "chars"} for d in s]
-            print(lines)
+    for i, page in enumerate(pdf_open.pages):
+        metadata_df = pd.DataFrame(
+            {"year": [year], "module": [module], "page": [i + 1]}
+        )
 
-        verticals = extract_vlines(page)
-        if len(verticals) > 0:
-            hori = extract_hlines(page)
-            tables = extract_tables_lines(hori, verticals)
-            # print({"pdf": pdf, "page": i, "tables": tables})
-            r = create_cells(tables)
-            words = page.extract_words()
+        # solo test: para ver si recoge correctamente las celdas
+        output_file = f"test/debug/{year}_{module}_{Path(pdf).stem}_page_{i + 1}.png"
+        out_table = tables_dir / year / f"{year}_{module}_page_{i + 1}.csv"
+        out_table1 = tables_dir / year / f"{year}_{module}_page_{i + 1}_q.csv"
+        out_h2 = tables_dir / year / f"{year}_{module}_page_{i + 1}_h2.csv"
+        out_lines = tables_dir / year / f"{year}_{module}_page_{i + 1}_lines.csv"
+        out_meta = tables_dir / year / f"{year}_{module}_page_{i + 1}_meta.csv"
+        for out in [out_table, out_meta]:
+            out.parent.mkdir(parents=True, exist_ok=True)
 
-            cells = fill_cells_content(r, words, 0.6)
-            # print(cells)
+        if out_table.exists():
+            continue
 
-        # for j, _r in enumerate(r):
-        #     # print(_r)
-        #     c = page.crop(_r.bbox)
-        #     im = c.to_image()
-        #     im.save(f"test/page_{i}_{j}.png", bits=780)
-        #     content = c.extract_text()
-        #     _r.content = content
-        #     _r.path = f"test/page_{i}_{j}.png"
+        # headers
+        h2 = extract_headers(page)
+        df_h2 = pd.DataFrame()
+        if h2:
+            df_h2 = pd.DataFrame(h2).sort_values("ymin")
+            # df_h2.to_csv(out_h2, index=False)
+        # lineas verticales que representan a las divisiones de columnas
+        try:
+            verticals = extract_vlines(page)
+        except:
+            print(f"{year}_{module}_page_{i + 1}")
+            continue
 
-        # print(r)
-        # if i == 5:
-        #     s = page.extract_words()
-        # s = [{k: v for k, v in d.items() if k != "chars"} for d in s]
-        # print(s[-30:])
-        # # if len(hori) > 1:
-        # print({"pdf": pdf, "ho": hori})
+        if len(verticals) == 0:  # omitimos paginas sin contenido
+            continue
 
-        # content = extract_table_content(page, verticals, horizontals, snap_tol=5)
+        # lineas horizontales
+        horizontals = extract_hlines(page)
+        # identificacion de las tablas
+        tables = extract_tables_lines(horizontals, verticals)
+        #
+        cells, hlines = create_cells_ref(tables)
+        df_meta = pd.DataFrame()
+        if hlines:
+            df_lines = pd.DataFrame(hlines).rename(columns={"y": "ymin"})
+            if h2:
+                df_meta = pd.concat([df_lines, df_h2], ignore_index=True).sort_values(
+                    "ymin"
+                )
+                # df_lines.to_csv(out_lines, index=False)
+                # df_meta.to_csv(out_meta, index=False)
+        words = page.extract_words()
 
-        # for row in content:
-        #     row["page"] = i
-        #     row["year"] = year
-        #     row["module"] = module
-        #     # print(row)
+        cells_content = fill_cells_content(cells, words)
+        # contenido por celdas
+        cells_content_dict = [c.to_dict() for c in cells_content]
+        id_pos = ["ymin", "ymax"]
+        # solo el nombre de columnas/descripcion y valores
+        df = pd.DataFrame(cells_content_dict)
+        # df_types = df.groupby("type")
+        cols_main = ["col_name", "col_desc"]
+        df_cols = (
+            df[df["type"].isin(cols_main)]
+            .pivot_table(
+                index=id_pos, columns="type", values="content", aggfunc="first"
+            )
+            .reset_index()
+        ).sort_values("ymin")
+        df_cols.columns.name = None
+        cols_dict = df_cols.to_dict("records")
 
-        i += 1
+        values = (
+            df[df["type"].isin(["value"])]
+            .drop(columns="type")
+            .sort_values("ymin")
+            .to_dict("records")
+        )
+        tol = 1
+        for row in cols_dict:
+            top_y, bottom_y = row["ymax"] - tol, row["ymin"] + tol
+            row_values = []
+            for v in values:
+                top_y_v, bottom_y_v = v["ymax"], v["ymin"]
+                if top_y < top_y_v and bottom_y > bottom_y_v:
+                    row_values.append(v["content"])
+            row["values"] = "\n".join(row_values)
 
-# dc = fitz.open(
-#     r"E:\All\carlos\data\renamu\2007\207-Modulo87\Diccionario Datos Modulo87_2007.pdf"
-# )
+        df_cols = (
+            pd.DataFrame(cols_dict).sort_values("ymin").reset_index(names="id_row_page")
+        )
 
-# # nuevo pdf
-# page_number = 3
-# new_pdf = fitz.open()
+        q_dict = (
+            df[df["type"].isin(["q_desc"])]
+            .drop(columns="type")
+            .sort_values("ymin")
+            .to_dict("records")
+        )
+        tol = 1
+        qs = []
+        for row_q in q_dict:
+            top_y, bottom_y = row_q["ymax"] - tol, row_q["ymin"] + tol
+            ref = df_cols.query("@top_y < ymax").query("@bottom_y > ymin")[
+                "id_row_page"
+            ]
+            ref = ref.to_list()
 
-# # copiar página
-# new_pdf.insert_pdf(dc, from_page=page_number, to_page=page_number)
+            row_q["id_row_page"] = ref
+            q = (
+                pd.DataFrame(row_q)
+                .reset_index(names="id_q")
+                .explode("id_row_page")
+                .drop(columns=["ymin", "ymax"])
+                .rename(columns={"content": "desc_q"})
+            )
+            qs.append(q)
+        q_df = df_cols.copy()
+        if len(qs) > 0:
+            pass
+            # q_df = pd.concat(qs, ignore_index=True)
+            # q_df = df_cols.merge(q_df)
+        r = (
+            pd.concat([q_df, df_meta], ignore_index=True)
+            .assign(year=year, module=module, page=i + 1)
+            .sort_values("ymin")
+        )
 
-# # guardar
-# new_pdf.save(test_save / "pagina_3.pdf")
+        r.to_csv(out_table, index=False)
+        # print(df_content)
+        # Path("test/debug").mkdir(exist_ok=True)
 
-
-# new_pdf.close()
-# dc.close()
-
-# doc = pdfplumber.open(test_save / "pagina_3.pdf")
-# p = doc.pages[0]
-# # lines = p.lines
-# im = p.to_image()
-# im.draw_lines(p.lines)
-# im.draw_lines(p.rects)
-# im.draw_lines(p.curves)
-# im.save(test_save / "pagina_3.png")
-# selecte_pdf = pdf_paths[12]
-# print(selecte_pdf)
-
-# pdf_open = pdfplumber.open(selecte_pdf)
-# page = pdf_open.pages[2]
-
-# lines = page.lines
-# im = page.to_image()
-# im.draw_lines(lines)
-# print(test_save / "sample.png")
-# im.save(test_save / "sample.png")
+        # save_cells_debug(page=page, cells=cells, output_path=output_file)

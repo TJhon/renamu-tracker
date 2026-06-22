@@ -16,14 +16,11 @@ class Verticals:
     x_col_begin: float
 
 
-def extract_vertical_edges(page, tolerance=3):
+def extract_vertical_edges(page, tolerance=1, y_gap_tolerance=5):
     """
-    Extrae líneas verticales desde:
-    - lines
-    - rects
-    - curves
-
-    y fusiona coordenadas X cercanas.
+    y_gap_tolerance: brecha máxima permitida entre el bottom de un segmento
+    y el top del siguiente para considerarlos parte del mismo cluster vertical.
+    Si la brecha es mayor, son clusters separados aunque las X coincidan.
     """
 
     verticals = []
@@ -78,21 +75,42 @@ def extract_vertical_edges(page, tolerance=3):
             )
 
     # =========================
-    # MERGE X CERCANAS
+    # MERGE X CERCANAS — con verificación de solapamiento vertical
     # =========================
+
+    # Ordenar por x primero, luego por top
+    sorted_v = sorted(verticals, key=lambda z: (z["top"], z["x"]))
 
     clusters = []
 
-    for v in sorted(verticals, key=lambda z: z["x"]):
-        if not clusters:
-            clusters.append([v])
-            continue
+    for v in sorted_v:
+        placed = False
 
-        prev_x = np.mean([k["x"] for k in clusters[-1]])
+        # Intentar agregar al cluster existente más cercano en X que también solape en Y
+        for cluster in reversed(
+            clusters
+        ):  # reversed para probar el más reciente primero
+            prev_x = np.mean([k["x"] for k in cluster])
 
-        if abs(v["x"] - prev_x) <= tolerance:
-            clusters[-1].append(v)
-        else:
+            if abs(v["x"] - prev_x) > tolerance:
+                continue  # demasiado lejos en X
+
+            # Verificar solapamiento o cercanía vertical con ALGÚN miembro del cluster
+            cluster_top = min(k["top"] for k in cluster)
+            cluster_bottom = max(k["bottom"] for k in cluster)
+
+            # ¿El nuevo segmento solapa o está cerca verticalmente del cluster?
+            overlaps_y = (
+                v["top"] <= cluster_bottom + y_gap_tolerance
+                and v["bottom"] >= cluster_top - y_gap_tolerance
+            )
+
+            if overlaps_y:
+                cluster.append(v)
+                placed = True
+                break
+
+        if not placed:
             clusters.append([v])
 
     merged = []
@@ -108,10 +126,11 @@ def extract_vertical_edges(page, tolerance=3):
             }
         )
 
+    # print(merged)
     return merged
 
 
-def sort_hlines(verticals, TOL=1.5):
+def sort_hlines(verticals, TOL=1.5) -> list[Verticals]:
     # ---------------------------------------------------
     # 1. Detectar tops agrupados con tolerancia
     # ---------------------------------------------------

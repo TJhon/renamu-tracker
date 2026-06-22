@@ -1,5 +1,7 @@
 from collections import defaultdict
 
+import numpy as np
+
 
 def fill_cells_content(cells, words, tolerance=0.6):
     """
@@ -39,17 +41,14 @@ def fill_cells_content(cells, words, tolerance=0.6):
 
         for _, line_words in sorted(lines.items()):
             line_words.sort(key=lambda x: x["x0"])
-            text_lines.append(" ".join(w["text"] for w in line_words))
+            text_lines.append(";+;".join(w["text"] for w in line_words))
 
-        cell.content = "\n".join(text_lines)
+        cell.content = ";-;-;".join(text_lines)
 
     return cells
 
 
-import statistics
-
-
-def extract_large_text_lines(page):
+def extract_headers(page):
     lines = page.extract_text_lines()
 
     enriched = []
@@ -75,7 +74,7 @@ def extract_large_text_lines(page):
         enriched.append(
             {
                 "text": line.get("text", ""),
-                "bottom": line.get("bottom"),
+                "ymin": line.get("bottom"),
                 "size": avg_size_line,
                 "bold": is_bold,
             }
@@ -85,11 +84,11 @@ def extract_large_text_lines(page):
         return []
 
     # 2. promedio global de la página
-    page_avg_size = statistics.mean([l["size"] for l in enriched])
+    page_avg_size = np.mean([l["size"] for l in enriched])
 
     # 3. filtro estricto
     result = [
-        {"text": l["text"], "bottom": l["bottom"]}
+        {"h2": l["text"], "ymin": float(np.round(l["ymin"], 2))}
         for l in enriched
         if l["bold"] and l["size"] > page_avg_size
     ]
