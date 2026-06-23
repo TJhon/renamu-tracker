@@ -41,9 +41,9 @@ def fill_cells_content(cells, words, tolerance=0.6):
 
         for _, line_words in sorted(lines.items()):
             line_words.sort(key=lambda x: x["x0"])
-            text_lines.append(";+;".join(w["text"] for w in line_words))
+            text_lines.append(" ".join(w["text"] for w in line_words))
 
-        cell.content = ";-;-;".join(text_lines)
+        cell.content = "\n".join(text_lines)
 
     return cells
 
