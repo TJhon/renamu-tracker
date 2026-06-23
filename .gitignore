@@ -6,11 +6,12 @@ dist/
 wheels/
 *.egg-info
 
+
 # Virtual environments
 .venv
 *.csv
 *.parquet
-output/*/*.jpg
+output/**/*
 output/chroma/*
 .runner/
 .Rproj.user
